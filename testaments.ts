@@ -1,5 +1,12 @@
 import { LaLibroDeMormono } from "./Mormono";
-export const testaments = [LaLibroDeMormono] as const;
+import { MalnovaTestimento } from "./MalnovaTestimento";
+import { NovaTestimento } from "./NovaTestimento";
+
+export const testaments = [
+  MalnovaTestimento,
+  NovaTestimento,
+  LaLibroDeMormono,
+] as const;
 
 export const testamentTitles = testaments.map(
   (testament) => testament.testamentTitle,

@@ -1,0 +1,22 @@
+export const chapter40 = {
+  chapterTitle: "Ĉaptiro 40",
+  summary: "",
+  verses: [
+    "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, post kiam Nebuzaradan, estro de la korpogardistoj, forliberigis lin el Rama, kiam li prenis lin, ligitan per ĉenoj, inter ĉiuj kaptitoj de Jerusalem kaj Judujo, forkondukataj en Babelon.",
+    "Kaj la estro de la korpogardistoj prenis Jeremian, kaj diris al li:La Eternulo, via Dio, eldiris ĉi tiun malfeliĉon kontraŭ ĉi tiu loko;",
+    "kaj la Eternulo tion venigis, kaj faris, kiel Li diris, ĉar vi pekis antaŭ la Eternulo kaj ne aŭskultis Lian voĉon; pro tio fariĝis al vi tia afero.",
+    "Kaj nun jen hodiaŭ mi liberigis vin de la katenoj, kiuj estis sur viaj manoj; se plaĉas al vi iri kun mi en Babelon, iru, kaj mi zorgos pri vi; se ne plaĉas al vi iri kun mi en Babelon, ne faru tion; vidu, la tuta lando estas antaŭ vi; kien plaĉas al vi iri, tien iru.",
+    "(Dum li ankoraŭ ne foriris,)Iru al Gedalja, filo de AĤikam, filo de Ŝafan, kiun la reĝo de Babel starigis kiel estron super la urboj de Judujo, kaj restu kun li inter la popolo; aŭ kien plaĉas al vi iri, tien iru. Kaj la estro de la korpogardistoj donis al li manĝaĵon kaj donacon kaj forliberigis lin.",
+    "Kaj Jeremia venis al Gedalja, filo de AĤikam, en Micpan, kaj ekloĝis kun li inter la popolo, kiu restis en la lando.",
+    "Kiam ĉiuj militestroj, kiuj estis sur la kampo, ili kaj iliaj homoj, aŭdis, ke la reĝo de Babel starigis Gedaljan, filon de AĤikam, kiel estron de la lando, kaj ke li metis sub lian regadon la virojn, virinojn, infanojn,  kaj malriĉulojn de la lando, kiuj ne estis transloĝigitaj en Babelon,",
+    "tiam ili venis al Gedalja en Micpan:Iŝmael, filo de Netanja, JoĤanan kaj Jonatan, filoj de KareaĤ, Seraja, filo de TanĤumet, la filoj de Efaj, Netofaano, kaj Jezanja, filo de MaaĤatano, ili kaj iliaj homoj.",
+    "Kaj Gedalja, filo de AĤikam, filo de Ŝafan, ĵuris al ili kaj al iliaj homoj, dirante:Ne timu servi al la ĥaldeoj, restu en la lando kaj servu al la reĝo de Babel, kaj tiam estos al vi bone.",
+    "Mi restas en Micpa, por ke mi povu stariĝi antaŭ la vizaĝo de la ĥaldeoj, kiuj venos al ni; sed vi enkolektu vinon kaj somerajn fruktojn kaj oleon kaj metu en viajn vazojn, kaj restu en viaj urboj, kiujn vi okupis.",
+    "Ankaŭ ĉiuj Judoj, kiuj estis ĉe la Moabidoj, ĉe la Amonidoj, ĉe la Edomidoj, kaj en ĉiuj landoj, aŭdis, ke la reĝo de Babel restigis parton de la Judoj, kaj ke li starigis kiel reganton super ili Gedaljan, filon de AĤikam, filo de Ŝafan.",
+    "Kaj ĉiuj tiuj Judoj revenis de ĉiuj lokoj, kien ili estis dispelitaj, kaj venis en la landon Judan al Gedalja en Micpan, kaj ili enkolektis tre multe da vino kaj da someraj fruktoj.",
+    "Sed JoĤanan, filo de KareaĤ, kaj ĉiuj militestroj, kiuj estis sur la kampo, venis al Gedalja en Micpan.",
+    "Kaj ili diris al li:Ĉu vi scias, ke Baalis, reĝo de la Amonidoj, sendis Iŝmaelon, filon de Netanja, por ke li mortigu vin? Sed Gedalja, filo de AĤikam, ne kredis al ili.",
+    "Tiam JoĤanan, filo de KareaĤ, diris sekrete al Gedalja en Micpa jene:Permesu, ke mi iru kaj mortigu Iŝmaelon, filon de Netanja, kaj neniu tion scios; kial li vin mortigu, ke ĉiuj Judoj, kiuj kolektiĝis al vi, diskuru, kaj la restaĵo de la Judoj pereu?",
+    "Sed Gedalja, filo de AĤikam, diris al JoĤanan, filo de KareaĤ:Ne faru tion, ĉar malveron vi parolas pri Iŝmael.",
+  ],
+} as const satisfies Chapter;

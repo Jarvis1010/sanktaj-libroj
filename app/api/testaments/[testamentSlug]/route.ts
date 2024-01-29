@@ -26,7 +26,7 @@ export async function GET(
     books: maybeTestament.books.map((book) => ({
       bookSlug: stringToSlug(book.bookTitle),
       bookTitle: book.bookTitle,
-      bookTitleShort: book.booktTitleShort,
+      bookTitleShort: book.bookTitleShort,
     })),
   };
 

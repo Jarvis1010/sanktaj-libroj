@@ -6,7 +6,7 @@ type Chapter = {
 
 type Book = {
   bookTitle: string;
-  booktTitleShort: string;
+  bookTitleShort: string;
   subtitle: string;
   summary: string;
   chapters: Chapter[];
