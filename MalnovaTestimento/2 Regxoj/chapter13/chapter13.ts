@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "En la dudek-tria jaro de Joaŝ, filo de AĤazja, reĝo de Judujo, JehoaĤaz, filo de Jehu, fariĝis reĝo super Izrael en Samario por la daŭro de dek sep jaroj.",

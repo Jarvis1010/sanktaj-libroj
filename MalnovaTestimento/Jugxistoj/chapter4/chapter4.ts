@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj la Izraelidoj denove faris malbonon antaŭ la okuloj de la Eternulo, kiam Ehud mortis.",

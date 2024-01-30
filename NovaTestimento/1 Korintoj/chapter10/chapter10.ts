@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Ĉar mi ne volas, fratoj, ke vi ne sciu, ke niaj prapatroj estis ĉiuj sub la nubo, kaj ĉiuj trairis la maron;",

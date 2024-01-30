@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Jeremia koncerne la senpluvecon.",

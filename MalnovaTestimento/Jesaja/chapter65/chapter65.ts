@@ -1,5 +1,5 @@
 export const chapter65 = {
-  chapterTitle: "Ĉaptiro 65",
+  chapterTitle: "Ĉapitro 65",
   summary: "",
   verses: [
     "Mi estis preta respondi al tiuj, kiuj tion ne petis; Mi estis trovebla por tiuj, kiuj Min ne serĉis; al popolo, kiu ne vokis Mian nomon, Mi diris:Jen Mi estas, jen Mi estas.",

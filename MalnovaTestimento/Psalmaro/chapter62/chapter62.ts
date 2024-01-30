@@ -1,5 +1,5 @@
 export const chapter62 = {
-  chapterTitle: "Ĉaptiro 62",
+  chapterTitle: "Ĉapitro 62",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Jedutun. Psalmo de David. Nur al Dio esperas mia animo; De Li venas mia savo.",

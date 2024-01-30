@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "En tiu tempo, diras la Eternulo, Mi estos Dio de ĉiuj familioj de Izrael, kaj ili estos Mia popolo.",

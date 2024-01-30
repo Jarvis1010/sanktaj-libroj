@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj unu el la sep anĝeloj, havantaj la sep pelvojn, venis kaj parolis kun mi, dirante:Venu ĉi tien, mi montros al vi la juĝon de la granda malĉastistino, kiu sidas sur multaj akvoj;",

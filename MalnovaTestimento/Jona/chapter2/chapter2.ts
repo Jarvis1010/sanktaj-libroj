@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj Jona ekpreĝis al la Eternulo, sia Dio, el la interno de la fiŝo.",

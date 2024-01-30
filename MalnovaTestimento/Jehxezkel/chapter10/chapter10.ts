@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj mi vidis:jen sur la firmamento, kiu estis super la kapoj de la keruboj, io simila al safiro, aspektanta kiel bildo de trono, aperis super ili.",

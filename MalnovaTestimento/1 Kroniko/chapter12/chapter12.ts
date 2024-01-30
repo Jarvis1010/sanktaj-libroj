@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Jen estas tiuj, kiuj venis al David en Ciklagon, kiam li estis ankoraŭ kaŝita antaŭ Saul, filo de Kiŝ; ili ankaŭ estis inter la herooj, helpantoj en la milito;",

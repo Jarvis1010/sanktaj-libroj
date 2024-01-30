@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "David prikalkulis la popolon, kiu estis kun li, kaj starigis super ĝi milestrojn kaj centestrojn.",

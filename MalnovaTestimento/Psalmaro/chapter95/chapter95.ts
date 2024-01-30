@@ -1,5 +1,5 @@
 export const chapter95 = {
-  chapterTitle: "Ĉaptiro 95",
+  chapterTitle: "Ĉapitro 95",
   summary: "",
   verses: [
     "Venu, ni kantu al la Eternulo; Ni ĝoje kriu al la rifuĝejo de nia helpo.",

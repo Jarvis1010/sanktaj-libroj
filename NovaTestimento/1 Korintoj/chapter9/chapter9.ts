@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Ĉu mi ne estas libera? ĉu mi ne estas apostolo? ĉu mi ne vidis nian Sinjoron Jesuo? ĉu vi ne estas mia laboraĵo en la Sinjoro?",

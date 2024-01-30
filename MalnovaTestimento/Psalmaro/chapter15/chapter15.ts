@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Psalmo de David. Ho Eternulo, kiu povas gasti en Via tendo? Kiu povas loĝi sur Via sankta monto?",

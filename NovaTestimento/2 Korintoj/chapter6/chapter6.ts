@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj kunlaborante kun li, ni petegas ankaŭ, ke vi ne vane akceptu la gracon de Dio",

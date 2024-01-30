@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Nomo bona estas pli preferinda, ol granda riĉeco; Kaj bona estimo, ol arĝento kaj oro.",

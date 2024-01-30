@@ -1,5 +1,5 @@
 export const chapter55 = {
-  chapterTitle: "Ĉaptiro 55",
+  chapterTitle: "Ĉapitro 55",
   summary: "",
   verses: [
     "Ho vi, ĉiuj soifantoj, iru al la akvo, kaj vi, kiuj ne havas monon; iru, aĉetu, kaj manĝu; iru, aĉetu sen mono kaj sen pago vinon kaj lakton.",

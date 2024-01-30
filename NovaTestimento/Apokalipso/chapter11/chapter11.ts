@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj estis donita al mi kano, simila al bastono; kaj iu diris:Leviĝu, kaj mezuru la templon de Dio, kaj la altaron, kaj la adorantojn en ĝi.",

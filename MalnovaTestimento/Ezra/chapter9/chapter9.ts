@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kiam ĉio tio estis finita, aliris al mi la estroj, kaj diris:La popolo Izraela kaj la pastroj kaj la Levidoj ne apartigis sin de la popoloj de la landoj koncerne iliajn abomenindaĵojn, de la Kanaanidoj, ĥetidoj, Perizidoj, Jebusidoj, Amonidoj, Moabidoj, Egiptoj, kaj Amoridoj;",

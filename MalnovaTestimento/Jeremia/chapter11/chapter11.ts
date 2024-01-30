@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo:",

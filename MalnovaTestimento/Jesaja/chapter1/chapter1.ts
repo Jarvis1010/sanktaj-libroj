@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vizio de Jesaja, filo de Amoc, kiun li vidis pri Judujo kaj Jerusalem, en la tempo de Uzija, Jotam, AĤaz, kaj ĥizkija, reĝoj de Judujo.",

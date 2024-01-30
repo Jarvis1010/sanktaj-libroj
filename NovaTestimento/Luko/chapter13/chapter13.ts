@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kaj ĉeestis en tiu sama tempo iuj, kiuj rakontis al li pri tiuj Galileanoj, kies sangon Pilato miksis kun iliaj oferaĵoj.",

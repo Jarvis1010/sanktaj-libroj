@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj Li diris al mi:Ho filo de homo, stariĝu sur viaj piedoj, kaj Mi parolos al vi.",

@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Jam alproksimiĝis la festo de macoj, kiu estas nomata la Pasko.",

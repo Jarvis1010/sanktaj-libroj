@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj post du tagoj estis la Pasko kaj la festo de macoj; kaj la ĉefpastroj kaj skribistoj serĉis, kiamaniere ili povu per ruzo lin kapti kaj mortigi;",

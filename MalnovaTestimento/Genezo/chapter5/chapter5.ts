@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Jen estas la libro de naskoj de Adam. Kiam Dio kreis la homon, Li faris lin laŭ la bildo de Dio;",

@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "La saĝo konstruis sian domon, Ĉarpentis ĝiajn sep kolonojn.",

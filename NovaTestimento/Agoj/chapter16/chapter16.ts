@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj li venis al Derbe kaj Listra; kaj jen tie estis unu disĉiplo, nomata Timoteo, filo de kredanta Judino kaj de Greka patro.",

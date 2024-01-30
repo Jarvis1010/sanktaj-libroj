@@ -1,5 +1,5 @@
 export const chapter55 = {
-  chapterTitle: "Ĉaptiro 55",
+  chapterTitle: "Ĉapitro 55",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por kordaj instrumentoj. Instruo de David. Aŭskultu, ho Dio, mian preĝon,   Kaj ne kaŝu Vin de mia petego.",

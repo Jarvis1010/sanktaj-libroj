@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Kaj plue parolis Elihu, kaj diris:",

@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "La vino estas blasfemanto, ebriiga trinkaĵo estas sovaĝa; Kaj kiu delogiĝas per ili, tiu ne estas prudenta.",

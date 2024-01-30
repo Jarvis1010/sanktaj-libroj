@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Kiu havas dispremitajn testikojn aŭ detranĉitan seksan membron, tiu ne povas eniri en la komunumon de la Eternulo.",

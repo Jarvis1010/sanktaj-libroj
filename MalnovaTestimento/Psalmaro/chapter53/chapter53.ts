@@ -1,5 +1,5 @@
 export const chapter53 = {
-  chapterTitle: "Ĉaptiro 53",
+  chapterTitle: "Ĉapitro 53",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por maĤalato. Instruo de David. La sensaĝulo diris en sia koro:Dio ne ekzistas. Ili sentaŭgiĝis, kaj abomeniĝis en la malvirto;   Ekzistas neniu, kiu faras bonon.",

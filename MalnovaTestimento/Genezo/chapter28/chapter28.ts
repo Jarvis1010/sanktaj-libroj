@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Tiam Isaak alvokis Jakobon kaj benis lin, kaj ordonis al li, dirante: Ne prenu edzinon el la filinoj Kanaanaj.",

@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Post tio mi aŭdis kvazaŭ grandan voĉon de granda homamaso en la ĉielo, dirantan:Haleluja! La savo kaj la gloro kaj la potenco apartenas al nia Dio;",

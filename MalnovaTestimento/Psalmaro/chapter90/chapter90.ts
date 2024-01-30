@@ -1,5 +1,5 @@
 export const chapter90 = {
-  chapterTitle: "Ĉaptiro 90",
+  chapterTitle: "Ĉapitro 90",
   summary: "",
   verses: [
     "Preĝo de Moseo, homo de Dio. Mia Sinjoro, Vi estis por ni loĝejo De generacio al generacio.",

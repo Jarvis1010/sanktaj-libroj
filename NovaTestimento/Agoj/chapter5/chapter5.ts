@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Sed unu viro, nomata Ananias, kun sia edzino Sapfira vendis posedaĵon,",

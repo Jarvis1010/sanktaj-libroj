@@ -1,5 +1,5 @@
 export const chapter108 = {
-  chapterTitle: "Ĉaptiro 108",
+  chapterTitle: "Ĉapitro 108",
   summary: "",
   verses: [
     "Kanto. Psalmo de David. Fortika estas mia koro, ho Dio; Mi kantos kaj gloros kun mia honoro.",

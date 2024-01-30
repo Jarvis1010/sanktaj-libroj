@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por basuloj. Psalmo de David. Helpu, ho Eternulo, ĉar malaperis piuloj  Kaj maloftiĝis fideluloj inter la homidoj.",

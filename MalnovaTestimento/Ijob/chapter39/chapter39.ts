@@ -1,5 +1,5 @@
 export const chapter39 = {
-  chapterTitle: "Ĉaptiro 39",
+  chapterTitle: "Ĉapitro 39",
   summary: "",
   verses: [
     "Ĉu vi scias la tempon, en kiu naskas la ibeksoj sur la rokoj? Ĉu vi observis la akuŝiĝon de la cervinoj?",

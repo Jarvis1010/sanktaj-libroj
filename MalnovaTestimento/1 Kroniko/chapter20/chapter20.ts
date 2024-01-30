@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Post paso de unu jaro, en la tempo, kiam la reĝoj eliras milite, Joab kondukis la militistaron kaj komencis ruinigi la landon de la Amonidoj, kaj li venis kaj eksieĝis Raban. Sed David restis en Jerusalem. Kaj Joab venkobatis Raban kaj detruis ĝin.",

@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kiu apartiĝas, tiu serĉas sian volupton Kaj iras kontraŭ ĉiu saĝa konsilo.",

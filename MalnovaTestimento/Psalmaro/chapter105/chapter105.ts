@@ -1,5 +1,5 @@
 export const chapter105 = {
-  chapterTitle: "Ĉaptiro 105",
+  chapterTitle: "Ĉapitro 105",
   summary: "",
   verses: [
     "Gloru la Eternulon, voku Lian nomon; Sciigu inter la popoloj Liajn farojn.",

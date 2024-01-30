@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kaj jen homo de Dio venis el Judujo laŭ ordono de la Eternulo en Bet- Elon, kiam Jerobeam staris sur la altaro, por incensi.",

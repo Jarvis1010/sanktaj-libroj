@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Jen estas la generaciaro de Esav, kiu ankaŭ estas Edom.",

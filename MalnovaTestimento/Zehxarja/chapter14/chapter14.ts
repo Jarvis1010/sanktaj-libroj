@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Jen de la Eternulo venos tago, kiam oni dividos vian havaĵon meze de vi.",

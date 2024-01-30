@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "kaj ĝi staris sur la sablo de la maro. Kaj mi vidis beston suprenirantan el la maro, havantan dek kornojn kaj sep kapojn, kaj sur siaj kornoj dek diademojn, kaj sur siaj kapoj nomojn de blasfemo.",

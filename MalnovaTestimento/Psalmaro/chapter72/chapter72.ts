@@ -1,5 +1,5 @@
 export const chapter72 = {
-  chapterTitle: "Ĉaptiro 72",
+  chapterTitle: "Ĉapitro 72",
   summary: "",
   verses: [
     "Pri Salomono. Ho Dio, Vian juĝon donu al la reĝo Kaj Vian justecon al la reĝido.",

@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. La ĉieloj rakontas la gloron de Dio, Kaj la farojn de Liaj manoj raportas la ĉiela firmaĵo.",

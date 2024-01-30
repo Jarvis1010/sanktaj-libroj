@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj Dario bonvolis starigi super sia regno cent dudek satrapojn, por administri lian tutan regnon;",

@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Aŭskultu, kion diras la Eternulo:Leviĝu, havu juĝan disputon kun la montoj, kaj la montetoj aŭdu vian voĉon.",

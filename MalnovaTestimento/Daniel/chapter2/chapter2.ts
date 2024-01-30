@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "En la dua jaro de la reĝado de Nebukadnecar aperis al Nebukadnecar sonĝoj; kaj konfuziĝis lia spirito, kaj li ne povis dormi.",

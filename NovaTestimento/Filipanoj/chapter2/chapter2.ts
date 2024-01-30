@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Se do en Kristo ekzistas ia konsolo, ia simpatio de amo, ia kunuleco de la Spirito, ia korfavoro kaj kompato,",

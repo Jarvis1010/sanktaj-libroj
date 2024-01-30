@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Kaj tiuj tri viroj ĉesis respondi al Ijob, ĉar li opiniis sin prava.",

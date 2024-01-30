@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Ho malsaĝaj Galatoj, kiu vin ensorĉis? vin, antaŭ kies okuloj Kristo Jesuo estis publike prezentita krucumita.",

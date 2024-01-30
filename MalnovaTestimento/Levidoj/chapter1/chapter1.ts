@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "La Eternulo vokis Moseon, kaj ekparolis al li el la tabernaklo de kunveno, dirante:",

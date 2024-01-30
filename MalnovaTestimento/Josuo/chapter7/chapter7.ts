@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Sed la Izraelidoj pekis kontraŭ la anatemo:AĤan, filo de Karmi, filo de Zabdi, filo de ZeraĤ, el la tribo de Jehuda, prenis el la anatemitaĵo, kaj la kolero de la Eternulo ekflamis kontraŭ la Izraelidoj.",

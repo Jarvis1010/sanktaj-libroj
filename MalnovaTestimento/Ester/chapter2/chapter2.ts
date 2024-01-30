@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Post tiu afero, kiam kvietiĝis la kolero de la reĝo AĤaŝveroŝ, li rememoris pri Vaŝti, kaj pri tio, kion ŝi faris kaj kio estis dekretita pri ŝi.",

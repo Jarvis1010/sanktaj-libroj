@@ -1,5 +1,5 @@
 export const chapter59 = {
-  chapterTitle: "Ĉaptiro 59",
+  chapterTitle: "Ĉapitro 59",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Al-aŝĤet. Verko de David, kiam Saul sendis, ke oni gardu la domon, por lin mortigi. Savu min de miaj malamikoj, mia Dio; Defendu min kontraŭ tiuj, kiuj leviĝis kontraŭ mi.",

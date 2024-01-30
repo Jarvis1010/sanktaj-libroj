@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Oni sciigis al Joab:Jen la reĝo ploras kaj malĝojas pri Abŝalom.",

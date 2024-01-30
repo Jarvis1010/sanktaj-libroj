@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Kaj Moseo kunvenigis la tutan komunumon de la Izraelidoj, kaj diris al ili:Jen kion la Eternulo ordonis al vi fari:",

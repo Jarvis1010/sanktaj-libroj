@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Pro tio mi, Paŭlo, malliberulo de Kristo Jesuo por vi nacianoj,",

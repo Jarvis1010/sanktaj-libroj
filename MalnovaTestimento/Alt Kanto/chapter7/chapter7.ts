@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kiel belaj estas viaj paŝoj en sandaloj, ho filino de princo! La svingado de viaj femuroj estas kiel ĉenringoj,   Majstre ellaboritaj.",

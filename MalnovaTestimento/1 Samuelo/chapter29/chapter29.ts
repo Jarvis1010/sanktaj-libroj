@@ -1,5 +1,5 @@
 export const chapter29 = {
-  chapterTitle: "Ĉaptiro 29",
+  chapterTitle: "Ĉapitro 29",
   summary: "",
   verses: [
     "Dume la Filiŝtoj kolektis sian tutan militistaron en Afek; kaj la Izraelidoj staris tendare apud la fonto, kiu estas en Jizreel.",

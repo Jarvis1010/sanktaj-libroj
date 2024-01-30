@@ -1,5 +1,5 @@
 export const chapter42 = {
-  chapterTitle: "Ĉaptiro 42",
+  chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
     "Ijob respondis al la Eternulo, kaj diris:",

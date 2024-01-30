@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Revenu, ho Izrael, al la Eternulo, via Dio; ĉar vi falis pro viaj malbonagoj.",

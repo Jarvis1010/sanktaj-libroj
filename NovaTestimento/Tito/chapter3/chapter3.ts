@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Memorigu ilin, ke ili submetiĝu al regantoj kaj estroj, ke ili estu obeemaj, pretaj por ĉiu bona laboro,",

@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj li faris kupran altaron, havantan la longon de dudek ulnoj, la larĝon de dudek ulnoj, kaj la alton de dek ulnoj.",

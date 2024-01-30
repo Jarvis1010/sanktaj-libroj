@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "En tiu horo la disĉiploj venis al Jesuo, dirante:Kiu do estas la plej granda en la regno de la ĉielo?",

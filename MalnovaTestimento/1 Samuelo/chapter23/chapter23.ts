@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Oni raportis al David la sciigon:Jen la Filiŝtoj militas kontraŭ Keila kaj prirabas la draŝejojn.",

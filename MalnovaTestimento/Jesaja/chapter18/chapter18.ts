@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Ve al la lando flanke ombrata, kiu troviĝas transe de la riveroj Etiopaj,",

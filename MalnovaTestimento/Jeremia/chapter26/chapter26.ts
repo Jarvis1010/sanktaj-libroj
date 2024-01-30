@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "En la komenco de la reĝado de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis jena vorto de la Eternulo:",

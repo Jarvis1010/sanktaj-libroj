@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Kaj Moseo ekparolis al la tribestroj de la Izraelidoj, dirante:Jen kion ordonis la Eternulo:",

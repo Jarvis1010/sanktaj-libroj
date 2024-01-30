@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Tiam Jesuo estis kondukita supren de la Spirito en la dezerton, por esti tentata de la diablo.",

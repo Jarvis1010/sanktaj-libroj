@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Ĉar vi mem scias, fratoj, ke nia alveno al vi ne montriĝis senfrukta;",

@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "De David. Al Vi, ho Eternulo, mi levas mian animon.",

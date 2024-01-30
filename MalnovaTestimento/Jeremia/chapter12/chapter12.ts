@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Vi estos prava, ho Eternulo, kiam mi procesos kun Vi; tamen mi parolos kun Vi pri justeco:kial la vojo de malpiuloj estas sukcesa kaj ĉiuj perfiduloj vivas trankvile?",

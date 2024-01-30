@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj la unuan tagon de la semajno, ĉe frua tagiĝo, ili venis al la tombo, alportante la aromaĵojn, kiujn ili preparis.",

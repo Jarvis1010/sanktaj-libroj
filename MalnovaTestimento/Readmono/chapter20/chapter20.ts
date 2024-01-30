@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kiam vi iros milite kontraŭ vian malamikon kaj vi vidos ĉevalojn kaj ĉarojn kaj pli multe da homoj ol ĉe vi, ne timu ilin; ĉar kun vi estas la Eternulo, via Dio, kiu elkondukis vin el la lando Egipta.",

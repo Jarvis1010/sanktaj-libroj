@@ -1,5 +1,5 @@
 export const chapter47 = {
-  chapterTitle: "Ĉaptiro 47",
+  chapterTitle: "Ĉapitro 47",
   summary: "",
   verses: [
     "Jen estas la vorto de la Eternulo, kiu aperis al la profeto Jeremia pri la Filiŝtoj, antaŭ ol Faraono venkobatis Gazan:",

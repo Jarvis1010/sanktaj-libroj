@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj vidinte la homamasojn, li supreniris sur la monton, kaj kiam li sidiĝis, liaj disĉiploj venis al li;",

@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Mi do diras:Ĉu Dio forpuŝis Sian popolon? Nepre ne! Ĉar ankaŭ mi estas Izraelido, el la idoj de Abraham, el la tribo de Benjamen.",

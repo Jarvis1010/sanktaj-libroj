@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "La Filiŝtoj prenis la keston de Dio kaj portis ĝin el Eben-Ezer en Aŝdodon.",

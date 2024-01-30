@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj Samuel diris al Saul:Min sendis la Eternulo, por sanktolei vin kiel reĝon super Lia popolo, super Izrael; aŭskultu do la voĉon de la vortoj de la Eternulo.",

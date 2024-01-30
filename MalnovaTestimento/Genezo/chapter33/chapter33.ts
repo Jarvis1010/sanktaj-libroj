@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Jakob levis siajn okulojn, kaj vidis, ke jen venas Esav kaj kun li kvarcent homoj. Tiam li dividis la infanojn de Lea kaj de RaĤel kaj de la du sklavinoj.",

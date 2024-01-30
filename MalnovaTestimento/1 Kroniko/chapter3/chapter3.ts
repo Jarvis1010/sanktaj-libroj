@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Jen estas la filoj de David, kiuj naskiĝis al li en ĥebron:la unuenaskito Amnon, de la Jizreelanino AĤinoam; la dua estis Daniel, de la Karmelanino Abigail;",

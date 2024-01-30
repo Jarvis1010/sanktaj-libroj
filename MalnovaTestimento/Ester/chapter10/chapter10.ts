@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "La reĝo AĤaŝveroŝ metis sub tributon la teron kaj la insulojn de la maro.",

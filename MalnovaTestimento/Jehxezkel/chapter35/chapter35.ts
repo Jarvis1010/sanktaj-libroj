@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",

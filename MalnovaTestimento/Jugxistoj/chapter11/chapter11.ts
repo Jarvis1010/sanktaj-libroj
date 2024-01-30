@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "JiftaĤ, la Gileadano, estis heroa militisto, sed li estis filo de malĉastulino. De Gilead naskiĝis JiftaĤ.",

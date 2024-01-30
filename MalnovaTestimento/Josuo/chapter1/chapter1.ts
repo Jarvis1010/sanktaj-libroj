@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Post la morto de Moseo, servanto de la Eternulo, la Eternulo diris al Josuo, filo de Nun, helpanto de Moseo, jene:",

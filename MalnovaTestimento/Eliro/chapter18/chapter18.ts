@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Jitro, la Midjana pastro, la bopatro de Moseo, aŭdis ĉion, kion la Eternulo faris al Moseo kaj al Sia popolo Izrael, ke la Eternulo elkondukis Izraelon el Egiptujo.",

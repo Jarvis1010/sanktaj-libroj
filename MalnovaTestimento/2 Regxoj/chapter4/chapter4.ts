@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Unu virino el la edzinoj de la profetidoj plendis al Eliŝa, dirante:Via servanto, mia edzo, mortis; kaj vi scias, ke via servanto estis timanta la Eternulon; nun la pruntedoninto venis, por preni miajn du infanojn kiel sklavojn por si.",

@@ -1,5 +1,5 @@
 export const chapter126 = {
-  chapterTitle: "Ĉaptiro 126",
+  chapterTitle: "Ĉapitro 126",
   summary: "",
   verses: [
     "Kanto de suprenirado. Kiam la Eternulo revenigis la forkaptitojn al Cion, Tiam ni estis kiel sonĝantoj.",

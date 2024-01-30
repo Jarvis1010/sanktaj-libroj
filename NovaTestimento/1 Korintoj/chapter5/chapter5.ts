@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Efektive oni raportas, ke estas ĉe vi malĉasteco, kaj tia malĉasteco, kia ne ekzistas eĉ inter la nacianoj, ke iu havas la edzinon de sia patro.",

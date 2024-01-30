@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "En la sepa jaro de Jehu Jehoaŝ fariĝis reĝo, kaj kvardek jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Cibja, el Beer-Ŝeba.",

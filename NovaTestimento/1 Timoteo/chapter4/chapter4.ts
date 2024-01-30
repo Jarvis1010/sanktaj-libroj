@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Sed la Spirito klare diras, ke en la venontaj tempoj kelkaj defalos de la fido, atentante delogantajn spiritojn kaj doktrinojn de demonoj,",

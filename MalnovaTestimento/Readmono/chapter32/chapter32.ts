@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Atentu, ĉielo, kaj mi parolos; Kaj aŭdu la tero la vortojn de mia buŝo.",

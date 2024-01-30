@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "En la dudek-kvara tago de tiu monato kunvenis la Izraelidoj, fastante, en sakaĵoj kaj kun tero sur la kapoj.",

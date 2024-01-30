@@ -1,5 +1,5 @@
 export const chapter62 = {
-  chapterTitle: "Ĉaptiro 62",
+  chapterTitle: "Ĉapitro 62",
   summary: "",
   verses: [
     "Pro Cion mi ne silentos, kaj pro Jerusalem mi ne haltos, ĝis ĝia praveco eliĝos kiel brilo kaj ĝia savo kiel brulanta torĉo.",

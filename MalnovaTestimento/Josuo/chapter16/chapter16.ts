@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj la loto por la Jozefidoj donis:de Jordan kontraŭ JeriĤo, ĉe la akvo de JeriĤo, orienten, la dezerton, kiu etendiĝas de JeriĤo ĝis la monto Bet-El.",

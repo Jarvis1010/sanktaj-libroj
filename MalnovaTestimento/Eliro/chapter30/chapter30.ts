@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Kaj faru altaron, por fumigi incenson; el akacia ligno faru ĝin.",

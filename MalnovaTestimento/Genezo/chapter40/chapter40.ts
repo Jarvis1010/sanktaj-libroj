@@ -1,5 +1,5 @@
 export const chapter40 = {
-  chapterTitle: "Ĉaptiro 40",
+  chapterTitle: "Ĉapitro 40",
   summary: "",
   verses: [
     "Post tiuj okazintaĵoj la vinisto de la reĝo de Egiptujo kaj la bakisto kulpiĝis antaŭ sia sinjoro, la reĝo de Egiptujo.",

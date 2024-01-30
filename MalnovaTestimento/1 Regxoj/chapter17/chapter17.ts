@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj Elija, la Teŝebano, el la loĝantoj de Gilead, diris al AĤab:Kiel vivas la Eternulo, Dio de Izrael, antaŭ kiu mi staras, ne estos en ĉi tiuj jaroj roso nek pluvo, krom en la okazo, se mi tion diros.",

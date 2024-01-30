@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Post tio mi rigardis, kaj jen pordo malfermita en la ĉielo, kaj la unua voĉo, kiun mi aŭdis, estis voĉo kvazaŭ de trumpeto parolanta kun mi, dirante:Suprenvenu ĉi tien, kaj mi montros al vi tion, kio devas okazi poste.",

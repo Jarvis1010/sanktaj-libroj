@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Tiam Samuel prenis kruĉeton kun oleo kaj verŝis sur lian kapon, kaj kisis lin, kaj diris:Vidu, la Eternulo sanktoleis vin kiel ĉefon super Sia heredaĵo.",

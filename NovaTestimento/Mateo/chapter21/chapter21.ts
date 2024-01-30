@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj kiam ili alproksimiĝis al Jerusalem, kaj venis al Betfage, al la monto Olivarba, tiam Jesuo sendis du disĉiplojn,",

@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia pri la tuta Juda popolo en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judujo, tio estas en la unua jaro de Nebukadnecar, reĝo de Babel,",

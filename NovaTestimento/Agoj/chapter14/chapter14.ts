@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj en Ikonio ili ambaŭ eniris en la sinagogon de la Judoj, kaj tiel parolis, ke granda amaso da Judoj kaj Grekoj kredis.",

@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "En lia tempo venis Nebukadnecar, reĝo de Babel; kaj Jehojakim estis lia subulo dum tri jaroj, sed poste li defalis de li.",

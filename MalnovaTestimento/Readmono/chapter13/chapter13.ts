@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Se aperos inter vi profeto aŭ sonĝisto kaj prezentos al vi signon aŭ miraklon,",

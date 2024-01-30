@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "En la dek-sepa jaro de PekaĤ, filo de Remalja, ekreĝis AĤaz, filo de Jotam, reĝo de Judujo.",

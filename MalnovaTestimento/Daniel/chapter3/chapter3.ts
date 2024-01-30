@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "La reĝo Nebukadnecar faris oran statuon, kiu havis la alton de sesdek ulnoj kaj la larĝon de ses ulnoj; kaj li starigis ĝin en la valo Dura en la lando Babela.",

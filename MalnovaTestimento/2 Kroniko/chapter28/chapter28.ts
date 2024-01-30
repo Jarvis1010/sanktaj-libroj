@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "La aĝon de dudek jaroj havis AĤaz, kiam li fariĝis reĝo, kaj dek ses jarojn li reĝis en Jerusalem; kaj li ne agadis bone antaŭ la Eternulo, kiel lia patro David.",

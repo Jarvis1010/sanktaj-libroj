@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Post tio Jesuo denove sin montris al la disĉiploj apud la maro de Tiberias; kaj li montris sin jene.",

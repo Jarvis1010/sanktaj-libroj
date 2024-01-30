@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Aŭskultu ĉi tiun vorton, kiun la Eternulo eldiris pri vi, ho Izraelidoj, pri la tuta gento, kiun Mi elkondukis el la lando Egipta:",

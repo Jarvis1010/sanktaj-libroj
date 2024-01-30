@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj Josuo, filo de Nun, sendis el Ŝitim du esplorrigardantojn sekrete, dirinte:Iru, pririgardu la landon kaj JeriĤon. Kaj ili iris, kaj venis en la domon de malĉastistino, kies nomo estis RaĤab, kaj ili dormis tie.",

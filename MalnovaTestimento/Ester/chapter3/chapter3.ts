@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Post tiuj okazintaĵoj la reĝo AĤaŝveroŝ eminentigis Hamanon, filon de Hamedata, la Agagidon, altigis lin kaj starigis lian seĝon super ĉiuj princoj, kiuj estis ĉe li.",

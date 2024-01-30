@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kaj li parolis al ili parabolon pri tio, ke oni devas ĉiam preĝi kaj ne laciĝi,",

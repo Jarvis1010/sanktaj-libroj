@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kiam Sanbalat aŭdis, ke ni konstruas la muregon, li koleris kaj havis grandan ĉagrenon, kaj li mokis la Judojn.",

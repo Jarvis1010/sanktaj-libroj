@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kiam Sanbalat, Tobija, la Arabo Geŝem, kaj niaj ceteraj malamikoj aŭdis, ke mi rekonstruis la muregon kaj ke ne restis en ĝi difektoj (kvankam ĝis tiu tempo mi ankoraŭ ne starigis pordojn en la pordegoj),",

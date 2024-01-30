@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Ne fanfaronu pri la morgaŭa tago; Ĉar vi ne scias, kion naskos la tago.",

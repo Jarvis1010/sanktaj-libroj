@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Poste Jesuo foriris trans la maron de Galileo, tio estas de Tiberias.",

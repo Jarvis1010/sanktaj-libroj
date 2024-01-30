@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Se iu pekos per tio, ke li aŭdos ĵuron kaj estos atestanto, aŭ ke li vidos aŭ scios, sed ne sciigos kaj portos sur si la pekon;",

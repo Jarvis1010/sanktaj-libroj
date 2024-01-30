@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Ekparolis Cofar, la Naamano, kaj diris:",

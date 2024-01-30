@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Ĉu ni denove komencas nin mem rekomendi? aŭ ĉu ni bezonas, kiel iuj, leterojn rekomendajn al vi, aŭ de vi?",

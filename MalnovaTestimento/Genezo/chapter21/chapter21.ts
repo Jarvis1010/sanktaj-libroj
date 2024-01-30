@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj la Eternulo rememoris Saran, kiel Li diris, kaj la Eternulo faris al Sara, kiel Li parolis.",

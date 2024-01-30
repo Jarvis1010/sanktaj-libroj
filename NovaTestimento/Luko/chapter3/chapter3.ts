@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "En la dek-kvina jaro de la regado de Tiberio Cezaro, kiam Pontio Pilato estis provincestro de Judujo, kaj Herodo estis tetrarĤo de Galileo, kaj lia frato Filipo tetrarĤo de la regiono Iturea kaj TraĤonitis, kaj Lisanio tetrarĤo de Abilene,",

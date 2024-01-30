@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Sentencoj de Salomono, filo de David, reĝo de Izrael:",

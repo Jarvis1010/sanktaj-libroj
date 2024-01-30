@@ -1,5 +1,5 @@
 export const chapter41 = {
-  chapterTitle: "Ĉaptiro 41",
+  chapterTitle: "Ĉapitro 41",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Feliĉa estas tiu, kiu atentas senhavulon: En tago de mizero savos lin la Eternulo.",

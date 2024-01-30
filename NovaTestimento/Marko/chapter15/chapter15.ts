@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Tuj matene la ĉefpastroj, farinte interkonsilon kun la pliaĝuloj kaj skribistoj kaj la tuta sinedrio, ligis Jesuon kaj forkondukis lin kaj transdonis lin al Pilato.",

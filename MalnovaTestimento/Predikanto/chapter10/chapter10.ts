@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Venenaj muŝoj putrigas kaj haladzigas la oleon de parfumisto; pli ŝatata ol saĝo kaj honoro ofte estas malgranda malsaĝaĵo.",

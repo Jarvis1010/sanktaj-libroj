@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "La aĝon de ok jaroj havis Joŝija, kiam li fariĝis reĝo, kaj tridek unu jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jedida, filino de Adaja, el Bockat.",

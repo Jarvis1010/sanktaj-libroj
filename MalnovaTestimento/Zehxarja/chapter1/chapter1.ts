@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "En la oka monato, en la dua jaro de Dario, aperis vorto de la Eternulo al la profeto ZeĤarja, filo de BereĤja, filo de Ido, dirante:",

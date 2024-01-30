@@ -1,5 +1,5 @@
 export const chapter43 = {
-  chapterTitle: "Ĉaptiro 43",
+  chapterTitle: "Ĉapitro 43",
   summary: "",
   verses: [
     "Kiam Jeremia finis antaŭ la tuta popolo la raportadon pri ĉiuj vortoj de la Eternulo, ilia Dio, pri ĉiuj vortoj, kun kiuj la Eternulo, ilia Dio, sendis lin al ili,",

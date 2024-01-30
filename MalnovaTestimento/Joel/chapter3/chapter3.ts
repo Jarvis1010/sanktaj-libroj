@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Ĉar jen en tiuj tagoj kaj en tiu tempo, kiam Mi revenigos la forkaptitojn de Judujo kaj de Jerusalem,",

@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al MiĤa, la Moreŝetano, en la tempo de Jotam, AĤaz, kaj ĥizkija, reĝoj de Judujo, kaj kiun li viziis pri Samario kaj Jerusalem.",

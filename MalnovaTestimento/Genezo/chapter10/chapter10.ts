@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Jen estas la generaciaro de la filoj de Noa: Ŝem, ĥam, kaj Jafet. Kaj naskiĝis al ili filoj post la diluvo.",

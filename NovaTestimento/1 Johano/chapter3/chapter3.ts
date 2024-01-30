@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Rigardu, kian amon la Patro donis al ni, ke ni estas nomataj infanoj de Dio; kaj tiaj ni estas. Pro tio la mondo nin ne konas, ĉar ĝi Lin ne konis.",

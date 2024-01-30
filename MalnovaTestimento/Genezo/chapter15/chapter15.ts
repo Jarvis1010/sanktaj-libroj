@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Post tiuj fariĝoj la Eternulo diris al Abram en vizio jene: Ne timu, Abram, Mi estas via ŝildo; via rekompenco estas tre granda.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Ne riproĉu maljunulon, sed konsilu lin, kiel patron; la pli junajn virojn, kiel fratojn;",

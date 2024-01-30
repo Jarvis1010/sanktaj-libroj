@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Ho Eternulo, Vi estas mia Dio; mi gloros Vin, mi laŭdos Vian nomon; ĉar Vi faris miraklon; decidoj antikvaj fariĝis efektivaĵoj kaj veraĵoj.",

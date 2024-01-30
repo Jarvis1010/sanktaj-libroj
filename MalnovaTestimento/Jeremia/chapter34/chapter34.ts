@@ -1,5 +1,5 @@
 export const chapter34 = {
-  chapterTitle: "Ĉaptiro 34",
+  chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, kiam Nebukadnecar, reĝo de Babel, kaj lia tuta militistaro, kaj ĉiuj regnoj de la tero, kiuj estis sub la regado de lia mano, kaj ĉiuj popoloj militis kontraŭ Jerusalem kaj kontraŭ ĉiuj ĝiaj urboj:",

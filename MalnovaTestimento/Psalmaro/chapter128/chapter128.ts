@@ -1,5 +1,5 @@
 export const chapter128 = {
-  chapterTitle: "Ĉaptiro 128",
+  chapterTitle: "Ĉapitro 128",
   summary: "",
   verses: [
     "Kanto de suprenirado. Feliĉa estas tiu, kiu timas la Eternulon Kaj iras laŭ Liaj vojoj.",

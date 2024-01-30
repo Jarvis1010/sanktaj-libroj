@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj Li vokis al miaj oreloj per laŭta voĉo, dirante:Alproksimiĝu la punantoj de la urbo, kaj ĉiu havu en sia mano sian pereigilon.",

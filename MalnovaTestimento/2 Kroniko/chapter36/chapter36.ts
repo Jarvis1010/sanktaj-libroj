@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "La popolo de la lando prenis JehoaĤazon, filon de Joŝija, kaj faris lin reĝo anstataŭ lia patro en Jerusalem.",

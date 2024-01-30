@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kaj li komencis paroli al ili per paraboloj. Vinberĝardenon plantis unu viro, kaj ĉirkaŭmetis plektobarilon, kaj fosis vinpremejon, kaj konstruis turon, kaj luigis ĝin al kultivistoj, kaj forvojaĝis.",

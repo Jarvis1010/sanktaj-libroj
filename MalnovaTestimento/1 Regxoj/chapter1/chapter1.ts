@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "La reĝo David maljuniĝis kaj atingis profundan aĝon; kaj oni kovris lin bone per vestoj, sed li ne povis varmiĝi.",

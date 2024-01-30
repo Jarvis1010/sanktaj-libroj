@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj mi aŭdis grandan voĉon el la templo, dirantan al la sep anĝeloj:Iru, kaj elverŝu sur la teron la sep pelvojn de la kolero de Dio.",

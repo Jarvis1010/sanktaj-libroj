@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "De kie militoj kaj de kie bataloj inter vi? ĉu ne de viaj voluptoj, militantaj en viaj membroj?",

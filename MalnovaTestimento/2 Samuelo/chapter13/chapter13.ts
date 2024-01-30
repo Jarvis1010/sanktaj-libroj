@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Poste okazis jeno:Abŝalom, filo de David, havis belan fratinon, kies nomo estis Tamar; ŝin ekamis Amnon, filo de David.",

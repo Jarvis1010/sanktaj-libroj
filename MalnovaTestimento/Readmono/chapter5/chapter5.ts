@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj Moseo kunvokis ĉiujn Izraelidojn, kaj diris al ili:Aŭskultu, ho Izrael, la leĝojn kaj la regulojn, kiujn mi diras en viajn orelojn hodiaŭ, kaj lernu ilin kaj observu plenumi ilin.",

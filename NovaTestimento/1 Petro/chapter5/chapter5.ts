@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "La presbiterojn do inter vi mi admonas, estante kunpresbitero kaj atestanto de la suferoj de Kristo kaj partoprenanto en la malkaŝota gloro:",

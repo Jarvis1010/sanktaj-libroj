@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Sed la Eternulo diris al Moseo:Vidu, mi faris vin dio por Faraono; kaj via frato Aaron estos via profeto.",

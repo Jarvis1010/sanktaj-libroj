@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kial la Plejpotenculo ne destinis tempojn, Kaj Liaj konantoj ne vidas Liajn tagojn?",

@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Sed eĉ la unua interligo havis ordonojn pri Diservado, kaj sanktejon mondan.",

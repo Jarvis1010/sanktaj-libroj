@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "En la kvara jaro de la reĝo Dario aperis vorto de la Eternulo al ZeĤarja, en la kvara tago de la naŭa monato, tio estas de Kislev;",

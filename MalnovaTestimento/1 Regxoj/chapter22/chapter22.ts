@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Pasis tri jaroj, kaj estis nenia milito inter Sirio kaj Izrael.",

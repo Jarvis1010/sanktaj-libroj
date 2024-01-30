@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Ĉu iu el vi, havante aferon kontraŭ sia proksimulo, kuraĝas procesi antaŭ la malpiuloj, kaj ne antaŭ la sanktuloj?",

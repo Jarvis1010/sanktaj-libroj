@@ -1,5 +1,5 @@
 export const chapter130 = {
-  chapterTitle: "Ĉaptiro 130",
+  chapterTitle: "Ĉapitro 130",
   summary: "",
   verses: [
     "Kanto de suprenirado. El profundo mi vokas Vin, ho Eternulo.",

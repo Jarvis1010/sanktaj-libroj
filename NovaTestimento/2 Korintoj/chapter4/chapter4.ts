@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Pro tio, ke ni havas ĉi tiun administradon, kiel ni ricevis kompaton, ni ne senkuraĝiĝas;",

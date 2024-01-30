@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "AbimeleĤ, filo de Jerubaal, iris en ŜeĤemon, al la fratoj de sia patrino, kaj ekparolis al ili kaj al la tuta familio de la domo de sia patrinpatro jene:",

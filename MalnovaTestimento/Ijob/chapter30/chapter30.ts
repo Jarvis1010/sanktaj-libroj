@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Sed nun ridas pri mi homoj pli junaj ol mi, Kies patrojn mi ne volus starigi kun la hundoj de miaj ŝafaroj;",

@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Kaj laboros Becalel kaj Oholiab kaj ĉiuj kompetentuloj, en kiujn la Eternulo enmetis saĝon kaj prudenton, por ke ili sciu fari ĉiun laboron por la servado en la sanktejo, laŭ ĉio, kion ordonis la Eternulo.",

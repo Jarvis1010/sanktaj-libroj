@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Joab, filo de Ceruja, rimarkis, ke la koro de la reĝo plifavoriĝis por Abŝalom.",

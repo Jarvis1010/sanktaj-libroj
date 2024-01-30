@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Ni do timu, ke, kiam al ni restas promeso veni en Lian ripozejon, iu el vi eble ŝajne malatingos ĝin.",

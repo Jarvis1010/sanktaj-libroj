@@ -1,5 +1,5 @@
 export const chapter34 = {
-  chapterTitle: "Ĉaptiro 34",
+  chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
     "Alproksimiĝu, popoloj, por aŭskulti; kaj atentu, ho gentoj; aŭskultu la tero, kaj ĉio, kio ĝin plenigas, la mondo kaj ĉiuj ĝiaj produktoj.",

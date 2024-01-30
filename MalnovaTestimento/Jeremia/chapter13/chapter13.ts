@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Tiele diris al mi la Eternulo:Iru, aĉetu al vi tolan zonon kaj metu ĝin sur viajn lumbojn, sed en akvon ĝin ne metu.",

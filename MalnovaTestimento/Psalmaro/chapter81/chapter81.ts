@@ -1,5 +1,5 @@
 export const chapter81 = {
-  chapterTitle: "Ĉaptiro 81",
+  chapterTitle: "Ĉapitro 81",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por la gitito. De Asaf. Laŭte kantu al Dio, nia forto; Ĝoje kriu al la Dio de Jakob.",

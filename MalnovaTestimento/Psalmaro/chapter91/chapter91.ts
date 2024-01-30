@@ -1,5 +1,5 @@
 export const chapter91 = {
-  chapterTitle: "Ĉaptiro 91",
+  chapterTitle: "Ĉapitro 91",
   summary: "",
   verses: [
     "Kiu loĝas sub la ŝirmo de la Plejaltulo, Tiu ripozas en la ombro de la Plejpotenculo.",

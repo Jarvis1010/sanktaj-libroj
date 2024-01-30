@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Post tio okazis, ke David venkobatis la Filiŝtojn kaj humiligis ilin, kaj David prenis la ĉefurbon el la manoj de la Filiŝtoj.",

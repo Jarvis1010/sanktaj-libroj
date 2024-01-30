@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "De Benjamen naskiĝis:Bela, lia unuenaskito, Aŝbel, la dua, AĤraĤ, la tria;",

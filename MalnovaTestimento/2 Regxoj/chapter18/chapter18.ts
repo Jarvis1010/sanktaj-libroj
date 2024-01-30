@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "En la tria jaro de Hoŝea, filo de Ela, reĝo de Izrael, ekreĝis ĥizkija, filo de AĤaz, reĝo de Judujo.",

@@ -1,5 +1,5 @@
 export const chapter40 = {
-  chapterTitle: "Ĉaptiro 40",
+  chapterTitle: "Ĉapitro 40",
   summary: "",
   verses: [
     "En la dudek-kvina jaro de nia forkaptiteco, en la komenco de la jaro, en la deka tago de la monato, en la dek-kvara jaro post la disbato de la urbo, ĝuste en tiu tago aperis super mi la mano de la Eternulo kaj venigis min tien.",

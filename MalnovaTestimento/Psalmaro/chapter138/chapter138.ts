@@ -1,5 +1,5 @@
 export const chapter138 = {
-  chapterTitle: "Ĉaptiro 138",
+  chapterTitle: "Ĉapitro 138",
   summary: "",
   verses: [
     "De David. Mi gloras Vin el mia tuta koro; Antaŭ la dioj mi Vin prikantas.",

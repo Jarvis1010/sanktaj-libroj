@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Kaj dum Apolos estis en Korinto, Paŭlo, trapasinte la supran regionon, venis al Efeso, kaj trovinte iujn disĉiplojn,",

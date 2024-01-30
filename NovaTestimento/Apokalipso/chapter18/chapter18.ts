@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Post tio mi vidis alian anĝelon, malsuprenirantan el la ĉielo, havantan grandan aŭtoritaton; kaj la tero lumiĝis per lia gloro.",

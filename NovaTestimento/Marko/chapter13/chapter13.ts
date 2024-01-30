@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kaj dum li eliris el la templo, unu el liaj disĉiploj diris al li:Majstro, jen kiaj ŝtonoj kaj kiaj konstruaĵoj!",

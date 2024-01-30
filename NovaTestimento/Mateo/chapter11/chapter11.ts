@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj kiam Jesuo finis siajn ordonojn al siaj dek du disĉiploj, li foriris de tie, por instrui kaj prediki en iliaj urboj.",

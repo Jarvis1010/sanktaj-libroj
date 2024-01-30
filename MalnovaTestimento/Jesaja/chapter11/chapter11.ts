@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Eliros markoto el la trunko de Jiŝaj, kaj branĉo elkreskos el ĝiaj radikoj.",

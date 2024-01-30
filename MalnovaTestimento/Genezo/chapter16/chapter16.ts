@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj Saraj, la edzino de Abram, ne naskis al li; sed ŝi havis sklavinon, Egiptinon, kies nomo estis Hagar.",

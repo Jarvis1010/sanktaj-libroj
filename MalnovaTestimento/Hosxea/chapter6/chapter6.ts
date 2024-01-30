@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Ni iru, ni revenu al la Eternulo; ĉar Li disŝiris, sed Li ankaŭ resanigos nin, Li frapis, kaj Li ankaŭ bandaĝos niajn vundojn.",

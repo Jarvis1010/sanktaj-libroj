@@ -1,5 +1,5 @@
 export const chapter53 = {
-  chapterTitle: "Ĉaptiro 53",
+  chapterTitle: "Ĉapitro 53",
   summary: "",
   verses: [
     "Kiu kredus al tio, kion ni aŭdis? kaj super kiu malkaŝiĝis la brako de la Eternulo?",

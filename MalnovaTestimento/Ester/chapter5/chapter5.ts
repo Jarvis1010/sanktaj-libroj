@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "En la tria tago Ester vestis sin reĝe, kaj stariĝis sur la interna korto de la reĝa domo, kontraŭ la domo de la reĝo. La reĝo sidis sur sia reĝa trono en la reĝa domo, kontraŭ la enirejo de la domo.",

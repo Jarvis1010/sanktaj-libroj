@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Sed David forkuris el Najot en la Rama regiono, kaj venis, kaj diris al Jonatan:Kion mi faris? kio estas mia krimo? kaj kio estas mia peko antaŭ via patro, ke li volas forpreni mian animon?",

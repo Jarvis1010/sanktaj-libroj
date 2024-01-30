@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Li konstruis al si domojn en la urbo de David, kaj pretigis lokon por la kesto de Dio, kaj etendis tendon super ĝi.",

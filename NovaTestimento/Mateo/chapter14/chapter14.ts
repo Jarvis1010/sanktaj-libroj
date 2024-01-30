@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "En tiu tempo la tetrarĤo Herodo aŭdis la famon pri Jesuo,",

@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Ve al la fiera krono de la ebriuloj de Efraim! ilia bela majesto estas velkinta floro; sur la supro de grasa kampo ili estas senkonsciigitaj de vino.",

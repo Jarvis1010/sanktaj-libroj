@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kiam la malamikoj de Jehuda kaj Benjamen aŭdis, ke la revenintoj el la kaptiteco konstruas templon al la Eternulo, Dio de Izrael,",

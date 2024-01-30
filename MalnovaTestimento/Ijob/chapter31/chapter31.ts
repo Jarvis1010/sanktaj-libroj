@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Mi faris interligon kun miaj okuloj, Ke mi ne atentu virgulinon.",

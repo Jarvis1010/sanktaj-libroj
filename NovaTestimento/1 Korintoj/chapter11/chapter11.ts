@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Vi estu imitantoj de mi, kiel mi ankaŭ estas imitanto de Kristo.",

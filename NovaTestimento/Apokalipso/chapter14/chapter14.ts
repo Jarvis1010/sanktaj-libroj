@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj mi rigardis, kaj jen la Ŝafido staranta sur la monto Cion, kaj kun li cent kvardek kvar miloj, havantaj lian nomon, kaj la nomon de lia Patro, skribitajn sur ilia frunto.",

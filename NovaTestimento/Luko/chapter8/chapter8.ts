@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj post ne longe li vojiradis tra urboj kaj vilaĝoj, predikante kaj alportante la evangelion de la regno de Dio, kaj kun li la dek du,",

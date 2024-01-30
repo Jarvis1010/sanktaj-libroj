@@ -1,5 +1,5 @@
 export const chapter110 = {
-  chapterTitle: "Ĉaptiro 110",
+  chapterTitle: "Ĉapitro 110",
   summary: "",
   verses: [
     "Psalmo de David. La Eternulo diris al mia sinjoro:Sidu dekstre de Mi, Ĝis Mi faros viajn malamikojn benketo por viaj piedoj.",

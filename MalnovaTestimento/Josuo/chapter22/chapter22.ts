@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Tiam Josuo alvokis la Rubenidojn kaj la Gadidojn kaj la duontribon de Manase;",

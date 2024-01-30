@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "La kesto de la Eternulo estis en la lando de la Filiŝtoj dum sep monatoj.",

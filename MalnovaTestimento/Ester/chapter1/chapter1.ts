@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Tio estis en la tempo de AĤaŝveroŝ, de tiu AĤaŝveroŝ, kiu reĝis de Hindujo ĝis Etiopujo, super cent dudek sep landoj.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "La reĝo Belŝacar faris grandan festenon por siaj mil eminentuloj kaj multe drinkis kun tiuj mil.",

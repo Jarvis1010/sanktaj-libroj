@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Venis la Zifanoj al Saul en Gibean, kaj diris:David ja kaŝas sin sur la monteto ĥaĤila, kiu estas antaŭ la dezerto.",

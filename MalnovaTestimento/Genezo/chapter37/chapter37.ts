@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "Jakob loĝis en la lando, en kiu lia patro loĝis fremdule, en la lando Kanaana.",

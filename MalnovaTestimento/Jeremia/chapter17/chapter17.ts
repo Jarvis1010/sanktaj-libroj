@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "La peko de Jehuda estas skribita per fera skribilo, per diamanta pinto, sur la tabelo de ilia koro kaj sur la kornoj de iliaj altaroj.",

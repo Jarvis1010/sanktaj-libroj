@@ -1,5 +1,5 @@
 export const chapter51 = {
-  chapterTitle: "Ĉaptiro 51",
+  chapterTitle: "Ĉapitro 51",
   summary: "",
   verses: [
     "Aŭskultu Min, vi, kiuj postkuras la veron, kiuj serĉas la Eternulon:rigardu la rokon, el kiu vi estas elhakitaj, kaj en la profundon de la kavo, el kiu vi estas elfositaj.",

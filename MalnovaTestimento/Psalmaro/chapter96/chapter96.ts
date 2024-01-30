@@ -1,5 +1,5 @@
 export const chapter96 = {
-  chapterTitle: "Ĉaptiro 96",
+  chapterTitle: "Ĉapitro 96",
   summary: "",
   verses: [
     "Kantu al la Eternulo novan kanton; Kantu al la Eternulo la tuta tero.",

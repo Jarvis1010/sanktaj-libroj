@@ -1,5 +1,5 @@
 export const chapter73 = {
-  chapterTitle: "Ĉaptiro 73",
+  chapterTitle: "Ĉapitro 73",
   summary: "",
   verses: [
     "Psalmo de Asaf. Jes, bona estas Dio por Izrael, Por tiuj, kiuj havas puran koron.",

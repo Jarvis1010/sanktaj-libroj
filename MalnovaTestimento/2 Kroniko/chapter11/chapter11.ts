@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kiam ReĤabeam venis en Jerusalemon, li kolektis el la domo de Jehuda kaj de Benjamen cent okdek mil elektitajn militistojn, por militi kontraŭ Izrael, por revenigi la regnon al ReĤabeam.",

@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Kiam ĉio ĉi tio finiĝis, ĉiuj Izraelidoj, kiuj tie troviĝis, eliris en la urbojn de Judujo, kaj disrompis la statuojn, dishakis la sanktajn stangojn, kaj detruis la altaĵojn kaj la altarojn en la tuta Judujo kaj en la regionoj de Benjamen, de Efraim, kaj de Manase, ĝis plena ekstermo. Kaj reiris ĉiuj Izraelidoj ĉiu al sia posedaĵo, al siaj urboj.",

@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "La filoj de Ruben kaj la filoj de Gad havis tre multe da brutaroj; kaj ili vidis, ke la lando Jazer kaj la lando Gilead estas lokoj bonaj por brutaroj.",

@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Ve al la paŝtistoj, kiuj pereigas kaj diskurigas la ŝafojn de Mia paŝtataro! diras la Eternulo.",

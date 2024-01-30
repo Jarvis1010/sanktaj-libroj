@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Tion, kio estis de la komenco, kion ni aŭdis, kion ni vidis per niaj propraj okuloj, kion ni rigardis kaj niaj manoj palpis, koncerne la Vorton de vivo",

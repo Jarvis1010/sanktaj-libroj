@@ -1,5 +1,5 @@
 export const chapter29 = {
-  chapterTitle: "Ĉaptiro 29",
+  chapterTitle: "Ĉapitro 29",
   summary: "",
   verses: [
     "Kaj la reĝo David diris al la tuta komunumo:Mia filo Salomono, la sola, kiun elektis la Eternulo, estas juna kaj neforta, kaj la laboro estas granda;  ĉar ne por homo estas la loĝejo, sed por Dio la Eternulo.",

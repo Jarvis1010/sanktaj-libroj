@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Iru al Faraono, kaj diru al li:Tiel diris la Eternulo:Permesu al Mia popolo iri, por ke ĝi faru servon al Mi.",

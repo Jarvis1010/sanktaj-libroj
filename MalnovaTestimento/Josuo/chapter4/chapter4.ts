@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj kiam la tuta popolo transiris Jordanon, la Eternulo diris al Josuo jene:",

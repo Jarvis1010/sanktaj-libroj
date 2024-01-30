@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Jen estas la lastaj vortoj de David: Parolas David, filo de Jiŝaj,   Kaj parolas la viro, kiu estas alte levita,   La sanktoleito de la Dio de Jakob,   Kantverkisto en Izrael:",

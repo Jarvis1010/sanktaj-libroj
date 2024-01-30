@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj la Efraimidoj diris al li:Kial vi tion faris al ni, ke vi ne vokis nin, kiam vi iris batali kontraŭ Midjan? Kaj ili forte kverelis kun li.",

@@ -1,5 +1,5 @@
 export const chapter68 = {
-  chapterTitle: "Ĉaptiro 68",
+  chapterTitle: "Ĉapitro 68",
   summary: "",
   verses: [
     "Al la Ĥorestro. De David. Psalmo-kanto. Leviĝu Dio, disĵetiĝu Liaj malamikoj, Kaj forkuru Liaj malamantoj for de Li.",

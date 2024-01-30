@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "En la tria monato post la eliro de la Izraelidoj el la lando Egipta, en tiu tago ili venis en la dezerton Sinaj.",

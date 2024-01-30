@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Trairu la stratojn de Jerusalem kaj rigardu, esploru kaj serĉu sur ĝiaj palacoj, ĉu vi trovos homon, kiu agas juste, kiu serĉas la veron-tiam Mi pardonos al ĝi.",

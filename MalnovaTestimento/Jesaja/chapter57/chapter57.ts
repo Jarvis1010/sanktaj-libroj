@@ -1,5 +1,5 @@
 export const chapter57 = {
-  chapterTitle: "Ĉaptiro 57",
+  chapterTitle: "Ĉapitro 57",
   summary: "",
   verses: [
     "La virtulo pereis, kaj neniu prenis tion al sia koro; kaj piaj homoj estas forkaptataj, kaj neniu komprenas, ke for de malbono estas forkaptita la virtulo.",

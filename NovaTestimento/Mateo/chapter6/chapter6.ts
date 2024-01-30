@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Gardu vin, ke vi ne faru vian justaĵon antaŭ homoj, por esti alrigardataj de ili; alie vi ne havas rekompencon ĉe via Patro, kiu estas en la ĉielo.",

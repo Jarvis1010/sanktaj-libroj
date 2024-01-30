@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj kiam li revenis en Kapernaumon post kelke da tagoj, oni sciiĝis, ke li estas en domo.",

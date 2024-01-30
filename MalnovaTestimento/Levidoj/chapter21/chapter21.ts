@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Parolu al la pastroj, la Aaronidoj, kaj diru al ili:Neniu el ili malpurigu sin per mortinto en sia popolo;",

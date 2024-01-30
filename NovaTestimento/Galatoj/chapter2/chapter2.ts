@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Tiam, post intertempo de dek kvar jaroj, mi denove supreniris al Jerusalem kun Barnabas, kunkondukante ankaŭ Titon.",

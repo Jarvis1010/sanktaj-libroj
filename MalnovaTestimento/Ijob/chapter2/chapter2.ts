@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Unu tagon, kiam la filoj de Dio venis, por stariĝi antaŭ la Eternulo, venis ankaŭ Satano inter ili, por stariĝi antaŭ la Eternulo.",

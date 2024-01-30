@@ -1,5 +1,5 @@
 export const chapter136 = {
-  chapterTitle: "Ĉaptiro 136",
+  chapterTitle: "Ĉapitro 136",
   summary: "",
   verses: [
     "Gloru la Eternulon, ĉar Li estas bona, Ĉar eterna estas Lia boneco.",

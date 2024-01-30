@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Profetaĵo pri Damasko: Jen Damasko ne plu estos urbo, sed ĝi estos amaso da ruinaĵoj.",

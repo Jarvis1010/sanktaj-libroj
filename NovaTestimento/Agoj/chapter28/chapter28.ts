@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Kaj kiam ni saviĝis, tiam ni sciiĝis, ke la insulo estas nomata Melita.",

@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "En tiuj tagoj, kiam denove estis granda homamaso, kaj ili nenion havis manĝi, li alvokis al si siajn disĉiplojn, kaj diris al ili:",

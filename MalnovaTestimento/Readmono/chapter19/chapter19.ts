@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Kiam la Eternulo, via Dio, ekstermos la popolojn, kies landon la Eternulo, via Dio, donas al vi, kaj vi forpelos ilin kaj ekloĝos en iliaj urboj kaj en iliaj domoj:",

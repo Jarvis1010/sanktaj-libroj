@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Nun ni petegas vin, fratoj, koncerne la alvenon de nia Sinjoro Jesuo Kristo kaj nian alkolektiĝon al li,",

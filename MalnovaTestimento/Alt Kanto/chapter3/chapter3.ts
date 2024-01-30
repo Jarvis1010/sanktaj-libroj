@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Sur mia kuŝejo dum la nokto mi serĉis tiun, kiun mia animo amas; Mi serĉis lin, sed mi lin ne trovis.",

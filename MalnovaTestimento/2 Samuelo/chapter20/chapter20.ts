@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Troviĝis tie viro malbonaga, kies nomo estis Ŝeba, filo de BiĤri, Benjamenido; li ekblovis per trumpeto, kaj diris:Ni ne havas parton en David,  ni ne havas heredaĵon en la filo de Jiŝaj:iru, Izraelidoj, ĉiu en sian tendon.",

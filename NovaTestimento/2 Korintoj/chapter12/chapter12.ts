@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Mi nepre devas fanfaroni, kvankam tio ne konvenas; sed mi venos al vizioj kaj malkaŝoj de la Sinjoro.",

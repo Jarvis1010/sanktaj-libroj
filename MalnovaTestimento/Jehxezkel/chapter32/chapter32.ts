@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "En la dek-dua jaro, en la dek-dua monato, en la unua tago de la monato, aperis al mi vorto de la Eternulo, dirante:",

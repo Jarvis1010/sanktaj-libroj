@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj iuj homoj vojaĝis tien el Judujo, kaj instruis la fratojn:Se vi ne cirkumcidiĝos laŭ la moro de Moseo, vi ne povas saviĝi.",

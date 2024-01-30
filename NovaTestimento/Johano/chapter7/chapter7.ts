@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kaj post tio Jesuo iradis en Galileo; ĉar li ne volis iradi en Judujo, ĉar la Judoj celis mortigi lin.",

@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj Abija ekdormis kun siaj patroj, kaj oni enterigis lin en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Asa. En lia tempo la lando estis trankvila dum dek jaroj.",

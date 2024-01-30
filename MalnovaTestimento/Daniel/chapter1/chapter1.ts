@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "En la tria jaro de la reĝado de Jehojakim, reĝo de Judujo, venis Nebukadnecar, reĝo de Babel, al Jerusalem, kaj eksieĝis ĝin.",

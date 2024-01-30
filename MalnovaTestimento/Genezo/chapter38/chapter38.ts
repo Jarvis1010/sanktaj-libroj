@@ -1,5 +1,5 @@
 export const chapter38 = {
-  chapterTitle: "Ĉaptiro 38",
+  chapterTitle: "Ĉapitro 38",
   summary: "",
   verses: [
     "En tiu tempo Jehuda apartiĝis for de siaj fratoj, kaj ekloĝis apud iu Adulamano, kiu estis nomata ĥira.",

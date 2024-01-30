@@ -1,5 +1,5 @@
 export const chapter44 = {
-  chapterTitle: "Ĉaptiro 44",
+  chapterTitle: "Ĉapitro 44",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia pri ĉiuj Judoj, kiuj loĝas en la lando Egipta, kiuj loĝas en Migdol, en TaĤpanĤes, en Nof, kaj en la lando Patros:",

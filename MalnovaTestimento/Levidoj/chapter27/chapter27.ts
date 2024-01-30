@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",

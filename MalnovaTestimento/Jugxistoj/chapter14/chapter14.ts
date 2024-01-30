@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Ŝimŝon iris en Timnan, kaj ekvidis en Timna virinon el la filinoj de la Filiŝtoj.",

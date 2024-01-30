@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kiam fortikiĝis la regno de ReĤabeam kaj li fariĝis forta, li forlasis la instruon de la Eternulo, kaj kun li la tuta Izrael.",

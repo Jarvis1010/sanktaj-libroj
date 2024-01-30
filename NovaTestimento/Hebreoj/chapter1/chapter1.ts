@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Dio, kiu multafoje kaj multamaniere parolis en la tempo antikva al niaj patroj en la profetoj,",

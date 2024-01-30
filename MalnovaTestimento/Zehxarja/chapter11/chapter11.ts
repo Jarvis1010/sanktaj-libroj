@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Malfermu, ho Lebanon, viajn pordojn, ke la fajro ekstermu viajn cedrojn.",

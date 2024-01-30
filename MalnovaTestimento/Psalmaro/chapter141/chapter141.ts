@@ -1,5 +1,5 @@
 export const chapter141 = {
-  chapterTitle: "Ĉaptiro 141",
+  chapterTitle: "Ĉapitro 141",
   summary: "",
   verses: [
     "Psalmo de David. Ho Eternulo, mi vokas al Vi; rapidu al mi; Atentu mian voĉon, kiam mi vokas al Vi.",

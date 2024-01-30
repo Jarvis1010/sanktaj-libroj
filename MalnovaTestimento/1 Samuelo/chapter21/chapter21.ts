@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj David venis en Nobon al la pastro AĤimeleĤ, kaj AĤimeleĤ time eliris renkonte al David, kaj diris al li:Kial vi estas sola kaj neniu estas kun vi?",

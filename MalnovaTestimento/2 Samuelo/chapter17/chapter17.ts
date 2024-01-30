@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj AĤitofel diris al Abŝalom:Permesu al mi elekti dek du mil virojn, kaj mi leviĝos kaj postkuros Davidon en la nokto.",

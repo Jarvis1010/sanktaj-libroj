@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Pro tio ni devas pli diligente atenti la aŭditaĵojn, por ke ni de ili ne forflosu.",

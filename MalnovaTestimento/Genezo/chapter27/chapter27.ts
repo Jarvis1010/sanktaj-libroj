@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kiam Isaak maljuniĝis kaj la vidado de liaj okuloj malakriĝis, li vokis Esavon, sian pli maljunan filon, kaj diris al li: Mia filo! Kaj tiu diris al li: Jen mi estas.",

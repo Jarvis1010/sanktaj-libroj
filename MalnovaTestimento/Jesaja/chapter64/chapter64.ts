@@ -1,5 +1,5 @@
 export const chapter64 = {
-  chapterTitle: "Ĉaptiro 64",
+  chapterTitle: "Ĉapitro 64",
   summary: "",
   verses: [
     "Ho, se Vi disfendus la ĉielon kaj malsuprenirus, antaŭ Vi ektremus la montoj;",

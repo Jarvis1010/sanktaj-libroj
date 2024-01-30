@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj mi, fratoj, venante al vi, venis ne kun supereco de parolo aŭ de saĝeco, proklamante al vi la misteron de Dio.",

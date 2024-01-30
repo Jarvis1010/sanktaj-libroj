@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Kaj li montris al mi riveron de akvo de vivo, helan kiel kristalo, elirantan el la trono de Dio kaj de la Ŝafido,",

@@ -1,5 +1,5 @@
 export const chapter43 = {
-  chapterTitle: "Ĉaptiro 43",
+  chapterTitle: "Ĉapitro 43",
   summary: "",
   verses: [
     "Juĝu min, ho Dio, kaj defendu mian aferon kontraŭ popolo nepia; De homo malverema kaj maljusta savu min.",

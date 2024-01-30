@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Nun rilate al la monkolekto pro la sanktuloj, kiel mi ordonis al la eklezioj de Galatujo, tiel ankaŭ vi faru.",

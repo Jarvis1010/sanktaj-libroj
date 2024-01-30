@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Nun armu vin, ho batalistino! oni sieĝos nin; per vergo oni frapos la vangon de la juĝisto de Izrael.",

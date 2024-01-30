@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "La vorto de la Eternulo aperis al Jeremia duafoje, kiam li estis ankoraŭ tenata sur la korto de la malliberejo, nome:",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Tial ni, pravigite per fido, havu pacon kun Dio per nia Sinjoro Jesuo Kristo,",

@@ -1,5 +1,5 @@
 export const chapter87 = {
-  chapterTitle: "Ĉaptiro 87",
+  chapterTitle: "Ĉapitro 87",
   summary: "",
   verses: [
     "De la KoraĤidoj. Psalmo-kanto. Lia fundamento estas sur la sanktaj montoj.",

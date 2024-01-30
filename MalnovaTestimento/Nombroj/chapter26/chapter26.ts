@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kaj post la punfrapado la Eternulo ekparolis al Moseo, kaj al Eleazar, filo de la pastro Aaron, dirante:",

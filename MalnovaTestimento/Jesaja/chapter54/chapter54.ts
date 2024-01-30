@@ -1,5 +1,5 @@
 export const chapter54 = {
-  chapterTitle: "Ĉaptiro 54",
+  chapterTitle: "Ĉapitro 54",
   summary: "",
   verses: [
     "Ĝoju, ho senfruktulino, kiu ne naskis; sonigu kanton kaj ĝojkriu, ho vi, kiu ne suferis doloron; ĉar la forlasitino havos pli da infanoj, ol la havanta edzon, diras la Eternulo.",

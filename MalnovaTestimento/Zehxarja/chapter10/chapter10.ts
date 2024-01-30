@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Petu de la Eternulo pluvon printempan; la Eternulo faros fulmojn, kaj donos abundan pluvon por ĉiuj kreskaĵoj sur la kampo.",

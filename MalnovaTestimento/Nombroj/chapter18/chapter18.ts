@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Aaron:Vi kaj viaj filoj kaj la domo de via patro kune kun vi portos sur vi la kulpon pri la tabernaklo, kaj vi kaj viaj filoj kune kun vi portos la kulpon pri via pastrado.",

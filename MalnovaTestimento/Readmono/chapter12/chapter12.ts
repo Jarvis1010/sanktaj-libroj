@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Jen estas la leĝoj kaj reguloj, kiujn vi devas observi por plenumi en la lando, kiun la Eternulo, la Dio de viaj patroj, donas al vi kiel posedaĵon, dum la tuta tempo, kiun vi vivos sur la tero.",

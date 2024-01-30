@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Ĝoje kantu, ho piuloj, antaŭ la Eternulo; Al la justuloj konvenas glorado.",

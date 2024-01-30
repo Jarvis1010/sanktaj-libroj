@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Cefanja, filo de Kuŝi, filo de Gedalja, filo de Amarja, filo de ĥizkija, en la tempo de Joŝija, filo de Amon, reĝo de Judujo.",

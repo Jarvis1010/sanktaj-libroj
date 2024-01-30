@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Profetaĵo pri la valo de vizio: Kio nun estas al vi, ke vi ĉiuj iris sur la tegmentojn?",

@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Aŭskultu, infanoj, la instruon de la patro, Kaj atentu, por lerni prudenton;",

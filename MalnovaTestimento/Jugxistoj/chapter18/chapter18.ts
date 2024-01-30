@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "En tiu tempo ne ekzistis reĝo ĉe Izrael; kaj en tiu tempo la tribo de Dan serĉis por si posedaĵon, por ekloĝi, ĉar ĝis tiu tempo ili ne ricevis posedaĵon inter la triboj de Izrael.",

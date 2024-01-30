@@ -1,5 +1,5 @@
 export const chapter38 = {
-  chapterTitle: "Ĉaptiro 38",
+  chapterTitle: "Ĉapitro 38",
   summary: "",
   verses: [
     "Psalmo de David. Pro memoro. Ho Eternulo, ne en Via kolero min riproĉu, Kaj ne en Via furiozo min punu.",

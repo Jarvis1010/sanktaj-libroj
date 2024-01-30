@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Ankaŭ ĉi tio estas sentencoj de Salomono, kiujn kolektis la viroj de ĥizkija, reĝo de Judujo.",

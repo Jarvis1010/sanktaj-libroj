@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por kordaj instrumentoj, por basuloj. Psalmo de David. Ho Eternulo, ne en Via kolero min riproĉu, Kaj ne en Via furiozo min punu.",

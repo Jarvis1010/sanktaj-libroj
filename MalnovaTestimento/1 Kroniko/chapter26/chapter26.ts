@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "La klasoj de la pordegistoj:el la KoraĤidoj:Meŝelemja, filo de Kore, el la filoj de Asaf.",

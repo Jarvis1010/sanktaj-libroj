@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "En la jaro, kiam Tartan venis Aŝdodon, kien lin sendis Sargon, reĝo de Asirio, kaj li militis kontraŭ Aŝdod kaj prenis ĝin,",

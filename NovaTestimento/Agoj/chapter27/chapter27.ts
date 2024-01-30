@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kaj kiam estis decidite, ke ni ŝipiru al Italujo, oni transdonis Paŭlon kaj kelkajn aliajn malliberulojn al centestro, nomata Julio, el la Aŭgusta kohorto.",

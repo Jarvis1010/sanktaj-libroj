@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj li preĝis en iu loko; kaj kiam li ĉesis preĝi, unu el liaj disĉiploj diris al li:Sinjoro, instruu nin preĝi, kiel ankaŭ Johano instruis siajn disĉiplojn.",

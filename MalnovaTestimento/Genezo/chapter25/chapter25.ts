@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Kaj Abraham prenis alian edzinon, kiu estis nomata Ketura.",

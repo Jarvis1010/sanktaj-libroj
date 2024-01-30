@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Jen Mi sendos Mian anĝelon, kaj li preparos antaŭ Mi la vojon; kaj subite venos en Sian templon la Sinjoro, kiun vi serĉas; kaj la anĝelo de la interligo, kiun vi deziras, jen li iras, diras la Eternulo Cebaot.",

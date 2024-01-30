@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Se iu alportos farunoferon al la Eternulo, lia ofero estu el delikata faruno, kaj li verŝu sur ĝin oleon kaj metu sur ĝin olibanon.",

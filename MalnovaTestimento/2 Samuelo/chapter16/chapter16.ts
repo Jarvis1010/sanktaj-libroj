@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kiam David iom malsupreniris de la supro, jen venis al li renkonte Ciba, la servanto de Mefiboŝet, kun paro da selitaj azenoj, sur kiuj estis ducent panoj kaj cent sekvinberaj kukoj kaj cent sekigitaj fruktoj kaj felsako kun vino.",

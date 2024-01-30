@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kaj kiam vi venos en la landon, kiun la Eternulo, via Dio, donas al vi kiel posedaĵon, kaj vi ekposedos ĝin kaj enloĝiĝos en ĝi:",

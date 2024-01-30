@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Paŭlo, apostolo (ne de homoj, nek per homo, sed per Jesuo Kristo, kaj Dio, la Patro, kiu levis lin el la mortintoj),",

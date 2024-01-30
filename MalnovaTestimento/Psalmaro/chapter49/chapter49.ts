@@ -1,5 +1,5 @@
 export const chapter49 = {
-  chapterTitle: "Ĉaptiro 49",
+  chapterTitle: "Ĉapitro 49",
   summary: "",
   verses: [
     "Al la Ĥorestro. De la KoraĤidoj. Psalmo. Aŭskultu ĉi tion, ĉiuj popoloj; Atentu, ĉiuj loĝantoj de la mondo,",

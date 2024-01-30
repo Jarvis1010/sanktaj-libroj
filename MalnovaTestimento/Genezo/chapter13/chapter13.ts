@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kaj Abram supreniris el Egiptujo, li kaj lia edzino, kaj ĉio, kio estis kun li, kaj kun li ankaŭ Lot, direktante sin al sudo.",

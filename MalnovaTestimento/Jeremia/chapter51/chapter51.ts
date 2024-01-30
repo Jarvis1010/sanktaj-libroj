@@ -1,5 +1,5 @@
 export const chapter51 = {
-  chapterTitle: "Ĉaptiro 51",
+  chapterTitle: "Ĉapitro 51",
   summary: "",
   verses: [
     "Tiele diras la Eternulo:Jen Mi vekos pereigan venton kontraŭ Babelon, kaj kontraŭ ĝiajn loĝantojn, kiuj leviĝis kontraŭ Min.",

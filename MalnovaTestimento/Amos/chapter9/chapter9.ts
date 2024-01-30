@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Mi vidis la Eternulon, kiu staris super la altaro; kaj Li diris:Frapu la kapitelon, ke la fostoj ekskuiĝu kaj la pecoj falu sur la kapojn de ĉiuj; kaj ilian naskitaron Mi mortigos per glavo, neniu el ili forkuros, neniu el ili saviĝos.",

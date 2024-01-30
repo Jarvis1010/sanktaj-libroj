@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kaj kiam Jesuo finis ĉiujn tiujn vortojn, li diris al siaj disĉiploj:",

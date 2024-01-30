@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Venis NaĤaŝ la Amonido, kaj stariĝis tendare antaŭ Jabeŝ en Gilead. Kaj ĉiuj loĝantoj de Jabeŝ diris al NaĤaŝ:Faru kun ni interligon, kaj ni servos al vi.",

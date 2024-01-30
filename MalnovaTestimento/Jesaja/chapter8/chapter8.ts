@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al mi:Prenu al vi grandan skribtabulon, kaj skribu sur ĝi per homa skribilo:Rapidu akiri, baldaŭ rabado.",

@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Ĉiuj Izraelidoj estis kalkulitaj, kaj ili estis enskribitaj en la libro de la reĝoj de Izrael. La Judojn oni forkondukis en Babelon pro iliaj malbonagoj.",

@@ -1,5 +1,5 @@
 export const chapter59 = {
-  chapterTitle: "Ĉaptiro 59",
+  chapterTitle: "Ĉapitro 59",
   summary: "",
   verses: [
     "Vidu, ne mallongiĝis la mano de la Eternulo, por ke ĝi ne povu helpi; kaj ne malakriĝis Lia orelo, por ke Li ne aŭdu.",

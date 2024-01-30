@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Saĝa filo lernas de la patro; Sed mokanto ne aŭskultas moralinstruon.",

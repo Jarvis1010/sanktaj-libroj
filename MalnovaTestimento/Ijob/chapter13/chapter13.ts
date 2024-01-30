@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Ĉion ĉi tion mia okulo vidis, Mia orelo aŭdis kaj komprenis.",

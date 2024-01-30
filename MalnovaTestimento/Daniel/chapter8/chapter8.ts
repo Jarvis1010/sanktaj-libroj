@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "En la tria jaro de reĝado de la reĝo Belŝacar aperis al mi, al Daniel, vizio, post tiu, kiu aperis al mi en la komenco.",

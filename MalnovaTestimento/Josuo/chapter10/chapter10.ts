@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kiam Adoni-Cedek, reĝo de Jerusalem, aŭdis, ke Josuo prenis Ajon kaj ekstermis ĝin; ke kiel li agis kun JeriĤo kaj kun ĝia reĝo, tiel li agis kun Aj kaj kun ĝia reĝo; kaj ke la loĝantoj de Gibeon faris pacon kun Izrael kaj restis inter ili:",

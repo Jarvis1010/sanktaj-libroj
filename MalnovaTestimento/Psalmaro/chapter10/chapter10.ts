@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kial, ho Eternulo, Vi staras malproksime? Kial Vi kaŝas Vin en la tempo de la mizero?",

@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj la Izraelidoj faris malbonon antaŭ la okuloj de la Eternulo; kaj la Eternulo transdonis ilin en la manojn de Midjan por la daŭro de sep jaroj.",

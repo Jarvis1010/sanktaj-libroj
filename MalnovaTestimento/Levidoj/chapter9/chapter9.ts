@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "En la oka tago Moseo vokis Aaronon kaj liajn filojn kaj la plejaĝulojn de Izrael.",

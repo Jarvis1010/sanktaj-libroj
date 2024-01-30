@@ -1,5 +1,5 @@
 export const chapter38 = {
-  chapterTitle: "Ĉaptiro 38",
+  chapterTitle: "Ĉapitro 38",
   summary: "",
   verses: [
     "Ŝefatja, filo de Matan, Gedalja, filo de PaŝĤur, JuĤal, filo de Ŝelemja, kaj PaŝĤur, filo de Malkija, aŭdis la vortojn, kiujn Jeremia parolis al la tuta popolo, dirante:",

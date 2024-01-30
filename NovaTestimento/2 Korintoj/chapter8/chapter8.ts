@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Cetere, fratoj, ni sciigas al vi la gracon de Dio, kiu estas donacita en la eklezioj Makedonaj;",

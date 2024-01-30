@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Kaj Paŭlo, fikse rigardante la sinedrion, diris:Fratoj, mi vivadis antaŭ Dio laŭ tute bona konscienco ĝis la nuna tago.",

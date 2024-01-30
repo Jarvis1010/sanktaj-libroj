@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Profetaĵo pri Moab: En nokto ruiniga pereis Ar-Moab, en nokto ruiniga pereis Kir-Moab.",

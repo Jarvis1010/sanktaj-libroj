@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj kiam Jesuo estis naskita en Bet-LeĤem de Judujo en la tempo de la reĝo Herodo, jen saĝuloj el la oriento venis al Jerusalem, dirante:",

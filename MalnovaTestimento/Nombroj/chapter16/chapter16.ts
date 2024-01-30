@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj entreprenis KoraĤ, filo de Jichar, filo de Kehat, ido de Levi, kaj Datan kaj Abiram, filoj de Eliab, kaj On, filo de Pelet, idoj de Ruben,",

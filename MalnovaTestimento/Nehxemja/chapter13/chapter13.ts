@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "En tiu tago oni legis el la libro de Moseo antaŭ la oreloj de la popolo; kaj troviĝis, ke estas skribite en ĝi, ke Amonido kaj Moabido neniam devas eniri en la komunumon de Dio;",

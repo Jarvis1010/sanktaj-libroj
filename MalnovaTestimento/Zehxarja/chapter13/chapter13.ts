@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "En tiu tempo malfermiĝos por la domo de David kaj por la loĝantoj de Jerusalem fonto, por purigi sin de pekoj kaj de malpureco.",

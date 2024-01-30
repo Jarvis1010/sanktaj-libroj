@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "En tiu tempo la Eternulo diris al mi:Skulptu al vi du ŝtonajn tabelojn kiel la antaŭaj, kaj supreniru al Mi sur la monton, kaj faru al vi lignan keston.",

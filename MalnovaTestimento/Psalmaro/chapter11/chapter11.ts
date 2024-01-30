@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Al la Ĥorestro. De David. Ĉe la Eternulo mi rifuĝas. Kial vi diras al mia animo:   Flugu kiel birdo sur vian monton?",

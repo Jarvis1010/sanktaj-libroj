@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Ve al la filoj malobeemaj, diras la Eternulo, kiuj faras interkonsilojn, sed sen Mi, kaj aranĝas interkonsentojn, sed sen Mia spirito, por aligi pekon al peko,",

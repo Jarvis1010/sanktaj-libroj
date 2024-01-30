@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Okazis poste, ke mortis la reĝo de la Amonidoj, kaj lia filo ĥanun fariĝis reĝos anstataŭ li.",

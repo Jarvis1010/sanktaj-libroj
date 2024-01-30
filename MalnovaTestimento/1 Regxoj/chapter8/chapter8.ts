@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Tiam Salomono kunvenigis la plejaĝulojn de Izrael kaj ĉiujn ĉefojn de la triboj, la estrojn de la patrodomoj de la Izraelidoj, al la reĝo Salomono en Jerusalemon, por transporti la keston de interligo de la Eternulo el la urbo de David, tio estas el Cion.",

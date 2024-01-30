@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Se lia ofero estas pacofero, se li alportas el la grandaj brutoj, ĉu ĝi estas virseksa, ĉu virinseksa, sendifektan li alportu ĝin antaŭ la Eternulon.",

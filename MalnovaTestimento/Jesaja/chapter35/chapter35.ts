@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Ekĝojos la dezerto kaj la senakvejo, triumfos la stepo kaj ekfloros kiel lilio.",

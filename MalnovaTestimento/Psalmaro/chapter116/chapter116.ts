@@ -1,5 +1,5 @@
 export const chapter116 = {
-  chapterTitle: "Ĉaptiro 116",
+  chapterTitle: "Ĉapitro 116",
   summary: "",
   verses: [
     "Mi amas, ke la Eternulo aŭdas mian voĉon Kaj mian petegon,",

@@ -1,5 +1,5 @@
 export const chapter48 = {
-  chapterTitle: "Ĉaptiro 48",
+  chapterTitle: "Ĉapitro 48",
   summary: "",
   verses: [
     "Post tiuj okazintaĵoj oni sciigis al Jozef: Jen, via patro estas malsana. Kaj li prenis kun si siajn du filojn, Manase kaj Efraim.",

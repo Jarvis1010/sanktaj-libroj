@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo en la tempo de Jehojakim, filo de Joŝija, reĝo de Judujo:",

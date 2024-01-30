@@ -1,5 +1,5 @@
 export const chapter42 = {
-  chapterTitle: "Ĉaptiro 42",
+  chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
     "Kaj aliris ĉiuj militestroj, kaj JoĤanan, filo de KareaĤ, kaj Jezanja, filo de Hoŝaja, kaj la tuta popolo, de la malgrandaj ĝis la grandaj,",

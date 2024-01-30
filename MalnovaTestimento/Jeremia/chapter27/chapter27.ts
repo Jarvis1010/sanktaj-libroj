@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "En la komenco de la reĝado de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis de la Eternulo jena vorto al Jeremia:",

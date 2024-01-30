@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Li montris al mi la ĉefpastron Josuo, kiu staris antaŭ la anĝelo de la Eternulo, kaj Satanon, kiu staris dekstre de li, por kontraŭagi al li.",

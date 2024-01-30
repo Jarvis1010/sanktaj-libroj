@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Tiam alvenis al Jesuo el Jerusalem Fariseoj kaj skribistoj, dirante:",

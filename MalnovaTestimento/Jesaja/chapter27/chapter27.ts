@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "En tiu tago la Eternulo punos per Sia peza kaj granda kaj forta glavo la levjatanon, la serpenton eltordiĝeman, kaj la levjatanon, la serpenton kurbiĝantan; kaj Li mortigos la drakon, kiu estas en la maro.",

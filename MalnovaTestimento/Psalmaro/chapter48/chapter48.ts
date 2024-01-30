@@ -1,5 +1,5 @@
 export const chapter48 = {
-  chapterTitle: "Ĉaptiro 48",
+  chapterTitle: "Ĉapitro 48",
   summary: "",
   verses: [
     "Kanto-psalmo de la KoraĤidoj. Granda estas la Eternulo, Kaj tre glora en la urbo de nia Dio,   Sur Lia sankta monto.",

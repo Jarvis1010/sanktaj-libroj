@@ -1,5 +1,5 @@
 export const chapter65 = {
-  chapterTitle: "Ĉaptiro 65",
+  chapterTitle: "Ĉapitro 65",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Kanto. Vin oni fidas kaj gloras, ho Dio, en Cion;   Kaj al Vi oni plenumas promesojn.",

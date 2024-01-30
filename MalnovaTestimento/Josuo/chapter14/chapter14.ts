@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj jen estas, kion la Izraelidoj ekposedis en la lando Kanaana, kaj kion posedigis al ili la pastro Eleazar, kaj Josuo, filo de Nun, kaj la familiestroj de la triboj de Izrael.",

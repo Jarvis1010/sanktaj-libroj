@@ -1,5 +1,5 @@
 export const chapter41 = {
-  chapterTitle: "Ĉaptiro 41",
+  chapterTitle: "Ĉapitro 41",
   summary: "",
   verses: [
     "En la sepa monato Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro, unu el la eminentuloj de la reĝo, kaj kun li dek viroj, venis al Gedalja, filo de AĤikam, en Micpan, kaj ili kune tie manĝis en Micpa.",

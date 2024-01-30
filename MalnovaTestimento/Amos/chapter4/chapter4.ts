@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Aŭskultu ĉi tiun vorton, vi grasaj bovinoj, kiuj estas sur la monto de Samario, kiuj turmentas senhavulojn, premas malriĉulojn, kaj kiuj diras al siaj mastroj:Venu, ni drinku.",

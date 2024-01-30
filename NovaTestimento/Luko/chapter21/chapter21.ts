@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj ekrigardante, li vidis riĉulojn enĵetantajn siajn donacojn en la monkeston.",

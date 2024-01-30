@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "En tiu nokto la reĝo ne povis dormi; kaj li ordonis alporti la memoraĵan libron de la kronikoj, kaj oni legis ilin antaŭ la reĝo.",

@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "La profeto Eliŝa alvokis unu el la profetidoj, kaj diris al li:Zonu viajn lumbojn, kaj prenu en vian manon ĉi tiun vazon kun oleo, kaj iru en Ramoton en Gilead.",

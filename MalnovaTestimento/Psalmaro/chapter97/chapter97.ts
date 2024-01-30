@@ -1,5 +1,5 @@
 export const chapter97 = {
-  chapterTitle: "Ĉaptiro 97",
+  chapterTitle: "Ĉapitro 97",
   summary: "",
   verses: [
     "La Eternulo reĝas; ĝoju la tero; Estu gajaj la multaj insuloj.",

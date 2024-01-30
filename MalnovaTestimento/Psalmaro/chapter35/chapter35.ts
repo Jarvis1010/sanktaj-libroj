@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "De David. Batalu, ho Eternulo, kontraŭ tiuj, kiuj batalas kontraŭ mi; Militu kontraŭ tiuj, kiuj militas kontraŭ mi.",

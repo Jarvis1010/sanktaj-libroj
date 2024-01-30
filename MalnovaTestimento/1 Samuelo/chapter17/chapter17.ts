@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "La Filiŝtoj kolektis siajn militistarojn por milito, kaj kuniĝis apud SoĤo de Jehuda, kaj stariĝis tendare inter SoĤo kaj Azeka, en Efes-Damim.",

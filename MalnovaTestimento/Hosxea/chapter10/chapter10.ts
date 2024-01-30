@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Izrael estas vasta vinberujo, portas siajn fruktojn; sed ju pli multiĝis liaj fruktoj, des pli li multigis siajn altarojn; ju pli bona estis lia lando, des pli belajn statuojn li starigis.",

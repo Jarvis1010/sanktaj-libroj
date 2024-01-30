@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kiam la Eternulo volis levi Elijan en ventego en la ĉielon, Elija estis iranta kun Eliŝa el Gilgal.",

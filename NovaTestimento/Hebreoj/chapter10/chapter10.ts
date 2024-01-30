@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Ĉar la leĝo, havante ombron de estontaj bonaĵoj, ne la bildon mem de la aferoj, neniam povas, per tiuj samaj oferoj, kiujn oni oferadas senĉese jaron post jaro, perfektigi la tien venantajn.",

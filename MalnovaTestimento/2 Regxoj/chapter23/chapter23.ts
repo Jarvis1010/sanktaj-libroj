@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "La reĝo sendis, kaj oni kunvenigis al li ĉiujn plejaĝulojn de Judujo kaj Jerusalem.",

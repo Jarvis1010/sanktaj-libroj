@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Sekvu amon; tamen deziregu spiritajn donacojn, sed prefere, ke vi profetadu.",

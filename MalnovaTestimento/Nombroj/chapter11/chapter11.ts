@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj la popolo komencis murmuri pri sia malfeliĉo al la oreloj de la Eternulo; kaj kiam la Eternulo tion aŭdis, Lia kolero ekflamis; kaj ekbrulis inter ili fajro de la Eternulo, kaj ĝi komencis ekstermadon en la rando de la tendaro.",

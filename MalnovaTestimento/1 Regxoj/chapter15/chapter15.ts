@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "En la dek-oka jaro de la reĝo Jerobeam, filo de Nebat, ekreĝis Abijam super Judujo.",

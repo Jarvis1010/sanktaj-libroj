@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Dume la Filiŝtoj batalis kontraŭ Izrael; kaj la Izraelidoj forkuris de la Filiŝtoj, kaj falis mortigitaj sur la monto Gilboa.",

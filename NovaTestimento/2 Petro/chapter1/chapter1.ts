@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Simon Petro, servisto kaj apostolo de Jesuo Kristo, al tiuj, kiuj ricevis egale altvaloran fidon, kiel ni, en la justeco de nia Dio kaj Savanto Jesuo Kristo:",

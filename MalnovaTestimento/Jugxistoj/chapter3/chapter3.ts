@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kaj jen estas la popoloj, kiujn la Eternulo restigis, por elprovi per ili Izraelon, ĉiujn, kiuj ne sciis pri ĉiuj militoj kontraŭ Kanaan;",

@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Se mi parolus la lingvojn de homoj kaj anĝeloj, sed ne havus amon, mi fariĝus sonanta kupro aŭ tintanta cimbalo.",

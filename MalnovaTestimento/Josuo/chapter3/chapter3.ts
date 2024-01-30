@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kaj Josuo leviĝis frue matene, kaj ili elmoviĝis de Ŝitim kaj alvenis al Jordan, li kaj ĉiuj Izraelidoj, kaj ili tradormis tie la nokton, antaŭ ol transiri.",

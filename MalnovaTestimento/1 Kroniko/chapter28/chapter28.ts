@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "David kunvenigis en Jerusalemon ĉiujn estrojn de Izrael, la estrojn de la triboj, la estrojn de la apartaĵoj, kiuj servis al la reĝo, la milestrojn kaj centestrojn, la estrojn super ĉiuj havaĵoj kaj super la brutoj de la reĝo kaj de liaj filoj, ankaŭ la korteganojn, heroojn, kaj ĉiujn distingitojn.",

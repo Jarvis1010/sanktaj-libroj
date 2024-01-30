@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kaj Petro kaj Johano estis suprenirantaj en la templon je la horo de preĝado, la naŭa.",

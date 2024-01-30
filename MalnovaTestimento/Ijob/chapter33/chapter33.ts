@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Aŭskultu do, Ijob, miajn parolojn, Kaj atentu ĉiujn miajn vortojn.",

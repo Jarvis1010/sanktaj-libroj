@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Malvirtulo kuras, kiam neniu persekutas; Sed virtuloj estas sentimaj kiel leono.",

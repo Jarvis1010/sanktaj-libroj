@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kaj kiam venis la mateno, ĉiuj ĉefpastroj kaj pliaĝuloj de la popolo konsiliĝis kontraŭ Jesuo, por mortigi lin;",

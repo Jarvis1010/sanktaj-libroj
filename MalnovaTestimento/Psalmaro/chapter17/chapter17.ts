@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Preĝo de David. Aŭskultu, ho Eternulo, la justulon, atentu mian krion, Donu orelon al mia preĝo el ne malsincera buŝo.",

@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Post la morto de Saul, kiam David revenis de la venkobato de Amalek, kaj David estis en Ciklag de du tagoj,",

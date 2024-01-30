@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "AĤab havis sepdek filojn en Samario. Kaj Jehu skribis leterojn kaj sendis en Samarion al la estroj de Jizreel, la plejaĝuloj, kaj la filedukistoj de AĤab, kun la sekvanta enhavo:",

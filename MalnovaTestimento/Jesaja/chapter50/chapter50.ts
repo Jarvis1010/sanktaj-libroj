@@ -1,5 +1,5 @@
 export const chapter50 = {
-  chapterTitle: "Ĉaptiro 50",
+  chapterTitle: "Ĉapitro 50",
   summary: "",
   verses: [
     "Tiele diras la Eternulo:Kie estas la eksedziga letero de via patrino, per kiu Mi ŝin forpuŝis? aŭ al kiu el Miaj kreditoroj Mi vendis vin? Jen pro viaj pekoj vi estas venditaj, kaj pro viaj krimoj estas forpuŝita via patrino.",

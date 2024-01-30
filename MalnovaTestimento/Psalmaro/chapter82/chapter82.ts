@@ -1,5 +1,5 @@
 export const chapter82 = {
-  chapterTitle: "Ĉaptiro 82",
+  chapterTitle: "Ĉapitro 82",
   summary: "",
   verses: [
     "Psalmo de Asaf. Dio stariĝis en Dia anaro; Inter la dioj Li juĝas.",

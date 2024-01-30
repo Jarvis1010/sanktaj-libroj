@@ -1,5 +1,5 @@
 export const chapter89 = {
-  chapterTitle: "Ĉaptiro 89",
+  chapterTitle: "Ĉapitro 89",
   summary: "",
   verses: [
     "Instruo de Etan, la EzraĤido. La favorfarojn de la Eternulo mi kantos eterne; De generacio al generacio mi sciigos Vian fidelecon per mia buŝo.",

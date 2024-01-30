@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Samuel mortis; kaj kolektiĝis ĉiuj Izraelidoj, kaj priploris lin kaj enterigis lin en lia domo en Rama. Kaj David leviĝis, kaj foriris en la dezerton Paran.",

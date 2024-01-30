@@ -1,5 +1,5 @@
 export const chapter29 = {
-  chapterTitle: "Ĉaptiro 29",
+  chapterTitle: "Ĉapitro 29",
   summary: "",
   verses: [
     "Kaj Jakob levis siajn piedojn kaj iris al la lando de la orientanoj.",

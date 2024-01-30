@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kaj frue matene leviĝis Jerubaal, tio estas Gideon, kaj la tuta popolo, kiu estis kun li, kaj ili starigis sian tendaron ĉe la fonto ĥarod; kaj la tendaro de Midjan estis rilate al li sur la norda flanko de la monteto More en la valo.",

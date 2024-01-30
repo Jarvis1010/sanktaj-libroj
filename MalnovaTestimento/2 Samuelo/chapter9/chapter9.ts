@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj David diris:Ĉu ekzistas ankoraŭ iu, kiu restis el la domo de Saul, ke mi povu fari al li favorkoraĵon pro Jonatan?",

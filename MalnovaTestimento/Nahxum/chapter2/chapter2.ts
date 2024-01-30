@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Disĵetanto iras kontraŭ vin; fortikigu viajn fortikaĵojn, gardu la vojon, armu viajn lumbojn, fortigu vin kiel eble plej potence.",

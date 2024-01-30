@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kiam venis la sepa monato kaj la Izraelidoj estis jam en la urboj, kolektiĝis la tuta popolo, kiel unu homo, en Jerusalem.",

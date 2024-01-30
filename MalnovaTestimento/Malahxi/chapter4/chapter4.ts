@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Ĉar jen venos tago, ardanta kiel forno; tiam ĉiuj malhumiluloj kaj malbonaguloj estos kiel pajlo, kaj la venonta tago bruligos ilin tiel, diras la Eternulo Cebaot, ke ĝi ne restigos al ili radikon nek branĉon.",

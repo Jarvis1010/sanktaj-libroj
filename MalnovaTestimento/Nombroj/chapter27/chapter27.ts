@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kaj aliris la filinoj de CelofĤad, filo de ĥefer, filo de Gilead, filo de MaĤir, filo de Manase, el la familioj de Manase, filo de Jozef; kaj jen estas la nomoj de liaj filinoj:MaĤla kaj Noa kaj ĥogla kaj Milka kaj Tirca;",

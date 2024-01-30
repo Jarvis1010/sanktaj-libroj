@@ -1,5 +1,5 @@
 export const chapter61 = {
-  chapterTitle: "Ĉaptiro 61",
+  chapterTitle: "Ĉapitro 61",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por korda instrumento. De David. Aŭskultu, ho Dio, mian krion;   Atentu mian preĝon.",

@@ -1,5 +1,5 @@
 export const chapter34 = {
-  chapterTitle: "Ĉaptiro 34",
+  chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Skulptu al vi du ŝtonajn tabelojn kiel la unuaj; kaj Mi skribos sur la tabeloj la vortojn, kiuj estis sur la unuaj tabeloj, kiujn vi rompis.",

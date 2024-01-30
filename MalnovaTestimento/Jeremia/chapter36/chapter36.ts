@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "En la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis jena vorto al Jeremia de la Eternulo:",

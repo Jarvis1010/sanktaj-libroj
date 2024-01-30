@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kaj ekparolis Mirjam kaj Aaron kontraŭ Moseo pro la edzino Etiopino, kiun li prenis; ĉar li prenis al si edzinon Etiopinon.",

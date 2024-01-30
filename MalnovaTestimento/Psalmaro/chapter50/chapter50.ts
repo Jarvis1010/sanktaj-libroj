@@ -1,5 +1,5 @@
 export const chapter50 = {
-  chapterTitle: "Ĉaptiro 50",
+  chapterTitle: "Ĉapitro 50",
   summary: "",
   verses: [
     "Psalmo de Asaf. Dio de la dioj, la Eternulo, ekparolis, Kaj vokis la teron de la sunleviĝo ĝis la sunsubiro.",

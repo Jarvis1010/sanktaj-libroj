@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj dum la homamaso ĉirkaŭpremis lin kaj aŭskultis la vorton de Dio, li staris apud la lago Genesaret;",

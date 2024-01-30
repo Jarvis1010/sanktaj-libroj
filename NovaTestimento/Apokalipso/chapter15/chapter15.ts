@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj mi vidis alian signon en la ĉielo, grandan kaj mirindan:sep anĝelojn havantajn sep plagojn, la finajn, ĉar en ili finiĝis la kolero de Dio.",

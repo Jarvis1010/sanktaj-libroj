@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Kaj Moseo kaj la plejaĝuloj de Izrael ordonis al la popolo, dirante:Observu ĉiujn ordonojn, kiujn mi ordonas al vi hodiaŭ.",

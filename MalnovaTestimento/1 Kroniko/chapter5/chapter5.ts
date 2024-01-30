@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "La filoj de Ruben, unuenaskito de Izrael. (Li estis la unuenaskito; sed kiam li malhonoris la liton de sia patro, lia unuenaskiteco estis fordonita al la filoj de Jozef, filo de Izrael, kaj li ne estis enskribita en la genealogian liston kiel unuenaskito;",

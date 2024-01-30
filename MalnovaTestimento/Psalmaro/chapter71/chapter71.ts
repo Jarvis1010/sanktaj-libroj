@@ -1,5 +1,5 @@
 export const chapter71 = {
-  chapterTitle: "Ĉaptiro 71",
+  chapterTitle: "Ĉapitro 71",
   summary: "",
   verses: [
     "Vin, ho Eternulo, mi fidas: Mi neniam estu hontigita.",

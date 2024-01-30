@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Li aŭdis, ke la filoj de Laban parolis jene: Jakob forprenis la tutan havon de nia patro, kaj el la havo de nia patro li akiris la tutan riĉecon.",

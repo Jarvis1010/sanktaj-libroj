@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Ĉar Bileam vidis, ke al la Eternulo plaĉas beni Izraelon, li ne iris, kiel antaŭe, por aŭguri, sed li turnis sian vizaĝon al la dezerto.",

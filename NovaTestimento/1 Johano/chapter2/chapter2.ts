@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Infanetoj miaj, ĉi tion mi skribas al vi, por ke vi ne peku. Kaj se iu pekas, ni havas Advokaton ĉe la Patro, Jesuon Kriston, la justan;",

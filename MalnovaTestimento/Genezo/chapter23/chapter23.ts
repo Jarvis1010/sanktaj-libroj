@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Kaj la vivo de Sara estis cent dudek sep jaroj; tiom estis la jaroj de la vivo de Sara.",

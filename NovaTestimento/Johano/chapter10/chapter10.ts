@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Vere, vere, mi diras al vi:Kiu eniras en la ŝafejon ne tra la pordo, sed aliloke suprengrimpas, tiu estas ŝtelisto kaj rabisto.",

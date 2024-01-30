@@ -1,5 +1,5 @@
 export const chapter133 = {
-  chapterTitle: "Ĉaptiro 133",
+  chapterTitle: "Ĉapitro 133",
   summary: "",
   verses: [
     "Kanto de suprenirado. De David. Jen, kiel bone kaj ĉarme estas, Se fratoj vivas kune!",

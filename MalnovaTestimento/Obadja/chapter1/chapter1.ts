@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vizio de Obadja. Tiele diras la Sinjoro, la Eternulo, pri Edom: Diron ni aŭdis de la Eternulo, kaj kuriero estas sendita al la nacioj: Leviĝu, ni iru milite kontraŭ lin.",

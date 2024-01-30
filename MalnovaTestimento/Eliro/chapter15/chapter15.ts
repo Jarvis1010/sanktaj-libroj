@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Tiam Moseo kaj la Izraelidoj kantis ĉi tiun kanton al la Eternulo, kaj parolis jene: Mi kantos al la Eternulo, ĉar Li alte leviĝis;  Ĉevalon kaj ĝian rajdanton Li ĵetis en la maron.",

@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj Samuel parolis al la tuta Izrael. Kaj Izrael eliris milite kontraŭ la Filiŝtojn, kaj stariĝis tendare apud Eben-Ezer, kaj la Filiŝtoj stariĝis tendare apud Afek.",

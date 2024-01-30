@@ -1,5 +1,5 @@
 export const chapter50 = {
-  chapterTitle: "Ĉaptiro 50",
+  chapterTitle: "Ĉapitro 50",
   summary: "",
   verses: [
     "Tiam Jozef ĵetis sin sur la vizaĝon de sia patro, kaj ploris super li kaj kisis lin.",

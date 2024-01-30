@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "ReĤabeam iris en ŜeĤemon, ĉar en ŜeĤemon venis ĉiuj Izraelidoj, por fari lin reĝo.",

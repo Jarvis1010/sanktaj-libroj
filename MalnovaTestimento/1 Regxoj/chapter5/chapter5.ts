@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "ĥiram, reĝo de Tiro, sendis siajn servantojn al Salomono, kiam li aŭdis, ke oni lin sanktoleis reĝo anstataŭ lia patro; ĉar ĥiram estis amiko de David en la tuta tempo.",

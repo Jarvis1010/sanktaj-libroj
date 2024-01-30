@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Jehoram, filo de AĤab, fariĝis reĝo super Izrael en Samario en la dek- oka jaro de Jehoŝafat, reĝo de Judujo, kaj li reĝis dek du jarojn.",

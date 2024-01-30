@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Ne maltrankviliĝu via koro; vi kredas al Dio, kredu ankaŭ al mi.",

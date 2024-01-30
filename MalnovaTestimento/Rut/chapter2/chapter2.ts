@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Naomi havis parencon de ŝia edzo, viron eminentan, el la familio de ElimeleĤ; lia nomo estis Boaz.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj ekkantis Debora, kaj Barak, filo de Abinoam, en tiu tago, jene:",

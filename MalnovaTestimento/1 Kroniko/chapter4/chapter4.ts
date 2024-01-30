@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "La filoj de Jehuda estis:Perec, ĥecron, Karmi, ĥur, kaj Ŝobal.",

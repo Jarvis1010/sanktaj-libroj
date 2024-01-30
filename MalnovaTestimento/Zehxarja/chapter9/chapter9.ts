@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Profeta vorto de la Eternulo pri la lando ĥadraĤ kaj pri ĝia ripozejo Damasko (ĉar la Eternulo rigardas ĉiujn homojn, kiel ĉiujn tribojn de Izrael),",

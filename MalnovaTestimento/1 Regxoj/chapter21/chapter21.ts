@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Post tiu historio okazis jeno:Nabot, Jizreelano, havis vinberĝardenon en Jizreel, apud la palaco de AĤab, reĝo de Samario.",

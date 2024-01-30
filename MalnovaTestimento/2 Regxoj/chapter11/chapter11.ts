@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kiam Atalja, la patrino de AĤazja, vidis, ke ŝia filo mortis, ŝi leviĝis kaj ekstermis la tutan reĝan idaron.",

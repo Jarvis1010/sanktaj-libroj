@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Post tiuj aferoj kaj veraĵoj venis SanĤerib, reĝo de Asirio; li venis en Judujon, eksieĝis la fortikigitajn urbojn, kaj intencis forŝiri ilin al si.",

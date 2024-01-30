@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Tial, fratoj sanktaj, partoprenantaj en ĉiela voko, pripensu la Apostolon kaj Ĉefpastron de nia konfeso, Jesuon,",

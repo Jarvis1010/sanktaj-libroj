@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Ĝis kiam, ho Eternulo, Vi tute forgesos pri mi? Ĝis kiam Vi kaŝos Vian vizaĝon antaŭ mi?",

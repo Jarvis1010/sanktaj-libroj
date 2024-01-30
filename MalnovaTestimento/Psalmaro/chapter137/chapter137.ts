@@ -1,5 +1,5 @@
 export const chapter137 = {
-  chapterTitle: "Ĉaptiro 137",
+  chapterTitle: "Ĉapitro 137",
   summary: "",
   verses: [
     "Apud la riveroj de Babel Ni sidis kaj ploris,   Rememorante Cionon.",

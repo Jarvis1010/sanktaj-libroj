@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kiam Salomono finis la konstruadon de la domo de la Eternulo kaj de la reĝa domo, kaj de ĉio dezirita de Salomono, kion li deziris fari,",

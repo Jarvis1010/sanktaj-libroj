@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "La ordo de la Aaronidoj:la filoj de Aaron:Nadab, Abihu, Eleazar, kaj Itamar.",

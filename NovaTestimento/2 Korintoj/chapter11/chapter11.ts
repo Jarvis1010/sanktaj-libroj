@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Mi volas, ke vi pacience toleru min pro iom da malsaĝeco; sed efektive vi ja pacience min toleras.",

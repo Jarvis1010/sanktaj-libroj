@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Naaman, la militestro de la reĝo de Sirio, estis granda homo antaŭ sia sinjoro kaj tre estimata, ĉar per li la Eternulo donis venkon al Sirio. Tiu homo estis forta militisto, sed leprulo.",

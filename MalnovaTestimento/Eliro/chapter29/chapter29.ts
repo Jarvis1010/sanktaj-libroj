@@ -1,5 +1,5 @@
 export const chapter29 = {
-  chapterTitle: "Ĉaptiro 29",
+  chapterTitle: "Ĉapitro 29",
   summary: "",
   verses: [
     "Kaj jen estas tio, kion vi devas fari al ili, por sanktigi ilin, ke ili estu pastroj al Mi:prenu unu virbovidon kaj du virŝafojn sendifektajn;",

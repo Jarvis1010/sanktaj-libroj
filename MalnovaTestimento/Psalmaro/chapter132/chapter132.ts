@@ -1,5 +1,5 @@
 export const chapter132 = {
-  chapterTitle: "Ĉaptiro 132",
+  chapterTitle: "Ĉapitro 132",
   summary: "",
   verses: [
     "Kanto de suprenirado. Rememoru, ho Eternulo, Davidon kaj ĉiujn liajn suferojn;",

@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kaj jen estas la reĝoj de la lando, kiujn venkobatis la Izraelidoj, kaj kies landon ili ekposedis transe de Jordan oriente, de la torento Arnon ĝis la monto ĥermon, kaj la tutan stepon en la oriento:",

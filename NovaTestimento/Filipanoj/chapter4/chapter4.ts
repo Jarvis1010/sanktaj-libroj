@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Tial, miaj fratoj amataj kaj alsopirataj, mia ĝojo kaj mia krono, tiel staru fortike en la Sinjoro, miaj amataj.",

@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Vortoj de Agur, filo de Jake. Profeta parolo de tiu viro al Itiel, al Itiel kaj Ukal.",

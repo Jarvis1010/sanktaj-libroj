@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kiam MordeĤaj eksciis ĉion, kio fariĝis, tiam MordeĤaj disŝiris siajn vestojn, metis sur sin sakaĵon kaj cindron, eliris en la mezon de la urbo, kaj kriis per laŭta kaj maldolĉa voĉo.",

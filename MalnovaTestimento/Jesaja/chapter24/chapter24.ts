@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Jen la Eternulo dezertigas la landon kaj ruinigas ĝin kaj ŝanĝas ĝian aspekton kaj disĵetas ĝiajn loĝantojn.",

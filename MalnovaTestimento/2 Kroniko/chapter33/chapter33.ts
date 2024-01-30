@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "La aĝon de dek du jaroj havis Manase, kiam li fariĝis reĝo, kaj kvindek kvin jarojn li reĝis en Jerusalem.",

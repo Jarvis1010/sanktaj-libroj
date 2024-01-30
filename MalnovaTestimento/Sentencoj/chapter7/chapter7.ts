@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Mia filo! konservu miajn vortojn, Kaj gardu ĉe vi miajn moralordonojn.",

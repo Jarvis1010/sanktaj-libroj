@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Ve al la urbo sangavida, kiu estas plena de trompoj kaj raboj, kaj ne volas ĉesigi la rabadon!",

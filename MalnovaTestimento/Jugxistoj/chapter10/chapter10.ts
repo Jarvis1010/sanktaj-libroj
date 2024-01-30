@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Post AbimeleĤ leviĝis, por helpadi al Izrael, Tola, filo de Pua, filo de Dodo, IsaĤarido. Li loĝis en Ŝamir, sur la monto de Efraim.",

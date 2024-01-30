@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Venis al mi kelkaj el la plejaĝuloj de Izrael, kaj sidiĝis antaŭ mi.",

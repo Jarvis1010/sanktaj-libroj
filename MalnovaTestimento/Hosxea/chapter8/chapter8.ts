@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Metu trumpeton al via buŝo! Li flugas kiel aglo al la domo de la Eternulo, pro tio, ke ili agis kontraŭ Mia interligo kaj defalis de Mia instruo.",

@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Hoŝea, filo de Beeri, en la tempo de Uzija, Jotan, AĤaz, kaj ĥizkija, reĝoj de Judujo, kaj en la tempo de Jerobeam, filo de Joaŝ, reĝo de Izrael.",

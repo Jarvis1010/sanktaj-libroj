@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Sed iam en la tempo estonta la monto de la domo de la Eternulo staros kiel ĉefo inter la montoj, kaj ĝi estos pli alta ol ĉiuj altaĵoj; kaj fluos al ĝi popoloj.",

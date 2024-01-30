@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kiam li finis la paroladon kun Saul, la animo de Jonatan alligiĝis al la animo de David, kaj Jonatan ekamis lin kiel sian animon.",

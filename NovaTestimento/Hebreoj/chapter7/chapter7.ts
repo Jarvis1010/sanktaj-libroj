@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Ĉar tiu Melkicedek, reĝo de Salem, pastro de Dio la Plejalta, kiu renkontis Abrahamon revenantan de la mortigado de la reĝoj, kaj lin benis,",

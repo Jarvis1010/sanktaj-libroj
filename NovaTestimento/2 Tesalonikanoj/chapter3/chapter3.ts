@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Fine, fratoj, preĝu por ni, ke la vorto de la Sinjoro disvastiĝu kaj estu glorata, kiel ankaŭ ĉe vi;",

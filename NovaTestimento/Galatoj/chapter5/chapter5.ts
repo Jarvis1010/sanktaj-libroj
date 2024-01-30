@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Por libereco Kristo nin liberigis; tial staru fortike, kaj ne reimplikiĝu en jugon de sklaveco.",

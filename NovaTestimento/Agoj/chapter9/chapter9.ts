@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj Saŭlo, ankoraŭ spirante minacojn kaj mortigon kontraŭ la disĉiploj de la Sinjoro, iris al la ĉefpastro,",

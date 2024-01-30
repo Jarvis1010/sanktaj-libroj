@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "La unuan tagon de la semajno Maria Magdalena venis frue, dum estis ankoraŭ mallume, al la tombo, kaj vidis la ŝtonon prenita for de la tombo.",

@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Oni diras:Se viro forigas sian edzinon, kaj ŝi foriras de li kaj edziniĝas kun alia viro, ĉu li tiam povas reveni al ŝi denove? ĉu ne malpuriĝus per tio tiu lando? Kaj vi malĉastis kun multaj amantoj; tamen revenu al Mi, diras la Eternulo.",

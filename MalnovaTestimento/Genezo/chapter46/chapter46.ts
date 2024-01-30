@@ -1,5 +1,5 @@
 export const chapter46 = {
-  chapterTitle: "Ĉaptiro 46",
+  chapterTitle: "Ĉapitro 46",
   summary: "",
   verses: [
     "Izrael ekiris kun ĉio, kion li havis, kaj li venis en Beer-Ŝeban, kaj li alportis oferojn al la Dio de sia patro Isaak.",

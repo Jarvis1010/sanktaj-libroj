@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kiam Salomono finis la preĝadon, malleviĝis fajro el la ĉielo kaj forbruligis la bruloferon kaj la aliajn oferojn; kaj la majesto de la Eternulo plenigis la domon.",

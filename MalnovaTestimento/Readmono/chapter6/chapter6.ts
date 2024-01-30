@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj jen estas la ordonoj, la leĝoj, kaj la reguloj, kiujn la Eternulo, via Dio, ordonis instrui al vi, por ke vi plenumadu ilin en la lando, en kiun vi transiras, por ekposedi ĝin;",

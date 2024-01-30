@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Kaj jen estas la beno, per kiu benis Moseo, la Dia homo, la Izraelidojn antaŭ sia morto.",

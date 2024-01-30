@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Jehoŝafat havis multe da riĉeco kaj honoro; kaj li boparenciĝis kun AĤab.",

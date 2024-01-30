@@ -1,5 +1,5 @@
 export const chapter85 = {
-  chapterTitle: "Ĉaptiro 85",
+  chapterTitle: "Ĉapitro 85",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de la KoraĤidoj. Vi korfavoris, ho Eternulo, Vian landon, Vi revenigis la forkaptitojn de Jakob;",

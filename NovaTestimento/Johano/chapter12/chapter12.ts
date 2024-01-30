@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Jesuo do ses tagojn antaŭ la Pasko venis al Betania, kie estis Lazaro, kiun Jesuo relevis el inter la mortintoj.",

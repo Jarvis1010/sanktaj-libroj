@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Ŝimŝon iris en Gazan kaj vidis tie malĉastulinon kaj eniris al ŝi.",

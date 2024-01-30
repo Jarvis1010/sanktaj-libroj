@@ -1,5 +1,5 @@
 export const chapter42 = {
-  chapterTitle: "Ĉaptiro 42",
+  chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
     "Al la Ĥorestro. Instruo de la KoraĤidoj. Kiel cervo sopiras al fluanta akvo, Tiel mia animo sopiras al Vi, ho Dio.",

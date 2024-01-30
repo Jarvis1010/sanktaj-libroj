@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo en la stepoj de Moab ĉe la JeriĤa Jordan, dirante:",

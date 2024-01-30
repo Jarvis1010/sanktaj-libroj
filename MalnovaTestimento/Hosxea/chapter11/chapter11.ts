@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kiam Izrael estis junulo, Mi lin ekamis, kaj el Egiptujo Mi vokis Mian filon.",

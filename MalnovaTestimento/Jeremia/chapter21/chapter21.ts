@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, kiam la reĝo Cidkija sendis al li PaŝĤuron, filon de Malkija, kaj la pastron Cefanja, filo de Maaseja, por diri:",

@@ -1,5 +1,5 @@
 export const chapter129 = {
-  chapterTitle: "Ĉaptiro 129",
+  chapterTitle: "Ĉapitro 129",
   summary: "",
   verses: [
     "Kanto de suprenirado. Multe oni afliktis min de post mia juneco, Diras Izrael,",

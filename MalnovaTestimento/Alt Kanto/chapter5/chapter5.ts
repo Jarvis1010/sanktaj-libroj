@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Mi venis en mian ĝardenon, mia fratino, mia fianĉino; Mi deŝiris mian mirhon kaj miajn aromaĵojn;   Mi manĝis mian mielĉelaron, kiel ankaŭ mian mielon;   Mi trinkis mian vinon, kiel ankaŭ mian lakton.   Manĝu, ho miaj kamaradoj;   Drinku kaj ebriiĝu, ho miaj amikoj.",

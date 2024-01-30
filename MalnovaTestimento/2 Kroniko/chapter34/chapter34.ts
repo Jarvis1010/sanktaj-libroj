@@ -1,5 +1,5 @@
 export const chapter34 = {
-  chapterTitle: "Ĉaptiro 34",
+  chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
     "La aĝon de ok jaroj havis Joŝija, kiam li fariĝis reĝo, kaj tridek unu jarojn li reĝis en Jerusalem.",

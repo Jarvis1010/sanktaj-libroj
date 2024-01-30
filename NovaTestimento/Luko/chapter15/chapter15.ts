@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj ĉiuj impostistoj kaj pekuloj alproksimiĝis al li, por aŭskulti lin.",

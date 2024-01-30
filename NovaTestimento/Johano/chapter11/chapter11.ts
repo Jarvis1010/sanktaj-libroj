@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj estis unu malsanulo, nomata Lazaro, el Betania, la vilaĝo de Maria kaj ŝia fratino Marta.",

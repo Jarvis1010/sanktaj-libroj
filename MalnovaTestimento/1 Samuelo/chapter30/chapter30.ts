@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Kiam David kaj liaj viroj venis en Ciklagon en la tria tago, la Amalekidoj estis atakintaj la sudan regionon kaj Ciklagon, venkobatintaj Ciklagon kaj forbruligintaj ĝin per fajro.",

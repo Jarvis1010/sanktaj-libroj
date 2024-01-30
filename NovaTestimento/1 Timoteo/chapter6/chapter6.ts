@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Ĉiuj subjugaj sklavoj rigardu siajn estrojn kiel indajn je ĉia honoro, por ke la nomo de Dio kaj la doktrino ne estu blasfemataj.",

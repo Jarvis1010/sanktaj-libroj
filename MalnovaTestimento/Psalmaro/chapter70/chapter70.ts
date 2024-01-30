@@ -1,5 +1,5 @@
 export const chapter70 = {
-  chapterTitle: "Ĉaptiro 70",
+  chapterTitle: "Ĉapitro 70",
   summary: "",
   verses: [
     "Al la Ĥorestro. De David. Pro memoro. Volu, ho Dio, savi min; Ho Eternulo, rapidu helpi min.",

@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kaj mi vidis anĝelon malsuprenirantan el la ĉielo, havantan la ŝlosilon de la abismo kaj grandan katenon en sia mano.",

@@ -1,5 +1,5 @@
 export const chapter77 = {
-  chapterTitle: "Ĉaptiro 77",
+  chapterTitle: "Ĉapitro 77",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Jedutun. Psalmo de Asaf. Mia voĉo iras al Dio, kaj mi krias;   Mia voĉo iras al Dio, ke Li aŭskultu min.",

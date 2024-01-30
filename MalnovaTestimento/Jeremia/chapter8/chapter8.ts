@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "En tiu tempo, diras la Eternulo, oni elĵetos el iliaj tomboj la ostojn de la reĝoj de Judujo kaj la ostojn de ĝiaj princoj kaj la ostojn de la pastroj kaj la ostojn de la profetoj kaj la ostojn de la loĝantoj de Jerusalem;",

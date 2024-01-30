@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj la loto donis al la tribo de Manase, ĉar li estas la unuenaskito de Jozef; al MaĤir, unuenaskito de Manase kaj patro de Gilead, ĉar li estis homo militema, estis donitaj Gilead kaj Baŝan.",

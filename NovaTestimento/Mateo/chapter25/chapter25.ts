@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Tiam la regno de la ĉielo estos komparata al dek virgulinoj, kiuj prenis siajn lampojn kaj eliris renkonte al la fianĉo.",

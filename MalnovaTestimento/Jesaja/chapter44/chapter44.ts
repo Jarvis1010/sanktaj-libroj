@@ -1,5 +1,5 @@
 export const chapter44 = {
-  chapterTitle: "Ĉaptiro 44",
+  chapterTitle: "Ĉapitro 44",
   summary: "",
   verses: [
     "Sed nun aŭskultu, ho Jakob, Mia servanto, kaj Izrael, kiun Mi elektis.",

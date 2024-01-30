@@ -1,5 +1,5 @@
 export const chapter67 = {
-  chapterTitle: "Ĉaptiro 67",
+  chapterTitle: "Ĉapitro 67",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por kordaj instrumentoj. Psalmo-kanto. Dio nin korfavoru kaj benu; Li aperigu al ni Sian luman vizaĝon.  Sela.",

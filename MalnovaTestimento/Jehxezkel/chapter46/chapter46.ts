@@ -1,5 +1,5 @@
 export const chapter46 = {
-  chapterTitle: "Ĉaptiro 46",
+  chapterTitle: "Ĉapitro 46",
   summary: "",
   verses: [
     "Tiele diras la Sinjoro, la Eternulo:La pordego de la interna korto, kiu estas turnita al oriento, estu ŝlosita dum la ses laboraj tagoj, sed en la tago sabata ĝi estu malfermita, kaj ankaŭ en la monatkomenco ĝi estu malfermita.",

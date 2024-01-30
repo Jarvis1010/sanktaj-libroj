@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Ho, se mia kapo havus sufiĉe da akvo kaj miaj okuloj estus fonto da larmoj! tage kaj nokte mi priplorus la mortigitojn el mia popolo.",

@@ -1,5 +1,5 @@
 export const chapter49 = {
-  chapterTitle: "Ĉaptiro 49",
+  chapterTitle: "Ĉapitro 49",
   summary: "",
   verses: [
     "Aŭskultu min, ho insuloj, kaj atentu, ho malproksimaj gentoj:la Eternulo min alvokis el la ventro, el la interno de mia patrino Li vokis mian nomon.",

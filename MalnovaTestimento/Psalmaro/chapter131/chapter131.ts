@@ -1,5 +1,5 @@
 export const chapter131 = {
-  chapterTitle: "Ĉaptiro 131",
+  chapterTitle: "Ĉapitro 131",
   summary: "",
   verses: [
     "Kanto de suprenirado. De David. Ho Eternulo, ne tenas sin alte mia koro, kaj ne leviĝas alte miaj okuloj; Kaj mi ne okupas min per aferoj grandaj kaj neatingeblaj por mi.",

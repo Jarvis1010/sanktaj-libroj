@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Ni, kiuj estas fortaj, devas porti la malfortaĵojn de la nefortaj, kaj ne plaĉi al ni mem.",

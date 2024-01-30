@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Sed ne restos la mallumo super tiuj, kiuj estas premataj:kiel la antaŭa tempo humiligis la landon de Zebulun kaj la landon de Naftali, la sekvonta tempo glorigos la apudmaran vojon, la transan flankon de Jordan, la Galileon de la nacioj.",

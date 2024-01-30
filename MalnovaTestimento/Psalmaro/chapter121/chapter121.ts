@@ -1,5 +1,5 @@
 export const chapter121 = {
-  chapterTitle: "Ĉaptiro 121",
+  chapterTitle: "Ĉapitro 121",
   summary: "",
   verses: [
     "Kanto de suprenirado. Mi levas miajn okulojn al la montoj: De kie venas al mi helpo?",

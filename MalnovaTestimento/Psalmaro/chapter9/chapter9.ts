@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por mut-labeno. Psalmo de David. Mi gloros Vin, ho Eternulo, per mia tuta koro; Mi rakontos ĉiujn Viajn mirindaĵojn.",

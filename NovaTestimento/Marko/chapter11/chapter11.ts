@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj kiam ili alproksimiĝis al Jerusalem, al Betfage kaj Betania, apud la monto Olivarba, li sendis du el siaj disĉiploj,",

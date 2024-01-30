@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "En la unua jaro de Ciro, reĝo de Persujo, por ke plenumiĝu la vorto de la Eternulo, dirita per Jeremia, la Eternulo ekscitis la spiriton de Ciro, reĝo de Persujo, kaj ĉi tiu ordonis proklami en sia tuta regno voĉe kaj skribe jenon:",

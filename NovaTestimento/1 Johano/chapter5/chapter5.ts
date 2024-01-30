@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Ĉiu, kiu kredas, ke Jesuo estas la Kristo, naskiĝis el Dio; kaj ĉiu, kiu amas la Naskinton, amas ankaŭ la naskiton el Li.",

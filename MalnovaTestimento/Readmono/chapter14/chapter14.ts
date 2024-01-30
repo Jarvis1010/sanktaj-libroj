@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Vi estas filoj de la Eternulo, via Dio:ne faru sur vi entranĉojn kaj ne faru senharaĵon super viaj okuloj pro mortinto;",

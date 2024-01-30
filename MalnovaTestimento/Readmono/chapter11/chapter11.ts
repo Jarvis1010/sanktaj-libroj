@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Amu do la Eternulon, vian Dion, kaj observu Liajn aranĝojn kaj leĝojn kaj instrukciojn kaj ordonojn en ĉiu tempo.",

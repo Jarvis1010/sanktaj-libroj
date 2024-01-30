@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Ĉar Kristo do suferis en la karno, vi ankaŭ armu vin per la sama intenco; ĉar la suferinto en la karno apartiĝis de pekoj;",

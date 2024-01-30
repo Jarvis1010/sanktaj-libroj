@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "En la trideka jaro, en la kvina tago de la kvara monato, kiam mi estis inter la elpatrujigitoj ĉe la rivero Kebar, malfermiĝis la ĉielo, kaj mi ekvidis viziojn de Dio.",

@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj alvenis la Fariseoj kaj la Sadukeoj, kaj por provi lin postulis, ke li montru al ili signon el la ĉielo.",

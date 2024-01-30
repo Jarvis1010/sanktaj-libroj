@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "En la dua jaro de Joaŝ, filo de JoaĤaz, reĝo de Izrael, Amacja, filo de Joaŝ, reĝo de Judujo, fariĝis reĝo.",

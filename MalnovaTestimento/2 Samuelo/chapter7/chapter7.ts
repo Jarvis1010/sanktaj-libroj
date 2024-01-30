@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kiam la reĝo loĝis en sia domo, kaj la Eternulo donis al li ripozon rilate ĉiujn liajn malamikojn ĉirkaŭe,",

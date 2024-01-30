@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "La aĝon de dek du jaroj havis Manase, kiam li fariĝis reĝo, kaj kvindek kvin jarojn li reĝis en Jerusalem. La nomo de lia patrino estis ĥefci-Ba.",

@@ -1,5 +1,5 @@
 export const chapter147 = {
-  chapterTitle: "Ĉaptiro 147",
+  chapterTitle: "Ĉapitro 147",
   summary: "",
   verses: [
     "Haleluja! Ĉar estas bone kanti al nia Dio,   Ĉar agrabla estas la glorkantado.",

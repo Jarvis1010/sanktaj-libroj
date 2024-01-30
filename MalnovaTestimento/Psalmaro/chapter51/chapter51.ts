@@ -1,5 +1,5 @@
 export const chapter51 = {
-  chapterTitle: "Ĉaptiro 51",
+  chapterTitle: "Ĉapitro 51",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David, kiam venis al li la profeto Natan post lia aliĝo al Bat-Ŝeba. Korfavoru min, ho Dio, laŭ Via boneco; Laŭ Via granda kompatemeco elstreku miajn pekojn.",

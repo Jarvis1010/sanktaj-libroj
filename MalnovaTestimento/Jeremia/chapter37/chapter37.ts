@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "Kaj ekreĝis la reĝo Cidkija, filo de Joŝija, anstataŭ Konja, filo de Jehojakim, ĉar Nebukadnecar, reĝo de Babel, faris lin reĝo en la Juda lando.",

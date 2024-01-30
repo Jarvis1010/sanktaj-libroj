@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Kaj estis en la tempo de Amrafel, reĝo de Ŝinar, ArjoĤ, reĝo de Elasar, Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim;",

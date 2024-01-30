@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Noa: Eniru vi kaj via tuta familio en la arkeon, ĉar vin Mi vidis, ke vi estas virtulo antaŭ Mi en ĉi tiu generacio.",

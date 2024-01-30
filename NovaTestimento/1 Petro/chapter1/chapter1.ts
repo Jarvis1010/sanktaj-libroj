@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Petro, apostolo de Jesuo Kristo, al la elektitoj, kiuj estas el la dispelitaro, pasloĝantaj en Ponto, Galatujo, Kapadokio, Azio, kaj Bitinio,",

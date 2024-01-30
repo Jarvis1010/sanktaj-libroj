@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Okazis poste, ke mortis NaĤaŝ, reĝo de la Amonidoj, kaj lia filo fariĝis reĝo anstataŭ li.",

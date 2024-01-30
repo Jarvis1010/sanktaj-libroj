@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj mi vidis novan ĉielon kaj novan teron; ĉar la unua ĉielo kaj la unua tero forpasis; kaj la maro jam ne ekzistis.",

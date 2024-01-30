@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj li diris al ili:Vere mi diras al vi:Inter la ĉi tie starantaj estas iuj, kiuj neniel gustumos morton, antaŭ ol ili vidos la regnon de Dio venintan en potenco.",

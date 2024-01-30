@@ -1,5 +1,5 @@
 export const chapter40 = {
-  chapterTitle: "Ĉaptiro 40",
+  chapterTitle: "Ĉapitro 40",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, post kiam Nebuzaradan, estro de la korpogardistoj, forliberigis lin el Rama, kiam li prenis lin, ligitan per ĉenoj, inter ĉiuj kaptitoj de Jerusalem kaj Judujo, forkondukataj en Babelon.",

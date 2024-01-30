@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj post ses tagoj Jesuo prenis kun si Petron, kaj Jakobon, kaj Johanon, lian fraton, kaj kondukis ilin sur altan monton aparte;",

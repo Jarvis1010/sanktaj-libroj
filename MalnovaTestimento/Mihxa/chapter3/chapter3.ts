@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Mi diris:Aŭskultu, ho ĉefoj de Jakob kaj estroj de la domo de Izrael! Vi devas ja scii la juron;",

@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Jen la trian fojon mi venas al vi. Laŭ la diro de du atestantoj aŭ tri ĉiu vorto estu konfirmita.",

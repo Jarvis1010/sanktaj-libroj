@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Tedis al mia animo mia vivo; Mi fordonos min al mia plendado;   Mi parolos en la malĝojeco de mia animo.",

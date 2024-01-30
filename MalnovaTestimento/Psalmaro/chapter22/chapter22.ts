@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por ario:Matenkrepuska Cervino. Psalmo de David. Mia Dio, mia Dio, kial Vi forlasis min,   Kaj estas malproksima de mia savo, de miaj plendaj paroloj?",

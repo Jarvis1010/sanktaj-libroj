@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Afero, kiun Jesaja, filo de Amoc, vidis vizie pri Judujo kaj Jerusalem.",

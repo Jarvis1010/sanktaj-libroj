@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "En la tempo, kiam regis la juĝistoj, iam malsato okazis en la lando; kaj foriris viro el Bet-LeĤem en Judujo, por pasloĝi en la lando de Moab; li kaj lia edzino kaj liaj du filoj.",

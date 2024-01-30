@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Vortoj de NeĤemja, filo de ĥaĤalja. En la monato Kislev, en la dudeka jaro, mi estis en la kastelurbo Ŝuŝan.",

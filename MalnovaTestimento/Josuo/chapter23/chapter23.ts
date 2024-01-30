@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Longan tempon post kiam la Eternulo donis al Izrael ripozon kontraŭ ĉiuj iliaj malamikoj ĉirkaŭe, Josuo maljuniĝis, atingis profundan aĝon.",

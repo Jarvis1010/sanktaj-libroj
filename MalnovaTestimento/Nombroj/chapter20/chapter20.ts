@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kaj venis la Izraelidoj, la tuta komunumo, en la dezerton Cin en la unua monato; kaj la popolo ekloĝis en Kadeŝ, kaj tie mortis Mirjam kaj estis tie enterigita.",

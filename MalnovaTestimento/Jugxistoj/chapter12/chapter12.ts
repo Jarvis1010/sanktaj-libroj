@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kaj kolektiĝis la Efraimidoj kaj iris norden, kaj diris al JiftaĤ:Kial vi iris militi kontraŭ la Amonidoj, kaj nin ne vokis, ke ni iru kun vi? vian domon kune kun vi ni forbruligos per fajro.",

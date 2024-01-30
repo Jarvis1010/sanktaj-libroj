@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Josuo:Ne timu, kaj ne estu malkuraĝa; prenu kun vi ĉiujn militistojn, kaj leviĝu kaj iru al Aj; vidu, Mi transdonis en vian manon la reĝon de Aj kaj lian popolon kaj lian urbon kaj lian landon.",

@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Paroloj de Jeremia, filo de ĥilkija, el la pastroj, kiuj estis en Anatot, en la lando de Benjamen;",

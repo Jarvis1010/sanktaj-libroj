@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kaj Agripo diris al Paŭlo:Estas permesate al vi paroli por vi mem. Tiam Paŭlo, etendinte sian manon, responde pledis:",

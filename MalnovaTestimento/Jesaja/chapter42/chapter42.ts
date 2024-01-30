@@ -1,5 +1,5 @@
 export const chapter42 = {
-  chapterTitle: "Ĉaptiro 42",
+  chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
     "Jen estas Mia servanto, kiun Mi apogas, Mia elektito, kiun favoras Mia animo. Mi metis Mian spiriton sur lin; li disportos justecon al la nacioj.",

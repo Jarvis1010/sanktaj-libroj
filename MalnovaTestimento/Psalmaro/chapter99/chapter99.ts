@@ -1,5 +1,5 @@
 export const chapter99 = {
-  chapterTitle: "Ĉaptiro 99",
+  chapterTitle: "Ĉapitro 99",
   summary: "",
   verses: [
     "La Eternulo reĝas, tremas la popoloj; Li sidas sur keruboj, ŝanceliĝas la tero.",

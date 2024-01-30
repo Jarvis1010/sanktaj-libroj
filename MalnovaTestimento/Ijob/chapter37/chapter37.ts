@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "Pri tio tremas mia koro Kaj saltas de sia loko.",

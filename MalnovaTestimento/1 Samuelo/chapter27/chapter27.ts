@@ -1,5 +1,5 @@
 export const chapter27 = {
-  chapterTitle: "Ĉaptiro 27",
+  chapterTitle: "Ĉapitro 27",
   summary: "",
   verses: [
     "Tamen David diris al si mem:Mi povas enfali iun tagon en la manon de Saul; estas por mi nenio pli bona, ol ke mi forkuru en la landon de la Filiŝtoj, por ke Saul ĉesu serĉi min plu en la regionoj de Izrael, kaj por ke mi saviĝu kontraŭ lia mano.",

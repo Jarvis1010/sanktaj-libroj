@@ -1,5 +1,5 @@
 export const chapter75 = {
-  chapterTitle: "Ĉaptiro 75",
+  chapterTitle: "Ĉapitro 75",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Al-taŝĤet. Psalmo de Asaf. Kanto. Ni gloras Vin, ho Dio, ni gloras Vin; Proksima estas Via nomo;   Oni rakontas Viajn miraklojn.",

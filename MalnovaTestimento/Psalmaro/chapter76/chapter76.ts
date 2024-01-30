@@ -1,5 +1,5 @@
 export const chapter76 = {
-  chapterTitle: "Ĉaptiro 76",
+  chapterTitle: "Ĉapitro 76",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por kordaj instrumentoj. Psalmo de Asaf. Kanto. Dio estas konata en Judujo; Granda estas Lia nomo en Izrael.",

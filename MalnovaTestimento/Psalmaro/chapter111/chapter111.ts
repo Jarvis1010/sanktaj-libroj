@@ -1,5 +1,5 @@
 export const chapter111 = {
-  chapterTitle: "Ĉaptiro 111",
+  chapterTitle: "Ĉapitro 111",
   summary: "",
   verses: [
     "Haleluja! Mi gloras la Eternulon per mia tuta koro,   En rondo de piuloj kaj en kunveno.",

@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Kaj vi alproksimigu al vi vian fraton Aaron kaj liajn filojn kun li el inter la Izraelidoj, por ke li estu Mia pastro:Aaron, kaj Nadab, Abihu, Eleazar, kaj Itamar, la filoj de Aaron.",

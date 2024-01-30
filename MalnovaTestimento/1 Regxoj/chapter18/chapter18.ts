@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Post multe da tempo aperis la vorto de la Eternulo al Elija en la tria jaro, dirante:Iru, montru vin al AĤab, kaj Mi donos pluvon sur la teron.",

@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Profetaĵo pri la apudmara dezerto: Kiel renversanta de ventego de sudo, li venas el la dezerto, el lando terura.",

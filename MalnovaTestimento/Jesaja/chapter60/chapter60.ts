@@ -1,5 +1,5 @@
 export const chapter60 = {
-  chapterTitle: "Ĉaptiro 60",
+  chapterTitle: "Ĉapitro 60",
   summary: "",
   verses: [
     "Leviĝu, lumiĝu; ĉar venas via lumo, kaj la majesto de la Eternulo ekbrilas super vi.",

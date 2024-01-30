@@ -1,5 +1,5 @@
 export const chapter119 = {
-  chapterTitle: "Ĉaptiro 119",
+  chapterTitle: "Ĉapitro 119",
   summary: "",
   verses: [
     "ALEF. Bone estas al tiuj, kies vojo estas senmakula, Kiuj iras laŭ la leĝo de la Eternulo.",

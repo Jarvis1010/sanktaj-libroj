@@ -1,5 +1,5 @@
 export const chapter149 = {
-  chapterTitle: "Ĉaptiro 149",
+  chapterTitle: "Ĉapitro 149",
   summary: "",
   verses: [
     "Haleluja! Kantu al la Eternulo novan kanton,   Lian gloron en la anaro de fideluloj.",

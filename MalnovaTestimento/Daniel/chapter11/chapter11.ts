@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "En la unua jaro de Dario, la Medo, mi staris, por subteni kaj fortigi min.",

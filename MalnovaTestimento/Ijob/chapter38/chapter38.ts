@@ -1,5 +1,5 @@
 export const chapter38 = {
-  chapterTitle: "Ĉaptiro 38",
+  chapterTitle: "Ĉapitro 38",
   summary: "",
   verses: [
     "La Eternulo el ventego ekparolis al Ijob, kaj diris:",

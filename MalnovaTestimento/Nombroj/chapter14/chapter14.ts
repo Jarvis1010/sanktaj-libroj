@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Tiam tumultiĝis la tuta komunumo kaj ekkriis, kaj la popolo ploris en tiu nokto.",

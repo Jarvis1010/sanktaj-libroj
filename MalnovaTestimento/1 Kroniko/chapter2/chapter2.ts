@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Jen estas la filoj de Izrael:Ruben, Simeon, Levi, Jehuda, IsaĤar, Zebulun,",

@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Estis malsato en la tempo de David dum tri jaroj, jaron post jaro. Kaj David faris demandon ĉe la Eternulo; kaj la Eternulo respondis:Tio estas pro Saul kaj pro la sangavida domo, pro tio, ke li mortigis la Gibeonanojn.",

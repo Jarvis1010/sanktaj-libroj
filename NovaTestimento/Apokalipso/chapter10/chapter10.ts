@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj mi vidis alian fortan anĝelon, malsuprenirantan el la ĉielo, vestitan per nubo; kaj la ĉielarko estis super lia kapo, kaj lia vizaĝo estis kiel la suno, kaj liaj piedoj kiel kolonoj el fajro;",

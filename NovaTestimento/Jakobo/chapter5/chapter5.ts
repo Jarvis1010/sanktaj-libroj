@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Atentu nun, riĉuloj; ploregu kaj kriegu pro la mizeroj sur vin alvenontaj.",

@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "En tiu tago la jena kanto estos kantata en la lando Juda:Ni havas urbon potencan; savon Li starigas kiel murojn kaj remparon.",

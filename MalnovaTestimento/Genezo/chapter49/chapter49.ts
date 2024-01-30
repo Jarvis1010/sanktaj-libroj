@@ -1,5 +1,5 @@
 export const chapter49 = {
-  chapterTitle: "Ĉaptiro 49",
+  chapterTitle: "Ĉapitro 49",
   summary: "",
   verses: [
     "Kaj Jakob alvokis siajn filojn, kaj diris: Kolektiĝu, kaj mi sciigos al vi, kio fariĝos al vi en la tempo venonta.",

@@ -1,5 +1,5 @@
 export const chapter58 = {
-  chapterTitle: "Ĉaptiro 58",
+  chapterTitle: "Ĉapitro 58",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Al-taŝĤet. Verko de David. Ĉu efektive vi parolas veron, vi potenculoj? Ĉu vi juste juĝas, homidoj?",

@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj li diris ankaŭ al siaj disĉiploj:Estis unu riĉa homo, kiu havis administranton; kaj ĉi tiu estis denuncita al li, ke li disperdas lian havon.",

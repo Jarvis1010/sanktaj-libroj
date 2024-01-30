@@ -1,5 +1,5 @@
 export const chapter101 = {
-  chapterTitle: "Ĉaptiro 101",
+  chapterTitle: "Ĉapitro 101",
   summary: "",
   verses: [
     "Psalmo de David. Bonecon kaj justecon mi prikantos; Al Vi, ho Eternulo, mi muzikos.",

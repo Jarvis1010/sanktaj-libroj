@@ -1,5 +1,5 @@
 export const chapter115 = {
-  chapterTitle: "Ĉaptiro 115",
+  chapterTitle: "Ĉapitro 115",
   summary: "",
   verses: [
     "Ne al ni, ho Eternulo, ne al ni, Sed al Via nomo donu honoron,   Pro Via favorkoreco, pro Via vereco.",

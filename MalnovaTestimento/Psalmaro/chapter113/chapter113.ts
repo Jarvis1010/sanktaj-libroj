@@ -1,5 +1,5 @@
 export const chapter113 = {
-  chapterTitle: "Ĉaptiro 113",
+  chapterTitle: "Ĉapitro 113",
   summary: "",
   verses: [
     "Haleluja! Gloru, sklavoj de la Eternulo,   Gloru la nomon de la Eternulo.",

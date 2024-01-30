@@ -1,5 +1,5 @@
 export const chapter40 = {
-  chapterTitle: "Ĉaptiro 40",
+  chapterTitle: "Ĉapitro 40",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Mi atende esperis al la Eternulo, Kaj Li kliniĝis al mi kaj aŭskultis mian krion.",

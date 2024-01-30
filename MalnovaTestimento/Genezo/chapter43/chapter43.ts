@@ -1,5 +1,5 @@
 export const chapter43 = {
-  chapterTitle: "Ĉaptiro 43",
+  chapterTitle: "Ĉapitro 43",
   summary: "",
   verses: [
     "La malsato estis tre premanta en la lando.",

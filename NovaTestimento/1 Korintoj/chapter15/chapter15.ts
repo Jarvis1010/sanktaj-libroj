@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj mi sciigas vin, fratoj, pri la evangelio, kiun mi predikis al vi, kiun ankaŭ vi ricevis, en kiu ankaŭ vi staras,",

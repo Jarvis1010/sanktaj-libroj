@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj la tuta popolo, kiel unu homo, kolektiĝis sur la placo, kiu estas antaŭ la Pordego de la Akvo, kaj ili diris al Ezra, la skribisto, ke li alportu la libron de instruo de Moseo, kiun la Eternulo ordonis al Izrael.",

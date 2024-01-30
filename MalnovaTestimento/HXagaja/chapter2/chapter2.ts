@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "En la sepa monato, en la dudek-unua tago de la monato, aperis vorto de la Eternulo per la profeto ĥagaj, dirante:",

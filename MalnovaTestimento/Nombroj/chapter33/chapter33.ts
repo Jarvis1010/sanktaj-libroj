@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Jen estas la iroj de la Izraelidoj, per kiuj ili eliris el la lando Egipta, laŭ siaj taĉmentoj, sub la kondukado de Moseo kaj Aaron.",

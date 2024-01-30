@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Ekzistas malbono, kiun mi vidis sub la suno, kaj granda ĝi estas por la homo:",

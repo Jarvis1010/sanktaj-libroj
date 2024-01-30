@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj kiam aŭdis ĉiuj reĝoj, kiuj loĝis trans Jordan, sur la monto kaj en la valo, kaj sur la tuta bordo de la Granda Maro kontraŭ Lebanon, la ĥetidoj, kaj la Amoridoj, la Kanaanidoj, la Perizidoj, la ĥividoj, kaj la Jebusidoj,",

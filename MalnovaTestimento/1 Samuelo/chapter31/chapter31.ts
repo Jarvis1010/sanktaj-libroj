@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Dume la Filiŝtoj batalis kontraŭ Izrael; kaj la Izraelidoj forkuris de la Filiŝtoj kaj falis mortigitaj sur la monto Gilboa.",

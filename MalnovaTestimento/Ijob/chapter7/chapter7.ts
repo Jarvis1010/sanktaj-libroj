@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Difinita estas ja por la homo la limtempo sur la tero, Kaj liaj tagoj estas kiel la tagoj de dungito.",

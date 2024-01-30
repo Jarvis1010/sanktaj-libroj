@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Miaj fratoj, ne kun personfavorado tenu la fidon de nia Sinjoro Jesuo Kristo, la glora Sinjoro.",

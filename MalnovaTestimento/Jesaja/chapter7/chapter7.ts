@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "En la tempo de AĤaz, filo de Jotam, filo de Uzija, reĝo de Judujo, eliris Recin, reĝo de Sirio, kaj PekaĤ, filo de Remalja, reĝo de Izrael,  kontraŭ Jerusalemon, por militi kontraŭ ĝi; sed ili ne povis konkeri ĝin.",

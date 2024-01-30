@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Unu jaro pasis post la reĝiĝo de Saul, kaj jam du jarojn li reĝis super Izrael.",

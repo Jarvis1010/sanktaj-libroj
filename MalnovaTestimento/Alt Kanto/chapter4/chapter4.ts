@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Vi estas bela, mia amatino, vi estas bela; Viaj okuloj estas kolombaj, malantaŭ via vualo.   Viaj haroj estas kiel aro da kaprinoj,   Deirantaj sur la deklivo de la monto Gilead.",

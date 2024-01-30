@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Tiele diris la Eternulo:Iru en la domon de la reĝo de Judujo, kaj diru tie jenon:",

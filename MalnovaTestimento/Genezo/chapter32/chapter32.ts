@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Kaj Jakob iris sian vojon. Kaj renkontiĝis kun li anĝeloj de Dio.",

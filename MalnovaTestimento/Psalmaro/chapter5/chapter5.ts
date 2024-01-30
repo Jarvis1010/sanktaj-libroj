@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por blovaj instrumentoj. Psalmo de David. Miajn vortojn aŭskultu, ho Eternulo. Trapenetru miajn pensojn.",

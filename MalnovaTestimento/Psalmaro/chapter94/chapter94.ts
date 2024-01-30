@@ -1,5 +1,5 @@
 export const chapter94 = {
-  chapterTitle: "Ĉaptiro 94",
+  chapterTitle: "Ĉapitro 94",
   summary: "",
   verses: [
     "Dio de venĝo, ho Eternulo, Dio de venĝo, aperu!",

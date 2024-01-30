@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kiam Efraim parolis, oni timis; li altiĝis en Izrael. Sed li fariĝis kulpa per Baal, kaj mortis.",

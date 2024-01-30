@@ -1,5 +1,5 @@
 export const chapter41 = {
-  chapterTitle: "Ĉaptiro 41",
+  chapterTitle: "Ĉapitro 41",
   summary: "",
   verses: [
     "Silentu antaŭ Mi, ho insuloj, kaj la popoloj refortiĝu; ili alproksimiĝu kaj parolu; ni kune iru al juĝo.",

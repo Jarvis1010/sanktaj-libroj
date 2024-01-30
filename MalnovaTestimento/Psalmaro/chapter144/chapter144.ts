@@ -1,5 +1,5 @@
 export const chapter144 = {
-  chapterTitle: "Ĉaptiro 144",
+  chapterTitle: "Ĉapitro 144",
   summary: "",
   verses: [
     "De David. Benata estu la Eternulo, mia Roko, Kiu instruas miajn manojn batali, miajn fingrojn militi:",

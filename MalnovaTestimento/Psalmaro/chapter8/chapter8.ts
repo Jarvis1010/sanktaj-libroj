@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por la gitito. Psalmo de David. Ho Eternulo, nia Sinjoro, Kiel majesta estas Via nomo sur la tuta tero!   Vi levis Vian gloron super la ĉielon.",

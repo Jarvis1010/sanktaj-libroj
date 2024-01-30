@@ -1,5 +1,5 @@
 export const chapter44 = {
-  chapterTitle: "Ĉaptiro 44",
+  chapterTitle: "Ĉapitro 44",
   summary: "",
   verses: [
     "Kaj li venigis min denove al la ekstera pordego de la sanktejo, al tiu, kiu estis turnita orienten; sed ĝi estis ŝlosita.",

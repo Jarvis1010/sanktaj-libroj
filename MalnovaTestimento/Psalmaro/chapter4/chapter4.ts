@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por kordaj instrumentoj. Psalmo de David. Kiam mi vokas, respondu al mi, justa mia Dio! En premo Vi liberigas min;   Korfavoru min, kaj aŭskultu mian preĝon.",

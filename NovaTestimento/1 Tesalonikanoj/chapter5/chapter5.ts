@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Sed pri la tempoj kaj okazoj, fratoj, vi ne bezonas, ke oni skribu al vi.",

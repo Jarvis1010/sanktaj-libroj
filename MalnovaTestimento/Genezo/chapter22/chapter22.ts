@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Post tiuj okazintaĵoj Dio provis Abrahamon, kaj diris al li: Abraham! Kaj tiu respondis: Jen mi estas.",

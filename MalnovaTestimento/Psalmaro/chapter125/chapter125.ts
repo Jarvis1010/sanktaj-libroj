@@ -1,5 +1,5 @@
 export const chapter125 = {
-  chapterTitle: "Ĉaptiro 125",
+  chapterTitle: "Ĉapitro 125",
   summary: "",
   verses: [
     "Kanto de suprenirado. Kiuj fidas la Eternulon, Tiuj estas kiel la monto Cion,   Kiu ne ŝanceliĝas, sed restas eterne.",

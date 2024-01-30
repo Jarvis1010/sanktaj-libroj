@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Boaz iris al la pordego de la urbo kaj sidiĝis tie. Kaj jen preterpasas la parenco, pri kiu Boaz parolis. Kaj li diris:Alproksimiĝu kaj sidiĝu ĉi tie, vi, tia-tia. Tiu alproksimiĝis kaj sidiĝis.",

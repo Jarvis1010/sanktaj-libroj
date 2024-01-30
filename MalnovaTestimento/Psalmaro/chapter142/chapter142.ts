@@ -1,5 +1,5 @@
 export const chapter142 = {
-  chapterTitle: "Ĉaptiro 142",
+  chapterTitle: "Ĉapitro 142",
   summary: "",
   verses: [
     "Instruo de David, kiam li estis en la kaverno. Preĝo. Per mia voĉo mi krias al la Eternulo, Per mia voĉo mi preĝas al la Eternulo.",

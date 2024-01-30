@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Tiele diras la Eternulo:Pro tri krimoj de Moab kaj pro kvar Mi ne indulgos lin, pro tio, ke li forbruligis la ostojn de la reĝo de Edom ĝis cindreco.",

@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj vojaĝinte tra Amfipolis kaj Apolonia, ili alvenis en Tesalonikon, kie estis sinagogo de la Judoj;",

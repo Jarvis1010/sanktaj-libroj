@@ -1,5 +1,5 @@
 export const chapter45 = {
-  chapterTitle: "Ĉaptiro 45",
+  chapterTitle: "Ĉapitro 45",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por ŝoŝanoj. Instrua ama kanto de la KoraĤidoj. Mia koro pleniĝis per bona temo;   Mi kantos pri reĝo;   Mia lango estas kiel plumo de lerta skribisto.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Aŭskultu ĉi tiun vorton, per kiu mi plorkantas pri vi, ho domo de Izrael.",

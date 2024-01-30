@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Aŭskultu, ho Izrael! vi transiras nun Jordanon, por iri kaj ekposedi popolojn, kiuj estas pli grandaj kaj pli fortaj ol vi, urbojn grandajn kaj fortikigitajn ĝis la ĉielo,",

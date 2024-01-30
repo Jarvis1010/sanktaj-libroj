@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Iru al Faraono, ĉar Mi obstinigis lian koron kaj la korojn de liaj servantoj, por ke Mi faru ĉi tiujn Miajn signojn inter ili;",

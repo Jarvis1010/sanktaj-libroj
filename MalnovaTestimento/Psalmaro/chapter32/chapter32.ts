@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Instruo de David. Feliĉa estas tiu, kies krimo estas pardonita, kies peko estas kovrita.",

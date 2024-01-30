@@ -1,5 +1,5 @@
 export const chapter46 = {
-  chapterTitle: "Ĉaptiro 46",
+  chapterTitle: "Ĉapitro 46",
   summary: "",
   verses: [
     "Jen estas la vorto de la Eternulo, kiu aperis al la profeto Jeremia pri la nacioj:",

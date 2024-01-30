@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Paŭlo, malliberulo por Kristo Jesuo, kaj Timoteo, la frato, al Filemon, nia amato kaj kunlaboranto,",

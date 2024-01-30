@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj estis finitaj la ĉielo kaj la tero kaj ĉiuj iliaj apartenaĵoj.",

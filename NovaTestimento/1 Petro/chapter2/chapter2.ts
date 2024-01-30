@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Formetinte do ĉian malbonon kaj ĉian trompon kaj hipokritecon kaj enviojn kaj ĉiajn kalumniojn,",

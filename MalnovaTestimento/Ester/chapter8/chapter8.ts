@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "En tiu tago la reĝo AĤaŝveroŝ transdonis al la reĝino Ester la domon de Haman, la malamiko de la Judoj; kaj MordeĤaj venis antaŭ la reĝon, ĉar Ester diris, kio li estas por ŝi.",

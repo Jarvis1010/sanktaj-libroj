@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kiam Saul revenis de sia iro kontraŭ la Filiŝtoj, oni raportis al li, dirante:Jen David estas en la dezerto En-Gedi.",

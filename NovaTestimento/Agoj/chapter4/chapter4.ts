@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj dum ili parolis al la popolo, venis sur ilin la ĉefpastroj, la kapitano de la templo, kaj la Sadukeoj,",

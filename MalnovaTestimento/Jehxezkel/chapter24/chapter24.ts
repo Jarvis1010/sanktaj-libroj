@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo en la naŭa jaro, en la deka monato, en la deka tago de la monato, dirante:",

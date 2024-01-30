@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "En tiu tempo leviĝos MiĤael, la granda protektanto, kiu defendas la filojn de via popolo; kaj venos tempo malfacila, kia ne ekzistis de tiu tempo, kiam aperis homoj, ĝis la nuna tempo; sed saviĝos en tiu tempo el via popolo ĉiuj, kiuj troviĝos enskribitaj en la libro.",

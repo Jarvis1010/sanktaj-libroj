@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Kaj li diris al siaj disĉiploj:Ne povas esti, ke faliloj ne venos, sed ve al tiu, per kiu ili venos!",

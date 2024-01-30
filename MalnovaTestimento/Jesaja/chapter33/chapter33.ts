@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Ve al vi, kiu rabas kaj mem ne estas prirabita, kaj kiu perfidas kaj mem ne estas perfidita! Kiam vi finos la rabadon, vi mem estos prirabita; kiam vi ĉesos perfidi, vi mem estos perfidita.",

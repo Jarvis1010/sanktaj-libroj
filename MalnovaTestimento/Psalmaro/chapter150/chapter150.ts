@@ -1,5 +1,5 @@
 export const chapter150 = {
-  chapterTitle: "Ĉaptiro 150",
+  chapterTitle: "Ĉapitro 150",
   summary: "",
   verses: [
     "Haleluja! Gloru Dion en Lia sanktejo,   Gloru Lin en la firmaĵo de Lia forto.",

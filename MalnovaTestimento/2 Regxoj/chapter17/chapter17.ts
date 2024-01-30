@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "En la dek-dua jaro de AĤaz, reĝo de Judujo, Hoŝea, filo de Ela, fariĝis reĝo en Samario super Izrael, kaj li reĝis naŭ jarojn.",

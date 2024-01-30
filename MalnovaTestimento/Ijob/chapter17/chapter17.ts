@@ -1,5 +1,5 @@
 export const chapter17 = {
-  chapterTitle: "Ĉaptiro 17",
+  chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
     "Mia spirito senfortiĝis, miaj tagoj mallongiĝis, Tomboj estas antaŭ mi.",

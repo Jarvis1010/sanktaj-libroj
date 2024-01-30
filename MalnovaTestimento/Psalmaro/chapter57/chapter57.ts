@@ -1,5 +1,5 @@
 export const chapter57 = {
-  chapterTitle: "Ĉaptiro 57",
+  chapterTitle: "Ĉapitro 57",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por Al-taŝĤet. Verko de David, kiam li forkuris de Saul en la kavernon. Korfavoru min, ho Dio, korfavoru min; Ĉar ĉe Vi rifuĝas mia animo,   Kaj sub la ombro de Viaj flugiloj mi min kaŝas,   Ĝis pasos la mizeroj.",

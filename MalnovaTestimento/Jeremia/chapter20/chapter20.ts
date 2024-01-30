@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kiam la pastro PaŝĤur, filo de Imer, la ĉefa oficisto en la domo de la Eternulo, aŭdis, kiel Jeremia profetis ĉion diritan,",

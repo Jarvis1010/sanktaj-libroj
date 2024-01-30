@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Salomono, filo de David, fortikiĝis en sia regno; kaj la Eternulo, lia Dio, estis kun li kaj levis lin alte.",

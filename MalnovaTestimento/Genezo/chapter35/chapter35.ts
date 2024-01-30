@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Kaj Dio diris al Jakob: Leviĝu, iru al Bet-El kaj loĝu tie; kaj faru tie altaron al Dio, kiu aperis al vi, kiam vi kuris de via frato Esav.",

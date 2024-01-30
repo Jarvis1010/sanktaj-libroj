@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj kiam la homoj komencis multiĝi sur la tero kaj al ili naskiĝis filinoj,",

@@ -1,5 +1,5 @@
 export const chapter64 = {
-  chapterTitle: "Ĉaptiro 64",
+  chapterTitle: "Ĉapitro 64",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Aŭdu, ho Dio, mian krion en mia malĝojo; De la teruro pri malamiko gardu mian vivon.",

@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo post la morto de la du filoj de Aaron, kiam ili venis antaŭ la Eternulon kaj mortis.",

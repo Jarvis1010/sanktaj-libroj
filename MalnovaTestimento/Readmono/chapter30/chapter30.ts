@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Kaj kiam venos sur vin ĉiuj ĉi tiuj aferoj, la beno kaj la malbeno, kiujn mi prezentis al vi, kaj vi pentos per via koro inter ĉiuj popoloj,  inter kiujn ĵetis vin la Eternulo, via Dio;",

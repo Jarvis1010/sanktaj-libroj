@@ -1,5 +1,5 @@
 export const chapter34 = {
-  chapterTitle: "Ĉaptiro 34",
+  chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
     "Dina, la filino de Lea, kiun ŝi naskis al Jakob, eliris, por vidi la filinojn de la lando.",

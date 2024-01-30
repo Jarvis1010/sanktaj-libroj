@@ -1,5 +1,5 @@
 export const chapter48 = {
-  chapterTitle: "Ĉaptiro 48",
+  chapterTitle: "Ĉapitro 48",
   summary: "",
   verses: [
     "Pri Moab:Tiele diras la Eternulo Cebaot, Dio de Izrael:Ve al Nebo! ĉar ĝi estas ruinigita; hontigita kaj venkoprenita estas Kirjataim; hontigita kaj tremigita estas la fortikaĵo.",

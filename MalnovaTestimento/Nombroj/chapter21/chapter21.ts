@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj la Kanaanido, la reĝo de Arad, kiu loĝis en la Sudo, aŭdis, ke Izrael venas per la vojo de Atarim; kaj li ekbatalis kontraŭ Izrael kaj kaptis kelkajn kiel militkaptitojn.",

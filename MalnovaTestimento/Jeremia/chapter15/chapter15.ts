@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al mi:Eĉ se stariĝus antaŭ Mi Moseo kaj Samuel, eĉ tiam Mia animo ne estos kun tiu popolo; forpelu ilin de antaŭ Mia vizaĝo, ili foriru.",

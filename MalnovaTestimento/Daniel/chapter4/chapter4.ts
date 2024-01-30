@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "La reĝo Nebukadnecar al ĉiuj popoloj, gentoj, kaj lingvoj, kiuj estas sur la tuta tero:Kresku via bonstato!",

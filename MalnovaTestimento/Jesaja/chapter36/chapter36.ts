@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Tio estis en la dek-kvara jaro de la reĝo ĥizkija, eliris SanĤerib, reĝo de Asirio, kontraŭ ĉiujn fortikigitajn urbojn de Judujo, kaj venkoprenis ilin.",

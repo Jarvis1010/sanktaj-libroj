@@ -1,5 +1,5 @@
 export const chapter47 = {
-  chapterTitle: "Ĉaptiro 47",
+  chapterTitle: "Ĉapitro 47",
   summary: "",
   verses: [
     "Iru malsupren kaj sidiĝu sur polvo, ho virgulino filino de Babel; sidiĝu sur la tero, sentronigita filino de la ĥaldeoj; ĉar oni ne plu nomos vin delikata kaj dorlotata.",

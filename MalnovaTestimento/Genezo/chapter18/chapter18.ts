@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kaj aperis al li la Eternulo en la arbareto Mamre, kiam li sidis ĉe la pordo de la tendo dum la varmego de la tago.",

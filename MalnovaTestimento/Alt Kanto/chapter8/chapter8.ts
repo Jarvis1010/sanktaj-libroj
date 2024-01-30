@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Ho, se vi estus al mi kiel frato, Kiu suĉis la mamojn de mia patrino!   Se mi renkontus vin ekstere, mi kisus vin;   Kaj tamen neniu malestimus min.",

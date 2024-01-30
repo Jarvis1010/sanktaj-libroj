@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "De David. Ne incitiĝu pro la malvirtuloj; Ne enviu tiujn, kiuj agas maljuste.",

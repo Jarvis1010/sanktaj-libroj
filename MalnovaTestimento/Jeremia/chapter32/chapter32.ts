@@ -1,5 +1,5 @@
 export const chapter32 = {
-  chapterTitle: "Ĉaptiro 32",
+  chapterTitle: "Ĉapitro 32",
   summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo en la deka jaro de Cidkija, reĝo de Judujo, tio estas en la dek-oka jaro de Nebukadnecar.",

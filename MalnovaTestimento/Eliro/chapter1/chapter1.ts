@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Jen estas la nomoj de la filoj de Izrael, kiuj venis Egiptujon kun Jakob; ĉiu venis kun siaj domanoj:",

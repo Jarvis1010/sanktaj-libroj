@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "En tiu tago ekkaptos sep virinoj unu viron, kaj diros:Ni manĝados nian panon, kaj ni portados niajn vestojn; nur permesu al ni porti vian nomon, forigu de ni nian malhonoron.",

@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Post tiuj okazintaĵoj, dum la reĝado de ArtaĤŝast, reĝo de Persujo, el Babel iris Ezra, filo de Seraja, filo de Azarja, filo de ĥilkija,",

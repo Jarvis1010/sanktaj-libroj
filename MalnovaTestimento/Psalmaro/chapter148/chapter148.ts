@@ -1,5 +1,5 @@
 export const chapter148 = {
-  chapterTitle: "Ĉaptiro 148",
+  chapterTitle: "Ĉapitro 148",
   summary: "",
   verses: [
     "Haleluja! Gloru la Eternulon el la ĉielo,   Gloru Lin en la alto.",

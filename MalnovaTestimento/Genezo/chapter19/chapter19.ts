@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Kaj la du anĝeloj venis Sodomon vespere, kaj Lot tiam sidis ĉe la pordego de Sodom. Kiam Lot ilin ekvidis, li leviĝis renkonte al ili kaj kliniĝis vizaĝaltere.",

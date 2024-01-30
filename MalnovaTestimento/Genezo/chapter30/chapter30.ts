@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "Kiam RaĤel vidis, ke ŝi ne naskas al Jakob, ŝi enviis sian fratinon, kaj ŝi diris al Jakob: Donu al mi infanojn, ĉar alie mi mortos.",

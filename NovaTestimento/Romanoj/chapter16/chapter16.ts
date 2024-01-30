@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Mi rekomendas al vi nian fratinon Febe, kiu estas diakonino de la eklezio en Kenkrea;",

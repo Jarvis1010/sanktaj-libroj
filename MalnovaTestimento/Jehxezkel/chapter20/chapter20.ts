@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "En la sepa jaro, en la deka tago de la kvina monato, venis kelkaj el la plejaĝuloj de Izrael, por demandi la Eternulon, kaj ili sidiĝis antaŭ mi.",

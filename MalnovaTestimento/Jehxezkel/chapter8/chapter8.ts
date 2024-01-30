@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "En la sesa jaro, en la kvina tago de la sesa monato, mi sidis en mia domo, kaj la plejaĝuloj de Jehuda sidis antaŭ mi; kaj falis sur min la mano de la Sinjoro, la Eternulo.",

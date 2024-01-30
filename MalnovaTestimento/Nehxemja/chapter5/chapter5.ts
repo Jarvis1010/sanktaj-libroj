@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj la popolo kaj iliaj edzinoj komencis forte krii kontraŭ siaj fratoj, la Judoj.",

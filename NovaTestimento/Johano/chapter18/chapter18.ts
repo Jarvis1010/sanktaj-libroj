@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Parolinte tiujn vortojn, Jesuo foriris kun siaj disĉiploj trans la torenton Kidron, kie estis ĝardeno, en kiun li eniris kune kun siaj disĉiploj.",

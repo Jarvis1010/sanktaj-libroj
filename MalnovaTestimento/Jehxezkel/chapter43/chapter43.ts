@@ -1,5 +1,5 @@
 export const chapter43 = {
-  chapterTitle: "Ĉaptiro 43",
+  chapterTitle: "Ĉapitro 43",
   summary: "",
   verses: [
     "Kaj li venigis min al la pordego, al tiu pordego, kiu estas turnita orienten.",

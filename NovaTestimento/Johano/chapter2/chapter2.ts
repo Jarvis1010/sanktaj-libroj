@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "La trian tagon okazis edziĝo en Kana Galilea, kaj la patrino de Jesuo ĉeestis tie;",

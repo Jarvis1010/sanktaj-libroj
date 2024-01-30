@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj Dio benis Noan kaj liajn filojn, kaj diris al ili: Fruktu kaj multiĝu, kaj plenigu la teron.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj mi vidis en la dekstra mano de la Sidanto sur la trono libron, skribitan interne kaj malantaŭe, sigelitan per sep sigeloj.",

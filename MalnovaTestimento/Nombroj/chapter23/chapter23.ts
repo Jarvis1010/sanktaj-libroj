@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Kaj Bileam diris al Balak:Konstruu al mi ĉi tie sep altarojn, kaj pretigu al mi ĉi tie sep bovidojn kaj sep virŝafojn.",

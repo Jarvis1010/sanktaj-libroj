@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Post paso de la dudek jaroj, dum kiuj Salomono konstruis la domon de la Eternulo kaj sian domon,",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Voku do! ĉu iu respondos al vi? Kaj al kiu el la sanktuloj vi vin turnos?",

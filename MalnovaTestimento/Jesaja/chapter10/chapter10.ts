@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Ve al la leĝdonantoj, kiuj starigas maljustajn leĝojn, kaj al tiuj, kiuj skribas maljustajn verdiktojn,",

@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Pli bona estas malriĉulo, kiu iras en sia senkulpeco, Ol homo, kiu estas malicbuŝulo kaj malsaĝulo.",

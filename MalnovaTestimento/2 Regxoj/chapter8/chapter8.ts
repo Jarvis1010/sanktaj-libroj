@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Eliŝa diris al la virino, kies filon li revivigis, jene:Leviĝu kaj iru, vi kaj via domo, kaj loĝu kelkan tempon tie, kie vi povos loĝi; ĉar la Eternulo alvokos malsaton, kaj ĝi venos en la landon por sep jaroj.",

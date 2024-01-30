@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Feliĉa estas la homo, kiu ne iras laŭ konsilo de malpiuloj, Nek staras sur vojo de pekuloj,   Nek sidas en kunsido de blasfemantoj;",

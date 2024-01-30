@@ -1,5 +1,5 @@
 export const chapter80 = {
-  chapterTitle: "Ĉaptiro 80",
+  chapterTitle: "Ĉapitro 80",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por ŝoŝanoj. Atesto de Asaf. Psalmo. Ho Paŝtisto de Izrael, aŭskultu; Vi, kiu kondukas Jozefon, kiel ŝafojn,   Vi, kiu sidas sur keruboj, aperu!",

@@ -1,5 +1,5 @@
 export const chapter43 = {
-  chapterTitle: "Ĉaptiro 43",
+  chapterTitle: "Ĉapitro 43",
   summary: "",
   verses: [
     "Sed nun tiele diras la Eternulo, kiu vin kreis, ho Jakob, kaj kiu vin estigis, ho Izrael:Ne timu, ĉar Mi vin savos; Mi vokos vin laŭ via nomo, vi estas Mia.",

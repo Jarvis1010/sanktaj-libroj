@@ -1,5 +1,5 @@
 export const chapter122 = {
-  chapterTitle: "Ĉaptiro 122",
+  chapterTitle: "Ĉapitro 122",
   summary: "",
   verses: [
     "Kanto de suprenirado. De David. Mi ekĝojis, kiam oni diris al mi: Ni iru en la domon de la Eternulo.",

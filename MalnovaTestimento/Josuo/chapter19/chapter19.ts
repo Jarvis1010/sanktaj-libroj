@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Kaj la dua loto eliris por Simeon, por la tribo de la Simeonidoj, laŭ iliaj familioj. Kaj ilia posedaĵo estis meze de la posedaĵo de la Jehudaidoj.",

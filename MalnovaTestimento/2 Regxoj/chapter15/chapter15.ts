@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "En la dudek-sepa jaro de Jerobeam, reĝo de Izrael, ekreĝis Azarja, filo de Amacja, reĝo de Judujo.",

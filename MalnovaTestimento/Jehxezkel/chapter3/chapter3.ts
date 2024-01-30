@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kaj Li diris al mi:Ho filo de homo, manĝu tion, kion vi trovas, manĝu ĉi tiun skribrulaĵon, kaj iru kaj parolu al la domo de Izrael.",

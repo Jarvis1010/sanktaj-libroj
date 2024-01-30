@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Kaj Moseo iris kaj parolis ĉi tiujn vortojn al la tuta Izrael.",

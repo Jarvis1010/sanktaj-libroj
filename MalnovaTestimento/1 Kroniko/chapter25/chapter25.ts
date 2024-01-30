@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "David kaj la militestroj apartigis por la servado filojn de Asaf, de Heman, kaj de Jedutun, kiuj estis inspiritaj por harpoj, psalteroj, kaj cimbaloj. Ili estis kalkulitaj por sia servado:",

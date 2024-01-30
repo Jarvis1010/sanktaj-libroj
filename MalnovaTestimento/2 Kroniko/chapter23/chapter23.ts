@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Sed en la sepa jaro kuraĝis Jehojada kaj prenis al si en interligon la centestrojn Azarja, filo de JeroĤam, Iŝmael, filo de JehoĤanan, Azarja, filo de Obed, Maaseja, filo de Adaja, kaj Eliŝafat, filo de ZiĤri;",

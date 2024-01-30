@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kaj la tuta Juda popolo prenis Uzijan, kiu havis la aĝon de dek ses jaroj, kaj faris lin reĝo anstataŭ lia patro Amacja.",

@@ -1,5 +1,5 @@
 export const chapter52 = {
-  chapterTitle: "Ĉaptiro 52",
+  chapterTitle: "Ĉapitro 52",
   summary: "",
   verses: [
     "Vekiĝu, vekiĝu, vestu vin per via forto, ho Cion; surmetu sur vin la vestojn de via majesto, ho Jerusalem, sankta urbo; ĉar ne plu eniros en vin necirkumcidito kaj malpurulo.",

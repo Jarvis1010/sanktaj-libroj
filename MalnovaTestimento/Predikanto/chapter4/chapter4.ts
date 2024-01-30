@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj mi returniĝis, kaj mi vidis ĉiujn premojn, kiuj estas farataj sub la suno:kaj jen estas larmoj de prematoj, kaj ne ekzistas por ili konsolanto; kaj perforteco de la mano de iliaj premantoj, kaj ne ekzistas por ili konsolanto.",

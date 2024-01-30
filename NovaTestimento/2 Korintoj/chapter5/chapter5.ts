@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Ĉar ni scias, ke se la surtera loĝejo de nia tabernaklo dissolviĝos, ni havas de Dio konstruaĵon, domon ne manfaritan, eternan en la ĉieloj.",

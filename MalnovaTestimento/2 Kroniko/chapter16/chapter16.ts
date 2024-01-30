@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "En la tridek-sesa jaro de la reĝado de Asa iris Baaŝa, reĝo de Izrael, kontraŭ Judujon, kaj li konstruis Raman, por bari la eliradon kaj eniradon al Asa, reĝo de Judujo.",

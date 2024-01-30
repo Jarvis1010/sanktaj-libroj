@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj ĥana preĝis kaj diris: Ĝojas mia koro pri la Eternulo,   Mia korno altiĝis pro la Eternulo;   Larĝe malfermiĝis mia buŝo kontraŭ miaj malamikoj,   Ĉar mi ĝojas pro Via helpo.",

@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj Jesuo, elirinte, ekforiris de la templo; kaj liaj disĉiploj venis al li, por montri al li la konstruaĵojn de la templo.",

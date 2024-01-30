@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "En tiu tempo, kiam ne ekzistis reĝo ĉe Izrael, loĝis iu Levido sur la deklivo de la monto de Efraim. Li prenis al si kromedzinon el Bet-LeĤem de Jehuda.",

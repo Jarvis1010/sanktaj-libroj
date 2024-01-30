@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "Aperis super mi la mano de la Eternulo, kaj elirigis min en la inspiro de la Eternulo, kaj starigis min meze de ebenaĵo, kiu estis plena de ostoj.",

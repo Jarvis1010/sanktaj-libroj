@@ -1,5 +1,5 @@
 export const chapter39 = {
-  chapterTitle: "Ĉaptiro 39",
+  chapterTitle: "Ĉapitro 39",
   summary: "",
   verses: [
     "En tiu tempo MerodaĤ-Baladan, filo de Baladan, reĝo de Babel, sendis leteron kaj donacojn al ĥizkija; ĉar li aŭdis, ke li estis malsana kaj resaniĝis.",

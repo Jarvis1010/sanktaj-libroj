@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Vi do, mia filo, fortikiĝu en la graco, kiu estas en Kristo Jesuo.",

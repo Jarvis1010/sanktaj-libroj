@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kiam Ezra preĝis kaj faris konfeson, plorante kaj kuŝante antaŭ la domo de Dio, kolektiĝis al li el la Izraelidoj tre granda amaso, viroj, virinoj, kaj infanoj; ĉar ankaŭ la popolo tre multe ploris.",

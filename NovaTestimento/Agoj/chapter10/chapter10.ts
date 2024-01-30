@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "En Cezarea estis unu viro, nomata Kornelio, centestro de la kohorto nomata la Itala,",

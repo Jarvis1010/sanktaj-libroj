@@ -1,5 +1,5 @@
 export const chapter39 = {
-  chapterTitle: "Ĉaptiro 39",
+  chapterTitle: "Ĉapitro 39",
   summary: "",
   verses: [
     "Kaj vi, ho filo de homo, profetu pri Gog, kaj diru:Tiele diras la Sinjoro, la Eternulo:Jen Mi iras kontraŭ vin, ho Gog, ĉefa princo de MeŝeĤ kaj Tubal.",

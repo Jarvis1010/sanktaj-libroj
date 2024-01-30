@@ -1,5 +1,5 @@
 export const chapter88 = {
-  chapterTitle: "Ĉaptiro 88",
+  chapterTitle: "Ĉapitro 88",
   summary: "",
   verses: [
     "Kanto-psalmo de la oraĤidoj. Al la Ĥorestro. Por maĤalat-leanoto. Instruo de Heman, la EzraĤido. Ho Eternulo, Dio de mia savo!   Tage kaj nokte mi krias antaŭ Vi.",

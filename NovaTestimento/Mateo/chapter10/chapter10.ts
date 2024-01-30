@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj li alvokis al si la dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elpeli ilin, kaj por sanigi ĉian malsanon kaj ĉian malfortaĵon.",

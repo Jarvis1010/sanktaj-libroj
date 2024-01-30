@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Pli bona estas bona nomo, ol bona oleo; kaj la tago de la morto estas pli bona, ol la tago de la naskiĝo.",

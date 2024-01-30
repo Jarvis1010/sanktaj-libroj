@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Kaj Dio rememoris Noan, kaj ĉiujn bestojn kaj ĉiujn brutojn, kiuj estis kun li en la arkeo; kaj Dio venigis venton sur la teron, kaj la akvo kvietiĝis.",

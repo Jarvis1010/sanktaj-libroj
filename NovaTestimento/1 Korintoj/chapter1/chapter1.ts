@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Paŭlo, vokita por esti apostolo de Jesuo Kristo per la volo de Dio, kaj Sostenes, nia frato,",

@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Tiam diris la ĉefpastro:Ĉu ĉi tiuj aferoj estas tiel?",

@@ -1,5 +1,5 @@
 export const chapter29 = {
-  chapterTitle: "Ĉaptiro 29",
+  chapterTitle: "Ĉapitro 29",
   summary: "",
   verses: [
     "Kaj en la sepa monato, en la unua tago de la monato, estu ĉe vi sankta kunveno; faru nenian servan laboron; tago de trumpetado ĝi estu por vi.",

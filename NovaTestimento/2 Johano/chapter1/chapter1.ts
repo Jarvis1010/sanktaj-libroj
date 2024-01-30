@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "La presbitero al la elektita sinjorino kaj ŝiaj infanoj, kiujn mi amas en la vero; kaj ne mi sola, sed ankaŭ ĉiuj, kiuj konas la veron;",

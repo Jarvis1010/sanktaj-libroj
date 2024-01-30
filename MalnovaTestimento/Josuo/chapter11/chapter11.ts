@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kiam tion aŭdis Jabin, reĝo de ĥacor, li sendis al Jobab, reĝo de Madon, kaj al la reĝo de Ŝimron kaj al la reĝo de AĤŝaf,",

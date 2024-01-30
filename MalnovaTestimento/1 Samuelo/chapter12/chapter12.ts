@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Tiam Samuel diris al ĉiuj Izraelidoj:Jen mi obeis vian voĉon pri ĉio, kion vi diris al mi, kaj mi starigis por vi reĝon.",

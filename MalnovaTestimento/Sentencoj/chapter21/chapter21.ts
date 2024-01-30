@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kiel akvaj torentoj estas la koro de reĝo en la mano de la Eternulo: Kien Li volas, Li ĝin direktas.",

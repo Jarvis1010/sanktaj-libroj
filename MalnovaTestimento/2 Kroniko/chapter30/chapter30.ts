@@ -1,5 +1,5 @@
 export const chapter30 = {
-  chapterTitle: "Ĉaptiro 30",
+  chapterTitle: "Ĉapitro 30",
   summary: "",
   verses: [
     "ĥizkija sendis al la tuta Izrael kaj Jehuda, li skribis ankaŭ leterojn al Efraim kaj Manase, ke ili venu en la domon de la Eternulo, en Jerusalemon, por fari Paskon al la Eternulo, Dio de Izrael.",

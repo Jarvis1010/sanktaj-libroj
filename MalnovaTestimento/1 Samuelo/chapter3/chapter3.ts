@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "La knabo Samuel servadis al la Eternulo antaŭ Eli; kaj la vorto de la Eternulo estis grandpreza en tiu tempo; ne aperadis ofte profetaj vizioj.",

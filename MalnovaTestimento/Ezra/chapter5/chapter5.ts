@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj la profetoj, ĥagaj, la profeto, kaj ZeĤarja, filo de Ido, profetis pri la Judoj, kiuj estis en Judujo kaj Jerusalem, en la nomo de Dio de Izrael.",

@@ -1,5 +1,5 @@
 export const chapter45 = {
-  chapterTitle: "Ĉaptiro 45",
+  chapterTitle: "Ĉapitro 45",
   summary: "",
   verses: [
     "Tiam Jozef ne povis plu sin deteni antaŭ ĉiuj, kiuj staris ĉirkaŭ li, kaj li ekkriis: Elirigu ĉiujn for de mi. Kaj neniu restis ĉe li, kiam Jozef rekonigis sin al siaj fratoj.",

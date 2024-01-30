@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "(Kaj JeriĤo estis fermita kaj ŝlosita kontraŭ la Izraelidoj; neniu eliris, kaj neniu eniris.)",

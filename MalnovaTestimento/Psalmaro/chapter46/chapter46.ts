@@ -1,5 +1,5 @@
 export const chapter46 = {
-  chapterTitle: "Ĉaptiro 46",
+  chapterTitle: "Ĉapitro 46",
   summary: "",
   verses: [
     "Al la Ĥorestro. De la KoraĤidoj. Por sopranuloj. Kanto. Dio estas por ni rifuĝejo kaj forto, Helpo en mizeroj, rapide trovata.",

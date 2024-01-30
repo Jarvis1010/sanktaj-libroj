@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj Jesuo, plena de la Sankta Spirito, revenis de Jordan, kaj estis kondukata de la Spirito en la dezerton",

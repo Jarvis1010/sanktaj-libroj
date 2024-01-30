@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Por ĉio estas sezono, kaj tempo difinita estas por ĉiu afero sub la suno;",

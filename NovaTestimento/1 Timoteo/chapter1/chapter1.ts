@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Paŭlo, apostolo de Kristo Jesuo, laŭ la ordono de Dio, nia Savanto, kaj Kristo Jesuo, nia espero,",

@@ -1,5 +1,5 @@
 export const chapter140 = {
-  chapterTitle: "Ĉaptiro 140",
+  chapterTitle: "Ĉapitro 140",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Liberigu min, ho Eternulo, de malbona homo, Gardu min kontraŭ perfortulo;",

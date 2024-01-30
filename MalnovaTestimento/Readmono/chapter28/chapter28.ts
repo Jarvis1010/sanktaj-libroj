@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Se vi aŭskultos la voĉon de la Eternulo, via Dio, penante plenumi ĉiujn Liajn ordonojn, kiujn mi transdonas al vi hodiaŭ, tiam la Eternulo, via Dio, faros vin pli alta, ol ĉiuj popoloj de la tero.",

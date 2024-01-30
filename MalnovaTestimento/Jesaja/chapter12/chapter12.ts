@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "En tiu tago vi diros:Mi dankas Vin, ho Eternulo; ĉar kvankam Vi koleris min, Via kolero jam foriĝis, kaj Vi konsolas min.",

@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "La arĝento havas lokon, kie oni ĝin elakiras; Kaj la oro havas lokon, kie oni ĝin fandas.",

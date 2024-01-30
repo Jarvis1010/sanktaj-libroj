@@ -1,5 +1,5 @@
 export const chapter23 = {
-  chapterTitle: "Ĉaptiro 23",
+  chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
     "Ne disvastigu malveran famon; ne kunigu vian manon kun malvirtulo, por esti atestanto de malbonago.",

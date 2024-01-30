@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Fratoj, la deziro de mia koro kaj mia preĝo al Dio pri ili estas por ilia savado.",

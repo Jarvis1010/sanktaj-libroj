@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "La loĝantoj de Jerusalem ekreĝigis lian plej junan filon AĤazja anstataŭ li, ĉar ĉiujn pli aĝajn mortigis la taĉmento, kiu venis kun la Araboj en la tendaron. Kaj ekreĝis AĤazja, filo de Jehoram, reĝo de Judujo.",

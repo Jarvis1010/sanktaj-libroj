@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kiam la reĝino de Ŝeba aŭdis la famon pri Salomono kaj pri la domo de la Eternulo, ŝi venis, por elprovi lin per enigmoj.",

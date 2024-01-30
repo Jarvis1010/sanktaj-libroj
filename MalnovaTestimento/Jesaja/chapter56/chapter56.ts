@@ -1,5 +1,5 @@
 export const chapter56 = {
-  chapterTitle: "Ĉaptiro 56",
+  chapterTitle: "Ĉapitro 56",
   summary: "",
   verses: [
     "Tiele diras la Eternulo:Gardu justecon kaj faru bonon; ĉar baldaŭ venos Mia savo kaj malkaŝiĝos Mia vero.",

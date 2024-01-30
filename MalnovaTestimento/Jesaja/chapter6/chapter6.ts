@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "En la jaro de la morto de la reĝo Uzija mi vidis la Sinjoron, sidantan sur alta kaj levita trono, kaj Liaj baskoj plenigis la templon.",

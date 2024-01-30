@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Estis viro el la Benjamenidoj, kiu havis la nomon Kiŝ, filo de Abiel, filo de Ceror, filo de BeĤorat, filo de AfiaĤ, Benjamenido, viro forta.",

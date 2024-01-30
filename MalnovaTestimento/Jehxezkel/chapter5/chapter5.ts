@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj vi, ho filo de homo, prenu al vi glavon akran, kiel razilo de barbiroj, prenu ĝin al vi, kaj pasigu ĝin sur via kapo kaj sur via barbo, kaj prenu al vi pesilon, kaj disdividu la harojn:",

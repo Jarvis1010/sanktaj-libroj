@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Ho Eternulo, pro Via forto ĝojas la reĝo, Kaj pro Via helpo kiel forte li triumfas!",

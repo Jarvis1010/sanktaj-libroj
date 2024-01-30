@@ -1,5 +1,5 @@
 export const chapter83 = {
-  chapterTitle: "Ĉaptiro 83",
+  chapterTitle: "Ĉapitro 83",
   summary: "",
   verses: [
     "Kanto-psalmo de Asaf. Ho Dio, ne silentu; Ne estu senparola kaj ne restu trankvila, ho Dio!",

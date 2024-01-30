@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "AĤab rakontis al Izebel ĉion, kion faris Elija, kaj tion, ke li mortigis ĉiujn profetojn per glavo.",

@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kiam Mi komencis kuraci Izraelon, malkaŝiĝis la malbonagoj de Efraim kaj la malboneco de Samario; ĉar ili agas mensoge, ŝtelistoj eniras, kaj bandoj rabas sur la strato.",

@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj la apostoloj kaj la fratoj, kiuj estis en Judujo, aŭdis, ke la nacianoj ankaŭ ricevis la vorton de Dio.",

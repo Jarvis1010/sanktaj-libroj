@@ -1,5 +1,5 @@
 export const chapter33 = {
-  chapterTitle: "Ĉaptiro 33",
+  chapterTitle: "Ĉapitro 33",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Iru, eliru el ĉi tie, vi kaj la popolo, kiun vi elkondukis el la lando Egipta, al la lando, pri kiu Mi ĵuris al Abraham, al Isaak, kaj al Jakob, dirante:Al via idaro Mi ĝin donos.",

@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Kaj la familiestroj de la Levidoj aliris al la pastro Eleazar, kaj al Josuo, filo de Nun, kaj al la familiestroj de la triboj de la Izraelidoj,",

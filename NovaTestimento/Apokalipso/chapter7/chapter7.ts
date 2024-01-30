@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Post tio mi vidis kvar anĝelojn starantajn sur la kvar anguloj de la tero, retenantajn la kvar ventojn de la tero, por ke ne blovu vento sur la teron, nek sur la maron, nek sur ian arbon.",

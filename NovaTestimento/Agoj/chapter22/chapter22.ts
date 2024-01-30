@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Fratoj kaj patroj, aŭskultu la pledon, kiun mi faras nun antaŭ vi.",

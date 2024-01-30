@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj mi rigardis, kiam la Ŝafido malfermis unu el la sep sigeloj, kaj mi aŭdis unu el la kvar kreitaĵoj dirantan kvazaŭ per voĉo de tondro:Venu.",

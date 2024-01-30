@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj li eliris de tie, kaj venis en sian patrujon; kaj liaj disĉiploj lin sekvis.",

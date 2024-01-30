@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Ne havos la pastroj Levidoj, la tuta tribo de Levi, parton kaj heredaĵon kun Izrael:la fajroferojn de la Eternulo kaj Lian apartenaĵon ili manĝados.",

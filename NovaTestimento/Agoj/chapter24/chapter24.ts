@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj post kvin tagoj la ĉefpastro Ananias malsupreniris tien kun kelkaj pliaĝuloj, kaj unu advokato, nomata Tertulo; kaj ili faris denuncon antaŭ la provincestro kontraŭ Paŭlo.",

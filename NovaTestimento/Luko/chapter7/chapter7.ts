@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Fininte ĉiujn siajn dirojn en la oreloj de la popolo, li eniris en Kapernaumon.",

@@ -1,5 +1,5 @@
 export const chapter11 = {
-  chapterTitle: "Ĉaptiro 11",
+  chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
     "Kaj kunvenis ĉiuj Izraelidoj al David en ĥebronon, kaj diris:Jen ni estas via osto kaj via karno.",

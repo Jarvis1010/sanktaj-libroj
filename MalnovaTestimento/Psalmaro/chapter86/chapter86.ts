@@ -1,5 +1,5 @@
 export const chapter86 = {
-  chapterTitle: "Ĉaptiro 86",
+  chapterTitle: "Ĉapitro 86",
   summary: "",
   verses: [
     "Preĝo de David. Klinu, ho Eternulo, Vian orelon, aŭskultu min; Ĉar mi estas mizera kaj malriĉa.",

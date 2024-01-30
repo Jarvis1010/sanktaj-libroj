@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Estis viro el la Fariseoj, nomata Nikodemo, ĉefo inter la Judoj;",

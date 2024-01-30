@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Aŭ ĉu vi ne scias, fratoj (ĉar mi parolas al konantoj de la leĝo), ke la leĝo regas la homon tiel longe, kiel li vivas?",

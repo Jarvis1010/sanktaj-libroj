@@ -1,5 +1,5 @@
 export const chapter41 = {
-  chapterTitle: "Ĉaptiro 41",
+  chapterTitle: "Ĉapitro 41",
   summary: "",
   verses: [
     "Kaj li venigis min en la templon; kaj li mezuris ĉe la kolonoj ses ulnojn da larĝo ĉe unu flanko kaj ses ulnojn da larĝo ĉe la alia flanko, laŭlarĝe de la tabernaklo.",

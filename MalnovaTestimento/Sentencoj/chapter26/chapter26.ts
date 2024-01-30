@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "Kiel neĝo en somero, kaj kiel pluvo en tempo de rikolto, Tiel ne konvenas honoro por malsaĝulo.",

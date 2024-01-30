@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Al la Ĥorestro. De David, sklavo de la Eternulo. La pekado de malpiulo parolas al lia koro; Antaŭ liaj okuloj ne ekzistas timo antaŭ Dio.",

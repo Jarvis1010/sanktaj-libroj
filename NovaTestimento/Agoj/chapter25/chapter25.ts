@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Festo do, veninte en la provincon, post tri tagoj supreniris de Cezarea al Jerusalem.",

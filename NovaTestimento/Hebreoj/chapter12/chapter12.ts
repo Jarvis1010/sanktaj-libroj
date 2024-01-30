@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Tial ankaŭ ni, havante ĉirkaŭ ni tian nubegon da atestantoj, formetu ĉion pezan kaj la pekon embarasantan, kaj persiste kuru la kuradon antaŭ ni metitan,",

@@ -1,5 +1,5 @@
 export const chapter66 = {
-  chapterTitle: "Ĉaptiro 66",
+  chapterTitle: "Ĉapitro 66",
   summary: "",
   verses: [
     "Al la Ĥorestro. Kanto-psalmo. Ĝoje kriu al Dio tuta la tero.",

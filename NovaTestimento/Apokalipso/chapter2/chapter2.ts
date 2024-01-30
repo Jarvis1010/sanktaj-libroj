@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Al la anĝelo de la eklezio en Efeso skribu: Tiele diras la tenanto de la sep steloj en sia dekstra mano, la iranto meze de la sep oraj lampingoj:",

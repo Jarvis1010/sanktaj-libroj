@@ -1,5 +1,5 @@
 export const chapter74 = {
-  chapterTitle: "Ĉaptiro 74",
+  chapterTitle: "Ĉapitro 74",
   summary: "",
   verses: [
     "Instruo de Asaf. Kial, ho Dio, Vi forpuŝis nin por ĉiam? Kial fumas Via kolero kontraŭ la ŝafoj de Via paŝtejo?",

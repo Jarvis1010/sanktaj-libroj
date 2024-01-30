@@ -1,5 +1,5 @@
 export const chapter31 = {
-  chapterTitle: "Ĉaptiro 31",
+  chapterTitle: "Ĉapitro 31",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. Vin, ho Eternulo, mi fidas, ke mi neniam estu hontigita; Per Via justeco savu min.",

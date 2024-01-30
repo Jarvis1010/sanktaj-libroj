@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "La kolero de la Eternulo denove ekflamis kontraŭ la Izraelidoj, kaj Li incitis Davidon kontraŭ ili, dirante:Iru, kalkulu Izraelon kaj Jehudan.",

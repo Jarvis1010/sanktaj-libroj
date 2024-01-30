@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj post tio la Sinjoro elektis sepdek aliajn, kaj ilin forsendis duope antaŭ sia vizaĝo en ĉiun urbon kaj ĉiun lokon, kien li mem estis venonta.",

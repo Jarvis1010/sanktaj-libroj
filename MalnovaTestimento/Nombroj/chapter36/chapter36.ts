@@ -1,5 +1,5 @@
 export const chapter36 = {
-  chapterTitle: "Ĉaptiro 36",
+  chapterTitle: "Ĉapitro 36",
   summary: "",
   verses: [
     "Kaj aliris la familiestroj de la familio de Gilead, filo de MaĤir, filo de Manase, el la familioj de la Jozefidoj, kaj ekparolis antaŭ Moseo kaj antaŭ la eminentuloj, la familiestroj de la Izraelidoj;",

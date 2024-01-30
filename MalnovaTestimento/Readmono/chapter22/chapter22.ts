@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Kiam vi vidos, ke bovo de via frato aŭ lia ŝafo erarvagas, ne forturnu vin de ili, sed rekonduku ilin al via frato.",

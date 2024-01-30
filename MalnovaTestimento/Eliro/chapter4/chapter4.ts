@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Moseo respondis kaj diris:Sed se ili ne kredos al mi kaj ne aŭskultos mian voĉon, kaj se ili diros:Ne aperis al vi la Eternulo?",

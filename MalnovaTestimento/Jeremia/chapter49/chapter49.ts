@@ -1,5 +1,5 @@
 export const chapter49 = {
-  chapterTitle: "Ĉaptiro 49",
+  chapterTitle: "Ĉapitro 49",
   summary: "",
   verses: [
     "Pri la Amonidoj:Tiele diras la Eternulo:Ĉu Izrael ne havas filojn? ĉu li ne havas heredanton? kial do Malkam heredis Gadon kaj lia popolo loĝas en la urboj de ĉi tiu?",

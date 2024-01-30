@@ -1,5 +1,5 @@
 export const chapter19 = {
-  chapterTitle: "Ĉaptiro 19",
+  chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
     "Tiele diris la Eternulo:Iru kaj aĉetu argilan kruĉon de potisto, kaj, preninte kelkajn el la plejaĝuloj de la popolo kaj el la plejaĝuloj de la pastroj,",

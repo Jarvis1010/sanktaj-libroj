@@ -1,5 +1,5 @@
 export const chapter66 = {
-  chapterTitle: "Ĉaptiro 66",
+  chapterTitle: "Ĉapitro 66",
   summary: "",
   verses: [
     "Tiele diras la Eternulo:La ĉielo estas Mia trono, kaj la tero estas Mia piedbenketo; kie do estos la domo, kiun vi konstruos por Mi? kaj kie estos la loko por Mia ripozo?",

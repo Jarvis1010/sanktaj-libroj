@@ -1,5 +1,5 @@
 export const chapter15 = {
-  chapterTitle: "Ĉaptiro 15",
+  chapterTitle: "Ĉapitro 15",
   summary: "",
   verses: [
     "Post tio Abŝalom havigis al si ĉaron kaj ĉevalojn kaj kvindek virojn, kiuj kuradis antaŭ li.",

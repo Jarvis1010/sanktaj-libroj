@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Aŭskultu la vorton de la Eternulo, ho Izraelidoj; ĉar la Eternulo havas juĝan disputon kun la loĝantoj de la tero; ĉar sur la tero ne ekzistas vero, nek amo, nek konado de Dio.",

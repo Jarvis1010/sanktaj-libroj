@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj Nadab kaj Abihu, la filoj de Aaron, prenis ĉiu sian incensujon kaj metis en ĝin fajron kaj metis sur ĝin incenson kaj alportis antaŭ la Eternulon fajron fremdan, pri kiu Li ne ordonis al ili.",

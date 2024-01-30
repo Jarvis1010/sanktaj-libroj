@@ -1,5 +1,5 @@
 export const chapter25 = {
-  chapterTitle: "Ĉaptiro 25",
+  chapterTitle: "Ĉapitro 25",
   summary: "",
   verses: [
     "Kaj Izrael loĝis en Ŝitim, kaj la popolo komencis malĉastadi kun la filinoj de Moab.",

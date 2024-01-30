@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Ben-Hadad, reĝo de Sirio, kolektis sian tutan militistaron; kun li estis tridek du reĝoj, kaj ĉevalojn kaj ĉarojn; kaj li iris kaj eksieĝis Samarion kaj militis kontraŭ ĝi.",

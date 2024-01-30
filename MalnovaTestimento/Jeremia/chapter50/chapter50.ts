@@ -1,5 +1,5 @@
 export const chapter50 = {
-  chapterTitle: "Ĉaptiro 50",
+  chapterTitle: "Ĉapitro 50",
   summary: "",
   verses: [
     "Jen estas la vorto, kiun la Eternulo diris per la profeto Jeremia pri Babel kaj pri la lando de la ĥaldeoj:",

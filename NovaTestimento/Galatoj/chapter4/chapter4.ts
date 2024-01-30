@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj mi sciigas vin, ke tiel longe, kiel la heredanto estas infano, li neniel malsimilas sklavon, kvankam li estas estro de ĉio;",

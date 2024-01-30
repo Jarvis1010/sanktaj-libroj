@@ -1,5 +1,5 @@
 export const chapter100 = {
-  chapterTitle: "Ĉaptiro 100",
+  chapterTitle: "Ĉapitro 100",
   summary: "",
   verses: [
     "Psalmo de dankado. Ĝoje kriu al la Eternulo la tuta tero!",

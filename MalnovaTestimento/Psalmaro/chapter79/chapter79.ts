@@ -1,5 +1,5 @@
 export const chapter79 = {
-  chapterTitle: "Ĉaptiro 79",
+  chapterTitle: "Ĉapitro 79",
   summary: "",
   verses: [
     "Psalmo de Asaf. Ho Dio! venis idolanoj en Vian heredon, Malpurigis Vian sanktan templon,   Faris el Jerusalem ruinojn.",

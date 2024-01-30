@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "La unuan historion mi faris, ho Teofilo, pri ĉio, kion Jesuo komencis fari kaj instrui,",

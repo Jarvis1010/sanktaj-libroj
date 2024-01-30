@@ -1,5 +1,5 @@
 export const chapter10 = {
-  chapterTitle: "Ĉaptiro 10",
+  chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
     "Kaj li foriris de tie, kaj venis en la limojn de Judujo kaj trans Jordanon; kaj homamasoj kunvenis denove al li, kaj laŭ sia kutimo li instruis ilin denove.",

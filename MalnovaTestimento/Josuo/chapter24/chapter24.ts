@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj Josuo kunvenigis ĉiujn tribojn de Izrael en ŜeĤemon, kaj alvokis la plejaĝulojn de Izrael kaj iliajn ĉefojn kaj juĝistojn kaj observistojn; kaj ili stariĝis antaŭ Dio.",

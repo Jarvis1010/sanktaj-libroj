@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Efraim paŝtas venton, postkuras la orientan venton; kun ĉiu tago li faras pli da mensogaĵoj kaj da idolaĵoj; li faras interligon kun Asirio, kaj portas oleon en Egiptujon.",

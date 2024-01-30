@@ -1,5 +1,5 @@
 export const chapter45 = {
-  chapterTitle: "Ĉaptiro 45",
+  chapterTitle: "Ĉapitro 45",
   summary: "",
   verses: [
     "Jen estas la vorto, kiun la profeto Jeremia diris al BaruĤ, filo de Nerija, kiam ĉi tiu skribis tiujn vortojn en libron sub diktado de Jeremia, en la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judujo:",

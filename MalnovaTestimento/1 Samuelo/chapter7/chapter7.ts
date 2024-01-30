@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kaj venis la loĝantoj de Kirjat-Jearim, kaj prenis la keston de la Eternulo kaj alportis ĝin en la domon de Abinadab sur la monteton, kaj lian filon Eleazar ili konsekris, por gardi la keston de la Eternulo.",

@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Havante do ĉi tiujn promesojn, amataj, ni purigu nin de ĉia malpureco karna kaj spirita, perfektigante sanktecon en la timo al Dio.",

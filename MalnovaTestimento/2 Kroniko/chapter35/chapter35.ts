@@ -1,5 +1,5 @@
 export const chapter35 = {
-  chapterTitle: "Ĉaptiro 35",
+  chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
     "Joŝija faris en Jerusalem Paskon al la Eternulo, kaj oni buĉis la Paskon en la dek-kvara tago de la unua monato.",

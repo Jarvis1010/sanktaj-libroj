@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Tian vizion donis al mi la Sinjoro, la Eternulo:mi vidis korbon kun maturaj fruktoj.",

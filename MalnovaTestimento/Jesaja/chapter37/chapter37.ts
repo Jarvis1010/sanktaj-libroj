@@ -1,5 +1,5 @@
 export const chapter37 = {
-  chapterTitle: "Ĉaptiro 37",
+  chapterTitle: "Ĉapitro 37",
   summary: "",
   verses: [
     "Kiam la reĝo ĥizkija tion aŭdis, li disŝiris siajn vestojn kaj ĉirkaŭkovris sin per sako, kaj iris en la domon de la Eternulo.",

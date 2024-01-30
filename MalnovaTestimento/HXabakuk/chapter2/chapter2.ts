@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Sur mia gardista posteno mi staris; kaj, stariĝinte sur turo, mi observis, por vidi, kion Li diros al mi kaj kion mi devas respondi al la riproĉo kontraŭ mi.",

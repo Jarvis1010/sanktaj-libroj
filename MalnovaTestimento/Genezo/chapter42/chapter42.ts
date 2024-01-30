@@ -1,5 +1,5 @@
 export const chapter42 = {
-  chapterTitle: "Ĉaptiro 42",
+  chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
     "Kiam Jakob sciiĝis, ke oni vendas grenon en Egiptujo, li diris al siaj filoj: Kion vi rigardas?",

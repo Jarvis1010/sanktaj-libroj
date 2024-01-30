@@ -1,5 +1,5 @@
 export const chapter39 = {
-  chapterTitle: "Ĉaptiro 39",
+  chapterTitle: "Ĉapitro 39",
   summary: "",
   verses: [
     "En la naŭa jaro de Cidkija, reĝo de Judujo, en la deka monato, venis Nebukadnecar, reĝo de Babel, kun sia tuta militistaro al Jerusalem, kaj eksieĝis ĝin.",

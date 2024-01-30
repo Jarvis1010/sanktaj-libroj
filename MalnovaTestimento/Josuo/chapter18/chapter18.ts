@@ -1,5 +1,5 @@
 export const chapter18 = {
-  chapterTitle: "Ĉaptiro 18",
+  chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
     "Kaj la tuta komunumo de la Izraelidoj kolektiĝis en Ŝilo, kaj ili starigis tie la tabernaklon de kunveno; kaj la lando estis jam submetita al ili.",

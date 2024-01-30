@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Ho ve al mi! ĉar mi fariĝis kiel kolektanto de someraj fruktoj kaj de restaĵo de vinberoj, kiu ne trovas beron manĝeblan; bonan maturan frukton deziras mia animo.",

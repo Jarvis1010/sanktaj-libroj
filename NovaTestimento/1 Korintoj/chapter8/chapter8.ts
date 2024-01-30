@@ -1,5 +1,5 @@
 export const chapter8 = {
-  chapterTitle: "Ĉaptiro 8",
+  chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
     "Nun rilate al oferitaĵoj al idoloj:Ni scias, ke ni ĉiuj havas scion. La scio bloveŝveligas, sed la amo edifas.",

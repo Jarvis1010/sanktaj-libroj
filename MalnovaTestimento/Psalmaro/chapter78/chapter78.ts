@@ -1,5 +1,5 @@
 export const chapter78 = {
-  chapterTitle: "Ĉaptiro 78",
+  chapterTitle: "Ĉapitro 78",
   summary: "",
   verses: [
     "Instruo de Asaf. Atentu, ho mia popolo, mian instruon; Klinu vian orelon al la paroloj de mia buŝo.",

@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kaj Abraham ekmigris de tie al la lando suda, kaj li ekloĝis inter Kadeŝ kaj Ŝur; kaj li loĝis kiel fremdulo en Gerar.",

@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Saĝa virino konstruas sian domon; Sed malsaĝa detruas ĝin per siaj manoj.",

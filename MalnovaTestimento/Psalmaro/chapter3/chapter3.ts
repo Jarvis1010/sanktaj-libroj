@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Psalmo de David, kiam li forkuris de sia filo Abŝalom. Ho Eternulo, kiel multaj estas miaj premantoj,   Multaj leviĝis kontraŭ mi!",

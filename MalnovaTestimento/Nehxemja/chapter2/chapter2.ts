@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "En la monato Nisan, en la dudeka jaro de la reĝo ArtaĤŝast, antaŭ li staris vino. Kaj mi prenis la vinon kaj donis al la reĝo; kaj ĝis tiam mi ne estis malgaja antaŭ li.",

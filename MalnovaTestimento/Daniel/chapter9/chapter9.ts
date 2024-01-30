@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "En la unua jaro de Dario, filo de AĤaŝveroŝ, el la gento Meda, kiu fariĝis reĝo super la regno de la ĥaldeoj,",

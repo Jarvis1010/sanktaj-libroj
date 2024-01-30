@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kaj li kunvokis la dek du, kaj donis al ili potencon kaj aŭtoritaton super ĉiuj demonoj, kaj por forigi malsanojn.",

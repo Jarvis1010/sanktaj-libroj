@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Kiel solece sidas la urbo, kiu estis tiel multehoma! La estrino de la nacioj fariĝis kiel vidvino,   La princino de landoj fariĝis tributulino!",

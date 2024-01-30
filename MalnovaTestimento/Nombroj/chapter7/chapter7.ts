@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "En la tago, kiam Moseo finis la starigadon de la tabernaklo, kiam li sanktoleis ĝin kaj sanktigis ĝin kaj ĉiujn ĝiajn apartenaĵojn kaj la altaron kaj ĉiujn ĝiajn apartenaĵojn kaj sanktoleis ilin kaj sanktigis ilin,",

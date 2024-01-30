@@ -1,5 +1,5 @@
 export const chapter22 = {
-  chapterTitle: "Ĉaptiro 22",
+  chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
     "Kaj David foriris de tie, kaj saviĝis en la kaverno Adulam. Kiam tion aŭdis liaj fratoj kaj la tuta domo de lia patro, ili venis al li tien.",

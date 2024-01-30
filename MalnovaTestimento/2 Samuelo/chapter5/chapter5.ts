@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj venis ĉiuj triboj de Izrael al David en ĥebronon, kaj diris jene:Jen ni estas via osto kaj via karno;",

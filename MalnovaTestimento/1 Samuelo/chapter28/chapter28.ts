@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "Okazis en tiu tempo, ke la Filiŝtoj kolektis sian militistaron, por militi kontraŭ Izrael. Kaj AĤiŝ diris al David:Sciu, ke vi iros kun mi en la militon, vi kaj viaj viroj.",

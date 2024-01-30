@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Blovu per korno en Cion, kaj kriu alarmon sur Mia sankta monto; ektremu ĉiuj loĝantoj de la lando; ĉar venas la tago de la Eternulo, ĝi estas jam proksima;",

@@ -1,5 +1,5 @@
 export const chapter44 = {
-  chapterTitle: "Ĉaptiro 44",
+  chapterTitle: "Ĉapitro 44",
   summary: "",
   verses: [
     "Kaj Jozef ordonis al la estro de sia domo jene: Plenigu la sakojn de tiuj homoj per greno tiom, kiom ili nur povas porti, kaj metu la monon de ĉiu en la aperturon de lia sako;",

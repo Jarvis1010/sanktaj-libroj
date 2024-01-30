@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "Kaj en tiuj tagoj, kiam la nombro de la disĉiploj multiĝis, fariĝis murmurado de la Grekaj Judoj kontraŭ la Hebreaj pro tio, ke iliaj vidvinoj estas preterlasataj en la ĉiutaga servado.",

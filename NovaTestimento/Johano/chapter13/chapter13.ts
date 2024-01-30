@@ -1,5 +1,5 @@
 export const chapter13 = {
-  chapterTitle: "Ĉaptiro 13",
+  chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
     "Kaj antaŭ la Paska festo Jesuo, sciante, ke lia horo venis, por ke li transiru el ĉi tiu mondo al la Patro, aminte siajn proprulojn, kiuj estis en la mondo, amis ilin ĝis la fino.",

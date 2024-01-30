@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Se vi volas rekonverti vin, ho Izrael, diras la Eternulo, rekonvertu vin al Mi; kaj se vi forigos viajn abomenindaĵojn de antaŭ Mia vizaĝo, kaj ne plu vagados,",

@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Al la Ĥorestro. De David. La sensaĝulo diris en sia koro:Dio ne ekzistas. Ili sentaŭgiĝis, ili abomeniĝis pro siaj faroj;   Ekzistas neniu, kiu faras bonon.",

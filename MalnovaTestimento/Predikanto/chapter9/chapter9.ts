@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Al ĉio ĉi tio mi direktis mian koron, por esplori ĉion ĉi tion, ke la virtuloj kaj saĝuloj kaj iliaj faroj estas en la mano de Dio; kaj nek amon nek malamon scias la homo, kaj nenion, kio lin atendas.",

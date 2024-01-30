@@ -1,5 +1,5 @@
 export const chapter9 = {
-  chapterTitle: "Ĉaptiro 9",
+  chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
     "Kiam la reĝino de Ŝeba aŭdis la famon pri Salomono, ŝi venis, por elprovi Salomonon per enigmoj, en Jerusalemon, kun tre granda akompanantaro, kun kameloj, portantaj aromaĵojn, multe da oro, kaj multekostajn ŝtonojn.  Kaj ŝi venis al Salomono, kaj parolis kun li pri ĉio, kion ŝi havis sur sia koro.",

@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "La Eternulo montris al mi:jen estas du korboj kun figoj, starigitaj antaŭ la templo de la Eternulo, post kiam Nebukadnecar, reĝo de Babel, forkondukis el Jerusalem JeĤonjan, filon de Jehojakim, reĝon de Judujo, kaj la princojn de Judujo kaj la ĉarpentistojn kaj seruristojn, kaj venigis ilin en Babelon.",

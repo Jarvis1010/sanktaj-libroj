@@ -1,5 +1,5 @@
 export const chapter7 = {
-  chapterTitle: "Ĉaptiro 7",
+  chapterTitle: "Ĉapitro 7",
   summary: "",
   verses: [
     "Kiam la Eternulo venigos vin en la landon, al kiu vi iras, por ekposedi ĝin, kaj Li forpelos antaŭ vi grandnombrajn popolojn, la ĥetidojn kaj la Girgaŝidojn kaj la Amoridojn kaj la Kanaanidojn kaj la Perizidojn kaj la ĥividojn kaj la Jebusidojn, sep popolojn pli grandnombrajn kaj pli fortajn ol vi;",

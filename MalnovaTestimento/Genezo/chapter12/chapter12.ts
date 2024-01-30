@@ -1,5 +1,5 @@
 export const chapter12 = {
-  chapterTitle: "Ĉaptiro 12",
+  chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Abram: Iru el via lando, el inter via parencaro, kaj el la domo de via patro, al la lando, kiun Mi montros al vi.",

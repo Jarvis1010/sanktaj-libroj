@@ -1,5 +1,5 @@
 export const chapter28 = {
-  chapterTitle: "Ĉaptiro 28",
+  chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
     "En tiu sama jaro, en la komenco de la reĝado de Cidkija, reĝo de Judujo, en la kvara jaro, en la kvina monato, ĥananja, filo de Azur, profeto el Gibeon, diris al mi en la domo de la Eternulo, antaŭ la okuloj de la pastroj kaj de la tuta popolo, jene:",

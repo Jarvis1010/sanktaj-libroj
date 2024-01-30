@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Mi volas do, ke vi sciu, kiel grandan klopodon mi havas pro vi, kaj pro tiuj en Laodikea, kaj pro ĉiuj, kiuj ne vidis mian vizaĝon en la karno;",

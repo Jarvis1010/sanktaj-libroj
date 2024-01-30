@@ -1,5 +1,5 @@
 export const chapter24 = {
-  chapterTitle: "Ĉaptiro 24",
+  chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
     "Kaj Abraham estis maljuna kaj en profunda aĝo. Kaj la Eternulo benis Abrahamon en ĉio.",

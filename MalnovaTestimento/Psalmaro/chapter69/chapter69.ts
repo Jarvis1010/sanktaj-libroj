@@ -1,5 +1,5 @@
 export const chapter69 = {
-  chapterTitle: "Ĉaptiro 69",
+  chapterTitle: "Ĉapitro 69",
   summary: "",
   verses: [
     "Al la Ĥorestro. Por ŝoŝanoj. De David. Savu min, ho Dio; Ĉar la akvoj venis ĝis mia animo.",

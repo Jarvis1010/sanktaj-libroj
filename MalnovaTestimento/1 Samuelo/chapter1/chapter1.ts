@@ -1,5 +1,5 @@
 export const chapter1 = {
-  chapterTitle: "Ĉaptiro 1",
+  chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
     "Estis unu viro el Ramataim-Cofim, de la monto de Efraim; lia nomo estis Elkana, filo de JeroĤam, filo de Elihu, filo de ToĤu, filo de Cuf, Efratano.",

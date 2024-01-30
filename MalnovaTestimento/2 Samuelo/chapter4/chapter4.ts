@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kiam la filo de Saul aŭdis, ke mortis Abner en ĥebron, tiam liaj manoj malleviĝis kaj la tuta Izrael konsterniĝis.",

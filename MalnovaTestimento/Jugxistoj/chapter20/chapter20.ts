@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Kaj eliris ĉiuj Izraelidoj, kaj kolektiĝis la tuta komunumo kiel unu homo, de Dan ĝis Beer-Ŝeba, kaj la lando Gilead, antaŭ la Eternulo en Micpa.",

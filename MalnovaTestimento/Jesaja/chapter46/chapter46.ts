@@ -1,5 +1,5 @@
 export const chapter46 = {
-  chapterTitle: "Ĉaptiro 46",
+  chapterTitle: "Ĉapitro 46",
   summary: "",
   verses: [
     "Kliniĝis Bel, falis Nebo; iliaj idoloj estas transdonitaj al bestoj kaj brutoj; tio, kion vi portadis, fariĝis ŝarĝo por lacaj bestoj.",

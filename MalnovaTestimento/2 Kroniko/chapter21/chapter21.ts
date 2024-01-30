@@ -1,5 +1,5 @@
 export const chapter21 = {
-  chapterTitle: "Ĉaptiro 21",
+  chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
     "Jehoŝafat ekdormis kun siaj patroj, kaj oni enterigis lin kun liaj patroj en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Jehoram.",

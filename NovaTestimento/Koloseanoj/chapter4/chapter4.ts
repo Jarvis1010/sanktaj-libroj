@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Sinjoroj, donu al viaj sklavoj justaĵon kaj egalaĵon, sciante, ke vi ankaŭ havas Sinjoron en la ĉielo.",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Poste venis Moseo kaj Aaron, kaj diris al Faraono:Tiel diris la Eternulo, la Dio de Izrael:Permesu, ke Mia popolo iru kaj faru al Mi feston en la dezerto.",

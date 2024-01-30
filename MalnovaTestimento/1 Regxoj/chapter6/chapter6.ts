@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "En la jaro kvarcent-okdeka post la eliro de la Izraelidoj el la lando Egipta, en la kvara jaro de la reĝado de Salomono, en la monato Ziv, tio estas la dua monato, oni komencis konstrui la domon por la Eternulo.",

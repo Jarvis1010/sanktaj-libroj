@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Kaj ni turnis nin kaj elmoviĝis en la dezerton en la direkto al la Ruĝa Maro, kiel la Eternulo diris al mi; kaj ni ĉirkaŭiris la monton Seir dum longa tempo.",

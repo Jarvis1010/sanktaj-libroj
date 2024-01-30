@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Kaj kiam ĉiuj reĝoj de la Amoridoj, kiuj loĝis transe de Jordan okcidente, kaj ĉiuj reĝoj de la Kanaanidoj, kiuj loĝis apud la maro, aŭdis, ke la Eternulo elsekigis la akvon de Jordan antaŭ la Izraelidoj,  ĝis ili transiris, tiam ektimis ilia koro, kaj ili ne havis plu kuraĝon antaŭ la Izraelidoj.",

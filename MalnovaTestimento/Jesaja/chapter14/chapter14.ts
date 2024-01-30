@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "Ĉar la Eternulo ekkompatos Jakobon, kaj denove elektos Izraelon, kaj reloĝigos ilin en ilia lando. Kaj fremduloj kuniĝos kun ili, kaj aliĝos al la domo de Jakob.",

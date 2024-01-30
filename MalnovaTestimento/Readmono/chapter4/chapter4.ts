@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj nun, ho Izrael, aŭskultu la leĝojn kaj la regulojn, kiujn mi instruas al vi, ke vi ilin plenumu, por ke vi vivu kaj venu kaj heredu la landon, kiun la Eternulo, la Dio de viaj patroj, donas al vi.",

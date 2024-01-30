@@ -1,5 +1,5 @@
 export const chapter16 = {
-  chapterTitle: "Ĉaptiro 16",
+  chapterTitle: "Ĉapitro 16",
   summary: "",
   verses: [
     "Kaj aperis la vorto de la Eternulo al Jehu, filo de ĥanani, pri Baaŝa, dirante:",

@@ -1,5 +1,5 @@
 export const chapter5 = {
-  chapterTitle: "Ĉaptiro 5",
+  chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
     "Mi levis denove miajn okulojn, kaj mi ekvidis disvolvitan skribrulaĵon.",

@@ -1,5 +1,5 @@
 export const chapter14 = {
-  chapterTitle: "Ĉaptiro 14",
+  chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
     "ĥiram, reĝo de Tiro, sendis al David senditojn, kaj cedran lignon, kaj masonistojn kaj ĉarpentistojn, por ke ili konstruu por li domon.",

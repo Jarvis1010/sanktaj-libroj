@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj vi, ho filo de homo, prenu al vi brikon kaj kuŝigu ĝin antaŭ vi, kaj desegnu sur ĝi urbon, nome Jerusalemon.",

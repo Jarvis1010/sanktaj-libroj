@@ -1,5 +1,5 @@
 export const chapter6 = {
-  chapterTitle: "Ĉaptiro 6",
+  chapterTitle: "Ĉapitro 6",
   summary: "",
   verses: [
     "La profetidoj diris al Eliŝa:Jen la loko, kie ni loĝas ĉe vi, estas tro malvasta por ni;",

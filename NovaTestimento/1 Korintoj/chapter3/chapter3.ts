@@ -1,5 +1,5 @@
 export const chapter3 = {
-  chapterTitle: "Ĉaptiro 3",
+  chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
     "Kaj mi, fratoj, ne povis paroli al vi kiel al spirituloj, sed kiel al karnuloj, kiel al infanetoj en Kristo.",

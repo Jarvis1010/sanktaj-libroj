@@ -1,5 +1,5 @@
 export const chapter26 = {
-  chapterTitle: "Ĉaptiro 26",
+  chapterTitle: "Ĉapitro 26",
   summary: "",
   verses: [
     "La tabernaklon faru el dek tapiŝoj el tordita bisino, kaj el blua, purpura, kaj ruĝa teksaĵo; kerubojn artiste laboritajn faru sur ili.",

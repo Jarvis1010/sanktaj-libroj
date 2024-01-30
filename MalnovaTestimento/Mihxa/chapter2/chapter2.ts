@@ -1,5 +1,5 @@
 export const chapter2 = {
-  chapterTitle: "Ĉaptiro 2",
+  chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
     "Ve al tiuj, kiuj meditas pri pekoj kaj intencas malbonagojn sur sia kuŝejo, por plenumi ilin matene, kiam ilia mano havas forton.",

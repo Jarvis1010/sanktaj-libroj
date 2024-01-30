@@ -1,5 +1,5 @@
 export const chapter4 = {
-  chapterTitle: "Ĉaptiro 4",
+  chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
     "Kaj revenis la anĝelo, kiu antaŭe parolis kun mi; kaj li vekis min, kiel oni vekas iun el lia dormo.",

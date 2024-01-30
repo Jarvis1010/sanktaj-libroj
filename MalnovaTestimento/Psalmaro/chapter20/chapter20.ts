@@ -1,5 +1,5 @@
 export const chapter20 = {
-  chapterTitle: "Ĉaptiro 20",
+  chapterTitle: "Ĉapitro 20",
   summary: "",
   verses: [
     "Al la Ĥorestro. Psalmo de David. La Eternulo aŭskultu vin en tago de mizero; Defendu vin la nomo de Dio de Jakob.",
