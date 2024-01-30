@@ -1,6 +1,11 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import "@bedrock-layout/css/lib/reset.min.css";
+import "@bedrock-layout/css";
+import "open-props/style";
 import "./globals.css";
+
+import { CSSProperties } from "react";
+import { Inter } from "next/font/google";
+import type { Metadata } from "next";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,7 +21,12 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body
+        data-bedrock-center
+        style={{ "--maxWidth": "60ch" } as CSSProperties}
+      >
+        {children}
+      </body>
     </html>
   );
 }
