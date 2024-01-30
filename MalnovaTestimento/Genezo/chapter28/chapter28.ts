@@ -10,7 +10,7 @@ export const chapter28 = {
     "Kiam Esav vidis, ke Isaak benis Jakobon kaj sendis lin en Mezopotamion, por ke li prenu al si el tie edzinon, kaj ke, benante lin, li ordonis al li,  dirante: Ne prenu edzinon el la filinoj Kanaanaj;",
     "kaj ke Jakob obeis sian patron kaj sian patrinon kaj iris Mezopotamion:",
     "tiam Esav vidis, ke ne plaĉas la filinoj Kanaanaj al lia patro Isaak.",
-    "Kaj Esav iris al Iŝmael kaj prenis al si MaĤalaton, filinon de Iŝmael, filo de Abraham, fratinon de Nebajot, kiel edzinon krom siaj aliaj edzinoj.",
+    "Kaj Esav iris al Iŝmael kaj prenis al si Maĥalaton, filinon de Iŝmael, filo de Abraham, fratinon de Nebajot, kiel edzinon krom siaj aliaj edzinoj.",
     "Kaj Jakob eliris el Beer-Ŝeba kaj iris en la direkto al ĥaran.",
     "Li venis al iu loko kaj restis tie, por pasigi la nokton, ĉar la suno subiris. Kaj li prenis unu el la ŝtonoj de tiu loko kaj metis ĝin sub sian kapon kaj kuŝiĝis en tiu loko.",
     "Kaj li sonĝis: jen ŝtuparo staras sur la tero, kaj ĝia supro atingas la ĉielon, kaj jen anĝeloj de Dio iras sur ĝi supren kaj malsupren.",

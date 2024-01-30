@@ -15,7 +15,7 @@ export const chapter49 = {
     "Li alligas al la vinbertrunko sian azenidon Kaj al la delikata vinberbranĉo la filon de sia azenino; Li lavas en vino sian veston Kaj en sango de vinberoj sian mantelon.",
     "Liaj okuloj estas ruĝaj de vino Kaj la dentoj blankaj de lakto.",
     "Zebulun loĝos ĉe la bordo de maro, Ĉe albordiĝejo de ŝipoj,  Kaj lia limo atingos Cidonon.",
-    "IsaĤar estas fortosta azeno; Li kuŝos inter la baraĵoj.",
+    "Isaĥar estas fortosta azeno; Li kuŝos inter la baraĵoj.",
     "Kaj li vidis, ke ripozo estas bona Kaj la tero estas agrabla; Kaj li klinis sian ŝultron por portado Kaj fariĝis laboristo por tributo.",
     "Dan juĝos sian popolon, Kiel unu el la triboj de Izrael.",
     "Dan estos serpento ĉe la vojo, Cerasto ĉe la irejo,  Mordanto de kalkano de ĉevalo,  Ke ĝia rajdanto falas malantaŭen.",

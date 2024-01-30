@@ -12,7 +12,7 @@ export const chapter135 = {
     "Li batis la unuenaskitojn en Egiptujo, De homo ĝis bruto.",
     "Li aperigis signojn kaj miraklojn interne de vi, ho Egiptujo, Super Faraono kaj ĉiuj liaj sklavoj.",
     "Li batis multajn popolojn, Kaj mortigis potencajn reĝojn:",
-    "SiĤonon, reĝon de la Amoridoj, Kaj Ogon, reĝon de Baŝan,   Kaj ĉiujn regnojn Kanaanajn.",
+    "Siĥonon, reĝon de la Amoridoj, Kaj Ogon, reĝon de Baŝan,   Kaj ĉiujn regnojn Kanaanajn.",
     "Kaj Li donis ilian landon kiel heredon, Heredon al Lia popolo Izrael.",
     "Ho Eternulo, Via nomo estas eterna; Ho Eternulo, la memoro pri Vi restas por ĉiuj generacioj.",
     "Ĉar la Eternulo juĝos Sian popolon, Kaj Li korfavoros Siajn sklavojn.",

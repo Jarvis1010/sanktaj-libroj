@@ -20,7 +20,7 @@ export const chapter136 = {
     "Kiu kondukis Sian popolon tra la dezerto, Ĉar eterna estas Lia boneco;",
     "Kiu batis grandajn reĝojn, Ĉar eterna estas Lia boneco;",
     "Kaj mortigis reĝojn potencajn, Ĉar eterna estas Lia boneco;",
-    "SiĤonon, reĝon de la Amoridoj, Ĉar eterna estas Lia boneco;",
+    "Siĥonon, reĝon de la Amoridoj, Ĉar eterna estas Lia boneco;",
     "Kaj Ogon, reĝon de Baŝan, Ĉar eterna estas Lia boneco;",
     "Kaj donis ilian landon kiel heredon, Ĉar eterna estas Lia boneco;",
     "Heredon al Lia sklavo Izrael, Ĉar eterna estas Lia boneco;",

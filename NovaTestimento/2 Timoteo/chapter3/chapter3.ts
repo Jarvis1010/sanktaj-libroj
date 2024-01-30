@@ -12,7 +12,7 @@ export const chapter3 = {
     "Kaj kiel Janes kaj Jambres kontraŭstaris al Moseo, tiel same ĉi tiuj ankaŭ kontraŭstaras al la vero, homoj kun malnobligita spirito, por la fido senvaloraj.",
     "Sed ili ne plu iros antaŭen; ĉar ilia malsaĝeco evidentiĝos al ĉiuj, kiel ankaŭ fariĝis ĉe tiuj.",
     "Sed vi sekvis mian instruon, konduton, celon, fidon, toleremecon, amon, paciencon,",
-    "persekutojn, suferojn, kiaj okazis al mi en AntioĤia, en Ikonio, en Listra; kiajn persekutojn mi suferis; kaj el ĉio tio la Sinjoro min savis.",
+    "persekutojn, suferojn, kiaj okazis al mi en Antioĥia, en Ikonio, en Listra; kiajn persekutojn mi suferis; kaj el ĉio tio la Sinjoro min savis.",
     "Jes, kaj ĉiuj, kiuj volas vivi pie en Kristo Jesuo, estos persekutataj.",
     "Sed malbonaj homoj kaj ruzuloj ĉiam iros antaŭen al pli granda malbono, trompantaj kaj trompataj.",
     "Sed restu vi en tio, kion vi lernis kaj pri kio vi certiĝis, sciante, de kiu vi ĝin lernis,",

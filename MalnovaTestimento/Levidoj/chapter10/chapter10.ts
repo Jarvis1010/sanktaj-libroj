@@ -6,7 +6,7 @@ export const chapter10 = {
     "Tiam eliris fajro el antaŭ la Eternulo kaj forbruligis ilin, kaj ili mortis antaŭ la Eternulo.",
     "Kaj Moseo diris al Aaron:Jen pri ĉi tio parolis la Eternulo, kiam Li diris:Per Miaj proksimuloj Mi sanktiĝos kaj antaŭ la tuta popolo Mi majestiĝos. Kaj Aaron silentis.",
     "Kaj Moseo alvokis Miŝaelon kaj Elcafanon, filojn de Uziel, onklo de Aaron, kaj li diris al ili:Aliru, elportu viajn fratojn el la sanktejo ekster la tendaron.",
-    "Kaj ili aliris kaj elportis ilin en iliaj Ĥitonoj ekster la tendaron, kiel diris Moseo.",
+    "Kaj ili aliris kaj elportis ilin en iliaj ĥitonoj ekster la tendaron, kiel diris Moseo.",
     "Kaj Moseo diris al Aaron kaj al liaj filoj Eleazar kaj Itamar:Viajn kapojn ne nudigu kaj viajn vestojn ne disŝiru, por ke vi ne mortu kaj por ke Li ne koleru la tutan komunumon; sed viaj fratoj, la tuta domo de Izrael, priploru la brulon, kiun la Eternulo ekbruligis.",
     "Kaj el la pordo de la tabernaklo de kunveno ne eliru, por ke vi ne mortu; ĉar la sankta oleo de la Eternulo estas sur vi. Kaj ili agis laŭ la vortoj de Moseo.",
     "Kaj la Eternulo ekparolis al Aaron, dirante:",

@@ -8,7 +8,7 @@ export const chapter34 = {
     "Tamen aŭskultu la vorton de la Eternulo, ho Cidkija, reĝo de Judujo:Tiele diras la Eternulo pri vi:Vi ne mortos de glavo;",
     "vi mortos en paco; kaj kiel oni faris brulon al viaj patroj, la antaŭaj reĝoj, kiuj estis antaŭ vi, tiel oni faros brulon al vi, kaj oni priploros vin:Ho ve, sinjoro! Ĉar Mi parolis la vorton, diras la Eternulo.",
     "Kaj la profeto Jeremia raportis al Cidkija, reĝo de Judujo, ĉiujn tiujn vortojn en Jerusalem,",
-    "dum la militistaro de la reĝo de Babel militis kontraŭ Jerusalem, kaj kontraŭ ĉiuj restintaj urboj de Judujo, kontraŭ LaĤiŝ kaj kontraŭ Azeka; ĉar ili restis ankoraŭ el la fortikaĵaj urboj de Judujo.",
+    "dum la militistaro de la reĝo de Babel militis kontraŭ Jerusalem, kaj kontraŭ ĉiuj restintaj urboj de Judujo, kontraŭ Laĥiŝ kaj kontraŭ Azeka; ĉar ili restis ankoraŭ el la fortikaĵaj urboj de Judujo.",
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, post kiam la reĝo Cidkija faris interligon kun la tuta popolo de Jerusalem, proklamante al ili liberecon;",
     "ke ĉiu forliberigu sian sklavon kaj sian sklavinon, Hebreon kaj Hebreinon, por ke inter ili neniu el la Judoj tenu sian fraton en sklaveco.",
     "Kaj obeis ĉiuj potenculoj kaj la tuta popolo, kiuj aliĝis al la interligo, por ke ĉiu forliberigu sian sklavon kaj sian sklavinon, por ne plu teni ilin en sklaveco; ili obeis kaj forliberigis.",

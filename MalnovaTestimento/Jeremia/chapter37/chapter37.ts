@@ -4,7 +4,7 @@ export const chapter37 = {
   verses: [
     "Kaj ekreĝis la reĝo Cidkija, filo de Joŝija, anstataŭ Konja, filo de Jehojakim, ĉar Nebukadnecar, reĝo de Babel, faris lin reĝo en la Juda lando.",
     "Li kaj liaj servantoj kaj la popolo de la lando ne obeis la vortojn de la Eternulo, kiujn Li diris per la profeto Jeremia.",
-    "Tamen la reĝo Cidkija sendis JehuĤalon, filon de Ŝelemja, kaj Cefanjan, filon de la pastro Maaseja, al la profeto Jeremia, por diri:Preĝu, mi petas, por ni al la Eternulo, nia Dio.",
+    "Tamen la reĝo Cidkija sendis Jehuĥalon, filon de Ŝelemja, kaj Cefanjan, filon de la pastro Maaseja, al la profeto Jeremia, por diri:Preĝu, mi petas, por ni al la Eternulo, nia Dio.",
     "Jeremia tiam iradis libere inter la popolo, kaj oni ne metis lin en malliberejon.",
     "Dume la militistaro de Faraono eliris el Egiptujo, kaj kiam la ĥaldeoj, kiuj sieĝis Jerusalemon, tion aŭdis, ili foriris de Jerusalem.",
     "Kaj aperis vorto de la Eternulo al la profeto Jeremia, dirante:",

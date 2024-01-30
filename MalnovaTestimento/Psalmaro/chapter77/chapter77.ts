@@ -2,7 +2,7 @@ export const chapter77 = {
   chapterTitle: "Ĉapitro 77",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por Jedutun. Psalmo de Asaf. Mia voĉo iras al Dio, kaj mi krias;   Mia voĉo iras al Dio, ke Li aŭskultu min.",
+    "Al la ĥorestro. Por Jedutun. Psalmo de Asaf. Mia voĉo iras al Dio, kaj mi krias;   Mia voĉo iras al Dio, ke Li aŭskultu min.",
     "En la tago de mia suferado mi serĉas mian Sinjoron; En la nokto mia mano estas etendita kaj ne malleviĝas;   Mia animo ne volas konsoliĝi.",
     "Mi rememoras Dion, kaj mi ĝemas; Mi meditas, kaj mia spirito malĝojas.  Sela.",
     "Vi retenas la palpebrojn de miaj okuloj; Mi estas frapita, mi ne povas paroli.",

@@ -2,7 +2,7 @@ export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
-    "Vortoj de NeĤemja, filo de ĥaĤalja. En la monato Kislev, en la dudeka jaro, mi estis en la kastelurbo Ŝuŝan.",
+    "Vortoj de Neĥemja, filo de ĥaĥalja. En la monato Kislev, en la dudeka jaro, mi estis en la kastelurbo Ŝuŝan.",
     "Kaj venis ĥanani, unu el miaj fratoj, li kaj kelkaj viroj el Judujo. Kaj mi demandis lin pri la Judoj, kiuj saviĝis kaj restis el la forkaptitaro, kaj pri Jerusalem.",
     "Kaj ili diris al mi:La restintoj, kiuj restis el la forkaptitaro, troviĝas tie en la lando en granda mizero kaj malhonoro; kaj la murego de Jerusalem estas detruita, kaj ĝiaj pordegoj estas forbruligitaj per fajro.",
     "Kiam mi aŭdis tiujn vortojn, mi sidiĝis kaj ekploris, kaj funebris dum kelke da tagoj; kaj mi fastis kaj preĝis antaŭ Dio de la ĉielo.",

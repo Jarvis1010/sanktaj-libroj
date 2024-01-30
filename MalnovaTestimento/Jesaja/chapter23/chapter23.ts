@@ -4,7 +4,7 @@ export const chapter23 = {
   verses: [
     "Profetaĵo pri Tiro: Plorkriu, ho ŝipoj de Tarŝiŝ; ĉar ĝi estas detruita tiel, ke restis neniu domo, neniu pordo. El la lando de la Kitidoj tio estas sciigita al ili.",
     "Silentu, ho loĝantoj de la apudmara lando. Komercistoj de Cidon, transveturantaj la maron, vin plenigadis;",
-    "sur granda akvo oni venigadis al ĝi semojn de ŜiĤor, rikoltaĵon de Nilo; kaj ĝi estis komercejo de la popoloj.",
+    "sur granda akvo oni venigadis al ĝi semojn de Ŝiĥor, rikoltaĵon de Nilo; kaj ĝi estis komercejo de la popoloj.",
     "Hontu, Cidon; ĉar la maro, la mara fortikaĵo diris:Mi ne havis dolorojn, mi ne naskis, mi ne edukis knabojn, mi ne kreskigis knabinojn.",
     "Kiam oni tion aŭdos en Egiptujo, oni ektremos ĉe la sciigo pri Tiro.",
     "Transiru al Tarŝiŝ, plorkriu, ho loĝantoj de la apudmara lando.",

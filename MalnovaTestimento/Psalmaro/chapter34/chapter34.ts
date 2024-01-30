@@ -2,7 +2,7 @@ export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
   summary: "",
   verses: [
-    "De David, kiam li ŝajnigis sin freneza antaŭ AbimeleĤ, kaj tiu lin forpelis kaj li foriris. Mi gloros la Eternulon en ĉiu tempo; Ĉiam laŭdo por Li estos en mia buŝo.",
+    "De David, kiam li ŝajnigis sin freneza antaŭ Abimeleĥ, kaj tiu lin forpelis kaj li foriris. Mi gloros la Eternulon en ĉiu tempo; Ĉiam laŭdo por Li estos en mia buŝo.",
     "Per la Eternulo gloriĝas mia animo; La humiluloj aŭdu kaj ĝoju.",
     "Gloru la Eternulon kun mi, Kaj ni altigu kune Lian nomon.",
     "Mi serĉis la Eternulon, kaj Li respondis al mi, Kaj de ĉiuj miaj danĝeroj Li savis min.",

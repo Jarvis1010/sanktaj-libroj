@@ -8,7 +8,7 @@ export const chapter29 = {
     "Sed la Eternulo ne donis al vi koron, por kompreni, nek okulojn, por vidi, nek orelojn, por aŭdi, ĝis la nuna tago.",
     "Kaj mi kondukis vin dum kvardek jaroj en la dezerto; ne sentaŭgiĝis viaj vestoj sur vi, kaj viaj ŝuoj ne sentaŭgiĝis sur via piedo.",
     "Panon vi ne manĝis, kaj vinon kaj ebriigaĵojn vi ne trinkis; por ke vi sciu, ke Mi, la Eternulo, estas via Dio.",
-    "Kaj vi venis al ĉi tiu loko; kaj eliris SiĤon, reĝo de ĥeŝbon, kaj Og, reĝo de Baŝan, kontraŭ nin milite, kaj ni venkobatis ilin;",
+    "Kaj vi venis al ĉi tiu loko; kaj eliris Siĥon, reĝo de ĥeŝbon, kaj Og, reĝo de Baŝan, kontraŭ nin milite, kaj ni venkobatis ilin;",
     "kaj ni prenis ilian landon, kaj ni donis ĝin kiel posedaĵon al la Rubenidoj kaj al la Gadidoj kaj al duono de la tribo de Manase.",
     "Observu do la vortojn de ĉi tiu interligo kaj plenumu ilin, por ke vi sukcesu en ĉio, kion vi faros.",
     "Vi ĉiuj staras hodiaŭ antaŭ la Eternulo, via Dio; viaj estroj, viaj triboj, viaj plejaĝuloj, kaj viaj oficistoj, ĉiuj Izraelidoj;",

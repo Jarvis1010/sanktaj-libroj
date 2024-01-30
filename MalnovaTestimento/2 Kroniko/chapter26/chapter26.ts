@@ -4,9 +4,9 @@ export const chapter26 = {
   verses: [
     "Kaj la tuta Juda popolo prenis Uzijan, kiu havis la aĝon de dek ses jaroj, kaj faris lin reĝo anstataŭ lia patro Amacja.",
     "Li prikonstruis Elaton kaj revenigis ĝin al Judujo, post kiam la reĝo ekdormis kun siaj patroj.",
-    "La aĝon de dek ses jaroj havis Uzija, kiam li fariĝis reĝo, kaj kvindek du jarojn li reĝis en Jerusalem. La nomo de lia patrino estis JeĤolja, el Jerusalem.",
+    "La aĝon de dek ses jaroj havis Uzija, kiam li fariĝis reĝo, kaj kvindek du jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jeĥolja, el Jerusalem.",
     "Li agadis bone antaŭ la Eternulo, tiel same, kiel agadis lia patro Amacja.",
-    "Li turnadis sin al Dio en la tempo de ZeĤarja, la kompetentulo en Diaj vizioj; kaj en tiu tempo, kiam li turnadis sin al la Eternulo, Dio donadis al li sukceson.",
+    "Li turnadis sin al Dio en la tempo de Zeĥarja, la kompetentulo en Diaj vizioj; kaj en tiu tempo, kiam li turnadis sin al la Eternulo, Dio donadis al li sukceson.",
     "Li eliris kaj militis kontraŭ la Filiŝtoj; li detruis la muregon de Gat, la muregon de Jabne, kaj la muregon de Aŝdod; kaj li konstruis urbojn en la regiono de Aŝdod kaj en Filiŝtujo.",
     "Kaj Dio helpis al li kontraŭ la Filiŝtoj, kaj kontraŭ la Araboj, kiuj loĝis en Gur-Baal, kaj kontraŭ la Meunoj.",
     "Kaj la Amonidoj donis al Uzija donacojn, kaj lia nomo fariĝis fama ĝis la limo de Egiptujo, ĉar li estis tre forta.",

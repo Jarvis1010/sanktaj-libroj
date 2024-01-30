@@ -3,7 +3,7 @@ export const chapter9 = {
   summary: "",
   verses: [
     "Ĉar pri la servado al la sanktuloj estas por mi superflue skribi al vi;",
-    "ĉar mi scias vian volontecon, pri kiu mi fanfaronas pro vi al la Makedonoj, ke la AĤaja lando jam antaŭ unu jaro pretiĝis; kaj via fervoro instigis la plimulton el ili.",
+    "ĉar mi scias vian volontecon, pri kiu mi fanfaronas pro vi al la Makedonoj, ke la Aĥaja lando jam antaŭ unu jaro pretiĝis; kaj via fervoro instigis la plimulton el ili.",
     "Sed mi sendis la fratojn, por ke nia fanfaronado pro vi ne fariĝu vanta rilate al ĉi tio, sed, kiel mi diris, por ke vi estu pretaj,",
     "por ke, se venus kune kun mi iuj el Makedonujo kaj trovus vin ne pretaj, ni (por ne diri, vi) ne hontu pro ĉi tiu fido.",
     "Mi do opiniis necesa, peti la fratojn, ke ili antaŭe iru al vi, kaj antaŭe pretigu vian de longe promesitan helpmonon, por ke tio estu preta, kiel volonte donita, kaj ne kiel eldevigita.",

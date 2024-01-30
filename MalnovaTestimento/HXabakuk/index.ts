@@ -3,8 +3,8 @@ import { chapter2 } from "./chapter2/chapter2";
 import { chapter3 } from "./chapter3/chapter3";
 
 export const HXabakuk = {
-  bookTitle: "Ĥabakuk",
-  bookTitleShort: "Ĥabakuk",
+  bookTitle: "ĥabakuk",
+  bookTitleShort: "ĥabakuk",
   subtitle: "",
   summary: "",
   chapters: [chapter1, chapter2, chapter3],

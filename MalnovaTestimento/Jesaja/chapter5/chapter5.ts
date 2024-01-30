@@ -11,7 +11,7 @@ export const chapter5 = {
     "La vinberĝardeno de la Eternulo Cebaot estas la domo de Izrael, kaj la viroj de Jehuda estas Lia plej amata plantaĵo; kaj Li esperis justecon, sed montriĝis malnoblaĵo-bonagojn, sed montriĝis kriindaĵo.",
     "Ve al vi, kiuj aligas domon al domo, kampon al kampo, ĝis restas jam nenia loko, por ke vi solaj posedu la landon!",
     "En miaj oreloj estas la vortoj de la Eternulo Cebaot:Multaj domoj fariĝos dezertaj, grandaj kaj bonaj estos sen loĝantoj.",
-    "Ĉar dek parceloj da vinberĝardeno donos nur unu bat�on, kaj Ĥomero da semoj donos nur unu efon.",
+    "Ĉar dek parceloj da vinberĝardeno donos nur unu bat�on, kaj ĥomero da semoj donos nur unu efon.",
     "Ve al tiuj, kiuj leviĝas frue matene, por fordoni sin al drinkado, sidas malfrue nokte, por varmegigi sin per vino!",
     "Harpo, psaltero, tamburino, fluto, kaj vino estas en iliaj festenoj; sed la verkon de la Eternulo ili ne rigardas, kaj la faron de Liaj manoj ili ne vidas.",
     "Tial mia popolo estas forkondukita en malliberecon pro nekomprenado, kaj ĝiaj eminentuloj konsumiĝis de malsato, kaj ĝia popolamaso senfortiĝis de soifo.",

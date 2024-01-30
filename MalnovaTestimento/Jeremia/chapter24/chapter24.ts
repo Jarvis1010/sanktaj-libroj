@@ -2,7 +2,7 @@ export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
   summary: "",
   verses: [
-    "La Eternulo montris al mi:jen estas du korboj kun figoj, starigitaj antaŭ la templo de la Eternulo, post kiam Nebukadnecar, reĝo de Babel, forkondukis el Jerusalem JeĤonjan, filon de Jehojakim, reĝon de Judujo, kaj la princojn de Judujo kaj la ĉarpentistojn kaj seruristojn, kaj venigis ilin en Babelon.",
+    "La Eternulo montris al mi:jen estas du korboj kun figoj, starigitaj antaŭ la templo de la Eternulo, post kiam Nebukadnecar, reĝo de Babel, forkondukis el Jerusalem Jeĥonjan, filon de Jehojakim, reĝon de Judujo, kaj la princojn de Judujo kaj la ĉarpentistojn kaj seruristojn, kaj venigis ilin en Babelon.",
     "Unu korbo estis kun figoj tre bonaj, kiel estas la figoj plej frue maturiĝintaj; la dua korbo estis kun figoj tre malbonaj, kiujn pro ilia malboneco oni ne povas manĝi.",
     "Kaj la Eternulo diris al mi:Kion vi vidas, Jeremia? Kaj mi respondis:Figojn; la bonaj figoj estas tre bonaj, kaj la malbonaj estas tre malbonaj, tiel, ke pro ilia malboneco oni ne povas ilin manĝi.",
     "Tiam aperis al mi la vorto de la Eternulo, dirante:",

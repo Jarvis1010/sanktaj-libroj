@@ -2,7 +2,7 @@ export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
   summary: "",
   verses: [
-    "Sed en la sepa jaro kuraĝis Jehojada kaj prenis al si en interligon la centestrojn Azarja, filo de JeroĤam, Iŝmael, filo de JehoĤanan, Azarja, filo de Obed, Maaseja, filo de Adaja, kaj Eliŝafat, filo de ZiĤri;",
+    "Sed en la sepa jaro kuraĝis Jehojada kaj prenis al si en interligon la centestrojn Azarja, filo de Jeroĥam, Iŝmael, filo de Jehoĥanan, Azarja, filo de Obed, Maaseja, filo de Adaja, kaj Eliŝafat, filo de Ziĥri;",
     "kaj ili rondiris en Judujo kaj kolektis la Levidojn el ĉiuj urboj de Judujo kaj la ĉefojn de patrodomoj en Izrael kaj venis en Jerusalemon.",
     "Kaj la tuta anaro faris en la domo de Dio interligon kun la reĝo. Kaj Jehojada diris al ili:Jen la filo de la reĝo devas reĝi, kiel diris la Eternulo pri la filoj de David.",
     "Jenon vi devas fari:tiu triono de vi, kiu venas en sabato, el la pastroj kaj el la Levidoj, estu pordegistoj ĉe la sojloj,",

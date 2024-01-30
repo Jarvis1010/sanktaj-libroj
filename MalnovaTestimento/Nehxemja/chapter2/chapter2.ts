@@ -2,7 +2,7 @@ export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
-    "En la monato Nisan, en la dudeka jaro de la reĝo ArtaĤŝast, antaŭ li staris vino. Kaj mi prenis la vinon kaj donis al la reĝo; kaj ĝis tiam mi ne estis malgaja antaŭ li.",
+    "En la monato Nisan, en la dudeka jaro de la reĝo Artaĥŝast, antaŭ li staris vino. Kaj mi prenis la vinon kaj donis al la reĝo; kaj ĝis tiam mi ne estis malgaja antaŭ li.",
     "Kaj la reĝo diris al mi:Kial vi aspektas malbone, kvankam vi ne estas malsana? tio certe estas doloro de koro. Kaj mi forte ektimis,",
     "kaj mi diris al la reĝo:La reĝo vivu eterne; kiel mi povas ne aspekti malbone, kiam la urbo, kiu estas la tomboloko de miaj patroj, estas dezertigita, kaj ĝiaj pordegoj estas forbruligitaj per fajro?",
     "Kaj la reĝo diris al mi:Kion do vi deziras? Tiam mi preĝis al Dio de la ĉielo,",

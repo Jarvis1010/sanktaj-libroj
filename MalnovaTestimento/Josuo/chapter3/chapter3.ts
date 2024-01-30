@@ -17,7 +17,7 @@ export const chapter3 = {
     "Kaj kiam la plandoj de la piedoj de la pastroj, kiuj portas la keston de la Eternulo, la Sinjoro de la tuta tero, haltos en la akvo de Jordan, la akvo de Jordan detiriĝos, la akvo, kiu fluas de supre; kaj ĝi stariĝos, kiel unu muro.",
     "Kaj kiam la popolo elmoviĝis el siaj tendoj, por transiri Jordanon, kaj la pastroj, kiuj portis la keston de interligo, estis antaŭ la popolo,",
     "kaj kiam la portantoj de la kesto venis al Jordan, kaj la piedoj de la pastroj, kiuj portis la keston, trempiĝis en la rando de la akvo (kaj Jordan estis plena ĉe ĉiuj siaj bordoj dum la tuta tempo de rikoltado),",
-    "tiam la akvo, kiu fluis de supre, haltis, stariĝis kiel unu muro, tre malproksime, ĉe la urbo Adam, kiu estas apud Cartan; kaj la akvo, kiu fluis al la maro de la stepo, al la Sala Maro, tute foriris. Kaj la popolo transiris kontraŭ JeriĤo.",
+    "tiam la akvo, kiu fluis de supre, haltis, stariĝis kiel unu muro, tre malproksime, ĉe la urbo Adam, kiu estas apud Cartan; kaj la akvo, kiu fluis al la maro de la stepo, al la Sala Maro, tute foriris. Kaj la popolo transiris kontraŭ Jeriĥo.",
     "Kaj la pastroj, kiuj portis la keston de interligo de la Eternulo, staris forte sur seka tero meze de Jordan, kaj la tuta Izrael iris trans seka tero, ĝis la tuta popolo transiris Jordanon.",
   ],
 } as const satisfies Chapter;

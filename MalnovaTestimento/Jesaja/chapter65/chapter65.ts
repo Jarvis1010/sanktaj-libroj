@@ -11,7 +11,7 @@ export const chapter65 = {
     "viajn kulpojn kaj kune ankaŭ la kulpojn de viaj patroj, diras la Eternulo, kiuj incensis sur la montoj kaj ofendis Min sur la montetoj; kaj Mi remezuros al ili iliajn antaŭajn farojn sur ilian bruston.",
     "Tiele diras la Eternulo:Kiel se en vinberaro troviĝas mosto, oni diras:Ne difektu ĝin, ĉar en ĝi estas beno, tiel Mi agos pro Miaj servantoj, ke Mi ne pereigu ĉiujn.",
     "Kaj Mi elirigos el Jakob semon kaj el Jehuda heredanton de Miaj montoj, kaj heredos ilin Miaj elektitoj, kaj Miaj servantoj tie loĝos.",
-    "Kaj Ŝaron estos paŝtejo de ŝafoj, kaj la valo AĤor kuŝejo de bovoj por Mia popolo, kiu serĉas Min.",
+    "Kaj Ŝaron estos paŝtejo de ŝafoj, kaj la valo Aĥor kuŝejo de bovoj por Mia popolo, kiu serĉas Min.",
     "Sed vin, kiuj forlasis la Eternulon, forgesis Mian sanktan monton, aranĝas tablon por la Feliĉo, kaj faras verŝon por la Destino-",
     "vin Mi destinos por la glavo, kaj ĉiuj vi genuos por la buĉo, pro tio, ke Mi vokis kaj vi ne respondis, Mi parolis kaj vi ne aŭskultis, kaj vi faris malbonon antaŭ Miaj okuloj, kaj elektis tion, kio ne plaĉis al Mi.",
     "Tial tiele diras la Sinjoro, la Eternulo:Jen Miaj servantoj manĝos, kaj vi malsatos; Miaj servantoj trinkos, kaj vi soifos; Miaj servantoj ĝojos, kaj vi hontos;",

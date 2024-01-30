@@ -47,7 +47,7 @@ export const chapter27 = {
     "Li apogis sin al Dio; Tiu savu lin, se Li amas lin; ĉar li diris:Mi estas la Filo de Dio.",
     "Kaj ankaŭ la rabistoj, kiuj estis krucumitaj kun li, tiel same insultis lin.",
     "Kaj de post la sesa horo fariĝis mallumo sur la tuta lando ĝis la naŭa horo.",
-    "Kaj ĉirkaŭ la naŭa horo Jesuo ekkriis per laŭta voĉo, dirante:Eli, Eli, lama sabaĤtani? tio estas:Mia Dio, mia Dio, kial Vi forlasis min?",
+    "Kaj ĉirkaŭ la naŭa horo Jesuo ekkriis per laŭta voĉo, dirante:Eli, Eli, lama sabaĥtani? tio estas:Mia Dio, mia Dio, kial Vi forlasis min?",
     "Kaj iuj el la apudstarantoj, aŭdinte tion, diris:Ĉi tiu vokas Elijan.",
     "Kaj tuj unu el ili kuris kaj prenis spongon kaj plenigis ĝin per vinagro, kaj metinte ĝin sur kanon, donis al li trinki.",
     "Kaj la aliaj diris:Lasu; ni vidu, ĉu venos Elija, por savi lin.",

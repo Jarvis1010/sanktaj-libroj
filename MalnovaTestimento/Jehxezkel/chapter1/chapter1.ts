@@ -3,8 +3,8 @@ export const chapter1 = {
   summary: "",
   verses: [
     "En la trideka jaro, en la kvina tago de la kvara monato, kiam mi estis inter la elpatrujigitoj ĉe la rivero Kebar, malfermiĝis la ĉielo, kaj mi ekvidis viziojn de Dio.",
-    "En la kvina tago de tiu monato, tio estas, en la kvina jaro post la elpatrujigo de la reĝo JehojaĤin,",
-    "aperis la vorto de la Eternulo al la pastro JeĤezkel, filo de Buzi, en la lando ĥaldea, ĉe la rivero Kebar, kaj tie aperis sur li la mano de la Eternulo.",
+    "En la kvina tago de tiu monato, tio estas, en la kvina jaro post la elpatrujigo de la reĝo Jehojaĥin,",
+    "aperis la vorto de la Eternulo al la pastro Jeĥezkel, filo de Buzi, en la lando ĥaldea, ĉe la rivero Kebar, kaj tie aperis sur li la mano de la Eternulo.",
     "Kaj mi vidis, jen malkvieta vento venis el la nordo kun granda nubo kaj flamanta fajro; brilo estis ĉirkaŭe de ĝi, kaj el interne, el la mezo de la fajro, iris tre hela lumo.",
     "El la mezo vidiĝis bildo de kvar kreitaĵoj, kaj ilia aspekto estis kiel aspekto de homo.",
     "Kaj ĉiu havis kvar vizaĝojn, kaj ĉiu el ili havis kvar flugilojn.",

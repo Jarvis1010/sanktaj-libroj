@@ -7,7 +7,7 @@ export const chapter31 = {
     "kaj Mi plenigis lin per Dia spirito, per saĝo kaj prudento kaj scio kaj ĉia arto,",
     "por pripensi ideojn, por labori el oro kaj el arĝento kaj el kupro,",
     "kaj por ĉizi ŝtonojn por enkadrigo, kaj por ĉizi lignon, por fari ĉian laboron.",
-    "Kaj jen Mi donis al li kiel helpanton Oholiabon, filon de AĤisamaĤ, el la tribo de Dan; kaj en la koron de ĉiu kompetentulo Mi enmetis saĝon, por ke ili faru ĉion, kion Mi ordonis al vi:",
+    "Kaj jen Mi donis al li kiel helpanton Oholiabon, filon de Aĥisamaĥ, el la tribo de Dan; kaj en la koron de ĉiu kompetentulo Mi enmetis saĝon, por ke ili faru ĉion, kion Mi ordonis al vi:",
     "la tabernaklon de kunveno kaj la keston de atesto kaj la fermoplaton sur ĝi kaj ĉiujn apartenaĵojn de la tabernaklo,",
     "kaj la tablon kaj ĝiajn apartenaĵojn kaj la puran kandelabron kaj ĉiujn ĝiajn apartenaĵojn kaj la altaron de incensado,",
     "kaj la altaron de bruloferoj kaj ĉiujn ĝiajn apartenaĵojn kaj la lavujon kaj ĝian piedestalon,",

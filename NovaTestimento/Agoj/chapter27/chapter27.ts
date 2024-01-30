@@ -3,7 +3,7 @@ export const chapter27 = {
   summary: "",
   verses: [
     "Kaj kiam estis decidite, ke ni ŝipiru al Italujo, oni transdonis Paŭlon kaj kelkajn aliajn malliberulojn al centestro, nomata Julio, el la Aŭgusta kohorto.",
-    "Kaj enirinte en ŝipon el Adramitio, veturontan al la lokoj ĉe la marbordo de Azio, ni ekveturis sur la maron, havante kun ni AristarĤon, Makedonon el Tesaloniko.",
+    "Kaj enirinte en ŝipon el Adramitio, veturontan al la lokoj ĉe la marbordo de Azio, ni ekveturis sur la maron, havante kun ni Aristarĥon, Makedonon el Tesaloniko.",
     "Kaj la sekvantan tagon ni vizitis Cidonon; kaj Julio kondutis afable rilate Paŭlon, kaj permesis al li iri al siaj amikoj kaj refreŝiĝi.",
     "Kaj irinte de tie sur la maron, ni preterveturis sub la ŝirmo de Kipro, ĉar la ventoj estis kontraŭaj.",
     "Kaj transveturinte la maron apud Kilikio kaj Pamfilio, ni alvenis al Mira en Likio.",

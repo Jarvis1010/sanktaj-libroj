@@ -3,7 +3,7 @@ export const chapter5 = {
   summary: "",
   verses: [
     "Nun armu vin, ho batalistino! oni sieĝos nin; per vergo oni frapos la vangon de la juĝisto de Izrael.",
-    "Kaj vi, ho Bet-LeĤem Efrata, kiu estas malgranda inter la milejoj de Judujo, el vi eliros al Mi tiu, kiu devas esti reganto en Izrael kaj kies deveno estas de tempo tre antikva.",
+    "Kaj vi, ho Bet-Leĥem Efrata, kiu estas malgranda inter la milejoj de Judujo, el vi eliros al Mi tiu, kiu devas esti reganto en Izrael kaj kies deveno estas de tempo tre antikva.",
     "Li lasos ilin ĝis la tempo, kiam la naskontino estos naskinta; tiam liaj ceteraj fratoj revenos al la idoj de Izrael.",
     "Li stariĝos kaj paŝtos kun la forto de la Eternulo, kun la majesto de la nomo de la Eternulo, lia Dio, kaj tiuj konvertiĝos; ĉar tiam li fariĝos granda ĝis la randoj de la tero.",
     "Kaj li estos paco. Kiam la Asiriano venos en nian landon kaj enpaŝos en niajn palacojn, ni starigos kontraŭ li sep paŝtistojn kaj ok eminentulojn.",

@@ -2,7 +2,7 @@ export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
-    "Estis viro el la Benjamenidoj, kiu havis la nomon Kiŝ, filo de Abiel, filo de Ceror, filo de BeĤorat, filo de AfiaĤ, Benjamenido, viro forta.",
+    "Estis viro el la Benjamenidoj, kiu havis la nomon Kiŝ, filo de Abiel, filo de Ceror, filo de Beĥorat, filo de Afiaĥ, Benjamenido, viro forta.",
     "Li havis filon, kies nomo estis Saul; ĉi tiu estis juna kaj bela, kaj neniu el la Izraelidoj estis pli bela ol li; de siaj ŝultroj supren li estis pli alta ol la tuta popolo.",
     "Perdiĝis azeninoj de Kiŝ, patro de Saul; kaj Kiŝ diris al sia filo Saul:Prenu kun vi unu el la junuloj, kaj leviĝu, kaj iru serĉi la azeninojn.",
     "Kaj li iris sur la monton de Efraim kaj trairis la landon Ŝaliŝa, sed ili ne trovis; kaj ili trairis la landon Ŝaalim, sed tie ne troviĝis; kaj li trairis la landon de Benjamen, sed ili ne trovis.",

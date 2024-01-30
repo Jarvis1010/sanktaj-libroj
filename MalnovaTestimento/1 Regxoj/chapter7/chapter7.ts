@@ -22,7 +22,7 @@ export const chapter7 = {
     "Kaj li faris la kolonojn tiel, ke du vicoj da granatoj estis ĉirkaŭ unu reto, por kovri la kapitelon; tiel same li faris ankaŭ por la dua kapitelo.",
     "La kapiteloj sur la kolonoj estis faritaj kiel la lilioj en la salono, kaj havis kvar ulnojn.",
     "Kaj la kapiteloj sur la du kolonoj super la konveksaĵo, kiu estis apud la reto; kaj sur la dua kapitelo ĉirkaŭe en vicoj ducent granatoj.",
-    "Kaj li starigis la kolonojn antaŭ la salono de la templo; kaj li starigis la dekstran kolonon kaj donis al ĝi la nomon JaĤin; kaj li starigis la maldekstran kolonon kaj donis al ĝi la nomon Boaz.",
+    "Kaj li starigis la kolonojn antaŭ la salono de la templo; kaj li starigis la dekstran kolonon kaj donis al ĝi la nomon Jaĥin; kaj li starigis la maldekstran kolonon kaj donis al ĝi la nomon Boaz.",
     "Sur la suproj de la kolonoj estis skulptaĵo en formo de lilio. Tiel estis finita la laboro de la kolonoj.",
     "Kaj li faris maron fanditan, havantan dek ulnojn de rando ĝis rando, tute rondan, havantan la alton de kvin ulnoj; kaj ŝnuro de tridek ulnoj prezentis ĝian mezuron ĉirkaŭe.",
     "Kaj tuberoj sub ĝia rando troviĝis ĉirkaŭe de ĝi; sur la spaco de dek ulnoj ili ĉirkaŭis la maron en du vicoj; la tuberoj estis fanditaj kune kun ĝi.",

@@ -2,7 +2,7 @@ export const chapter47 = {
   chapterTitle: "Ĉapitro 47",
   summary: "",
   verses: [
-    "Al la Ĥorestro. De la KoraĤidoj. Psalmo. Ĉiuj popoloj, plaŭdu per la manoj, Kriu al Dio per voĉo de kanto.",
+    "Al la ĥorestro. De la Koraĥidoj. Psalmo. Ĉiuj popoloj, plaŭdu per la manoj, Kriu al Dio per voĉo de kanto.",
     "Ĉar la Eternulo Plejalta estas timinda; Li estas granda Reĝo super la tuta tero.",
     "Li subigas al ni popolojn Kaj metas gentojn sub niajn piedojn.",
     "Li elektas por ni nian heredon, La majeston de Jakob, kiun Li amas.  Sela.",

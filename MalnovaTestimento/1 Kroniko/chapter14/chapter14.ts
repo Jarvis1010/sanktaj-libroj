@@ -6,7 +6,7 @@ export const chapter14 = {
     "Kaj David konsciis, ke la Eternulo fortikigis lin kiel reĝon super Izrael, ke lia regno leviĝis alte pro Lia popolo Izrael.",
     "Kaj David prenis ankoraŭ edzinojn en Jerusalem, kaj David naskigis ankoraŭ filojn kaj filinojn.",
     "Kaj jen estas la nomoj de tiuj, kiuj naskiĝis al li en Jerusalem:Ŝamua kaj Ŝobab, Natan kaj Salomono",
-    "kaj JibĤar kaj Eliŝua kaj Elpelet",
+    "kaj Jibĥar kaj Eliŝua kaj Elpelet",
     "kaj Noga kaj Nefeg kaj Jafia",
     "kaj Eliŝama kaj Beeljada kaj Elifelet.",
     "Kiam la Filiŝtoj aŭdis, ke David estas oleita kiel reĝo super la tuta Izrael, tiam ĉiuj Filiŝtoj iris, por serĉi Davidon. David aŭdis pri tio, kaj li eliris kontraŭ ilin.",

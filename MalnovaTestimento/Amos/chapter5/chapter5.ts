@@ -27,7 +27,7 @@ export const chapter5 = {
     "Forigu de Mi la bruon de viaj kantoj, la sonadon de viaj psalteroj Mi ne volas aŭskulti.",
     "Sed justeco fluu kiel akvo, kaj vero kiel potenca torento.",
     "Ĉu buĉoferojn kaj farunoferojn vi alportadis al Mi en la dezerto dum kvardek jaroj, ho domo de Izrael?",
-    "Vi portis la tabernaklon de via MoleĤ, la kolonon de via idolo, la stelon de via dio, kiun vi faris al vi.",
+    "Vi portis la tabernaklon de via Moleĥ, la kolonon de via idolo, la stelon de via dio, kiun vi faris al vi.",
     "Tial Mi elpatrujigos vin trans Damaskon, diras la Eternulo, kies nomo estas Dio Cebaot.",
   ],
 } as const satisfies Chapter;

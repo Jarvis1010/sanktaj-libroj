@@ -3,7 +3,7 @@ export const chapter50 = {
   summary: "",
   verses: [
     "Jen estas la vorto, kiun la Eternulo diris per la profeto Jeremia pri Babel kaj pri la lando de la ĥaldeoj:",
-    "Sciigu al la nacioj kaj proklamu, levu standardon, proklamu, ne kaŝu, diru:Prenita estas Babel, hontigita estas Bel, frakasita estas MerodaĤ,  hontigitaj estas ĝiaj idoloj, frakasitaj estas ĝiaj statuoj.",
+    "Sciigu al la nacioj kaj proklamu, levu standardon, proklamu, ne kaŝu, diru:Prenita estas Babel, hontigita estas Bel, frakasita estas Merodaĥ,  hontigitaj estas ĝiaj idoloj, frakasitaj estas ĝiaj statuoj.",
     "Ĉar eliris kontraŭ ĝin popolo el la nordo, kiu faros ĝian landon dezerto, kaj ne plu estos loĝanto en ĝi:de homo ĝis bruto ĉio foriĝos kaj foriros.",
     "En tiuj tagoj kaj en tiu tempo, diras la Eternulo, venos la idoj de Izrael kune kun la idoj de Jehuda; ili iros kaj ploros, kaj serĉos la Eternulon, sian Dion.",
     "Pri la vojo al Cion ili demandos, tien estos turnita ilia vizaĝo:Venu, ni aliĝos al la Eternulo per interligo eterna, neforgesebla.",

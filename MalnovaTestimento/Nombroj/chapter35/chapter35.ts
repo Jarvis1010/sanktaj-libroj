@@ -2,7 +2,7 @@ export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
   summary: "",
   verses: [
-    "Kaj la Eternulo ekparolis al Moseo en la stepoj de Moab ĉe la JeriĤa Jordan, dirante:",
+    "Kaj la Eternulo ekparolis al Moseo en la stepoj de Moab ĉe la Jeriĥa Jordan, dirante:",
     "Ordonu al la Izraelidoj, ke ili donu al la Levidoj el siaj posedaĵoj urbojn por loĝi; ankaŭ la kampojn ĉirkaŭ tiuj urboj donu al la Levidoj.",
     "Kaj la urboj estos por ili por loĝi, kaj la kampoj estos por iliaj brutoj kaj por ilia havo kaj por ĉiuj iliaj bezonoj de la vivo.",
     "Kaj la kampoj de tiuj urboj, kiujn vi donos al la Levidoj, devas etendiĝi mil ulnojn ekster la muroj de la urboj ĉirkaŭe.",

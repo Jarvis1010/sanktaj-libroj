@@ -5,7 +5,7 @@ export const chapter31 = {
     "Kaj Moseo iris kaj parolis ĉi tiujn vortojn al la tuta Izrael.",
     "Kaj li diris al ili:Mi havas hodiaŭ la aĝon de cent dudek jaroj, mi ne povas plu eliri nek eniri; kaj la Eternulo diris al mi:Vi ne transiros ĉi tiun Jordanon.",
     "La Eternulo, via Dio, mem iros antaŭ vi; Li ekstermos tiujn popolojn antaŭ vi, kaj vi heredos ilin; Josuo iros antaŭ vi, kiel la Eternulo diris.",
-    "Kaj la Eternulo faros al ili, kiel Li faris al SiĤon kaj al Og, reĝoj de la Amoridoj, kaj al ilia lando, kiujn Li ekstermis.",
+    "Kaj la Eternulo faros al ili, kiel Li faris al Siĥon kaj al Og, reĝoj de la Amoridoj, kaj al ilia lando, kiujn Li ekstermis.",
     "Kaj la Eternulo transdonos ilin al vi, kaj vi agos kun ili laŭ ĉiuj ordonoj, kiujn mi donis al vi.",
     "Estu fortaj kaj kuraĝaj, ne timu kaj ne tremu antaŭ ili; ĉar la Eternulo, via Dio, mem iros kun vi; Li ne foriros de vi kaj ne forlasos vin.",
     "Kaj Moseo alvokis Josuon, kaj diris al li antaŭ la okuloj de ĉiuj Izraelidoj:Estu forta kaj kuraĝa; ĉar vi venigos ĉi tiun popolon en la landon, pri kiu la Eternulo ĵuris al iliaj patroj, ke Li donos ĝin al ili, kaj vi ekposedigos ilin.",

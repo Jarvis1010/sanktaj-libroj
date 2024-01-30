@@ -2,7 +2,7 @@ export const chapter64 = {
   chapterTitle: "Ĉapitro 64",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Aŭdu, ho Dio, mian krion en mia malĝojo; De la teruro pri malamiko gardu mian vivon.",
+    "Al la ĥorestro. Psalmo de David. Aŭdu, ho Dio, mian krion en mia malĝojo; De la teruro pri malamiko gardu mian vivon.",
     "Ŝirmu min kontraŭ la konspiro de maliculoj, Kontraŭ la amaso de krimuloj,",
     "Kiuj akrigis sian langon kiel glavon, Direktis vortojn maldolĉajn, kvazaŭ siajn sagojn,",
     "Por pafi kaŝe kontraŭ senkulpulon; Subite ili pafas kontraŭ lin kaj ne timas.",

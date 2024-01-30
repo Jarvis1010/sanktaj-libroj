@@ -2,7 +2,7 @@ export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
   summary: "",
   verses: [
-    "Post AbimeleĤ leviĝis, por helpadi al Izrael, Tola, filo de Pua, filo de Dodo, IsaĤarido. Li loĝis en Ŝamir, sur la monto de Efraim.",
+    "Post Abimeleĥ leviĝis, por helpadi al Izrael, Tola, filo de Pua, filo de Dodo, Isaĥarido. Li loĝis en Ŝamir, sur la monto de Efraim.",
     "Kaj li estis juĝisto de Izrael dum dudek tri jaroj, kaj li mortis, kaj oni enterigis lin en Ŝamir.",
     "Post li leviĝis Jair, Gileadano, kaj li estis juĝisto de Izrael dum dudek du jaroj.",
     "Li havis tridek filojn, kiuj rajdadis sur tridek junaj azenoj, kaj ili havis tridek urbojn; ĝis nun oni ilin nomas Vilaĝoj de Jair, kiuj estas en la lando Gilead.",

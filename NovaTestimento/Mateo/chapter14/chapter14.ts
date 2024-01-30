@@ -2,7 +2,7 @@ export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
-    "En tiu tempo la tetrarĤo Herodo aŭdis la famon pri Jesuo,",
+    "En tiu tempo la tetrarĥo Herodo aŭdis la famon pri Jesuo,",
     "kaj diris al siaj servantoj:Tiu estas Johano, la Baptisto; li leviĝis el la mortintoj, kaj tial tiuj potencaĵoj energias en li.",
     "Ĉar Herodo jam arestis Johanon kaj ligis lin kaj metis lin en malliberejon pro Herodias, kiu estis edzino de lia frato Filipo.",
     "Ĉar Johano diris al li:Ne decas, ke vi havu ŝin.",

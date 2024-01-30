@@ -2,7 +2,7 @@ export const chapter140 = {
   chapterTitle: "Ĉapitro 140",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Liberigu min, ho Eternulo, de malbona homo, Gardu min kontraŭ perfortulo;",
+    "Al la ĥorestro. Psalmo de David. Liberigu min, ho Eternulo, de malbona homo, Gardu min kontraŭ perfortulo;",
     "Kontraŭ tiuj, kiuj elpensas malbonon en la koro, Ĉiutage kaŭzas militojn;",
     "Kiuj akrigas sian langon, kiel serpento; Veneno de vipuro estas sub iliaj lipoj.  Sela.",
     "Gardu min, ho Eternulo, kontraŭ la manoj de malvirtuloj, Gardu min kontraŭ perfortuloj,   Kiuj intencas renversi miajn paŝojn.",

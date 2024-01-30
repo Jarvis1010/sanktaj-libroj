@@ -13,7 +13,7 @@ export const chapter4 = {
     "Klopodu veni baldaŭ al mi;",
     "ĉar Demas min forlasis, amante la nunan mondon, kaj iris al Tesaloniko; Kreskens al Galatujo, Tito al Dalmatujo.",
     "Nur Luko estas kun mi. Prenu Markon kaj alkonduku lin kun vi, ĉar li utilas al mi por la servado.",
-    "Sed TiĤikon mi sendis al Efeso.",
+    "Sed Tiĥikon mi sendis al Efeso.",
     "La mantelon, kiun mi lasis en Troas ĉe Karpo, alportu, kiam vi venos, kaj la librojn, precipe la pergamenojn.",
     "Aleksandro, la kupristo, faris al mi multe da malbono; la Sinjoro redonos al li laŭ liaj faroj;",
     "kontraŭ li vi ankaŭ vin gardu, ĉar li multege kontraŭstaris al niaj vortoj.",

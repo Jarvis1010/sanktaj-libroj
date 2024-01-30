@@ -3,11 +3,11 @@ export const chapter32 = {
   summary: "",
   verses: [
     "Kaj tiuj tri viroj ĉesis respondi al Ijob, ĉar li opiniis sin prava.",
-    "Tiam ekflamis la kolero de Elihu, filo de BaraĤel, Buzano, el la familio de Ram. Kontraŭ Ijob ekflamis lia kolero pro tio, ke li opiniis sin pli prava ol Dio;",
+    "Tiam ekflamis la kolero de Elihu, filo de Baraĥel, Buzano, el la familio de Ram. Kontraŭ Ijob ekflamis lia kolero pro tio, ke li opiniis sin pli prava ol Dio;",
     "kaj kontraŭ liaj tri amikoj ekflamis lia kolero pro tio, ke ili ne trovis respondon kaj akuzis Ijobon.",
     "Elihu atendis, dum ili parolis kun Ijob, ĉar ili estis pli aĝaj ol li.",
     "Sed kiam Elihu vidis, ke ne troviĝas respondo en la buŝo de la tri viroj, ekflamis lia kolero.",
-    "Kaj ekparolis Elihu, filo de BaraĤel, la Buzano, kaj diris: Mi estas juna, kaj vi estas maljunuloj;   Tial mi hezitis kaj timis eldiri al vi mian opinion.",
+    "Kaj ekparolis Elihu, filo de Baraĥel, la Buzano, kaj diris: Mi estas juna, kaj vi estas maljunuloj;   Tial mi hezitis kaj timis eldiri al vi mian opinion.",
     "Mi pensis:La aĝo parolu, Kaj la jarmulto montru saĝon.",
     "Sed la spirito en la homoj kaj la spiro de la Plejpotenculo Donas al ili prudenton.",
     "Ne la grandaj estas la plej prudentaj, Kaj ne la maljunuloj sole scias juĝi,",

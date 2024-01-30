@@ -52,7 +52,7 @@ export const chapter11 = {
     "Tial vi estas atestantoj, kaj konsentas al la faroj de viaj patroj; ĉar ili mortigis ilin, kaj vi konstruas la tombojn.",
     "Tial ankaŭ diris la saĝo de Dio:Mi sendos al ili profetojn kaj apostolojn, kaj iujn el tiuj ili mortigos kaj persekutos;",
     "por ke la sango de ĉiuj profetoj, kiu estis elverŝita de post la komenco de la mondo, estu postulita el ĉi tiu generacio,",
-    "de la sango de Habel ĝis la sango de ZeĤarja, kiu pereis inter la altaro kaj la sankta domo; jes, mi diras al vi:Ĝi estos postulita el ĉi tiu generacio.",
+    "de la sango de Habel ĝis la sango de Zeĥarja, kiu pereis inter la altaro kaj la sankta domo; jes, mi diras al vi:Ĝi estos postulita el ĉi tiu generacio.",
     "Ve al vi, leĝistoj! ĉar vi forprenis la ŝlosilon de la scio; vi mem ne eniris, kaj vi malhelpis la enirantajn.",
     "Kaj kiam li eliris el tie, la skribistoj kaj la Fariseoj atakis lin insiste, kaj instigis lin paroli pri multaj aferoj;",
     "insidante kontraŭ li, por kapti ion el lia buŝo.",

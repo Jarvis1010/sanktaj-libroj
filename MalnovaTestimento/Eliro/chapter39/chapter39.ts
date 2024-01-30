@@ -28,7 +28,7 @@ export const chapter39 = {
     "Kaj ili faris sur la malsupra rando de la tuniko granatojn el blua, purpura, kaj ruĝa ŝtofo, tordita.",
     "Kaj ili faris tintilojn el pura oro, kaj metis la tintilojn mezen de la granatoj sur la malsupra rando de la tuniko, ĉirkaŭe inter la granatoj;",
     "tintilon kaj granaton, tintilon kaj granaton sur la malsupra rando de la tuniko, ĉirkaŭe, por la servado; kiel la Eternulo ordonis al Moseo.",
-    "Kaj ili faris la Ĥitonon el bisino, teksitan, por Aaron kaj liaj filoj,",
+    "Kaj ili faris la ĥitonon el bisino, teksitan, por Aaron kaj liaj filoj,",
     "kaj la cidaron el bisino, kaj la ornamajn mitrojn el bisino, kaj la linajn pantalonojn el tordita bisino,",
     "kaj la zonon el tordita bisino kaj el blua, purpura, kaj ruĝa teksaĵo, broditan; kiel la Eternulo ordonis al Moseo.",
     "Kaj ili faris la tabuleton, la sanktan kronon, el pura oro, kaj ili skribis sur ĝi skribon gravuritan:SANKTA AL LA ETERNULO.",

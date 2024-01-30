@@ -2,10 +2,10 @@ export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
-    "Naomi havis parencon de ŝia edzo, viron eminentan, el la familio de ElimeleĤ; lia nomo estis Boaz.",
+    "Naomi havis parencon de ŝia edzo, viron eminentan, el la familio de Elimeleĥ; lia nomo estis Boaz.",
     "Kaj la Moabidino Rut diris al Naomi:Mi iros sur la kampon, kaj mi kolektos spikojn post tiu, ĉe kiu mi trovos favoron. Kaj ŝi respondis:Iru, mia filino.",
-    "Kaj ŝi foriris, kaj venis kaj kolektis post la rikoltistoj. Kaj okazis, ke la parcelo de la kampo apartenis al Boaz, kiu estis el la familio de ElimeleĤ.",
-    "Kaj jen Boaz venis el Bet-LeĤem, kaj li salutis la rikoltistojn:La Eternulo estu kun vi! Kaj ili respondis al li:La Eternulo vin benu!",
+    "Kaj ŝi foriris, kaj venis kaj kolektis post la rikoltistoj. Kaj okazis, ke la parcelo de la kampo apartenis al Boaz, kiu estis el la familio de Elimeleĥ.",
+    "Kaj jen Boaz venis el Bet-Leĥem, kaj li salutis la rikoltistojn:La Eternulo estu kun vi! Kaj ili respondis al li:La Eternulo vin benu!",
     "Kaj Boaz demandis sian serviston, la estron de la rikoltistoj:Kiu estas ĉi tiu knabino?",
     "Kaj la servisto, la estro de la rikoltistoj, respondis kaj diris:Ŝi estas Moaba knabino, kiu revenis kun Naomi el la lando de Moab;",
     "ŝi diris:Permesu al mi, ke mi sekvu kaj kolektu apud la garboj, post la rikoltistoj; kaj ŝi restis ĉi tie de la mateno ĝis nun; ŝi ĵus sidiĝis en la dometo por iomete da tempo.",

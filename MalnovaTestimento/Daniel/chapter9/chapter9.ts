@@ -2,7 +2,7 @@ export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
-    "En la unua jaro de Dario, filo de AĤaŝveroŝ, el la gento Meda, kiu fariĝis reĝo super la regno de la ĥaldeoj,",
+    "En la unua jaro de Dario, filo de Aĥaŝveroŝ, el la gento Meda, kiu fariĝis reĝo super la regno de la ĥaldeoj,",
     "en la unua jaro de lia reĝado, mi, Daniel, rimarkis en la libroj la nombron de la jaroj, pri kiuj la Eternulo parolis al la profeto Jeremia, ke devas finiĝi sepdek jaroj de la dezerteco de Jerusalem.",
     "Kaj mi turnis mian vizaĝon al Dio, la Sinjoro, por preĝi kaj petegi, en fastado, sakaĵo, kaj cindro.",
     "Kaj mi preĝis al la Eternulo, mia Dio, mi faris konfeson, kaj mi diris:Mi petas Vin, ho Sinjoro, Dio granda kaj timinda, kiu konservas la interligon kaj favorkorecon al Liaj amantoj kaj al la plenumantoj de Liaj ordonoj!",

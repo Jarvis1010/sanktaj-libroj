@@ -22,7 +22,7 @@ export const chapter6 = {
     "per ĉia preĝado kaj petegado en ĉiu tempo preĝante en la Spirito, kaj viglante por tio en ĉia persisteco kaj petego por ĉiuj sanktuloj,",
     "kaj por mi, ke al mi estu donita parolpovo kun malfermo de mia buŝo, por ke mi sciigu kuraĝe la misteron de la evangelio,",
     "pro kiu mi estas ambasadoro en kateno, por ke mi parolu kuraĝe en ĝi, kiel mi devus paroli.",
-    "Plue, por ke vi sciiĝu pri miaj aferoj, kiel mi statas, raportos ĉion al vi TiĤiko, la amata frato kaj fidela diakono en la Sinjoro,",
+    "Plue, por ke vi sciiĝu pri miaj aferoj, kiel mi statas, raportos ĉion al vi Tiĥiko, la amata frato kaj fidela diakono en la Sinjoro,",
     "kiun mi sendis al vi ĝuste por tio, ke vi sciiĝu pri nia stato kaj por ke li konsolu viajn korojn.",
     "Paco estu al la fratoj, kaj amo kun fido de Dio, la Patro, kaj de la Sinjoro Jesuo Kristo.",
     "Graco estu kun ĉiuj, kiuj sendekliniĝe amas nian Sinjoron Jesuo Kristo.",

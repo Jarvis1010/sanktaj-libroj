@@ -5,7 +5,7 @@ export const chapter13 = {
     "Kaj ĉeestis en tiu sama tempo iuj, kiuj rakontis al li pri tiuj Galileanoj, kies sangon Pilato miksis kun iliaj oferaĵoj.",
     "Kaj responde li diris al ili:Ĉu vi pensas, ke tiuj Galileanoj estis pekuloj pli ol ĉiuj Galileanoj, pro tio, ke ili tion suferis?",
     "Mi diras al vi:Neniel; sed se vi ne pentos, vi ĉiuj tiel same pereos.",
-    "Aŭ pri tiuj dek ok, sur kiujn falis la turo en ŜiloaĤ kaj ilin mortigis, ĉu vi pensas, ke ili estis pekuloj pli ol ĉiuj homoj, kiuj loĝis en Jerusalem?",
+    "Aŭ pri tiuj dek ok, sur kiujn falis la turo en Ŝiloaĥ kaj ilin mortigis, ĉu vi pensas, ke ili estis pekuloj pli ol ĉiuj homoj, kiuj loĝis en Jerusalem?",
     "Neniel, mi diras al vi; sed se vi ne pentos, vi ĉiuj ankaŭ pereos.",
     "Kaj li parolis la jenan parabolon:Unu viro havis figarbon, plantitan en lia vinberĝardeno, kaj li venis, serĉante frukton sur ĝi, kaj ne trovis.",
     "Kaj li diris al la vinberisto:Jen tri jarojn mi venas, serĉante frukton sur ĉi tiu figarbo, kaj mi ne trovas; elhaku ĝin; kial ĝi senutiligas ankaŭ la teron?",

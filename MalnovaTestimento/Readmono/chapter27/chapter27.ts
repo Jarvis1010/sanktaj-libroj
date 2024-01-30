@@ -13,7 +13,7 @@ export const chapter27 = {
     "Kaj Moseo kaj la pastroj Levidoj ekparolis al la tuta Izrael, dirante:Silentu kaj aŭskultu, ho Izrael; en la hodiaŭa tago vi fariĝis popolo al la Eternulo, via Dio.",
     "Aŭskultu do la voĉon de la Eternulo, via Dio, kaj plenumu Liajn ordonojn kaj Liajn leĝojn, kiujn mi donas al vi hodiaŭ.",
     "Kaj Moseo ordonis al la popolo en tiu tago, dirante:",
-    "Ĉi tiuj stariĝu, por beni la popolon, sur la monto Gerizim, kiam vi transiros Jordanon:Simeon kaj Levi kaj Jehuda kaj IsaĤar kaj Jozef kaj Benjamen.",
+    "Ĉi tiuj stariĝu, por beni la popolon, sur la monto Gerizim, kiam vi transiros Jordanon:Simeon kaj Levi kaj Jehuda kaj Isaĥar kaj Jozef kaj Benjamen.",
     "Kaj ĉi tiuj stariĝu por malbenado sur la monto Ebal:Ruben, Gad kaj Aŝer kaj Zebulun, Dan kaj Naftali.",
     "Kaj la Levidoj ekparolos, kaj diros al ĉiuj Izraelidoj per laŭta voĉo:",
     "Malbenita estu la homo, kiu faros idolon skulptitan aŭ fanditan, abomenaĵon antaŭ la Eternulo, manfaritaĵon de artisto, kaj starigos ĝin sekrete. Kaj la tuta popolo respondos kaj diros:Amen.",

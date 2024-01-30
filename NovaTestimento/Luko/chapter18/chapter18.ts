@@ -36,7 +36,7 @@ export const chapter18 = {
     "Ĉar li estos transdonita al la nacianoj, kaj mokita kaj perfortita kaj surkraĉita;",
     "kaj ili skurĝos kaj mortigos lin; kaj la trian tagon li releviĝos.",
     "Kaj ili komprenis nenion el tio, kaj ĉi tiu parolo estis kaŝita for de ili, kaj ili ne sciis la dirojn.",
-    "Kaj kiam li alproksimiĝis al JeriĤo, unu blindulo sidis apud la vojo, petante almozojn;",
+    "Kaj kiam li alproksimiĝis al Jeriĥo, unu blindulo sidis apud la vojo, petante almozojn;",
     "kaj aŭdinte homamason preterirantan, li demandis, kio estas tio.",
     "Kaj oni diris al li, ke Jesuo, la Nazaretano, preteriras.",
     "Kaj li kriis, dirante:Jesuo, filo de David, kompatu min.",

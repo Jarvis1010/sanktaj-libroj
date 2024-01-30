@@ -27,7 +27,7 @@ export const chapter25 = {
     "al Dedan, al Tema, al Buz, kaj al ĉiuj, kiuj tondas la harojn sur la tempioj;",
     "kaj al ĉiuj reĝoj de Arabujo, kaj al ĉiuj reĝoj de la diversgentaj popoloj, loĝantaj en la dezerto;",
     "kaj al ĉiuj reĝoj de Zimri kaj al ĉiuj reĝoj de Elam kaj al ĉiuj reĝoj de Medujo;",
-    "kaj al ĉiuj reĝoj de la nordo, la proksimaj kaj la malproksimaj, unu kontraŭ la alia, kaj al ĉiuj regnoj de la mondo, kiuj troviĝas sur la tero; kaj la reĝo de ŜeŝaĤ trinkos post ili.",
+    "kaj al ĉiuj reĝoj de la nordo, la proksimaj kaj la malproksimaj, unu kontraŭ la alia, kaj al ĉiuj regnoj de la mondo, kiuj troviĝas sur la tero; kaj la reĝo de Ŝeŝaĥ trinkos post ili.",
     "Kaj diru al ili:Tiele diras la Eternulo Cebaot, Dio de Izrael:Trinku kaj ebriiĝu, vomu kaj falu, kaj ne leviĝu antaŭ la glavo, kiun Mi sendas sur vin.",
     "Kaj se ili ne volos preni la pokalon el via mano, por trinki, tiam diru al ili:Tiele diras la Eternulo Cebaot:Vi nepre devas trinki.",
     "Ĉar jen sur la urbon, kiu portas sur si Mian nomon, Mi komencas sendi suferojn; ĉu vi do restos senpunaj? vi ne restos sen puno, ĉar Mi vokas glavon sur ĉiujn loĝantojn de la tero, diras la Eternulo Cebaot.",

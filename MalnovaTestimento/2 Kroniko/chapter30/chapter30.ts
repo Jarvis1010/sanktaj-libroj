@@ -19,7 +19,7 @@ export const chapter30 = {
     "Kaj ili buĉis la Paskon en la dek-kvara tago de la dua monato. La pastroj kaj la Levidoj hontis, kaj sanktigis sin kaj venigis la bruloferojn al la domo de la Eternulo.",
     "Kaj ili staris sur siaj postenoj laŭ la preskribo, konforme al la instruo de Moseo, la homo de Dio. La pastroj aspergis per la sango el la manoj de la Levidoj.",
     "Ĉar en la komunumo estis multaj, kiuj sin ne sanktigis, tial la Levidoj okupis sin per la buĉado de la Paskoj anstataŭ ĉiu, kiu ne estis pura, por esti sanktigata al la Eternulo.",
-    "Multaj el la popolo, plejparte el Efraim, Manase, IsaĤar, kaj Zebulun, ne purigis sin; tamen ili manĝis la Paskon, ne konforme al la preskribo; sed ĥizkija preĝis pri ili, dirante:La Eternulo, la bona, pardonu ĉiun,",
+    "Multaj el la popolo, plejparte el Efraim, Manase, Isaĥar, kaj Zebulun, ne purigis sin; tamen ili manĝis la Paskon, ne konforme al la preskribo; sed ĥizkija preĝis pri ili, dirante:La Eternulo, la bona, pardonu ĉiun,",
     "kiu pretigis sian koron, por turni sin al Dio, la Eternulo, Dio de liaj patroj, kvankam ne konforme al la sankta puriĝo.",
     "Kaj la Eternulo aŭskultis ĥizkijan kaj pardonis la popolon.",
     "Kaj la Izraelidoj, kiuj troviĝis en Jerusalem, faris la feston de macoj dum sep tagoj en granda ĝojo; kaj ĉiutage la Levidoj kaj la pastroj glorkantis al la Eternulo per instrumentoj, difinitaj por glorado de la Eternulo.",

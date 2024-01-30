@@ -2,7 +2,7 @@ export const chapter62 = {
   chapterTitle: "Ĉapitro 62",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por Jedutun. Psalmo de David. Nur al Dio esperas mia animo; De Li venas mia savo.",
+    "Al la ĥorestro. Por Jedutun. Psalmo de David. Nur al Dio esperas mia animo; De Li venas mia savo.",
     "Nur Li estas mia fortikaĵo kaj mia savo, mia rifuĝejo; Mi ne tute renversiĝos.",
     "Ĝis kiam vi insidos kontraŭ viro kaj ĉiuj vi penos faligi lin, Kiel kliniĝintan muron, kiel barilon kadukan?",
     "Ili meditas nur pri tio, ke ili deĵetu lin de lia altaĵo; Plaĉas al ili malvero;   Per la buŝo ili benas, kaj interne ili malbenas.  Sela.",

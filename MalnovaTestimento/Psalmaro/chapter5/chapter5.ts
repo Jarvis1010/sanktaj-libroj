@@ -2,7 +2,7 @@ export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por blovaj instrumentoj. Psalmo de David. Miajn vortojn aŭskultu, ho Eternulo. Trapenetru miajn pensojn.",
+    "Al la ĥorestro. Por blovaj instrumentoj. Psalmo de David. Miajn vortojn aŭskultu, ho Eternulo. Trapenetru miajn pensojn.",
     "Aŭdu la voĉon de mia krio, mia Reĝo kaj mia Dio; Ĉar al Vi mi preĝas.",
     "Ho Eternulo, matene Vi aŭdas mian voĉon; Matene mi eldiras mian preĝon al Vi, kaj mi atendas.",
     "Ĉar Vi ne estas tia Dio, kiu amas malpiaĵon; Malbonulo ne povas gasti ĉe Vi.",

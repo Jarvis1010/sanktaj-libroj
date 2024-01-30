@@ -2,7 +2,7 @@ export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por ario:Matenkrepuska Cervino. Psalmo de David. Mia Dio, mia Dio, kial Vi forlasis min,   Kaj estas malproksima de mia savo, de miaj plendaj paroloj?",
+    "Al la ĥorestro. Por ario:Matenkrepuska Cervino. Psalmo de David. Mia Dio, mia Dio, kial Vi forlasis min,   Kaj estas malproksima de mia savo, de miaj plendaj paroloj?",
     "Mia Dio, mi vokas en la tago, kaj Vi ne respondas; En la nokto, kaj mi ne trovas trankvilon.",
     "Sed Vi estas sankta, Ho Vi, kiu loĝas inter la glorado de Izrael.",
     "Vin fidis niaj patroj; Ili fidis, kaj Vi ilin helpis.",

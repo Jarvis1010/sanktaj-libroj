@@ -2,8 +2,8 @@ export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
   summary: "",
   verses: [
-    "Okazis en tiu tempo, ke la Filiŝtoj kolektis sian militistaron, por militi kontraŭ Izrael. Kaj AĤiŝ diris al David:Sciu, ke vi iros kun mi en la militon, vi kaj viaj viroj.",
-    "Kaj David diris al AĤiŝ:Tial vi ekscios, kion faros via sklavo. Kaj AĤiŝ diris al David:Mi faros vin por ĉiam mia kapogardisto.",
+    "Okazis en tiu tempo, ke la Filiŝtoj kolektis sian militistaron, por militi kontraŭ Izrael. Kaj Aĥiŝ diris al David:Sciu, ke vi iros kun mi en la militon, vi kaj viaj viroj.",
+    "Kaj David diris al Aĥiŝ:Tial vi ekscios, kion faros via sklavo. Kaj Aĥiŝ diris al David:Mi faros vin por ĉiam mia kapogardisto.",
     "Dume Samuel mortis, kaj ĉiuj Izraelidoj lin priploris, kaj enterigis lin en Rama, en lia urbo. Kaj Saul estis eksterminta el la lando ĉiujn sorĉistojn kaj aŭguristojn.",
     "Kiam la Filiŝtoj kolektiĝis, kaj venis kaj stariĝis tendare en Ŝunem, tiam Saul kolektis ĉiujn Izraelidojn, kaj ili stariĝis tendare en Gilboa.",
     "Kiam Saul ekvidis la tendaron de la Filiŝtoj, li ektimis, kaj lia koro forte ektremis.",

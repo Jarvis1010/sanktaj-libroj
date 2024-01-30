@@ -47,7 +47,7 @@ export const chapter4 = {
     "Becer en la dezerto, sur la ebenaĵo, por la Rubenidoj, kaj Ramot en Gilead por la Gadidoj, kaj Golan en Baŝan por la Manaseidoj.",
     "Kaj jen estas la instruo, kiun Moseo proponis al la Izraelidoj;",
     "jen estas la atestoj kaj la leĝoj kaj la reguloj, kiujn Moseo eldiris al la Izraelidoj post ilia eliro el Egiptujo,",
-    "transe de Jordan, en la valo kontraŭ Bet-Peor, en la lando de SiĤon, reĝo de la Amoridoj, kiu loĝis en ĥeŝbon kaj kiun venkobatis Moseo kaj la Izraelidoj post sia eliro el Egiptujo;",
+    "transe de Jordan, en la valo kontraŭ Bet-Peor, en la lando de Siĥon, reĝo de la Amoridoj, kiu loĝis en ĥeŝbon kaj kiun venkobatis Moseo kaj la Izraelidoj post sia eliro el Egiptujo;",
     "kaj ili ekposedis lian landon, kaj la landon de Og, reĝo de Baŝan, la du reĝoj de la Amoridoj, kiuj estis transe de Jordan, sur la flanko de sunleviĝo,",
     "de Aroer, kiu estas sur la bordo de la torento Arnon, ĝis la monto Sion (kiu ankaŭ nomiĝas ĥermon);",
     "kaj la tutan stepon transe de Jordan oriente kaj ĝis la maro de la stepo ĉe la bazo de Pisga.",

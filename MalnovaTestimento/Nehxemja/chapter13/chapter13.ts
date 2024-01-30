@@ -7,7 +7,7 @@ export const chapter13 = {
     "Kiam ili aŭdis tiun leĝon, ili apartigis de Izrael ĉiun aligentulon.",
     "Antaŭ ĉi tio la pastro Eljaŝib, administranto de la ĉambroj de la domo de nia Dio, parenco de Tobija,",
     "aranĝis por li grandan ĉambron, en kiu oni antaŭe deponadis la farunoferon, olibanon, vazojn, dekonaĵon el la greno, mosto, kaj oleo, kiuj estis destinitaj por la Levidoj, kantistoj, kaj pordegistoj, kaj la oferdonojn por la pastroj.",
-    "Dum ĉio ĉi tio mi ne estis en Jerusalem, ĉar en la tridek-dua jaro de ArtaĤŝast, reĝo de Babel, mi iris al la reĝo, kaj nur post kelka tempo mi forpetis min de la reĝo.",
+    "Dum ĉio ĉi tio mi ne estis en Jerusalem, ĉar en la tridek-dua jaro de Artaĥŝast, reĝo de Babel, mi iris al la reĝo, kaj nur post kelka tempo mi forpetis min de la reĝo.",
     "Kiam mi venis en Jerusalemon, mi eksciis pri la malbono, kiun Eljaŝib faris pro Tobija, aranĝante por li ĉambron en la kortoj de la domo de Dio.",
     "Tio min forte ĉagrenis, kaj mi elĵetis ĉiujn domobjektojn de Tobija for el la ĉambro.",
     "Kaj mi diris, ke oni purigu la ĉambrojn; kaj mi revenigis tien la vazojn de la domo de Dio, la farunoferon kaj la olibanon.",

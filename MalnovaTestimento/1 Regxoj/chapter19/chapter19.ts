@@ -2,7 +2,7 @@ export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
-    "AĤab rakontis al Izebel ĉion, kion faris Elija, kaj tion, ke li mortigis ĉiujn profetojn per glavo.",
+    "Aĥab rakontis al Izebel ĉion, kion faris Elija, kaj tion, ke li mortigis ĉiujn profetojn per glavo.",
     "Tiam Izebel sendis senditon al Elija, por diri:La dioj faru al mi tion kaj pli, se mi morgaŭ en ĉi tiu tempo ne faros kun via animo, kiel estas farite kun la animo de ĉiu el ili.",
     "Li ektimis, kaj leviĝis kaj foriris, por savi sian vivon; kaj li venis en Beer-Ŝeban, kiu troviĝas en Judujo, kaj restigis tie sian junulon.",
     "Sed li mem iris en la dezerton vojiron de unu tago, kaj venis kaj sidiĝis sub unu genisto kaj petis morton por sia animo, kaj diris:Sufiĉas nun, ho Eternulo! prenu mian animon, ĉar mi ne estas pli bona ol miaj patroj.",
@@ -17,7 +17,7 @@ export const chapter19 = {
     "Kiam Elija tion ekaŭdis, li kovris sian vizaĝon per sia mantelo, kaj eliris kaj stariĝis ĉe la enirejo de la kaverno. Kaj jen aperis al li voĉo, kaj diris:Kion vi faras ĉi tie, Elija?",
     "Kaj li respondis:Mi fervoris pro la Eternulo, Dio Cebaot, ĉar la Izraelidoj forlasis Vian interligon, detruis Viajn altarojn, kaj mortigis Viajn profetojn per glavo; mi sola restis, sed oni serĉas mian animon, por forpreni ĝin.",
     "Kaj la Eternulo diris al li:Iru returne vian vojon tra la dezerto al Damasko; kiam vi venos, sanktoleu ĥazaelon kiel reĝon super Sirio;",
-    "kaj Jehun, filon de Nimŝi, sanktoleu kiel reĝon super Izrael; kaj Eliŝan, filon de Ŝafat, el Abel-MeĤola, sanktoleu kiel profeton anstataŭ vi.",
+    "kaj Jehun, filon de Nimŝi, sanktoleu kiel reĝon super Izrael; kaj Eliŝan, filon de Ŝafat, el Abel-Meĥola, sanktoleu kiel profeton anstataŭ vi.",
     "Kaj estos, ke kiu saviĝos de la glavo de ĥazael, tiun mortigos Jehu; kaj kiu saviĝos de la glavo de Jehu, tiun mortigos Eliŝa.",
     "Mi restigos el Izrael sep mil, ĉiujn, kies genuoj ne fleksiĝis antaŭ Baal kaj kies buŝo ne kisis lin.",
     "Kaj li foriris de tie, kaj trovis Eliŝan, filon de Ŝafat, kiu estis pluganta; dek du bovoparoj estis antaŭ li, kaj li mem estis ĉe la dek-dua. Kaj Elija aliris al li kaj ĵetis al li sian mantelon.",

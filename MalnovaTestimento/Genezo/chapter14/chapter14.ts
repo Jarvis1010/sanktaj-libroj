@@ -2,7 +2,7 @@ export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
   summary: "",
   verses: [
-    "Kaj estis en la tempo de Amrafel, reĝo de Ŝinar, ArjoĤ, reĝo de Elasar, Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim;",
+    "Kaj estis en la tempo de Amrafel, reĝo de Ŝinar, Arjoĥ, reĝo de Elasar, Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim;",
     "ili faris militon kontraŭ Bera, reĝo de Sodom, kaj Birŝa, reĝo de Gomora, Ŝinab, reĝo de Adma, kaj Ŝemeber, reĝo de Ceboim, kaj la reĝo de Bela, kiu estas Coar.",
     "Ĉiuj ĉi tiuj kunvenis en la valo Sidim, kiu nun estas la Sala Maro.",
     "Dek du jarojn ili servis al Kedorlaomer, kaj en la dek-tria ili ribeliĝis.",
@@ -10,7 +10,7 @@ export const chapter14 = {
     "kaj la ĥoridojn sur ilia monto Seir ĝis El-Paran, kiu estas ĉe la dezerto.",
     "Kaj ili reiris kaj venis al En-Miŝpat, kiu estas Kadeŝ, kaj venkobatis la tutan kampon de la Amalekidoj, kaj ankaŭ la Amoridojn, kiuj loĝis en ĥacacon-Tamar.",
     "Kaj eliris la reĝo de Sodom kaj la reĝo de Gomora kaj la reĝo de Adma kaj la reĝo de Ceboim, kaj la reĝo de Bela, kiu estas Coar, kaj komencis batalon kontraŭ ili en la valo Sidim,",
-    "kontraŭ Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim, kaj Amrafel, reĝo de Ŝinar, kaj ArjoĤ, reĝo de Elasar; kvar reĝoj kontraŭ kvin.",
+    "kontraŭ Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim, kaj Amrafel, reĝo de Ŝinar, kaj Arjoĥ, reĝo de Elasar; kvar reĝoj kontraŭ kvin.",
     "Kaj en la valo Sidim estis multe da bitumaj kavoj; kaj la reĝoj de Sodom kaj Gomora forkuris kaj falis tien, kaj la restintoj kuris sur la monton.",
     "Kaj ili prenis la tutan havon de Sodom kaj Gomora kaj ilian tutan manĝeblaĵon, kaj foriris.",
     "Ili prenis Loton, la nevon de Abram, kaj lian havon, ĉar li loĝis en Sodom, kaj ili foriris.",

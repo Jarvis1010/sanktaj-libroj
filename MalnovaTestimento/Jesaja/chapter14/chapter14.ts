@@ -29,7 +29,7 @@ export const chapter14 = {
     "frakasita estos la Asiriano en Mia lando, kaj sur Miaj montoj Mi lin dispremos, por ke foriĝu de ili lia jugo kaj lia ŝarĝo estu deprenita de sur iliaj ŝultroj.",
     "Tio estas la decido, farita pri la tuta tero; kaj tio estas la mano, etendita super ĉiujn popolojn.",
     "Ĉar la Eternulo Cebaot decidis, kaj kiu malhelpos? kaj Lia mano estas etendita, kiu do ĝin returnos?",
-    "En la jaro de la morto de la reĝo AĤaz estis farita la sekvanta profetaĵo:",
+    "En la jaro de la morto de la reĝo Aĥaz estis farita la sekvanta profetaĵo:",
     "Ne ĝoju, tuta Filiŝtujo, ke rompita estas la vergo, kiu vin batadis; ĉar el la radiko de serpento eliros vipuro, kaj ĝia produkto estos fluganta serpento.",
     "Kaj la unuenaskitoj de malriĉuloj paŝtiĝos, kaj senhavuloj ripozos sendanĝere; kaj Mi pereigos per malsato vian radikon, kaj via restaĵo estos mortigita.",
     "Ĝemploru, ho pordego; kriu, ho urbo; perdis la kuraĝon la tuta Filiŝtujo; ĉar de nordo venas fumo, kaj neniu restas sola en iliaj taĉmentoj.",

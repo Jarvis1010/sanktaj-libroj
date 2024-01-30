@@ -2,7 +2,7 @@ export const chapter69 = {
   chapterTitle: "Ĉapitro 69",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por ŝoŝanoj. De David. Savu min, ho Dio; Ĉar la akvoj venis ĝis mia animo.",
+    "Al la ĥorestro. Por ŝoŝanoj. De David. Savu min, ho Dio; Ĉar la akvoj venis ĝis mia animo.",
     "Mi profundiĝis en profundan marĉon, kaj mi ne havas, sur kio stari; Mi enfalis en la profundon de la akvo, kaj la fluo min forportas.",
     "Mi senfortiĝis de mia kriado, sekiĝis mia gorĝo; Laciĝis miaj okuloj de la atendado de mia Dio.",
     "Pli multaj ol la haroj de mia kapo estas miaj senkaŭzaj malamantoj; Fortiĝis miaj premantoj, miaj maljustaj malamikoj;   Kion mi ne rabis, tion mi devas fordoni.",

@@ -8,7 +8,7 @@ export const chapter7 = {
     "Kaj mi aŭdis la nombron de la sigelitoj, cent kvardek kvar miloj, sigelitaj el ĉiuj triboj de la Izraelidoj:",
     "El la tribo de Jehuda estis sigelitaj dek du miloj; El la tribo de Ruben, dek du miloj;   El la tribo de Gad, dek du miloj;",
     "El la tribo de Aŝer, dek du miloj; El la tribo de Naftali, dek du miloj;   El la tribo de Manase, dek du miloj;",
-    "El la tribo de Simeon, dek du miloj; El la tribo de Levi, dek du miloj;   El la tribo de IsaĤar, dek du miloj;",
+    "El la tribo de Simeon, dek du miloj; El la tribo de Levi, dek du miloj;   El la tribo de Isaĥar, dek du miloj;",
     "El la tribo de Zebulun, dek du miloj; El la tribo de Jozef, dek du miloj;   El la tribo de Benjamen estis sigelitaj dek du miloj.",
     "Post tio mi rigardis, kaj jen granda homamaso, kiun neniu povis kalkuli, el ĉiu nacio, kaj el ĉiuj triboj kaj popoloj kaj lingvoj, starantaj antaŭ la trono kaj antaŭ la Ŝafido, vestitaj per blankaj roboj, kaj kun palmoj en iliaj manoj;",
     "kaj ili kriis per granda voĉo, dirante:Savo al nia Dio, la sidanta sur la trono, kaj al la Ŝafido.",

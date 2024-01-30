@@ -9,7 +9,7 @@ export const chapter29 = {
     "oron por la oraj objektoj, arĝenton por la arĝentaj, kaj por ĉiuj laborotaĵoj de la majstroj. Tamen kiu ankoraŭ deziras oferi hodiaŭ por la Eternulo?",
     "Kaj oferis la ĉefoj de patrodomoj, la estroj de la triboj de Izrael, la milestroj kaj centestroj, kaj la estroj super la aferoj de la reĝo;",
     "kaj ili donis por la bezonoj de la domo de Dio kvin mil kikarojn da oro kaj dek mil darkemonojn, kaj dek mil kikarojn da arĝento, kaj dek ok mil kikarojn da kupro, kaj cent mil kikarojn da fero.",
-    "Kaj tiuj, ĉe kiuj troviĝis multekostaj ŝtonoj, donis ilin por la trezorejo de la domo de la Eternulo, en la manojn de JeĤiel, la Gerŝonido.",
+    "Kaj tiuj, ĉe kiuj troviĝis multekostaj ŝtonoj, donis ilin por la trezorejo de la domo de la Eternulo, en la manojn de Jeĥiel, la Gerŝonido.",
     "Kaj la popolo ĝojis pro tiu oferado, ĉar el plena koro ili oferis al la Eternulo; ankaŭ la reĝo David ĝojis tre forte.",
     "Kaj David benis la Eternulon antaŭ la okuloj de la tuta komunumo, kaj David diris:Estu benata, ho Eternulo, Dio de nia patro Izrael, eterne kaj eterne.",
     "Al Vi, ho Eternulo, apartenas grandeco, potenco, majesto, venko, kaj gloro, ĉar ĉio en la ĉielo kaj sur la tero estas Via; al Vi, ho Eternulo, apartenas la reĝado, kaj Vi estas alte super ĉiuj estroj.",

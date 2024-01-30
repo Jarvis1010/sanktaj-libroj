@@ -2,7 +2,7 @@ export const chapter80 = {
   chapterTitle: "Ĉapitro 80",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por ŝoŝanoj. Atesto de Asaf. Psalmo. Ho Paŝtisto de Izrael, aŭskultu; Vi, kiu kondukas Jozefon, kiel ŝafojn,   Vi, kiu sidas sur keruboj, aperu!",
+    "Al la ĥorestro. Por ŝoŝanoj. Atesto de Asaf. Psalmo. Ho Paŝtisto de Izrael, aŭskultu; Vi, kiu kondukas Jozefon, kiel ŝafojn,   Vi, kiu sidas sur keruboj, aperu!",
     "Antaŭ Efraim kaj Benjamen kaj Manase veku Vian forton, Kaj venu, por savi nin.",
     "Ho Dio, revenigu nin kaj lumigu Vian vizaĝon, Por ke ni estu savitaj.",
     "Ho Eternulo, Dio Cebaot, Ĝis kiam Vi kolere repuŝos la preĝon de Via popolo?",

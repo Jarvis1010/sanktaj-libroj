@@ -11,7 +11,7 @@ export const chapter18 = {
     "Tiam denove li demandis ilin:Kiun vi serĉas? Ili diris:Jesuon Nazaretan.",
     "Jesuo respondis:Mi ĵus diris al vi, ke mi estas tiu; se do vi min serĉas, lasu ĉi tiujn foriri;",
     "por ke plenumiĝu la vorto, kiun li diris:El tiuj, kiujn Vi donis al mi, mi perdis neniun.",
-    "Simon Petro do, havante glavon, eltiris ĝin, kaj frapis sklavon de la ĉefpastro kaj detranĉis lian dekstran orelon. La nomo de la sklavo estis MalĤo.",
+    "Simon Petro do, havante glavon, eltiris ĝin, kaj frapis sklavon de la ĉefpastro kaj detranĉis lian dekstran orelon. La nomo de la sklavo estis Malĥo.",
     "Jesuo do diris al Petro:Metu la glavon en ĝian ingon; la kalikon, kiun la Patro donis al mi, ĉu mi ne trinkos?",
     "La kohorto kaj la milestro kaj la oficistoj de la Judoj kaptis do Jesuon kaj ligis lin,",
     "kaj kondukis lin unue al Anas; ĉar ĉi tiu estis bopatro de Kajafas, kiu estis ĉefpastro en tiu jaro.",

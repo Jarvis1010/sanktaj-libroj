@@ -35,7 +35,7 @@ export const chapter35 = {
     "kaj Li plenigis lin per Dia spirito, per saĝo kaj prudento, kaj scio kaj per ĉia arto,",
     "por pripensi ideojn, por labori el oro kaj el arĝento kaj el kupro,",
     "kaj por ĉizi ŝtonojn por enkadrigo, kaj por ĉizi lignon, por fari ĉian artistan laboron.",
-    "Kaj Li donis al li la kapablon instrui, al li kaj al Oholiab, filo de AĤisamaĤ, el la tribo de Dan.",
+    "Kaj Li donis al li la kapablon instrui, al li kaj al Oholiab, filo de Aĥisamaĥ, el la tribo de Dan.",
     "Li plenigis ilin per kompetenteco por farado de ĉia majstra laboro, por ĉia talenta brodado sur teksaĵo blua kaj purpura kaj ruĝa kaj sur bisino, por teksado de ĉia laboraĵo kaj pripensado de ideoj.",
   ],
 } as const satisfies Chapter;

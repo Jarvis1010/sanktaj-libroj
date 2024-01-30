@@ -22,7 +22,7 @@ export const chapter22 = {
     "Li volvos vin kaj rulos kiel globon en vastan landon; tie vi mortos, tie restos la ĉaroj de via gloro, vi, malhonoro de la domo de via sinjoro!",
     "Kaj Mi depuŝos vin de via posteno, kaj el via ofico vi estos forigita.",
     "Kaj en tiu tago Mi alvokos Mian servanton Eljakim, filon de ĥilkija,",
-    "kaj Mi vestos lin per via Ĥitono kaj zonos per via zono, kaj vian regadon Mi transdonos en lian manon; kaj li estos patro por la loĝantoj de Jerusalem kaj por la domo de Jehuda.",
+    "kaj Mi vestos lin per via ĥitono kaj zonos per via zono, kaj vian regadon Mi transdonos en lian manon; kaj li estos patro por la loĝantoj de Jerusalem kaj por la domo de Jehuda.",
     "Kaj Mi metos la ŝlosilon de la domo de David sur lian ŝultron; kaj li malfermos, kaj neniu fermos; kaj li fermos, kaj neniu malfermos.",
     "Kaj Mi fortikigos lin kiel najlon sur loko fidinda, kaj li estos trono de honoro en la domo de sia patro.",
     "Kaj pendos sur li la tuta gloro de la domo de lia patro, la infanoj kaj idoj, ĉiuj malgrandaj vazoj, de la vazoj por manĝado ĝis la vazoj por trinkado.",

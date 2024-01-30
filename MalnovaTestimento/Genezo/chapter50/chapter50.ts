@@ -24,7 +24,7 @@ export const chapter50 = {
     "Vi intencis fari al mi malbonon; sed Dio aranĝis de tio bonon, por fari tiel, kiel nun estas, por konservi la vivon de multe da homoj.",
     "Kaj nun ne timu; mi nutros vin kaj viajn infanojn. Kaj li konsolis ilin kaj parolis al ili kore.",
     "Kaj Jozef loĝis en Egiptujo, li kaj la domo de lia patro; kaj Jozef vivis cent dek jarojn.",
-    "Kaj Jozef vidis ĉe Efraim infanojn ĝis la tria generacio; ankaŭ la infanoj de MaĤir, filo de Manase, naskiĝis sur la genuoj de Jozef.",
+    "Kaj Jozef vidis ĉe Efraim infanojn ĝis la tria generacio; ankaŭ la infanoj de Maĥir, filo de Manase, naskiĝis sur la genuoj de Jozef.",
     "Kaj Jozef diris al siaj fratoj: Mi mortas, sed Dio rememoros vin, kaj elkondukos vin el ĉi tiu lando en la landon, pri kiu Li ĵuris al Abraham, Isaak, kaj Jakob.",
     "Kaj Jozef ĵurigis la filojn de Izrael, dirante: Kiam Dio rememoros vin, tiam elportu miajn ostojn el ĉi tie.",
     "Kaj Jozef mortis en la aĝo de cent dek jaroj; kaj oni balzamis lin kaj metis lin en ĉerkon en Egiptujo.",

@@ -4,7 +4,7 @@ export const chapter1 = {
   verses: [
     "Jen estas la nomoj de la filoj de Izrael, kiuj venis Egiptujon kun Jakob; ĉiu venis kun siaj domanoj:",
     "Ruben, Simeon, Levi, kaj Jehuda;",
-    "IsaĤar, Zebulun, kaj Benjamen;",
+    "Isaĥar, Zebulun, kaj Benjamen;",
     "Dan kaj Naftali, Gad kaj Aŝer.",
     "Kaj la nombro de ĉiuj animoj, kiuj eliris el la lumbo de Jakob, estis sepdek; kaj Jozef estis jam en Egiptujo.",
     "Kaj mortis Jozef kaj ĉiuj liaj fratoj kaj tiu tuta generacio.",

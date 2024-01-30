@@ -9,7 +9,7 @@ export const chapter23 = {
     "Kaj la filoj de ĥet respondis al Abraham, dirante al li:",
     "Aŭskultu nin, nia sinjoro! vi estas princo de Dio inter ni; en la plej elektitaj niaj tomboj enterigu vian mortintinon; neniu el ni rifuzos al vi sian tomblokon, por enterigi vian mortintinon.",
     "Kaj Abraham leviĝis, kaj profunde kliniĝis antaŭ la popolo de la lando, antaŭ la filoj de ĥet.",
-    "Kaj li diris al ili jene: Se plaĉas al vi, ke mi enterigu mian mortintinon, kiu estas antaŭ mi, tiam aŭskultu min kaj petu por mi Efronon, la filon de CoĤar,",
+    "Kaj li diris al ili jene: Se plaĉas al vi, ke mi enterigu mian mortintinon, kiu estas antaŭ mi, tiam aŭskultu min kaj petu por mi Efronon, la filon de Coĥar,",
     "ke li donu al mi la duoblan kavernon, kiun li havas en la fino de sia kampo; por plena sumo da mono li donu ĝin al mi inter vi por tomba posedaĵo.",
     "Kaj Efron sidis inter la filoj de ĥet, kaj respondis Efron la ĥetido al Abraham aŭdeble por la filoj de ĥet, antaŭ ĉiuj, kiuj venis en la pordegon de lia urbo, dirante:",
     "Ne, mia sinjoro, aŭskultu min! la kampon mi donas al vi, kaj la kavernon, kiu estas sur ĝi, al vi mi donas, antaŭ la okuloj de la filoj de mia popolo mi donas ĝin al vi; enterigu vian mortintinon.",

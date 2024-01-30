@@ -2,7 +2,7 @@ export const chapter51 = {
   chapterTitle: "Ĉapitro 51",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David, kiam venis al li la profeto Natan post lia aliĝo al Bat-Ŝeba. Korfavoru min, ho Dio, laŭ Via boneco; Laŭ Via granda kompatemeco elstreku miajn pekojn.",
+    "Al la ĥorestro. Psalmo de David, kiam venis al li la profeto Natan post lia aliĝo al Bat-Ŝeba. Korfavoru min, ho Dio, laŭ Via boneco; Laŭ Via granda kompatemeco elstreku miajn pekojn.",
     "Lavu min tute pure de mia krimo, Kaj purigu min de mia peko.",
     "Ĉar miajn kulpojn mi konsciadas; Kaj mia peko estas ĉiam antaŭ mi.",
     "Antaŭ Vi sola mi pekis, Kaj mi faris tion, kio estas malbona antaŭ Viaj okuloj;   Tial Vi estas justa en Via vorto  Kaj pura en Via juĝo.",

@@ -2,7 +2,7 @@ export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Instruo de la KoraĤidoj. Kiel cervo sopiras al fluanta akvo, Tiel mia animo sopiras al Vi, ho Dio.",
+    "Al la ĥorestro. Instruo de la Koraĥidoj. Kiel cervo sopiras al fluanta akvo, Tiel mia animo sopiras al Vi, ho Dio.",
     "Mia animo soifas Dion, la vivantan Dion; Kiam mi venos kaj aperos antaŭ la vizaĝo de Dio?",
     "Miaj larmoj fariĝis mia pano tage kaj nokte, Ĉar oni diras al mi ĉiutage:Kie estas via Dio?",
     "Elverŝiĝas mia animo, kiam mi rememoras, Kiel mi iradis kun la granda homamaso, kaj kondukis ĝin en la domon de Dio,   Ĉe laŭta kantado kaj glorado de festanta amaso.",

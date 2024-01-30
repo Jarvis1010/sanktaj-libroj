@@ -25,7 +25,7 @@ export const chapter17 = {
     "Sed ĉi tiu speco ne eliras, krom per preĝado kaj fastado.",
     "Kaj kiam ili kolektiĝis en Galileo, Jesuo diris al ili:La Filo de homo estos transdonita en la manojn de homoj;",
     "kaj ili mortigos lin, kaj la trian tagon li leviĝos. Kaj ili tre malĝojis.",
-    "Kaj kiam ili venis en Kapernaumon, venis al Petro la ricevistoj de la du draĤmoj, kaj diris:Ĉu via majstro pagas la du draĤmojn?",
+    "Kaj kiam ili venis en Kapernaumon, venis al Petro la ricevistoj de la du draĥmoj, kaj diris:Ĉu via majstro pagas la du draĥmojn?",
     "Li respondis:Jes. Kaj kiam li venis en la domon, Jesuo unue parolis al li, dirante:Kiel ŝajnas al vi, Simon? de kiuj prenas la reĝoj de la tero imposton aŭ tributon? de siaj filoj aŭ de la fremduloj?",
     "Kaj kiam li diris:De la fremduloj; Jesuo diris:Sekve la filoj estas liberaj.",
     "Sed, por ke ni ne ofendu ilin, iru al la maro kaj ĵetu hoketon, kaj prenu la fiŝon unue venintan, kaj malferminte ĝian buŝon, vi trovos stateron. Prenu ĝin, kaj donu al ili por mi kaj vi.",

@@ -2,7 +2,7 @@ export const chapter58 = {
   chapterTitle: "Ĉapitro 58",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por Al-taŝĤet. Verko de David. Ĉu efektive vi parolas veron, vi potenculoj? Ĉu vi juste juĝas, homidoj?",
+    "Al la ĥorestro. Por Al-taŝĥet. Verko de David. Ĉu efektive vi parolas veron, vi potenculoj? Ĉu vi juste juĝas, homidoj?",
     "Kontraŭe, en la koro vi faras krimaĵojn, Sur la tero vi pesas per manoj rabemaj.",
     "De la momento de sia naskiĝo la malvirtuloj devojiĝis; De el la ventro de sia patrino la mensogantoj ekeraris.",
     "Ilia veneno estas simila al la veneno de serpento, De surda aspido, kiu ŝtopas sian orelon,",

@@ -33,7 +33,7 @@ export const chapter11 = {
     "Sed Moseo diris al li:Ĉu vi ĵaluzas pri mi? estus dezirinde, ke la tuta popolo de la Eternulo fariĝu profetoj, se la Eternulo metus Sian spiriton sur ilin.",
     "Kaj revenis Moseo en la tendaron, li kaj la plejaĝuloj de Izrael.",
     "Kaj vento elmoviĝis de la Eternulo, kaj alportis de la maro koturnojn kaj ĵetis ilin sur la tendaron, sur la spaco de unutaga irado sur unu flanko kaj sur la spaco de unutaga irado sur la dua flanko, ĉirkaŭ la tendaro kaj en denseco de du ulnoj super la tero.",
-    "Kaj la popolo staris tiun tutan tagon kaj la tutan nokton kaj la tutan morgaŭan tagon kaj kolektis la koturnojn; kiu kolektis plej malmulte, kolektis dek Ĥomerojn; kaj ili diskuŝigis ilin al si ĉirkaŭ la tendaro.",
+    "Kaj la popolo staris tiun tutan tagon kaj la tutan nokton kaj la tutan morgaŭan tagon kaj kolektis la koturnojn; kiu kolektis plej malmulte, kolektis dek ĥomerojn; kaj ili diskuŝigis ilin al si ĉirkaŭ la tendaro.",
     "Kiam la viando estis ankoraŭ inter iliaj dentoj kaj ankoraŭ ne estis konsumita, ekflamis kontraŭ la popolo la kolero de la Eternulo, kaj la Eternulo frapis la popolon per tre granda frapo.",
     "Kaj oni donis al tiu loko la nomon Kibrot-Hataava, ĉar tie oni enterigis la homojn, kiuj kapricis.",
     "De Kibrot-Hataava la popolo ekvojiris al ĥacerot kaj restis en ĥacerot.",

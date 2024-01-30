@@ -2,7 +2,7 @@ export const chapter65 = {
   chapterTitle: "Ĉapitro 65",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Kanto. Vin oni fidas kaj gloras, ho Dio, en Cion;   Kaj al Vi oni plenumas promesojn.",
+    "Al la ĥorestro. Psalmo de David. Kanto. Vin oni fidas kaj gloras, ho Dio, en Cion;   Kaj al Vi oni plenumas promesojn.",
     "Al Vi, kiu aŭskultas preĝon, Venas ĉiu karno.",
     "Krimaĵoj min premas; Niajn pekojn Vi pardonos.",
     "Feliĉa estas tiu, kiun Vi elektas kaj alproksimigas al Vi, Ke li loĝu en Viaj kortoj.   Ni satiĝu per la bonaĵoj de Via domo,   De Via sankta templo.",

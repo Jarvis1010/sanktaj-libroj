@@ -43,7 +43,7 @@ export const chapter7 = {
     "Sed tion li diris pri la Spirito, kiun estis ricevontaj tiuj, kiuj kredis al li; ĉar la Spirito ankoraŭ ne estis donita, ĉar Jesuo ankoraŭ ne estis glorita.",
     "Iuj do el la homamaso, aŭdinte tiujn vortojn, diris:Vere ĉi tiu estas la Profeto.",
     "Aliaj diris:Ĉi tiu estas la Kristo. Sed kelkaj diris:Tamen ĉu el Galileo la Kristo venas?",
-    "Ĉu la Skribo ne diris, ke la Kristo venas el la idaro de David kaj el la vilaĝo Bet-LeĤem, kie David estis?",
+    "Ĉu la Skribo ne diris, ke la Kristo venas el la idaro de David kaj el la vilaĝo Bet-Leĥem, kie David estis?",
     "Tiel fariĝis pro li malkonsento inter la homamaso.",
     "Kaj iuj el ili volis kapti lin, sed neniu metis sur lin la manojn.",
     "Tiam la oficistoj revenis al la ĉefpastroj kaj Fariseoj, kaj ĉi tiuj diris al ili:Kial vi lin ne alkondukis?",

@@ -3,7 +3,7 @@ export const chapter1 = {
   summary: "",
   verses: [
     "Paŭlo, malliberulo por Kristo Jesuo, kaj Timoteo, la frato, al Filemon, nia amato kaj kunlaboranto,",
-    "kaj al Apfia, la fratino, kaj al ArĤipo, nia kunbatalanto, kaj al la eklezio en via domo:",
+    "kaj al Apfia, la fratino, kaj al Arĥipo, nia kunbatalanto, kaj al la eklezio en via domo:",
     "Graco al vi kaj paco de Dio, nia Patro, kaj de la Sinjoro Jesuo Kristo.",
     "Mi ĉiam dankas mian Dion, memorigante pri vi en miaj preĝoj,",
     "aŭdinte pri via amo kaj pri la fido, kiun vi havas al la Sinjoro Jesuo kaj al ĉiuj sanktuloj;",
@@ -25,7 +25,7 @@ export const chapter1 = {
     "Fidante pri via obeo, mi skribas al vi, sciante, ke vi faros eĉ pli multe, ol kiom mi diras.",
     "Sed krom tio pretigu por mi gastoĉambron; ĉar mi esperas, ke mi, laŭ viaj preĝoj, estos donita al vi.",
     "Salutas vin Epafras, mia kunmalliberulo en Kristo Jesuo,",
-    "Marko, AristarĤo, Demas, Luko, miaj kunlaborantoj.",
+    "Marko, Aristarĥo, Demas, Luko, miaj kunlaborantoj.",
     "La graco de nia Sinjoro Jesuo Kristo estu kun via spirito. Amen.",
   ],
 } as const satisfies Chapter;

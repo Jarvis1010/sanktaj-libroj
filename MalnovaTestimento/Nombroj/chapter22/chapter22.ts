@@ -2,7 +2,7 @@ export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
   summary: "",
   verses: [
-    "Kaj la Izraelidoj elmoviĝis, kaj haltis tendare en la stepoj de Moab, transe de Jordan, kontraŭ JeriĤo.",
+    "Kaj la Izraelidoj elmoviĝis, kaj haltis tendare en la stepoj de Moab, transe de Jordan, kontraŭ Jeriĥo.",
     "Balak, filo de Cipor, vidis ĉion, kion Izrael faris al la Amoridoj.",
     "Kaj Moab tre timis tiun popolon, ĉar ĝi estis multenombra; kaj Moab ektremis antaŭ la Izraelidoj.",
     "Kaj Moab diris al la ĉefoj de Midjan:Nun tiu popolo formanĝos nian tutan ĉirkaŭaĵon, kiel bovo formanĝas la herbon de la kampo. Kaj Balak, filo de Cipor, estis reĝo de Moab en tiu tempo.",

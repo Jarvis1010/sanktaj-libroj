@@ -14,7 +14,7 @@ export const chapter10 = {
     "Sed jen mano ektuŝis min kaj levis min sur miajn genuojn kaj manplatojn.",
     "Kaj li diris al mi:Ho Daniel, viro agrabla al Dio! atentu la vortojn, kiujn mi diros al vi, kaj stariĝu sur via loko, ĉar mi nun estas sendita al vi. Kiam li tion parolis al mi, mi staris tremante.",
     "Li diris al mi:Ne timu, Daniel, ĉar de la unua tago, kiam vi sincere penis kompreni kaj pentofari antaŭ via Dio, viaj vortoj estis aŭditaj; kaj mi venis laŭ via peto.",
-    "Sed la protektanto de la Persa regno kontraŭstaris al mi dum dudek unu tagoj, kaj, ĝis MiĤael, unu el la plej ĉefaj protektantoj, venis kun helpo al mi, mi restis tie apud la reĝoj de Persujo.",
+    "Sed la protektanto de la Persa regno kontraŭstaris al mi dum dudek unu tagoj, kaj, ĝis Miĥael, unu el la plej ĉefaj protektantoj, venis kun helpo al mi, mi restis tie apud la reĝoj de Persujo.",
     "Nun mi venis, por informi vin, kio estos kun via popolo en la estonta tempo, ĉar la vizio koncernas tempon estontan.",
     "Dum li parolis al mi tiujn vortojn, mi almetis mian vizaĝon al la tero kaj silentis.",
     "Sed jen iu, simila al homido, ektuŝis miajn lipojn, kaj mi malfermis mian buŝon, ekparolis kaj diris al tiu, kiu staris kontraŭ mi:Ho mia sinjoro, de ĉi tiu vizio kurbiĝis mia vizaĝo, kaj mi jam ne havas fortojn.",
@@ -22,6 +22,6 @@ export const chapter10 = {
     "Tiam denove ektuŝis min tiu bildo de homo kaj refortigis min.",
     "Kaj li diris:Ne timu, ho simpatia homo, paco estu al vi, kaj estu kuraĝa. Kaj dum li parolis al mi, mi kuraĝiĝis, kaj diris:Parolu, ho mia sinjoro, ĉar vi min refortigis.",
     "Tiam li diris:Ĉu vi scias, por kio mi venis al vi? nun mi iras denove, por batali kontraŭ la protektanto de Persujo; sed kiam mi foriros, venos la protektanto de Grekujo.",
-    "Tamen mi sciigos al vi, kio estas notita en la vera skribo; kaj estas neniu, kiu subtenus min kontraŭ tiuj, krom MiĤael, via protektanto.",
+    "Tamen mi sciigos al vi, kio estas notita en la vera skribo; kaj estas neniu, kiu subtenus min kontraŭ tiuj, krom Miĥael, via protektanto.",
   ],
 } as const satisfies Chapter;

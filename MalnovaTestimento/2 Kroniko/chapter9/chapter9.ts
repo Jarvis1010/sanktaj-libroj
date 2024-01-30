@@ -30,8 +30,8 @@ export const chapter9 = {
     "Li regis super ĉiuj reĝoj, de la Rivero ĝis la lando Filiŝta kaj ĝis la limo de Egiptujo.",
     "Kaj la reĝo atingis tion, ke la arĝento en Jerusalem estis kiel ŝtonoj, kaj la cedroj estis en tiel granda kvanto, kiel sikomoroj sur malaltaj lokoj.",
     "Ĉevalojn oni venigadis al Salomono el Egiptujo kaj el ĉiuj landoj.",
-    "La tuta cetera historio de Salomono, la unua kaj la lasta, estas priskribita en la kroniko de la profeto Natan, en la profetaĵoj de AĤija, la Ŝiloano, kaj en la vizioj de Jedo, la viziisto, pri Jerobeam, filo de Nebat.",
+    "La tuta cetera historio de Salomono, la unua kaj la lasta, estas priskribita en la kroniko de la profeto Natan, en la profetaĵoj de Aĥija, la Ŝiloano, kaj en la vizioj de Jedo, la viziisto, pri Jerobeam, filo de Nebat.",
     "Kaj Salomono reĝis en Jerusalem super la tuta Izrael kvardek jarojn.",
-    "Kaj Salomono ekdormis kun siaj patroj, kaj oni enterigis lin en la urbo de lia patro David. Kaj anstataŭ li ekreĝis ReĤabeam, lia filo.",
+    "Kaj Salomono ekdormis kun siaj patroj, kaj oni enterigis lin en la urbo de lia patro David. Kaj anstataŭ li ekreĝis Reĥabeam, lia filo.",
   ],
 } as const satisfies Chapter;

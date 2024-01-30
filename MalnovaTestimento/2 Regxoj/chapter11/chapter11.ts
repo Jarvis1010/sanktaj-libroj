@@ -2,8 +2,8 @@ export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
-    "Kiam Atalja, la patrino de AĤazja, vidis, ke ŝia filo mortis, ŝi leviĝis kaj ekstermis la tutan reĝan idaron.",
-    "Sed Jehoŝeba, filino de la reĝo Joram kaj fratino de AĤazja, prenis Joaŝon, filon de AĤazja, kaj ŝtele forkondukis lin el inter la mortigataj filoj de la reĝo, lin kaj lian nutristinon, kaj lokis ilin en la ĉambro de litoj; kaj oni kaŝis lin for de Atalja, kaj li ne estis mortigita.",
+    "Kiam Atalja, la patrino de Aĥazja, vidis, ke ŝia filo mortis, ŝi leviĝis kaj ekstermis la tutan reĝan idaron.",
+    "Sed Jehoŝeba, filino de la reĝo Joram kaj fratino de Aĥazja, prenis Joaŝon, filon de Aĥazja, kaj ŝtele forkondukis lin el inter la mortigataj filoj de la reĝo, lin kaj lian nutristinon, kaj lokis ilin en la ĉambro de litoj; kaj oni kaŝis lin for de Atalja, kaj li ne estis mortigita.",
     "Kaj li restis kaŝita kun ŝi en la domo de la Eternulo dum ses jaroj; kaj Atalja reĝis super la lando.",
     "Sed en la sepa jaro sendis Jehojada kaj prenis la centestrojn el la korpogardistoj kaj la kuristoj kaj venigis ilin al si en la domon de la Eternulo; kaj li faris kun ili interligon kaj ĵurigis ilin en la domo de la Eternulo kaj montris al ili la filon de la reĝo.",
     "Kaj li ordonis al ili, dirante:Jenon vi devas fari:tiu triono de vi, kiu venas en sabato, plenumu gardadon en la domo de la reĝo;",

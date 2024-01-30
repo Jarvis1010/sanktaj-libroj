@@ -2,7 +2,7 @@ export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
   summary: "",
   verses: [
-    "Ekparolis Bildad, la ŜuĤano, kaj diris:",
+    "Ekparolis Bildad, la Ŝuĥano, kaj diris:",
     "Kiam vi ĉesos ĵetadi vortojn? Pripensu, kaj poste ni parolos.",
     "Kial ni estu rigardataj kiel brutoj, Kaj ni estu malpuruloj en viaj okuloj?",
     "Ho vi, kiu disŝiras sian animon en sia kolero, Ĉu por vi estu forlasata la tero,   Kaj roko forŝoviĝu de sia loko?",

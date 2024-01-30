@@ -5,7 +5,7 @@ export const chapter28 = {
     "En tiu sama jaro, en la komenco de la reĝado de Cidkija, reĝo de Judujo, en la kvara jaro, en la kvina monato, ĥananja, filo de Azur, profeto el Gibeon, diris al mi en la domo de la Eternulo, antaŭ la okuloj de la pastroj kaj de la tuta popolo, jene:",
     "Tiele diras la Eternulo Cebaot, Dio de Izrael:Mi rompos la jugon de la reĝo de Babel;",
     "post du jaroj Mi revenigos sur ĉi tiun lokon ĉiujn vazojn de la domo de la Eternulo, kiujn Nebukadnecar, reĝo de Babel, prenis de ĉi tiu loko kaj forportis en Babelon.",
-    "Kaj JeĤonjan, filon de Jehojakim, reĝon de Judujo, kaj ĉiujn forkondukitajn Judojn, kiuj venis en Babelon, Mi revenigos sur ĉi tiun lokon, diras la Eternulo; ĉar Mi rompos la jugon de la reĝo de Babel.",
+    "Kaj Jeĥonjan, filon de Jehojakim, reĝon de Judujo, kaj ĉiujn forkondukitajn Judojn, kiuj venis en Babelon, Mi revenigos sur ĉi tiun lokon, diras la Eternulo; ĉar Mi rompos la jugon de la reĝo de Babel.",
     "Tiam la profeto Jeremia respondis al la profeto ĥananja antaŭ la okuloj de la pastroj, kaj de la tuta popolo, kiu staris en la domo de la Eternulo;",
     "kaj la profeto Jeremia diris:Amen, tiel la Eternulo faru; la Eternulo plenumu viajn vortojn, kiujn vi profetis, kaj Li revenigu el Babel sur ĉi tiun lokon la vazojn de la domo de la Eternulo kaj ĉiujn forkondukitojn.",
     "Tamen aŭskultu la vorton, kiun mi diros en viajn orelojn kaj en la orelojn de la tuta popolo:",

@@ -2,7 +2,7 @@ export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
   summary: "",
   verses: [
-    "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, kiam la reĝo Cidkija sendis al li PaŝĤuron, filon de Malkija, kaj la pastron Cefanja, filo de Maaseja, por diri:",
+    "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, kiam la reĝo Cidkija sendis al li Paŝĥuron, filon de Malkija, kaj la pastron Cefanja, filo de Maaseja, por diri:",
     "Volu demandi pri ni la Eternulon, ĉar Nebukadnecar, reĝo de Babel, militas kontraŭ ni; eble la Eternulo faros al ni ion similan al ĉiuj Liaj mirakloj, kaj tiu foriros de ni.",
     "Kaj Jeremia diris al ili:Tiele diru al Cidkija:",
     "Tiele diras la Eternulo, Dio de Izrael:Jen Mi returnos la batalilojn, kiuj estas en viaj manoj kaj per kiuj vi batalas kontraŭ la reĝo de Babel,  kaj kontraŭ la ĥaldeoj, kiuj sieĝas vin ekstere de la murego, kaj Mi kolektos ilin meze de ĉi tiu urbo.",

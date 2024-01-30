@@ -2,7 +2,7 @@ export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
   summary: "",
   verses: [
-    "Kaj ekparolis Bildad, la ŜuĤano, kaj diris:",
+    "Kaj ekparolis Bildad, la Ŝuĥano, kaj diris:",
     "Kiel longe vi tiel parolos, Kaj la vortoj de via buŝo estos kiel forta vento?",
     "Ĉu Dio falsas la juĝon? Ĉu la Plejpotenculo falsas la justecon?",
     "Se viaj filoj pekis kontraŭ Li, Li forpuŝis ilin pro ilia malbonago.",

@@ -2,7 +2,7 @@ export const chapter88 = {
   chapterTitle: "Ĉapitro 88",
   summary: "",
   verses: [
-    "Kanto-psalmo de la oraĤidoj. Al la Ĥorestro. Por maĤalat-leanoto. Instruo de Heman, la EzraĤido. Ho Eternulo, Dio de mia savo!   Tage kaj nokte mi krias antaŭ Vi.",
+    "Kanto-psalmo de la oraĥidoj. Al la ĥorestro. Por maĥalat-leanoto. Instruo de Heman, la Ezraĥido. Ho Eternulo, Dio de mia savo!   Tage kaj nokte mi krias antaŭ Vi.",
     "Mia preĝo venu antaŭ Vian vizaĝon; Klinu Vian orelon al mia ploro.",
     "Ĉar mia animo trosatiĝis de malbonoj Kaj mia vivo atingis Ŝeolon.",
     "Mi similiĝis al la forirantoj en la tombon; Mi fariĝis kiel viro sen fortoj,",

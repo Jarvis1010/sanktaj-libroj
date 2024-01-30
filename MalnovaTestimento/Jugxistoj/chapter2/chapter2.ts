@@ -2,11 +2,11 @@ export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
   summary: "",
   verses: [
-    "Kaj venis anĝelo de la Eternulo el Gilgal al BoĤim, kaj diris:Mi elkondukis vin el Egiptujo, kaj venigis vin en la landon, pri kiu Mi ĵuris al viaj patroj, kaj Mi diris:Mi neniam rompos Mian interligon kun vi;",
+    "Kaj venis anĝelo de la Eternulo el Gilgal al Boĥim, kaj diris:Mi elkondukis vin el Egiptujo, kaj venigis vin en la landon, pri kiu Mi ĵuris al viaj patroj, kaj Mi diris:Mi neniam rompos Mian interligon kun vi;",
     "sed vi ne faru interligon kun la loĝantoj de ĉi tiu lando, iliajn altarojn detruu. Sed vi ne obeis Mian voĉon; kial vi tion faris?",
     "Tial Mi diras:Mi ne forpelos ilin de vi, kaj ili estos por vi kaptilo, kaj iliaj dioj estos por vi falilo.",
     "Kaj kiam la anĝelo de la Eternulo parolis tiujn vortojn al ĉiuj Izraelidoj, la popolo levis sian voĉon kaj ploris.",
-    "Kaj ili donis al tiu loko la nomon BoĤim. Kaj ili tie buĉis oferojn al la Eternulo.",
+    "Kaj ili donis al tiu loko la nomon Boĥim. Kaj ili tie buĉis oferojn al la Eternulo.",
     "Kaj Josuo forliberigis la popolon, kaj la Izraelidoj iris ĉiu al sia hereda parto, por ekposedi la landon.",
     "Kaj la popolo servis al la Eternulo dum la tuta vivo de Josuo, kaj dum la tuta vivo de la plejaĝuloj, kiuj vivis longe post Josuo, kaj kiuj vidis ĉiujn grandajn farojn de la Eternulo, kiujn Li faris al Izrael.",
     "Kaj mortis Josuo, filo de Nun, servanto de la Eternulo, en la aĝo de cent dek jaroj.",

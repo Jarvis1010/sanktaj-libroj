@@ -17,7 +17,7 @@ export const chapter27 = {
     "Se la promesinto volos ĝin elaĉeti, li aldonu kvinonon al via takso.",
     "Se iu dediĉos sian domon kiel sanktaĵon al la Eternulo, tiam la pastro ĝin taksu, ĉu ĝi estas bona, ĉu malbona; kiel la pastro ĝin taksos, tiel ĝi restu.",
     "Sed se la dediĉinto volos elaĉeti sian domon, tiam li aldonu kvinonon de la mono de via takso, kaj ĝi restos lia.",
-    "Se el sia posedata kampo iu dediĉos ion al la Eternulo, tiam via taksado devas esti proporcia al ĝia semitaĵo:pro semitaĵo en la kvanto de Ĥomero da hordeo estu la takso kvindek sikloj da arĝento.",
+    "Se el sia posedata kampo iu dediĉos ion al la Eternulo, tiam via taksado devas esti proporcia al ĝia semitaĵo:pro semitaĵo en la kvanto de ĥomero da hordeo estu la takso kvindek sikloj da arĝento.",
     "Se de jubilea jaro li dediĉas sian kampon, tiam la afero restu laŭ via taksado.",
     "Sed se post la jubilea jaro li dediĉos sian kampon, tiam la pastro kalkulu al li la monon laŭ la jaroj, kiuj restas ĝis la jubilea jaro, kaj tion oni deprenu de via takso.",
     "Se la dediĉinto volos elaĉeti la kampon, tiam li aldonu kvinonon de la mono laŭ via taksado, kaj ĝi restos lia.",

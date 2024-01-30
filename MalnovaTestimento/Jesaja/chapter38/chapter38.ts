@@ -9,7 +9,7 @@ export const chapter38 = {
     "Iru, kaj diru al ĥizkija:Tiele diras la Eternulo, Dio de via patro David:Mi aŭdis vian preĝon, Mi vidis viajn larmojn; jen Mi aldonos al via vivo dek kvin jarojn.",
     "Kaj kontraŭ la mano de la reĝo de Asirio Mi savos vin kaj ĉi tiun urbon, kaj Mi defendos ĉi tiun urbon.",
     "Kaj jen estas por vi la pruvosigno de la Eternulo, ke la Eternulo plenumos tion, kion Li diris:",
-    "jen la hormontran ombron, kiu malsupriĝis sur la suna hormontrilo de AĤaz, Mi retiros malantaŭen je dek gradoj. Kaj la suno retiriĝis je dek gradoj laŭ la gradaro, laŭ kiu ĝi malsupriĝis.",
+    "jen la hormontran ombron, kiu malsupriĝis sur la suna hormontrilo de Aĥaz, Mi retiros malantaŭen je dek gradoj. Kaj la suno retiriĝis je dek gradoj laŭ la gradaro, laŭ kiu ĝi malsupriĝis.",
     "Jen estas la skribo de ĥizkija, reĝo de Judujo, kiam li malsaniĝis kaj eliris viva el sia malsano:",
     "Mi pensis, ke en la mezo de mia vivo mi malsupreniros en la pordegon de Ŝeol, Ke mi estos senigita je la resto de miaj jaroj;",
     "Mi pensis, ke mi ne plu vidos Dion, la Eternulon, sur la tero de la vivantoj, Ke mi ne plu rigardos homon inter la loĝantoj de la vantejo;",

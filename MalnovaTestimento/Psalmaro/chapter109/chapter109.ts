@@ -2,7 +2,7 @@ export const chapter109 = {
   chapterTitle: "Ĉapitro 109",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Ho Dio, mia gloro, ne silentu.",
+    "Al la ĥorestro. Psalmo de David. Ho Dio, mia gloro, ne silentu.",
     "Ĉar buŝon malvirtan kaj buŝon malican ili malfermis kontraŭ mi, Ili parolas kun mi per mensogema lango.",
     "Per vortoj de malamo ili min ĉirkaŭis, Kaj ili militas kontraŭ mi sen mia kulpo.",
     "Por mia amo ili min malamas; Sed mi preĝas.",

@@ -8,7 +8,7 @@ export const chapter48 = {
     "Kaj Li diris al mi: Mi fruktigos vin kaj multigos vin kaj faros vin amaso da popoloj, kaj Mi donos ĉi tiun landon al via idaro post vi kiel eternan posedaĵon.",
     "Kaj nun viaj du filoj, kiuj naskiĝis al vi en la lando Egipta antaŭ mia alveno al vi en Egiptujon, estas miaj; Efraim kaj Manase estu al mi, kiel Ruben kaj Simeon.",
     "Sed viaj infanoj, kiuj naskiĝos al vi post ili, estu viaj; per la nomo de siaj fratoj ili estos nomataj en sia hereda parto.",
-    "Kiam mi venis el Mezopotamio, mortis ĉe mi RaĤel en la lando Kanaana, dum la vojo, kiam restis ankoraŭ iom da tero ĝis Efrata; kaj mi enterigis ŝin tie sur la vojo al Efrata, kiu estas nomata ankaŭ Bet-LeĤem.",
+    "Kiam mi venis el Mezopotamio, mortis ĉe mi Raĥel en la lando Kanaana, dum la vojo, kiam restis ankoraŭ iom da tero ĝis Efrata; kaj mi enterigis ŝin tie sur la vojo al Efrata, kiu estas nomata ankaŭ Bet-Leĥem.",
     "Kaj Izrael ekvidis la filojn de Jozef, kaj diris: Kiuj estas ĉi tiuj?",
     "Kaj Jozef diris al sia patro: Ili estas miaj filoj, kiujn donis al mi Dio ĉi tie. Kaj tiu diris: Alkonduku ilin al mi, kaj mi benos ilin.",
     "La okuloj de Izrael malfortiĝis de maljuneco, li ne povis bone vidi. Jozef alkondukis ilin al li, kaj li kisis ilin kaj ĉirkaŭprenis ilin.",

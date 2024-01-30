@@ -50,7 +50,7 @@ export const chapter32 = {
     "tiam li diris al ili:Enmetu en vian koron ĉiujn vortojn, per kiuj mi avertas vin hodiaŭ, kaj transdonu ilin al viaj gefiloj, por ke ili penu plenumi ĉiujn vortojn de ĉi tiu instruo.",
     "Ĉar ne malgrava afero ĝi estas por vi; sed ĝi estas via vivo, kaj per ĉi tiu afero vi longe vivos sur la tero, al kiu vi iras trans Jordanon, por ekposedi ĝin.",
     "Kaj la Eternulo ekparolis al Moseo en la sama tago, dirante:",
-    "Supreniru sur ĉi tiun monton Abarim, sur la monton Nebo, kiu estas en la lando Moaba, kontraŭ JeriĤo; kaj rigardu la landon Kanaanan, kiun Mi donas al la Izraelidoj kiel posedaĵon;",
+    "Supreniru sur ĉi tiun monton Abarim, sur la monton Nebo, kiu estas en la lando Moaba, kontraŭ Jeriĥo; kaj rigardu la landon Kanaanan, kiun Mi donas al la Izraelidoj kiel posedaĵon;",
     "kaj mortu sur la monto, sur kiun vi supreniras, kaj alkolektiĝu al via popolo, kiel mortis Aaron, via frato, sur la monto Hor, kaj alkolektiĝis al sia popolo:",
     "pro tio, ke vi pekis kontraŭ Mi inter la Izraelidoj ĉe la Akvo de Malpaco en Kadeŝ, en la dezerto Cin; pro tio, ke vi ne aperigis Mian sanktecon inter la Izraelidoj.",
     "Ĉar de malproksime vi vidos la landon, sed vi ne eniros tien, en la landon, kiun mi donas al la Izraelidoj.",

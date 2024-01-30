@@ -2,7 +2,7 @@ export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
   summary: "",
   verses: [
-    "En tiu tempo MerodaĤ-Baladan, filo de Baladan, reĝo de Babel, sendis leteron kaj donacojn al ĥizkija; ĉar li aŭdis, ke li estis malsana kaj resaniĝis.",
+    "En tiu tempo Merodaĥ-Baladan, filo de Baladan, reĝo de Babel, sendis leteron kaj donacojn al ĥizkija; ĉar li aŭdis, ke li estis malsana kaj resaniĝis.",
     "Kaj ĥizkija ĝojis pri ili, kaj montris al ili sian trezorejon, la arĝenton kaj la oron kaj la aromaĵojn kaj la karan oleon kaj sian tutan armilejon, kaj ĉion, kio troviĝis en liaj trezorejoj; estis nenio, kion ĥizkija ne montrus al ili en sia domo kaj en sia tuta posedaĵo.",
     "Kaj venis la profeto Jesaja al la reĝo ĥizkija, kaj diris al li:Kion parolis tiuj homoj? kaj de kie ili venis al vi? Kaj ĥizkija diris:El lando malproksima ili venis al mi, el Babel.",
     "Kaj li diris:Kion ili vidis en via domo? Kaj ĥizkija respondis:Ĉion, kio estas en mia domo, ili vidis; estis nenio, kion mi ne montrus al ili en miaj trezorejoj.",

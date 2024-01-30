@@ -31,6 +31,6 @@ export const chapter38 = {
     "Kiam ŝi devis naski, montriĝis, ke ĝemeloj estas en ŝia ventro.",
     "Kaj kiam ŝi estis naskanta, elŝoviĝis la mano de unu infano; kaj la akuŝistino prenis kaj alligis al la mano ruĝan fadenon, dirante: Ĉi tiu eliris la unua.",
     "Sed kiam li retiris sian manon, eliris lia frato. Kaj ŝi diris: Kial vi faris por vi traŝiron? Kaj oni donis al li la nomon Perec.",
-    "Poste eliris lia frato, kiu havis sur sia mano la ruĝan fadenon. Kaj oni donis al li la nomon ZeraĤ.",
+    "Poste eliris lia frato, kiu havis sur sia mano la ruĝan fadenon. Kaj oni donis al li la nomon Zeraĥ.",
   ],
 } as const satisfies Chapter;

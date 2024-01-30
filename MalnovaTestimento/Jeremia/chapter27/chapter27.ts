@@ -21,7 +21,7 @@ export const chapter27 = {
     "Ne aŭskultu ilin; servu al la reĝo de Babel, por ke vi vivu; por kio ĉi tiu urbo fariĝu dezerto?",
     "Se ili estas profetoj kaj se ili havas la vorton de la Eternulo, ili elpetegu de la Eternulo Cebaot, ke la vazoj, kiuj restis en la domo de la Eternulo kaj en la domo de la reĝo de Judujo kaj en Jerusalem, ne transiru en Babelon.",
     "Ĉar tiele diras la Eternulo Cebaot pri la kolonoj, pri la maro, pri la bazoj, kaj pri la ceteraj vazoj, kiuj restis en ĉi tiu urbo",
-    "kaj kiujn ne prenis Nebukadnecar, reĝo de Babel, kiam li forkondukis JeĤonjan, filon de Jehojakim, reĝon de Judujo, el Jerusalem en Babelon, kaj ankaŭ ĉiujn eminentulojn de Judujo kaj Jerusalem;",
+    "kaj kiujn ne prenis Nebukadnecar, reĝo de Babel, kiam li forkondukis Jeĥonjan, filon de Jehojakim, reĝon de Judujo, el Jerusalem en Babelon, kaj ankaŭ ĉiujn eminentulojn de Judujo kaj Jerusalem;",
     "tiele diras la Eternulo Cebaot, Dio de Izrael, pri la vazoj, kiuj restis en la domo de la Eternulo kaj en la domo de la reĝo de Judujo kaj en Jerusalem:",
     "En Babelon ili estos forportitaj, kaj tie ili restos, ĝis la tago, kiam Mi rememoros ilin, diras la Eternulo, kaj prenigos kaj reportigos ilin sur ĉi tiun lokon.",
   ],

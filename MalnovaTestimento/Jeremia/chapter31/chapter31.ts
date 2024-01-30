@@ -16,7 +16,7 @@ export const chapter31 = {
     "Kaj ili venos kaj kantos sur la altaĵo de Cion; kaj ili rapidos al la bonaĵoj de la Eternulo, al la greno, al la mosto, al la oleo, al la ŝafidoj kaj bovidoj; kaj ilia animo estos kiel akvoriĉa ĝardeno, kaj ili ne plu havos malĝojon.",
     "Tiam virgulino gajos en la dancrondo, kaj kune ankaŭ junuloj kaj maljunuloj; kaj Mi ŝanĝos ilian malĝojon en ĝojon, Mi konsolos ilin kaj gajigos ilin post ilia aflikto.",
     "Kaj la animon de la pastroj Mi satigos per grasaĵoj, kaj Mia popolo satiĝos per Miaj bonaĵoj, diras la Eternulo.",
-    "Tiele diras la Eternulo:Voĉo estas aŭdata en Rama, ĝemado kaj maldolĉa plorado:RaĤel priploras siajn filojn, ne volas konsoliĝi pri siaj infanoj, ĉar ili forestas.",
+    "Tiele diras la Eternulo:Voĉo estas aŭdata en Rama, ĝemado kaj maldolĉa plorado:Raĥel priploras siajn filojn, ne volas konsoliĝi pri siaj infanoj, ĉar ili forestas.",
     "Tiele diras la Eternulo:Detenu vian voĉon de plorado kaj viajn okulojn de larmoj; ĉar ekzistas rekompenco por via laboro, diras la Eternulo, kaj ili revenos el la lando de la malamiko.",
     "Kaj ekzistas espero por via idaro, diras la Eternulo, kaj la filoj revenos en siajn limojn.",
     "Mi aŭdis, kiel Efraim diras pentante:Vi punis min, kaj mi estas punita, kiel bovido ne dresita; konvertu min, kaj mi konvertiĝos; ĉar Vi, ho Eternulo, estas mia Dio.",

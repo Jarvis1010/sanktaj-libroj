@@ -17,7 +17,7 @@ export const chapter2 = {
     "Ĉar du malbonagojn faris Mia popolo:Min ili forlasis, la fonton de viva akvo, por elhaki al si putojn, truhavajn putojn, kiuj ne povas teni akvon.",
     "Ĉu Izrael estas sklavo, aŭ ĉu li estas infano de la domo? kial li fariĝis rabitaĵo?",
     "Kontraŭ li blekegis leonidoj, forte kriis, kaj ili faris lian landon dezerto; liaj urboj estas bruligitaj, kaj neniu loĝas en ili.",
-    "Eĉ la filoj de Nof kaj de TaĤpanĤes frakasis vian verton.",
+    "Eĉ la filoj de Nof kaj de Taĥpanĥes frakasis vian verton.",
     "Vi jam mem tion faris al vi, ĉar vi forlasis la Eternulon, vian Dion, en la tempo, kiam Li gvidis vin sur la vojo.",
     "Kaj nun por kio vi bezonas la vojon al Egiptujo? ĉu por trinki la akvon de Nilo? Kaj por kio vi bezonas la vojon al Asirio? ĉu por trinki la akvon de Eŭfrato?",
     "Via malboneco vin punos, kaj viaj malbonagoj faros al vi riproĉojn, por ke vi sciu kaj vidu, kiel malbone kaj maldolĉe estas, ke vi forlasis la Eternulon, vian Dion, kaj ne timas Min, diras la Sinjoro, la Eternulo Cebaot.",

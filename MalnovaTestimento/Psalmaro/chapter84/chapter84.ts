@@ -2,7 +2,7 @@ export const chapter84 = {
   chapterTitle: "Ĉapitro 84",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por la gitito. Psalmo de la KoraĤidoj. Kiel ĉarmaj estas Viaj loĝejoj, ho Eternulo Cebaot!",
+    "Al la ĥorestro. Por la gitito. Psalmo de la Koraĥidoj. Kiel ĉarmaj estas Viaj loĝejoj, ho Eternulo Cebaot!",
     "Mia animo deziras kaj sopiras al la kortoj de la Eternulo; Mia koro kaj mia korpo sentas ravon pri la viva Dio.",
     "Eĉ birdo trovas domon kaj hirundo neston por si, En kiu ĝi tenas siajn idojn:   Viajn altarojn, ho Eternulo Cebaot, mia Reĝo kaj mia Dio.",
     "Feliĉaj estas tiuj, kiuj loĝas en Via domo: Ili laŭdas Vin konstante.  Sela.",

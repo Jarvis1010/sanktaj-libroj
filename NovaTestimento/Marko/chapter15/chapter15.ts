@@ -35,7 +35,7 @@ export const chapter15 = {
     "Tiel same ankaŭ la ĉefpastroj, mokante inter si kun la skribistoj, diris:Aliajn li savis; sin mem li ne povas savi.",
     "La Kristo, la Reĝo de Izrael, deiru ja nun de la kruco, por ke ni vidu kaj kredu. Kaj tiuj, kiuj estis krucumitaj kun li, insultis lin.",
     "Kaj kiam venis la sesa horo, fariĝis mallumo sur la tuta lando ĝis la naŭa horo.",
-    "Kaj je la naŭa horo Jesuo kriis per laŭta voĉo:Eloi, Eloi, lama sabaĤtani; tio estas:Mia Dio, mia Dio, kial Vi forlasis min?",
+    "Kaj je la naŭa horo Jesuo kriis per laŭta voĉo:Eloi, Eloi, lama sabaĥtani; tio estas:Mia Dio, mia Dio, kial Vi forlasis min?",
     "Kaj iuj el la apudstarantoj, aŭdinte, diris:Jen li vokas Elijan.",
     "Kaj unu kuris, kaj plenigis spongon per vinagro, kaj metinte ĝin sur kanon, donis al li trinki, dirante:Lasu; ni vidu, ĉu venos Elija, por depreni lin.",
     "Sed Jesuo, eliginte laŭtan krion, ellasis for la spiriton.",

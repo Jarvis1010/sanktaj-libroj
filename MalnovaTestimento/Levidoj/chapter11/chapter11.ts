@@ -31,7 +31,7 @@ export const chapter11 = {
     "Kaj el ĉiuj bestoj kvarpiedaj ĉiuj, kiuj iras sur siaj plandoj, estas malpuraj por vi; ĉiu, kiu ektuŝos ilian kadavron, estos malpura ĝis la vespero.",
     "Kaj kiu portos kadavraĵon de ili, lavu siajn vestojn, kaj li estos malpura ĝis la vespero:malpuraj ili estas por vi.",
     "Kaj jen, kio estas malpura por vi inter la rampaĵoj, kiuj rampas sur la tero:la talpo kaj la muso kaj la lacerto kun ĝia speco",
-    "kaj la geko kaj la monitoro kaj la uromastiko kaj la skinko kaj la Ĥameleono.",
+    "kaj la geko kaj la monitoro kaj la uromastiko kaj la skinko kaj la ĥameleono.",
     "Tiuj estas la malpuraj por vi inter ĉiuj rampaĵoj; ĉiu, kiu ektuŝos ilin post ilia morto, estos malpura ĝis la vespero.",
     "Kaj ĉio, sur kion falos io el ili malviva, estos malpura; ĉu ĝi estos ia ligna vazo, ĉu vesto, ĉu felo, ĉu sako, ĉu ia ilo, per kiu oni faras laboron-oni metu ĝin en akvon, kaj ĝi estos malpura ĝis la vespero, kaj tiam ĝi fariĝos pura.",
     "Kaj se en ian argilan vazon io el ili falos internen, tiam ĉio, kio estas interne, fariĝos malpura; kaj la vazon rompu.",

@@ -47,7 +47,7 @@ export const chapter10 = {
     "Sed ne tiel estos inter vi; sed kiu volas esti granda inter vi, tiu estu via servanto;",
     "kaj kiu volas esti la unua inter vi, tiu estu sklavo de ĉiuj.",
     "Ĉar la Filo de homo venis, ne por esti servata, sed por servi, kaj por doni sian vivon kiel elaĉeton por multaj.",
-    "Kaj ili venis al JeriĤo; kaj kiam li foriris el JeriĤo kun siaj disĉiploj kaj granda homamaso, la filo de Timeo, Bartimeo, blinda almozulo, sidis apud la vojo.",
+    "Kaj ili venis al Jeriĥo; kaj kiam li foriris el Jeriĥo kun siaj disĉiploj kaj granda homamaso, la filo de Timeo, Bartimeo, blinda almozulo, sidis apud la vojo.",
     "Kaj aŭdinte, ke ĉeestas Jesuo, la Nazaretano, li ekkriis, kaj diris:Jesuo, filo de David, kompatu min.",
     "Kaj multaj admonis lin, ke li silentu; sed li des pli forte kriis:Ho Filo de David, kompatu min!",
     "Kaj Jesuo haltis, kaj diris:Alvoku lin. Kaj oni alvokis la blindulon, dirante al li:Kuraĝu; leviĝu, li vin alvokas.",

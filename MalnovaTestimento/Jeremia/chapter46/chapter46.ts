@@ -3,7 +3,7 @@ export const chapter46 = {
   summary: "",
   verses: [
     "Jen estas la vorto de la Eternulo, kiu aperis al la profeto Jeremia pri la nacioj:",
-    "Pri Egiptujo, pri la militistaro de Faraono NeĤo, reĝo de Egiptujo, kiu estis ĉe la rivero Eŭfrato en Karkemiŝ, kaj kiun venkobatis Nebukadnecar, reĝo de Babel, en la kvara jaro de Jehojakim, filo de Joŝija,  reĝo de Judujo:",
+    "Pri Egiptujo, pri la militistaro de Faraono Neĥo, reĝo de Egiptujo, kiu estis ĉe la rivero Eŭfrato en Karkemiŝ, kaj kiun venkobatis Nebukadnecar, reĝo de Babel, en la kvara jaro de Jehojakim, filo de Joŝija,  reĝo de Judujo:",
     "Pretigu ŝildon kaj kirason, kaj iru en batalon.",
     "Jungu la ĉevalojn kaj surĉevaligu la rajdistojn, stariĝu en kaskoj, akrigu la lancojn, surmetu sur vin armaĵojn.",
     "Kial Mi vidas, ke ili ektimis kaj kuras malantaŭen? iliaj herooj estas frapitaj, kaj forkuras rapide, ne deturnante sin; teruro estas ĉirkaŭe, diras la Eternulo.",
@@ -15,7 +15,7 @@ export const chapter46 = {
     "Iru en Gileadon kaj prenu balzamon, ho virga filino de Egiptujo; vane vi multigas la kuracilojn; ne ekzistas por vi resaniĝo.",
     "La nacioj aŭdis vian malhonoron, kaj via plorado plenigis la teron; ĉar fortulo falpuŝiĝis kontraŭ fortulo, kaj ambaŭ kune falis.",
     "Jen estas la vorto, kiun la Eternulo diris al la profeto Jeremia pri la veno de Nebukadnecar, reĝo de Babel, por frapi la landon Egiptan:",
-    "Sciigu en Egiptujo, proklamu en Migdol, proklamu en Nof kaj en TaĤpanĤes, diru:Stariĝu kaj pretiĝu, ĉar la glavo ekstermas vian ĉirkaŭaĵon.",
+    "Sciigu en Egiptujo, proklamu en Migdol, proklamu en Nof kaj en Taĥpanĥes, diru:Stariĝu kaj pretiĝu, ĉar la glavo ekstermas vian ĉirkaŭaĵon.",
     "Kial estas forpuŝita via fortulo, ne povis stari? ĉar la Eternulo lin renversis.",
     "Li multigis la falpuŝiĝantojn; falis unu sur la alian; kaj ili diras:Leviĝu, ni reiru al nia popolo kaj al la lando de nia naskiĝo, for de la glavo de la tirano.",
     "Oni kriis tie:Faraono, reĝo de Egiptujo, estas nur bruo; li preterlasis la difinitan tempon.",

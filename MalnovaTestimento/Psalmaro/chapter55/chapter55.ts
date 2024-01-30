@@ -2,7 +2,7 @@ export const chapter55 = {
   chapterTitle: "Ĉapitro 55",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por kordaj instrumentoj. Instruo de David. Aŭskultu, ho Dio, mian preĝon,   Kaj ne kaŝu Vin de mia petego.",
+    "Al la ĥorestro. Por kordaj instrumentoj. Instruo de David. Aŭskultu, ho Dio, mian preĝon,   Kaj ne kaŝu Vin de mia petego.",
     "Atentu min, kaj respondu al mi; Mi ĝemas en mia malĝojo, kaj mi ploregas,",
     "Pro la kriado de la malamiko, Pro la premado de la malbonulo,   Ĉar ili preparas kontraŭ mi malicon  Kaj kolere min malamas.",
     "Mia koro tremas en mi; Kaj teruroj de morto min atakis;",

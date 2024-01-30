@@ -44,7 +44,7 @@ export const chapter25 = {
     "Kaj venis la servantoj de David al Abigail en Karmelon, kaj diris al ŝi jene:David sendis nin al vi, por preni vin al li kiel edzinon.",
     "Tiam ŝi leviĝis, kaj kliniĝis kun la vizaĝo ĝis la tero, kaj diris:Jen via sklavino estas servantino, por lavi la piedojn de la servantoj de mia sinjoro.",
     "Kaj Abigail rapide leviĝis kaj ekrajdis sur azeno, kaj ŝiaj kvin servantinoj ekiris post ŝi, kaj ŝi sekvis la senditojn de David kaj fariĝis lia edzino.",
-    "Ankaŭ AĤinoamon el Jizreel David prenis, kaj ili ambaŭ fariĝis liaj edzinoj.",
-    "Sed Saul fordonis sian filinon MiĤal, edzinon de David, al Palti, filo de Laiŝ, el Galim.",
+    "Ankaŭ Aĥinoamon el Jizreel David prenis, kaj ili ambaŭ fariĝis liaj edzinoj.",
+    "Sed Saul fordonis sian filinon Miĥal, edzinon de David, al Palti, filo de Laiŝ, el Galim.",
   ],
 } as const satisfies Chapter;

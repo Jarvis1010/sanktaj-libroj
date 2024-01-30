@@ -8,7 +8,7 @@ export const chapter1 = {
     "knabojn sendifektajn, belaspektajn, komprenemajn por ĉiu saĝaĵo, klerajn, scienckomprenantajn, kaj kapablajn servi en la palaco de la reĝo,  kaj ke oni lernigu al ili la skribadon kaj la lingvon ĥaldean.",
     "Kaj la reĝo destinis por ili por ĉiu tago manĝaĵojn de la reĝa tablo, kaj vinon el tiu, kiun li mem trinkadis, kaj li ordonis eduki ilin dum tri jaroj, post kies finiĝo ili estis komencontaj la servadon antaŭ la reĝo.",
     "El la idoj de Jehuda estis inter ili Daniel, ĥananja, Miŝael, kaj Azarja.",
-    "La estro de la korteganoj donis al ili aliajn nomojn; kaj li donis al Daniel la nomon Beltŝacar; al ĥananja, ŜadraĤ; al Miŝael, MeŝaĤ; kaj al Azarja, Abed-Nego.",
+    "La estro de la korteganoj donis al ili aliajn nomojn; kaj li donis al Daniel la nomon Beltŝacar; al ĥananja, Ŝadraĥ; al Miŝael, Meŝaĥ; kaj al Azarja, Abed-Nego.",
     "Daniel metis en sian koron, ke li ne malpurigos sin per la manĝaĵoj de la reĝo, nek per la vino, kiun ĉi tiu trinkas; tial li petis la korteganestron, ke al li estu permesite ne malpurigi sin.",
     "Dio donis al Daniel favoron kaj simpation ĉe la korteganestro.",
     "Kaj la korteganestro diris al Daniel:Mi timas mian sinjoron, la reĝon, kiu mem destinis por vi, kion vi devas manĝi kaj trinki; se li vidos, ke viaj vizaĝoj estas malpli grasaj, ol ĉe aliaj knaboj, viaj samaĝuloj, tiam vi farus mian kapon kulpa antaŭ la reĝo.",

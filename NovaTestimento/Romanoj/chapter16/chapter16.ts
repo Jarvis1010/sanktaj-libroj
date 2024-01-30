@@ -10,7 +10,7 @@ export const chapter16 = {
     "Salutu Marian, kiu multe laboris por vi.",
     "Salutu Andronikon kaj Junion, miajn parencojn kaj miajn kunkaptitojn, kiuj estas konataj inter la apostoloj, kaj ankaŭ estis en Kristo antaŭ ol mi.",
     "Salutu Ampliason, mian amaton en la Sinjoro.",
-    "Salutu Urbanon, nian kunlaboranton por Kristo, kaj mian amatan StaĤison.",
+    "Salutu Urbanon, nian kunlaboranton por Kristo, kaj mian amatan Staĥison.",
     "Salutu Apeleson, la aprobitan en Kristo. Salutu tiujn, kiuj estas ĉe Aristobulo.",
     "Salutu mian parencon Herodion. Salutu tiujn ĉe Narkiso, kiuj estas en la Sinjoro.",
     "Salutu Trifajnan kaj Trifosan, kiuj laboras en la Sinjoro. Salutu Persison, la virinon amatan, kiu multe laboris en la Sinjoro.",

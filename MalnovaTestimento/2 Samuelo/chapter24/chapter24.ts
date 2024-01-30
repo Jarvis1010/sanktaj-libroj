@@ -7,7 +7,7 @@ export const chapter24 = {
     "Tiam Joab diris al la reĝo:La Eternulo, via Dio, plimultigu la popolon centoble kompare kun tio, kio estas nun, kaj la okuloj de mia sinjoro tion vidu; sed por kio mia sinjoro la reĝo deziras tiun aferon?",
     "Sed la vorto de la reĝo superfortis Joabon kaj la militestrojn; tial Joab kaj la militestroj foriris de la reĝo, por kalkuli la popolon Izraelan.",
     "Ili transiris Jordanon, kaj starigis siajn tendojn en Aroer, dekstre de la urbo, kiu estas meze de la valo Gad, antaŭ Jazer;",
-    "kaj ili venis en Gileadon kaj en la landon TaĤtim-ĥodŝi; poste ili venis en Dan-Jaanon kaj en la ĉirkaŭaĵon de Cidon.",
+    "kaj ili venis en Gileadon kaj en la landon Taĥtim-ĥodŝi; poste ili venis en Dan-Jaanon kaj en la ĉirkaŭaĵon de Cidon.",
     "Ili venis al la fortikaĵo de Tiro, kaj en ĉiujn urbojn de la ĥividoj kaj Kanaanidoj, kaj eliris en la sudon de Judujo al Beer-Ŝeba.",
     "Ili trapasis la tutan landon, kaj venis Jerusalemon post naŭ monatoj kaj dudek tagoj.",
     "Kaj Joab transdonis al la reĝo la rezulton de la kalkulado de la popolo; kaj montriĝis, ke da Izraelidoj estas okcent mil viroj militkapablaj, povantaj eltiri glavon, kaj da Jehudaidoj kvincent mil viroj.",

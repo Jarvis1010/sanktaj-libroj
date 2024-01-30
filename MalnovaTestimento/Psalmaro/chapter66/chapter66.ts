@@ -2,7 +2,7 @@ export const chapter66 = {
   chapterTitle: "Ĉapitro 66",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Kanto-psalmo. Ĝoje kriu al Dio tuta la tero.",
+    "Al la ĥorestro. Kanto-psalmo. Ĝoje kriu al Dio tuta la tero.",
     "Muziku la gloron de Lia nomo, Faru honoron al Lia gloro.",
     "Diru al Dio:Kiel timindaj estas Viaj faroj! Pro Via granda forto kaŝiĝas antaŭ Vi Viaj malamikoj.",
     "La tuta tero kliniĝas antaŭ Vi kaj kantas al Vi, Kantas Vian nomon.  Sela.",

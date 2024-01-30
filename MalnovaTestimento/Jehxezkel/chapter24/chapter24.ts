@@ -25,7 +25,7 @@ export const chapter24 = {
     "Diru al la domo de Izrael:Tiele diras la Sinjoro, la Eternulo:Jen Mi malsanktigos Mian sanktejon, la forton de via gloro, la ĝuon de viaj okuloj, kaj la ĉarmaĵon de via animo; kaj viaj filoj kaj viaj filinoj, kiujn vi forlasis, falos de glavo.",
     "Kaj vi agos, kiel mi agis:vian buŝon vi ne kovros, kaj panon de funebrantoj vi ne manĝos.",
     "Kaj via kapornamo estos sur via kapo, kaj viaj ŝuoj estos sur viaj piedoj; vi ne funebros kaj ne ploros, sed vi konsumiĝados pro viaj malbonagoj kaj ĝemados unu al alia.",
-    "Kaj JeĤezkel estos por vi antaŭsigno:ĉion, kion li faris, vi ankaŭ faros; kiam tio venos, vi ekscios, ke Mi estas la Sinjoro, la Eternulo.",
+    "Kaj Jeĥezkel estos por vi antaŭsigno:ĉion, kion li faris, vi ankaŭ faros; kiam tio venos, vi ekscios, ke Mi estas la Sinjoro, la Eternulo.",
     "Kaj koncerne vin, ho filo de homo:en la tago, kiam Mi forprenos de ili ilian forton, la ĝojon de ilia beleco, la ĝuon de iliaj okuloj, la ĉarmaĵon de ilia animo, iliajn filojn kaj iliajn filinojn-",
     "en tiu tago venos al vi forsaviĝinto, por transdoni sciigon al viaj oreloj;",
     "en tiu tago malfermiĝos via buŝo antaŭ la forsaviĝinto, kaj vi ekparolos, kaj vi ne plu silentos, kaj vi estos antaŭsigno por ili; kaj ili ekscios, ke Mi estas la Eternulo.",

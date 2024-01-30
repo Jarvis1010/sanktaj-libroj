@@ -2,7 +2,7 @@ export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
-    "Profeta vorto de la Eternulo pri la lando ĥadraĤ kaj pri ĝia ripozejo Damasko (ĉar la Eternulo rigardas ĉiujn homojn, kiel ĉiujn tribojn de Izrael),",
+    "Profeta vorto de la Eternulo pri la lando ĥadraĥ kaj pri ĝia ripozejo Damasko (ĉar la Eternulo rigardas ĉiujn homojn, kiel ĉiujn tribojn de Izrael),",
     "kaj pri ĥamat, kiu havas sian limon apud ĝi, pri Tiro kaj Cidon, kiuj pensas, ke ili estas tre saĝaj.",
     "Tiro konstruis al si fortikaĵon, kaj kolektis arĝenton kiel polvon, kaj oron kiel stratan koton;",
     "sed jen la Sinjoro faros ĝin malriĉa kaj ĵetos en la maron ĝian remparon, kaj ĝi mem estos ekstermita de fajro.",

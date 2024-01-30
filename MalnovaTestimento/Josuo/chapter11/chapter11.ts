@@ -2,7 +2,7 @@ export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
   summary: "",
   verses: [
-    "Kiam tion aŭdis Jabin, reĝo de ĥacor, li sendis al Jobab, reĝo de Madon, kaj al la reĝo de Ŝimron kaj al la reĝo de AĤŝaf,",
+    "Kiam tion aŭdis Jabin, reĝo de ĥacor, li sendis al Jobab, reĝo de Madon, kaj al la reĝo de Ŝimron kaj al la reĝo de Aĥŝaf,",
     "kaj al la reĝoj, kiuj loĝis norde sur la monto, kaj sur la stepo sude de Kinerot, kaj sur la malaltaĵo, kaj en Nafot-Dor apud la maro,",
     "al la Kanaanidoj oriente kaj okcidente, kaj al la Amoridoj kaj ĥetidoj kaj Perizidoj, kaj Jebusidoj sur la monto, kaj al la ĥividoj sub ĥermon en la lando Micpa.",
     "Kaj eliris ili kaj ilia tuta militistaro kun ili, granda nombro da homoj, kiel la sablo sur la bordo de la maro, kaj tre multe da ĉevaloj kaj ĉaroj.",

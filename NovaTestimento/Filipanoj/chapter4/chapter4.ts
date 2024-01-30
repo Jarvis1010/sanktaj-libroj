@@ -3,7 +3,7 @@ export const chapter4 = {
   summary: "",
   verses: [
     "Tial, miaj fratoj amataj kaj alsopirataj, mia ĝojo kaj mia krono, tiel staru fortike en la Sinjoro, miaj amataj.",
-    "Mi admonas Eŭodian, kaj mi admonas SintiĤen, ke ili estu unuanimaj en la Sinjoro.",
+    "Mi admonas Eŭodian, kaj mi admonas Sintiĥen, ke ili estu unuanimaj en la Sinjoro.",
     "Kaj mi petegas vin ankaŭ, sincera kunjugulo, helpu tiujn virinojn, ĉar ili kunlaboris kun mi en la evangelio, kune kun Klemento kaj miaj ceteraj kunlaborantoj, kies nomoj estas en la libro de vivo.",
     "Ĝoju en la Sinjoro ĉiam; denove mi diros:Ĝoju.",
     "Via mildeco estu konata al ĉiuj. La Sinjoro estas proksima.",

@@ -2,7 +2,7 @@ export const chapter56 = {
   chapterTitle: "Ĉapitro 56",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por Jonatelem-reĤokim. Verko de David, kiam kaptis lin la Filiŝtoj en Gat. Korfavoru min, ho Dio, ĉar homo volas min engluti, Dum la tuta tago malamiko min premas.",
+    "Al la ĥorestro. Por Jonatelem-reĥokim. Verko de David, kiam kaptis lin la Filiŝtoj en Gat. Korfavoru min, ho Dio, ĉar homo volas min engluti, Dum la tuta tago malamiko min premas.",
     "Miaj malamikoj volas min engluti ĉiutage, Ĉar multaj militas kontraŭ mi fiere.",
     "En la tago, kiam mi timas, Mi fidas Vin.",
     "Dion, kies vorton mi gloras, Tiun Dion mi fidas; mi ne timas:   Kion karno faros al mi?",

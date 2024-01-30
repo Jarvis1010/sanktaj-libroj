@@ -11,7 +11,7 @@ export const chapter11 = {
     "Aŭ ĉu mi pekis, humiligante min, por ke vi estu altigitaj, en tio, ke mi senpage predikis al vi la evangelion de Dio?",
     "Mi senigis aliajn ekleziojn, ricevante de ili pagon, por servi al vi;",
     "kaj kiam mi ĉeestis ĉe vi kaj havis mankon, mi ne estis ŝarĝo sur iu; ĉar la fratoj, veninte el Makedonujo, plenigis la mezuron de mia bezono; kaj en ĉio mi tenis min ne ŝarĝa rilate vin, kaj ankoraŭ tenos.",
-    "Jen estas la vero de Kristo en mi, ke ĉi tiu fanfarono ne estos barita kontraŭ mi en la regionoj AĤajaj.",
+    "Jen estas la vero de Kristo en mi, ke ĉi tiu fanfarono ne estos barita kontraŭ mi en la regionoj Aĥajaj.",
     "Kial? ĉu tial, ke mi vin ne amas? Dio scias.",
     "Sed kiel mi faras, tiel mi ankaŭ faros, por forigi la pretekston al tiuj, kiuj deziras pretekston, por ke, en kio ili fieras, ili troviĝu samaj, kiel ni.",
     "Ĉar tiaj homoj estas falsaj apostoloj, trompemaj laboristoj, sin aliformante kvazaŭ apostolojn de Kristo.",

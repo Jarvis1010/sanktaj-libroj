@@ -5,7 +5,7 @@ export const chapter25 = {
     "David kaj la militestroj apartigis por la servado filojn de Asaf, de Heman, kaj de Jedutun, kiuj estis inspiritaj por harpoj, psalteroj, kaj cimbaloj. Ili estis kalkulitaj por sia servado:",
     "el la filoj de Asaf:Zakur, Jozef, Netanja, kaj Aŝarela, filoj de Asaf, sub gvidado de Asaf, kiu kantis ĉe la reĝo.",
     "De Jedutun, la filoj de Jedutun:Gedalja, Ceri, Jeŝaja, ĥaŝabja, kaj Matitja, ses, sub gvidado de sia patro Jedutun, kiu ludis inspirite sur harpo, por laŭdi kaj glori la Eternulon.",
-    "De Heman, la filoj de Heman:Bukija, Matanja, Uziel, Ŝebuel, Jerimot, ĥananja, ĥanani, Eliata, Gidalti, Romamti-Ezer, Joŝbekaŝa, Maloti, Hotir,  kaj MaĤaziot.",
+    "De Heman, la filoj de Heman:Bukija, Matanja, Uziel, Ŝebuel, Jerimot, ĥananja, ĥanani, Eliata, Gidalti, Romamti-Ezer, Joŝbekaŝa, Maloti, Hotir,  kaj Maĥaziot.",
     "Ĉiuj ili estis filoj de Heman, viziisto de la reĝo koncerne la vortojn de Dio, por levi la kornon. Dio donis al Heman dek kvar filojn kaj tri filinojn.",
     "Ĉiuj ĉi tiuj estis sub la gvidado de siaj patroj ĉe la kantado en la domo de la Eternulo, kun cimbaloj, psalteroj, kaj harpoj, ĉe la servado en la domo de Dio, sub la gvidado de la reĝo, Asaf, Jedutun, kaj Heman.",
     "Ilia nombro, kune kun iliaj fratoj, instruitaj por kanti antaŭ la Eternulo, ĉiuj kompetentuloj, estis ducent okdek ok.",
@@ -31,7 +31,7 @@ export const chapter25 = {
     "la dudeka por Eliata; liaj filoj kaj fratoj estis dek du;",
     "la dudek-unua por Hotir; liaj filoj kaj fratoj estis dek du;",
     "la dudek-dua por Gidalti; liaj filoj kaj fratoj estis dek du;",
-    "la dudek-tria por MaĤaziot; liaj filoj kaj fratoj estis dek du;",
+    "la dudek-tria por Maĥaziot; liaj filoj kaj fratoj estis dek du;",
     "la dudek-kvara por Romamti-Ezer; liaj filoj kaj fratoj estis dek du.",
   ],
 } as const satisfies Chapter;

@@ -12,7 +12,7 @@ export const chapter2 = {
     "Li prenis potpecon, por skrapadi sin per ĝi, sidante meze de cindro.",
     "Kaj lia edzino diris al li:Vi ĉiam ankoraŭ estas firma en via virteco! blasfemu Dion, kaj mortu.",
     "Sed li diris al ŝi:Vi parolas tiel, kiel parolas iu el la malsaĝulinoj; ĉu bonon ni akceptu de Dio, kaj malbonon ni ne akceptu? Malgraŭ ĉio ĉi tio Ijob ne pekis per siaj lipoj.",
-    "Kiam la tri amikoj de Ijob aŭdis pri tiu tuta malfeliĉo, kiu trafis lin, ili iris ĉiu de sia loko, Elifaz, la Temanano, Bildad, la ŜuĤano, kaj Cofar, la Naamano, kaj kunvenis kune, por iri plori kun li kaj konsoli lin.",
+    "Kiam la tri amikoj de Ijob aŭdis pri tiu tuta malfeliĉo, kiu trafis lin, ili iris ĉiu de sia loko, Elifaz, la Temanano, Bildad, la Ŝuĥano, kaj Cofar, la Naamano, kaj kunvenis kune, por iri plori kun li kaj konsoli lin.",
     "Kiam ili levis siajn okulojn de malproksime, ili ne rekonis lin; kaj ili levis sian voĉon kaj ekploris; kaj ĉiu el ili disŝiris sian veston, kaj ĵetis teron sur sian kapon, turnante sin al la ĉielo.",
     "Kaj ili sidis kun li sur la tero dum sep tagoj kaj sep noktoj, kaj ne parolis al li eĉ unu vorton; ĉar ili vidis, ke la suferado estas tre granda.",
   ],

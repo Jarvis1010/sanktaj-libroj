@@ -2,7 +2,7 @@ export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por mut-labeno. Psalmo de David. Mi gloros Vin, ho Eternulo, per mia tuta koro; Mi rakontos ĉiujn Viajn mirindaĵojn.",
+    "Al la ĥorestro. Por mut-labeno. Psalmo de David. Mi gloros Vin, ho Eternulo, per mia tuta koro; Mi rakontos ĉiujn Viajn mirindaĵojn.",
     "Mi ĝojos kaj triumfos pro Vi; Mi kantos Vian nomon, ho Vi Plejalta.",
     "Ĉar miaj malamikoj turniĝas malantaŭen, Ili falas kaj pereas antaŭ Vi.",
     "Ĉar Vi faris por mi juĝon kaj plenumon de leĝo; Vi sidiĝis sur la trono, Vi justa juĝanto.",

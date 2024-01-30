@@ -4,7 +4,7 @@ export const chapter5 = {
   verses: [
     "Mi venis en mian ĝardenon, mia fratino, mia fianĉino; Mi deŝiris mian mirhon kaj miajn aromaĵojn;   Mi manĝis mian mielĉelaron, kiel ankaŭ mian mielon;   Mi trinkis mian vinon, kiel ankaŭ mian lakton.   Manĝu, ho miaj kamaradoj;   Drinku kaj ebriiĝu, ho miaj amikoj.",
     "Mi dormis, sed mia koro estis maldorma; Jen estas la voĉo de mia amato, jen li ekfrapas:   Malfermu al mi, ho mia fratino, mia amatino, mia kolombino, mia virtulino;   Ĉar mia kapo estas plena de roso,   Miaj harbukloj de la gutoj de la nokto.",
-    "Mi jam demetis mian Ĥitonon; kial mi ĝin denove surmetu? Mi jam lavis miajn piedojn; kial mi ilin malpurigu?",
+    "Mi jam demetis mian ĥitonon; kial mi ĝin denove surmetu? Mi jam lavis miajn piedojn; kial mi ilin malpurigu?",
     "Mia amato etendis sian manon tra la truo, Kaj mia interno kompatis lin.",
     "Mi leviĝis, por malfermi al mia amato; Kaj de miaj manoj gutis mirho,   Kaj miaj fingroj estis malsekaj de mirha fluidaĵo,   Sur la riglilo de la seruro.",
     "Mi malfermis al mia amato; Sed mia amato forturniĝis kaj malaperis.   Mia animo tremis, dum li parolis;   Mi lin serĉis, sed mi lin ne trovis;   Mi vokis lin, sed li ne respondis al mi.",

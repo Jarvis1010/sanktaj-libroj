@@ -17,6 +17,6 @@ export const chapter6 = {
     "tial Mi dolorige vin frapos per dezertigo pro viaj pekoj.",
     "Vi manĝos, sed ne fariĝos sata; doloron pro malsato vi havos en via interno; vi kaŝos, sed ne povos konservi; kaj kion vi konservos, tion Mi transdonos al la glavo.",
     "Vi semos, sed vi ne rikoltos; vi premos olivojn, sed vi ne ŝmiros vin per oleo; vi premos vinberojn, sed vi ne trinkos vinon.",
-    "Konserviĝis ĉe vi la moroj de Omri kaj ĉiuj faroj de la domo de AĤab, kaj vi sekvas iliajn konsilojn, por ke Mi faru vin dezerto, viajn loĝantojn mokataĵo, kaj por ke vi portu sur vi la malhonoron de Mia popolo.",
+    "Konserviĝis ĉe vi la moroj de Omri kaj ĉiuj faroj de la domo de Aĥab, kaj vi sekvas iliajn konsilojn, por ke Mi faru vin dezerto, viajn loĝantojn mokataĵo, kaj por ke vi portu sur vi la malhonoron de Mia popolo.",
   ],
 } as const satisfies Chapter;

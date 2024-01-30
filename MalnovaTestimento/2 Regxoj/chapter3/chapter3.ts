@@ -2,11 +2,11 @@ export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
-    "Jehoram, filo de AĤab, fariĝis reĝo super Izrael en Samario en la dek- oka jaro de Jehoŝafat, reĝo de Judujo, kaj li reĝis dek du jarojn.",
+    "Jehoram, filo de Aĥab, fariĝis reĝo super Izrael en Samario en la dek- oka jaro de Jehoŝafat, reĝo de Judujo, kaj li reĝis dek du jarojn.",
     "Li faradis malbonon antaŭ la okuloj de la Eternulo, tamen ne tiel, kiel lia patro kaj lia patrino; li forigis la statuon de Baal, kiun faris lia patro.",
     "Tamen li restis aliĝinta al la pekoj de Jerobeam, filo de Nebat, per kiuj li pekigis Izraelon; li ne forlasis ilin.",
     "Meŝa, reĝo de Moab, estis paŝtisto, kaj li sendadis al la reĝo de Izrael po cent mil ŝafidoj kaj cent mil virŝafoj kun ilia lano.",
-    "Sed kiam AĤab mortis, la reĝo de Moab defalis de la reĝo de Izrael.",
+    "Sed kiam Aĥab mortis, la reĝo de Moab defalis de la reĝo de Izrael.",
     "Tiam la reĝo Jehoram eliris el Samario kaj revuis la tutan Izraelon.",
     "Kaj li iris kaj sendis al Jehoŝafat, reĝo de Judujo, por diri:La reĝo de Moab defalis de mi; ĉu vi iros kun mi milite kontraŭ Moabon? Tiu diris:Mi iros; mi estas kiel vi, mia popolo kiel via popolo, miaj ĉevaloj kiel viaj ĉevaloj.",
     "Kaj li diris:Kiun vojon ni iros? Kaj la alia diris:La vojon de la Edoma dezerto.",

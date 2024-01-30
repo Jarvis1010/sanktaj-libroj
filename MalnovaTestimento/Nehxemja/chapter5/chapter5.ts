@@ -15,7 +15,7 @@ export const chapter5 = {
     "Redonu do al ili hodiaŭ iliajn kampojn, vinberĝardenojn, olivĝardenojn, kaj domojn, kaj la procenton pro la mono, la greno, la mosto,  kaj la oleo, kiujn vi pruntis al ili.",
     "Kaj ili diris:Ni redonos, kaj ni ne postulos de ili; ni agos tiel, kiel vi diras. Kaj mi alvokis la pastrojn, kaj mi prenis de ili ĵuron, ke ili tiel agos.",
     "Kaj mi elskuis mian baskon, kaj diris:Tiele Dio elskuu el lia domo kaj el lia akiritaĵo ĉiun homon, kiu ne plenumos tiun vorton; tiele li estu elskuita kaj senhava. Kaj la tuta komunumo diris:Amen; kaj oni gloris la Eternulon. Kaj la popolo agis tiele.",
-    "Krom tio, de post la tago, kiam al mi estis ordonite esti ilia regionestro en la Juda lando, de la dudeka jaro ĝis la tridek-dua jaro de la reĝo ArtaĤŝast, en la daŭro de dek du jaroj, mi kun miaj fratoj ne manĝis la panon de regionestro.",
+    "Krom tio, de post la tago, kiam al mi estis ordonite esti ilia regionestro en la Juda lando, de la dudeka jaro ĝis la tridek-dua jaro de la reĝo Artaĥŝast, en la daŭro de dek du jaroj, mi kun miaj fratoj ne manĝis la panon de regionestro.",
     "La antaŭaj regionestroj, kiuj estis antaŭ mi, ŝarĝadis la popolon, kaj prenadis de ili panon kaj vinon, krom kvardek sikloj da arĝento; eĉ iliaj junuloj regis super la popolo. Sed mi ne agis tiel, pro timo antaŭ Dio.",
     "Mi partoprenis ankaŭ en la laborado ĉe tiu murego; kaj kampon ni ne aĉetis; kaj ĉiuj miaj junuloj kolektiĝadis tie al la laboro.",
     "Ĉe mia tablo estadis po cent kvindek homoj da Judoj kaj estroj, kaj ankaŭ da tiuj, kiuj venis al ni el la nacioj, kiuj estas ĉirkaŭ ni.",

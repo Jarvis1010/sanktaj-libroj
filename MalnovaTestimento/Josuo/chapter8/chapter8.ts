@@ -3,7 +3,7 @@ export const chapter8 = {
   summary: "",
   verses: [
     "Kaj la Eternulo diris al Josuo:Ne timu, kaj ne estu malkuraĝa; prenu kun vi ĉiujn militistojn, kaj leviĝu kaj iru al Aj; vidu, Mi transdonis en vian manon la reĝon de Aj kaj lian popolon kaj lian urbon kaj lian landon.",
-    "Kaj agu kun Aj kaj kun ĝia reĝo, kiel vi agis kun JeriĤo kaj kun ĝia reĝo; nur ilian militakiraĵon kaj iliajn brutojn vi povas rabi por vi. Faru insidon malantaŭ la urbo.",
+    "Kaj agu kun Aj kaj kun ĝia reĝo, kiel vi agis kun Jeriĥo kaj kun ĝia reĝo; nur ilian militakiraĵon kaj iliajn brutojn vi povas rabi por vi. Faru insidon malantaŭ la urbo.",
     "Kaj leviĝis Josuo kaj ĉiuj militistoj, por iri al Aj; kaj Josuo elektis tridek mil homojn, bonajn militistojn, kaj sendis ilin nokte,",
     "kaj ordonis al ili, dirante:Vidu, vi faros insidon ĉe la urbo, malantaŭ la urbo; ne tro malproksimiĝu de la urbo, kaj estu ĉiuj pretaj.",
     "Kaj mi, kaj la tuta popolo, kiu estas kun mi, alproksimiĝos al la urbo. Kaj kiam ili eliros kontraŭ nin, kiel antaŭe, ni forkuros de ili.",

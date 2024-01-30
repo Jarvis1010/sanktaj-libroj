@@ -8,7 +8,7 @@ export const chapter108 = {
     "Ĉar granda ĝis super la ĉielo estas Via boneco, Kaj ĝis la nuboj estas Via vero.",
     "Altiĝu super la ĉielo, ho Dio; Kaj Via gloro estu super la tuta tero.",
     "Por ke liberiĝu viaj amatoj, Helpu per Via dekstra mano, kaj aŭskultu min.",
-    "Dio diris en Sia sanktejo:Mi triumfos; Mi dividos ŜeĤemon, kaj la valon Sukot Mi mezuros.",
+    "Dio diris en Sia sanktejo:Mi triumfos; Mi dividos Ŝeĥemon, kaj la valon Sukot Mi mezuros.",
     "Al Mi apartenas Gilead, al Mi apartenas Manase; Efraim estas la forto de Mia kapo,   Jehuda estas Mia sceptro.",
     "Moab estas Mia lavopelvo; Sur Edomon Mi ĵetos Mian ŝuon;   Super Filiŝtujo Mi triumfe krios.",
     "Kiu enkondukos min en fortikigitan urbon? Kiu alkondukos min ĝis Edom?",

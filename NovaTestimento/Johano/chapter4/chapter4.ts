@@ -6,7 +6,7 @@ export const chapter4 = {
     "(kvankam baptadis ne Jesuo mem, sed liaj disĉiploj),",
     "li foriris el Judujo kaj reiris al Galileo.",
     "Kaj li devis trairi tra Samario.",
-    "Li alvenis do al unu urbo Samaria, nomata SiĤar, apud la terpeco, kiun Jakob donis al sia filo Jozef;",
+    "Li alvenis do al unu urbo Samaria, nomata Siĥar, apud la terpeco, kiun Jakob donis al sia filo Jozef;",
     "kaj la fonto de Jakob estis tie. Jesuo do, lacigita de sia vojirado, sidiĝis tiamaniere apud la fonto. Estis ĉirkaŭ la sesa horo.",
     "Venis virino Samaria, por ĉerpi akvon; Jesuo diris al ŝi:Donu al mi trinki.",
     "Ĉar liaj disĉiploj jam foriris en la urbon, por aĉeti nutraĵojn.",

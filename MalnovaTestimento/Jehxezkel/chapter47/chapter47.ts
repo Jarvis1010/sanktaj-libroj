@@ -17,7 +17,7 @@ export const chapter47 = {
     "Tiele diras la Sinjoro, la Eternulo:Jen estas la limoj, laŭ kiuj vi devas dividi heredige la teron al la dek du triboj de Izrael:al Jozef duoblan parton.",
     "Kaj dividu ĝin al ĉiuj egale; ĉar per levo de la mano Mi promesis doni ĝin al viaj patroj, tial ĉi tiu tero fariĝos via hereda posedaĵo.",
     "Jen estas la limo de la lando:sur la norda rando, komencante de la Granda Maro, ĝi iras tra ĥetlon en la direkto al Cedad;",
-    "tra ĥamat, Berota, Sibraim, kiu estas inter la limo de Damasko kaj la limo de ĥamat, ĝis ĥacer-TiĤon, kiu troviĝas ĉe la limo de ĥavran.",
+    "tra ĥamat, Berota, Sibraim, kiu estas inter la limo de Damasko kaj la limo de ĥamat, ĝis ĥacer-Tiĥon, kiu troviĝas ĉe la limo de ĥavran.",
     "Kaj la limo estos de la maro ĝis ĥacar-Enan apud la limo de Damasko, kaj ĝis la norda Cafon kaj la limo de ĥamat. Tio estas la rando norda.",
     "Kaj la orientan randon mezuru inter ĥavran kaj Damasko, inter Gilead kaj la lando de Izrael, laŭ Jordan, de la limo ĝis la orienta maro; tio estas la rando orienta.",
     "La suda rando estas de Tamar ĝis la Akvo de Malpaco apud Kadeŝ, laŭ la torento ĝis la Granda Maro; tio estas la rando suda.",

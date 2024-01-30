@@ -2,7 +2,7 @@ export const chapter87 = {
   chapterTitle: "Ĉapitro 87",
   summary: "",
   verses: [
-    "De la KoraĤidoj. Psalmo-kanto. Lia fundamento estas sur la sanktaj montoj.",
+    "De la Koraĥidoj. Psalmo-kanto. Lia fundamento estas sur la sanktaj montoj.",
     "La Eternulo amas la pordegojn de Cion Pli ol ĉiujn loĝejojn de Jakob.",
     "Gloraĵojn Li rakontas pri vi, ho urbo de Dio. Sela.",
     "Mi parolas al miaj konatoj pri Egiptujo kaj Babel, Ankaŭ pri Filiŝtujo kaj Tiro kun Etiopujo:   Jen tiu tie naskiĝis.",

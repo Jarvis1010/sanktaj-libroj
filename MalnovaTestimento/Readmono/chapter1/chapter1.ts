@@ -5,7 +5,7 @@ export const chapter1 = {
     "Jen estas la vortoj, kiujn diris Moseo al la tuta Izrael transe de Jordan, en la dezerto, en la stepo antaŭ Suf, inter Paran kaj Tofel kaj Laban kaj ĥacerot kaj Di-Zahab,",
     "dek unu tagojn malproksime de ĥoreb, sur la vojo de la monto Seir al Kadeŝ-Barnea.",
     "Tio estis en la kvardeka jaro, en la dek-unua monato, en la unua tago de la monato, Moseo parolis al la Izraelidoj konforme al ĉio, kion la Eternulo ordonis al li por ili.",
-    "Post kiam li venkobatis SiĤonon, la reĝon de la Amoridoj, kiu loĝis en ĥeŝbon, kaj Ogon, la reĝon de Baŝan, kiu loĝis en Aŝtarot kaj en Edrei;",
+    "Post kiam li venkobatis Siĥonon, la reĝon de la Amoridoj, kiu loĝis en ĥeŝbon, kaj Ogon, la reĝon de Baŝan, kiu loĝis en Aŝtarot kaj en Edrei;",
     "transe de Jordan, en la lando de Moab, Moseo komencis klarigi ĉi tiun instruon, kaj diris:",
     "La Eternulo, nia Dio, diris al ni sur ĥoreb jene:Sufiĉe vi loĝis sur ĉi tiu monto;",
     "turniĝu kaj elmoviĝu, kaj iru sur la monton de la Amoridoj kaj al ĉiuj iliaj najbaroj en la stepo, sur la monto kaj en la valo kaj en la sudo kaj sur la bordo de la maro, en la landon de la Kanaanidoj kaj sur Lebanonon, ĝis la granda rivero, la rivero Eŭfrato.",

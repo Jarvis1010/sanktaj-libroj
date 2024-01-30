@@ -21,7 +21,7 @@ export const chapter24 = {
     "Post la morto de Jehojada venis la estroj de Judujo kaj kliniĝis antaŭ la reĝo; kaj li komencis obeadi ilin.",
     "Kaj ili forlasis la domon de la Eternulo, Dio de iliaj patroj, kaj ili servadis al sanktaj stangoj kaj al idoloj; kaj ekscitiĝis Lia kolero kontraŭ Judujo kaj kontraŭ Jerusalem pro ĉi tiu ilia kulpo.",
     "Li sendis al ili profetojn, por revenigi ilin al la Eternulo; kaj ili admonis ilin, sed ĉi tiuj ne atentis.",
-    "La spirito de Dio venis sur ZeĤarjan, filon de la pastro Jehojada, kaj li stariĝis antaŭ la popolo, kaj diris al ili:Tiele diras Dio:Kial vi malobeas la ordonojn de la Eternulo? Vi ne havos sukceson, ĉar vi forlasis la Eternulon, kaj tial Li vin forlasis.",
+    "La spirito de Dio venis sur Zeĥarjan, filon de la pastro Jehojada, kaj li stariĝis antaŭ la popolo, kaj diris al ili:Tiele diras Dio:Kial vi malobeas la ordonojn de la Eternulo? Vi ne havos sukceson, ĉar vi forlasis la Eternulon, kaj tial Li vin forlasis.",
     "Ili faris konspiron kontraŭ li, kaj ŝtonmortigis lin laŭ ordono de la reĝo sur la korto de la domo de la Eternulo.",
     "Kaj la reĝo Joaŝ ne memoris la favorkoraĵon, kiun lia patro Jehojada faris al li, kaj li mortigis lian filon. Ĉi tiu, mortante, diris:La Eternulo vidu, kaj punu.",
     "Post paso de unu jaro eliris kontraŭ lin la militistaro de Sirio; kaj ili eniris en Judujon kaj Jerusalemon kaj ekstermis el la popolo ĉiujn estrojn de la popolo; kaj la tutan militakiraĵon ili sendis al la reĝo de Damasko.",

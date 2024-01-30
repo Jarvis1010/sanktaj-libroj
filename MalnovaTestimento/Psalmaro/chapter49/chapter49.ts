@@ -2,7 +2,7 @@ export const chapter49 = {
   chapterTitle: "Ĉapitro 49",
   summary: "",
   verses: [
-    "Al la Ĥorestro. De la KoraĤidoj. Psalmo. Aŭskultu ĉi tion, ĉiuj popoloj; Atentu, ĉiuj loĝantoj de la mondo,",
+    "Al la ĥorestro. De la Koraĥidoj. Psalmo. Aŭskultu ĉi tion, ĉiuj popoloj; Atentu, ĉiuj loĝantoj de la mondo,",
     "Kaj altrangulo kaj malaltrangulo, Riĉulo kaj malriĉulo kune.",
     "Mia buŝo diros saĝaĵon, Kaj la penso de mia koro prudentaĵon.",
     "Mi klinos mian orelon al sentenco; Sur harpo mi esprimos mian enigmon.",

@@ -15,7 +15,7 @@ export const chapter40 = {
     "Kaj sanktoleu la lavujon kaj ĝian piedestalon, kaj sanktigu ĝin.",
     "Kaj alkonduku Aaronon kaj liajn filojn al la eniro de la tabernaklo de kunveno, kaj lavu ilin per akvo.",
     "Kaj vestu Aaronon per la sanktaj vestoj kaj sanktoleu lin kaj sanktigu lin, ke li estu Mia pastro.",
-    "Kaj liajn filojn alkonduku, kaj vestu ilin per Ĥitonoj.",
+    "Kaj liajn filojn alkonduku, kaj vestu ilin per ĥitonoj.",
     "Kaj sanktoleu ilin, kiel vi sanktoleis ilian patron, ke ili estu Miaj pastroj; kaj ilia sanktoleiteco estu por ili por eterna pastreco en iliaj generacioj.",
     "Kaj Moseo faris konforme al ĉio, kion la Eternulo al li ordonis; tiel li faris.",
     "En la unua monato de la dua jaro, en la unua tago de la monato estis starigita la tabernaklo.",

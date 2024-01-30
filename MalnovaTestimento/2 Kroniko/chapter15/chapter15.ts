@@ -17,7 +17,7 @@ export const chapter15 = {
     "kaj ke ĉiu, kiu ne turnos sin al la Eternulo, Dio de Izrael, devas morti, ĉu tio estas malgranda, ĉu granda, ĉu viro, ĉu virino.",
     "Kaj ili ĵuris al la Eternulo per laŭta voĉo, per ĝojkriado, per trumpetoj kaj kornoj.",
     "Kaj ĉiuj Judoj ĝojis pri la ĵuro, ĉar ili ĵuris el sia tuta koro, ili serĉis Lin kun plena fervoro, kaj Li trovigis Sin al ili. Kaj la Eternulo donis al ili trankvilecon ĉirkaŭe.",
-    "Kaj eĉ MaaĤan, la patrinon, la reĝo Asa senigis je ŝia titolo de reĝino, pro tio, ke ŝi faris idolon por Aŝtar. Kaj Asa dishakis ŝian idolon, dispecigis ĝin kaj forbruligis ĉe la torento Kidron.",
+    "Kaj eĉ Maaĥan, la patrinon, la reĝo Asa senigis je ŝia titolo de reĝino, pro tio, ke ŝi faris idolon por Aŝtar. Kaj Asa dishakis ŝian idolon, dispecigis ĝin kaj forbruligis ĉe la torento Kidron.",
     "Tamen la altaĵoj ne estis forigitaj ĉe Izrael; sed la koro de Asa estis perfekta dum lia tuta vivo.",
     "Li enportis en la domon de Dio la konsekritaĵojn de sia patro, kaj siajn proprajn konsekritaĵojn, arĝenton kaj oron kaj vazojn.",
     "Kaj ne estis milito ĝis la tridek-kvina jaro de la reĝado de Asa.",

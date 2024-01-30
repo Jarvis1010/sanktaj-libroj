@@ -16,7 +16,7 @@ export const chapter5 = {
     "Kaj David konsciis, ke la Eternulo fortikigis lin kiel reĝon super Izrael, kaj ke Li altigis lian regnon pro Sia popolo Izrael.",
     "Kaj David prenis ankoraŭ kromvirinojn kaj edzinojn el Jerusalem post sia veno el ĥebron. Kaj naskiĝis al David ankoraŭ filoj kaj filinoj.",
     "Jen estas la nomoj de tiuj, kiuj naskiĝis al li en Jerusalem:Ŝamua kaj Ŝobab kaj Natan kaj Salomono",
-    "kaj JibĤar kaj Eliŝua kaj Nefeg kaj Jafia",
+    "kaj Jibĥar kaj Eliŝua kaj Nefeg kaj Jafia",
     "kaj Eliŝama kaj Eljada kaj Elifelet.",
     "Kiam la Filiŝtoj aŭdis, ke oni sanktoleis Davidon reĝo super Izrael, ĉiuj Filiŝtoj iris, por serĉi Davidon. David aŭdis pri tio, kaj eniris en la fortikaĵon.",
     "Kaj la Filiŝtoj venis kaj okupis lokon en la valo Refaim.",

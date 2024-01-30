@@ -22,7 +22,7 @@ export const chapter18 = {
     "Kaj virinon kune kun ŝia fratino ne prenu kiel konkurantinon, por malkovri ŝian nudecon apud ŝi, dum ŝia vivo.",
     "Kaj al virino dum ŝia monata malpureco ne alproksimiĝu, por malkovri ŝian nudecon.",
     "Kaj kun la edzino de via proksimulo ne kuŝu pro semo, malpuriĝante kun ŝi.",
-    "Kaj el via idaro ne fordonu oferon al MoleĤ, kaj ne malhonoru la nomon de via Dio:Mi estas la Eternulo.",
+    "Kaj el via idaro ne fordonu oferon al Moleĥ, kaj ne malhonoru la nomon de via Dio:Mi estas la Eternulo.",
     "Kaj kun virseksulo ne kuŝu, kiel oni kuŝas kun virino:tio estas abomenaĵo.",
     "Kaj kun nenia bruto kuŝu, malpuriĝante per ĝi; kaj virino ne stariĝu antaŭ bruto, por kuniĝi:tio estas fiaĵo.",
     "Ne malpuriĝu per ĉio ĉi tio; ĉar per ĉio ĉi tio malpuriĝis la popoloj, kiujn Mi forpelas de antaŭ vi.",

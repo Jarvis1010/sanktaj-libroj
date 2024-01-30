@@ -2,7 +2,7 @@ export const chapter89 = {
   chapterTitle: "Ĉapitro 89",
   summary: "",
   verses: [
-    "Instruo de Etan, la EzraĤido. La favorfarojn de la Eternulo mi kantos eterne; De generacio al generacio mi sciigos Vian fidelecon per mia buŝo.",
+    "Instruo de Etan, la Ezraĥido. La favorfarojn de la Eternulo mi kantos eterne; De generacio al generacio mi sciigos Vian fidelecon per mia buŝo.",
     "Ĉar mi diris:Por eterne estas fundamentita la boneco, En la ĉielo estas fortikigita Via fideleco.",
     "Mi faris interligon kun Mia elektito. Mi ĵuris al David, Mia sklavo:",
     "Por eterne Mi fortikigos vian semon, Kaj Mi konstruis vian tronon por ĉiuj generacioj.  Sela.",

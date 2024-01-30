@@ -15,7 +15,7 @@ export const chapter33 = {
     "Kaj la Eternulo venigis sur ilin la militestrojn de la reĝo de Asirio; kaj ili malliberigis Manasen per katenoj, ligis lin per ĉenoj, kaj forkondukis lin en Babelon.",
     "En sia mizero li ekpetegis la Eternulon, sian Dion, kaj li tre humiliĝis antaŭ la Dio de siaj patroj.",
     "Kiam li preĝis al Li kaj petegis Lin, Li aŭskultis lian peton kaj revenigis lin en Jerusalemon al lia regno. Kaj Manase eksciis, ke la Eternulo estas la vera Dio.",
-    "Post tio li konstruis eksteran muregon por la urbo de David okcidente de GiĤon, en la valo, ĝia la enirejo de la Pordego de Fiŝoj, ĉirkaŭ Ofel, kaj li faris ĝin tre alta. Kaj li starigis militestrojn en ĉiuj fortikigitaj urboj de Judujo.",
+    "Post tio li konstruis eksteran muregon por la urbo de David okcidente de Giĥon, en la valo, ĝia la enirejo de la Pordego de Fiŝoj, ĉirkaŭ Ofel, kaj li faris ĝin tre alta. Kaj li starigis militestrojn en ĉiuj fortikigitaj urboj de Judujo.",
     "Li forigis la fremdajn diojn kaj la idolon el la domo de la Eternulo, ankaŭ ĉiujn altarojn, kiujn li konstruis sur la monto de la domo de la Eternulo kaj en Jerusalem; kaj li elĵetis tion eksteren de la urbo.",
     "Kaj li rekonstruis la altaron de la Eternulo kaj faris sur ĝi pacoferojn kaj dankoferojn, kaj li ordonis al la Judoj, ke ili servadu al la Eternulo, Dio de Izrael.",
     "Tamen la popolo ĉiam ankoraŭ oferadis sur la altaĵoj, sed nur al la Eternulo, sia Dio.",

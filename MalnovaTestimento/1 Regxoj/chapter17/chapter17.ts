@@ -2,7 +2,7 @@ export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
   summary: "",
   verses: [
-    "Kaj Elija, la Teŝebano, el la loĝantoj de Gilead, diris al AĤab:Kiel vivas la Eternulo, Dio de Izrael, antaŭ kiu mi staras, ne estos en ĉi tiuj jaroj roso nek pluvo, krom en la okazo, se mi tion diros.",
+    "Kaj Elija, la Teŝebano, el la loĝantoj de Gilead, diris al Aĥab:Kiel vivas la Eternulo, Dio de Izrael, antaŭ kiu mi staras, ne estos en ĉi tiuj jaroj roso nek pluvo, krom en la okazo, se mi tion diros.",
     "Kaj aperis la vorto de la Eternulo al li, dirante:",
     "Foriru de ĉi tie, kaj direktu vin orienten, kaj kaŝu vin ĉe la torento Kerit, kiu estas oriente de Jordan.",
     "El tiu torento vi trinkados, kaj al la korvoj Mi ordonis, ke ili tie vin nutru.",

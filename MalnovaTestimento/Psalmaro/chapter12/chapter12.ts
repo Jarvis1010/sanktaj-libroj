@@ -2,7 +2,7 @@ export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por basuloj. Psalmo de David. Helpu, ho Eternulo, ĉar malaperis piuloj  Kaj maloftiĝis fideluloj inter la homidoj.",
+    "Al la ĥorestro. Por basuloj. Psalmo de David. Helpu, ho Eternulo, ĉar malaperis piuloj  Kaj maloftiĝis fideluloj inter la homidoj.",
     "Malveron ili parolas unuj al aliaj, Vortojn flatajn el koro hipokrita.",
     "La Eternulo ekstermu ĉiun flatan buŝon Kaj langon fanfaronantan,",
     "Tiujn, kiuj diras:Per nia lango ni venkos, Nia buŝo estas kun ni; kiu estas sinjoro super ni?",

@@ -2,7 +2,7 @@ export const chapter53 = {
   chapterTitle: "Ĉapitro 53",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por maĤalato. Instruo de David. La sensaĝulo diris en sia koro:Dio ne ekzistas. Ili sentaŭgiĝis, kaj abomeniĝis en la malvirto;   Ekzistas neniu, kiu faras bonon.",
+    "Al la ĥorestro. Por maĥalato. Instruo de David. La sensaĝulo diris en sia koro:Dio ne ekzistas. Ili sentaŭgiĝis, kaj abomeniĝis en la malvirto;   Ekzistas neniu, kiu faras bonon.",
     "Dio el la ĉielo ekrigardis la homidojn, Por vidi, ĉu ekzistas prudentulo, kiu serĉas Dion.",
     "Ĉiu devojiĝis, ĉiuj malvirtiĝis; Ekzistas neniu, faranta bonon, ne ekzistas eĉ unu.",
     "Ĉu ne prudentiĝos tiuj, kiuj faras malbonon, Kiuj manĝas mian popolon, kiel oni manĝas panon,   Kaj kiuj ne vokas al Dio?",

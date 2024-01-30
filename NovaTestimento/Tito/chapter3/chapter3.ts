@@ -13,7 +13,7 @@ export const chapter3 = {
     "sed evitu malsaĝajn demandojn kaj genealogiojn kaj diskutojn kaj prileĝajn disputojn, ĉar ili montriĝas senutilaj kaj vanaj.",
     "Se iu estas herezulo ankoraŭ post unua admono kaj dua, evitu tiun,",
     "sciante, ke tia homo perversiĝis kaj pekas, estante memkondamnita.",
-    "Kiam mi sendos al vi Artemason aŭ TiĤikon, rapidu veni al mi al Nikopolis; ĉar mi decidis travintri tie.",
+    "Kiam mi sendos al vi Artemason aŭ Tiĥikon, rapidu veni al mi al Nikopolis; ĉar mi decidis travintri tie.",
     "Antaŭen irigu Zenason, la leĝiston, kaj Apoloson sur ilia vojaĝo kiel eble plej rapide, por ke nenio manku al ili.",
     "Kaj niaj amikoj ankaŭ lernu daŭrigi bonajn laborojn, por necesaj bezonoj, por ke ili ne estu senfruktaj.",
     "Ĉiuj, kiuj estas ĉe mi, vin salutas. Salutu vi tiujn, kiuj amas nin en la fido. Graco estu kun vi ĉiuj.",

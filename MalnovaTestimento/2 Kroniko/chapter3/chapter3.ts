@@ -18,6 +18,6 @@ export const chapter3 = {
     "Kaj li faris la kurtenon el ŝtofo blua, purpura, kaj ruĝa, kaj el bisino; kaj li faris sur ĝi kerubojn.",
     "Kaj li faris antaŭ la domo du kolonojn, havantajn la longon de tridek kvin ulnoj, kaj la kapitelo supre havis kvin ulnojn.",
     "Kaj li faris ĉenojn en la plejsanktejo kaj metis ilin sur la supron de la kolonoj; kaj li faris cent granatojn kaj metis ilin sur la ĉenojn.",
-    "Kaj li starigis la kolonojn antaŭ la templo, unu dekstre kaj unu maldekstre; al la dekstra li donis la nomon JaĤin, kaj al la maldekstra la nomon Boaz.",
+    "Kaj li starigis la kolonojn antaŭ la templo, unu dekstre kaj unu maldekstre; al la dekstra li donis la nomon Jaĥin, kaj al la maldekstra la nomon Boaz.",
   ],
 } as const satisfies Chapter;

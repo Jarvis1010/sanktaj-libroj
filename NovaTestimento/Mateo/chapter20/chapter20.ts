@@ -30,7 +30,7 @@ export const chapter20 = {
     "Ne tiel estos inter vi; sed kiu volas esti granda inter vi, tiu estu via servanto;",
     "kaj kiu volas esti la unua inter vi, tiu estu via servisto;",
     "same kiel la Filo de homo venis, ne por esti servata, sed por servi, kaj por doni sian vivon kiel elaĉeton por multaj.",
-    "Kaj kiam ili eliris el JeriĤo, granda homamaso lin sekvis.",
+    "Kaj kiam ili eliris el Jeriĥo, granda homamaso lin sekvis.",
     "Kaj jen du blinduloj, sidantaj apud la vojo, aŭdinte, ke Jesuo preterpasas, ekkriis, dirante:Sinjoro, kompatu nin, ho filo de David.",
     "Kaj la homamaso admonis ilin, ke ili silentu, sed ili plimulte kriis, dirante:Sinjoro, kompatu nin, ho filo de David.",
     "Kaj Jesuo, haltinte, alvokis ilin, kaj diris:Kion vi volas, ke mi faru al vi?",

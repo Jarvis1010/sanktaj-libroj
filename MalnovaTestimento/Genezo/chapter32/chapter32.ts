@@ -3,7 +3,7 @@ export const chapter32 = {
   summary: "",
   verses: [
     "Kaj Jakob iris sian vojon. Kaj renkontiĝis kun li anĝeloj de Dio.",
-    "Kaj Jakob diris, kiam li ilin vidis: Tio estas militistaro de Dio; kaj li donis al tiu loko la nomon MaĤanaim.",
+    "Kaj Jakob diris, kiam li ilin vidis: Tio estas militistaro de Dio; kaj li donis al tiu loko la nomon Maĥanaim.",
     "Jakob sendis antaŭ si senditojn al sia frato Esav, en la landon Seir, en la regionon de Edom.",
     "Kaj li ordonis al ili jene: Tiele diru al mia sinjoro Esav: Jen kion diris via sklavo Jakob: Mi loĝis ĉe Laban kaj restis tie ĝis nun.",
     "Mi havas bovojn kaj azenojn, ŝafojn kaj sklavojn kaj sklavinojn; kaj mi sendas, por sciigi mian sinjoron, por ke mi akiru vian favoron.",

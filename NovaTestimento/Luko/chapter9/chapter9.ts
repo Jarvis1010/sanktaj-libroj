@@ -8,7 +8,7 @@ export const chapter9 = {
     "Kaj en kiun ajn domon vi eniros, tie loĝu, kaj el tie ekvojaĝu.",
     "Kaj se ie oni vin ne akceptos, tiam, forirante el tiu urbo, deskuu la polvon de viaj piedoj, por atesto kontraŭ ili.",
     "Kaj ili, foririnte, trairis la vilaĝojn, ĉie predikante la evangelion kaj sanigante.",
-    "Kaj la tetrarĤo Herodo aŭdis pri ĉio, kio fariĝis; kaj li embarasiĝis, ĉar iuj diris, ke Johano leviĝis el la mortintoj;",
+    "Kaj la tetrarĥo Herodo aŭdis pri ĉio, kio fariĝis; kaj li embarasiĝis, ĉar iuj diris, ke Johano leviĝis el la mortintoj;",
     "kaj aliaj, ke Elija aperis; kaj aliaj, ke unu el la antikvaj profetoj releviĝis.",
     "Kaj Herodo diris:Johanon mi senkapigis, sed kiu estas ĉi tiu, pri kiu mi aŭdas tiajn aferojn? Kaj li deziris vidi lin.",
     "Kaj la apostoloj, reveninte, rakontis al li ĉion, kion ili faris. Kaj li kondukis ilin, kaj foriris aparte al urbo, nomata Betsaida.",

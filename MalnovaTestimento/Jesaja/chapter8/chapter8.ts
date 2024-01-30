@@ -3,11 +3,11 @@ export const chapter8 = {
   summary: "",
   verses: [
     "Kaj la Eternulo diris al mi:Prenu al vi grandan skribtabulon, kaj skribu sur ĝi per homa skribilo:Rapidu akiri, baldaŭ rabado.",
-    "Kaj mi prenis al mi du fidindajn atestantojn:la pastron Urija, kaj ZeĤarjan, filon de JebereĤja.",
+    "Kaj mi prenis al mi du fidindajn atestantojn:la pastron Urija, kaj Zeĥarjan, filon de Jebereĥja.",
     "Kaj mi iris al la profetino, kaj ŝi gravediĝis kaj naskis filon. Kaj la Eternulo diris al mi:Donu al li la nomon:Rapidu-Akiri-Baldaŭ-Rabado.",
     "Ĉar antaŭ ol la knabo povoscios voki:Mia patro, kaj Mia patrino, la riĉaĵon de Damasko kaj la rabakiron de Samario oni portos antaŭ la reĝo de Asirio.",
     "Kaj plue la Eternulo parolis al mi, dirante:",
-    "Pro tio, ke ĉi tiu popolo malŝatis la akvon de ŜiloaĤ, kiu fluas kviete, kaj ĝojas pro Recin kaj pro la filo de Remalja:",
+    "Pro tio, ke ĉi tiu popolo malŝatis la akvon de Ŝiloaĥ, kiu fluas kviete, kaj ĝojas pro Recin kaj pro la filo de Remalja:",
     "pro tio la Sinjoro jen venigos sur ilin la akvon de la Rivero, la forta kaj granda, la reĝon de Asirio kaj lian tutan gloron; kaj ĝi leviĝos super ĉiujn siajn kuŝujojn kaj iros super ĉiujn siajn bordojn.",
     "Kaj ĝi enpenetros en Judujon, inundos, leviĝos, kaj atingos ĝis la kolo; kaj ĝi etendos siajn flugilojn kaj plenigos vian tutan landon, ho Emanuel.",
     "Koleru, ho popoloj, tamen vi ektimos; atentu, vi ĉiuj en la malproksimaj landoj; armu vin, sed vi ektimos; armu vin, sed vi ektimos.",

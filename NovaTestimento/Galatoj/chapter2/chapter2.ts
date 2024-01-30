@@ -12,7 +12,7 @@ export const chapter2 = {
     "(ĉar Tiu, kiu forte energiis en Petro por la apostoleco de la cirkumcido, ankaŭ energiis en mi por la nacianoj),",
     "Jakobo kaj Kefas kaj Johano, kiuj ŝajne estis kolonoj, rimarkinte la gracon donitan al mi, donis al mi kaj al Barnabas la dekstrajn manojn de kunuleco, por ke ni iru al la nacianoj, kaj ili al la cirkumcidularo;",
     "kondiĉe nur, ke ni memoru la malriĉulojn, kion ja mi klopodis jam fari.",
-    "Sed kiam venis Kefas al AntioĤia, mi lin rezistis vizaĝon kontraŭ vizaĝo, ĉar li estis mallaŭdinda.",
+    "Sed kiam venis Kefas al Antioĥia, mi lin rezistis vizaĝon kontraŭ vizaĝo, ĉar li estis mallaŭdinda.",
     "Ĉar antaŭ ol iuj alvenis de Jakobo, li kunmanĝis kun la nacianoj; sed kiam ili alvenis, li sin fortiris kaj apartigis, timante tiujn, kiuj estis el la cirkumcido.",
     "Kaj la aliaj Judoj kune hipokritis, tiel ke eĉ Barnabas mem fortiriĝis per ilia hipokriteco.",
     "Kaj kiam mi vidis, ke ili ne prave kondutas laŭ la vero de la evangelio, mi diris al Kefas antaŭ ĉiuj:Se vi, estante Judo, naciane vivas, kaj ne kiel Judoj, kial vi devigas la nacianojn agi laŭ Judismo?",

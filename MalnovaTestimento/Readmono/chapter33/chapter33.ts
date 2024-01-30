@@ -19,7 +19,7 @@ export const chapter33 = {
     "Kaj per la plejbonaĵoj de la antikvaj montoj, Kaj per la donoj de la eternaj montetoj,",
     "Kaj per la donoj de la tero kaj de ĝia abundeco. Kaj la favoro de Tiu, kiu aperis en la arbetaĵo,   Venu sur la kapon de Jozef  Kaj sur la verton de la elektito inter liaj fratoj.",
     "Lia unuenaskita bovido estas belega, Kaj liaj kornoj estas kiel kornoj de bubalo;   Per ili li kornobatos ĉiujn popolojn kune ĝis la randoj de la tero.   Tio estas la dekmiloj de Efraim,   Tio estas la miloj de Manase.",
-    "Kaj pri Zebulun li diris: Ĝoju, Zebulun, ĉe via eliro;   Kaj IsaĤar, en viaj tendoj.",
+    "Kaj pri Zebulun li diris: Ĝoju, Zebulun, ĉe via eliro;   Kaj Isaĥar, en viaj tendoj.",
     "La popolojn ili vokas sur la monton; Tie ili oferbuĉas oferojn de justeco;   Ĉar ili nutras sin per la riĉaĵo de la maro,   Kaj per trezoroj, kaŝitaj en la sablo.",
     "Kaj pri Gad li diris: Benata estu la disvastiganto de Gad;   Kiel leono li kuŝas,   Kaj li disŝiras brakon kune kun la verto.",
     "Li elrigardis al si komencaĵon, Ĉar tie la leĝdonanto destinis por li parton;   Kaj li venis kun la ĉefoj de la popolo,   Plenumis la justecon de la Eternulo  Kaj Liajn decidojn pri Izrael.",

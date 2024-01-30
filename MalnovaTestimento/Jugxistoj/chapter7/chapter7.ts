@@ -23,7 +23,7 @@ export const chapter7 = {
     "Kaj venis Gideon, kaj la cent homoj, kiuj estis kun li, al la rando de la tendaro en la komenco de la meza noktogardo, kiam ĵus stariĝis la gardistoj; kaj ili ekblovis per la trumpetoj, kaj rompis la kruĉojn, kiujn ili havis en la manoj.",
     "Tiam ekblovis la tri taĉmentoj per la trumpetoj kaj rompis la kruĉojn, kaj ili tenis en la maldekstra mano la torĉojn, kaj en la dekstra la trumpetojn por blovi, kaj ili kriis:Glavo pro la Eternulo kaj pro Gideon!",
     "Kaj ili staris ĉiu sur sia loko ĉirkaŭ la tendaro; kaj la tuta tendaranaro ekkuris; kaj ĉiuj ekkriis kaj forkuris.",
-    "Kaj oni blovis per la tricent trumpetoj, kaj la Eternulo turnis en la tuta tendaro la glavon de unu kontraŭ alian; kaj la tendaranoj kuris ĝis Bet-Ŝita, al Cerera, ĝis la limo de Abel-MeĤola apud Tabat.",
+    "Kaj oni blovis per la tricent trumpetoj, kaj la Eternulo turnis en la tuta tendaro la glavon de unu kontraŭ alian; kaj la tendaranoj kuris ĝis Bet-Ŝita, al Cerera, ĝis la limo de Abel-Meĥola apud Tabat.",
     "Kaj oni kunvokis la Izraelidojn el Naftali kaj el Aŝer kaj el la tuta Manase, kaj ili postkuris la Midjanidojn.",
     "Kaj Gideon sendis senditojn sur la tutan monton de Efraim, por diri:Kuru renkonte al la Midjanidoj kaj baru al ili la akvon ĝis Bet-Bara kaj ĝis Jordan. Kaj kolektiĝis ĉiuj Efraimidoj kaj baris la vojon ĝis Bet-Bara kaj ĝis Jordan.",
     "Kaj ili kaptis Orebon kaj Zeebon, du princojn de Midjan, kaj mortigis Orebon ĉe la roko de Oreb, kaj Zeebon ili mortigis ĉe la vinpremejo de Zeeb, kaj persekutis la Midjanidojn; kaj la kapojn de Oreb kaj Zeeb ili alportis al Gideon trans Jordanon.",

@@ -32,6 +32,6 @@ export const chapter16 = {
     "Kaj Ŝimŝon vokis al la Eternulo, kaj diris:Mia Sinjoro, ho Eternulo, mi petas, rememoru min kaj fortigu min nur ĉi tiun fojon, ho Dio, por ke mi faru al la Filiŝtoj venĝon per unu fojo pro miaj du okuloj.",
     "Kaj Ŝimŝon kaptis la du mezajn kolonojn, sur kiuj staris la domo, kaj apogis sin al ili, al unu per sia dekstra mano kaj al la dua per sia maldekstra mano.",
     "Kaj Ŝimŝon diris:Mortu mia animo kune kun la Filiŝtoj! Kaj li ekpremis forte; kaj falis la domo sur la estrojn, kaj sur la tutan popolon, kiu estis en ĝi. Kaj la nombro de la mortintoj, kiujn li mortigis ĉe sia morto, estis pli granda, ol la nombro de tiuj, kiujn li mortigis dum sia vivo.",
-    "Kaj venis liaj fratoj kaj la tuta domo de lia patro kaj prenis lin, kaj iris kaj enterigis lin inter Corea kaj Eŝtaol, en la tombo de lia patro ManoaĤ. Li estis juĝisto de Izrael dum dudek jaroj.",
+    "Kaj venis liaj fratoj kaj la tuta domo de lia patro kaj prenis lin, kaj iris kaj enterigis lin inter Corea kaj Eŝtaol, en la tombo de lia patro Manoaĥ. Li estis juĝisto de Izrael dum dudek jaroj.",
   ],
 } as const satisfies Chapter;

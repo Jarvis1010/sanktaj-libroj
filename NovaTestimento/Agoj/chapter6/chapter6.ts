@@ -6,7 +6,7 @@ export const chapter6 = {
     "Kaj la dek du, alvokinte la amason de la disĉiploj, diris:Ne estas dezirinde, ke ni forlasu la vorton de Dio, por servi ĉe tabloj.",
     "Tial elserĉu, fratoj, el inter vi sep homojn, bone atestatajn, plenajn de la Spirito kaj de saĝo, kiujn ni difinos por tiu afero.",
     "Sed ni persistos en preĝado kaj la servado de la Vorto.",
-    "Kaj tiu diro plaĉis al la tuta amaso; kaj ili elektis Stefanon, viron plenan de fido kaj de la Sankta Spirito, kaj Filipon kaj ProĤoron kaj Nikanoron kaj Timonon kaj Parmenason, kaj Nikolaon, prozeliton el AntioĤia;",
+    "Kaj tiu diro plaĉis al la tuta amaso; kaj ili elektis Stefanon, viron plenan de fido kaj de la Sankta Spirito, kaj Filipon kaj Proĥoron kaj Nikanoron kaj Timonon kaj Parmenason, kaj Nikolaon, prozeliton el Antioĥia;",
     "tiujn ili starigis antaŭ la apostoloj; kaj ĉi tiuj, preĝinte, metis sur ilin la manojn.",
     "Kaj la vorto de Dio kreskis, kaj la nombro de la disĉiploj multiĝis treege en Jerusalem, kaj granda aro el la pastroj obeis al la fido.",
     "Kaj Stefano, plena de graco kaj potenco, faris grandajn mirindaĵojn kaj signojn inter la popolo.",

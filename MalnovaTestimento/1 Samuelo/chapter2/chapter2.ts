@@ -35,7 +35,7 @@ export const chapter2 = {
     "Jen venos baldaŭ la tempo, kiam Mi rompos vian brakon kaj la brakon de via patrodomo, ke ne estos maljunulo en via domo;",
     "kaj vi vidos konkuranton en la loĝejo, dum ĉiuj bonoj, kiuj estos farataj al Izrael; kaj neniam estos maljunulo en via domo.",
     "Sed Mi neniun ekstermos ĉe vi de antaŭ Mia altaro, por ke viaj okuloj konsumiĝu kaj via animo turmentiĝu; ĉiu, kiu naskiĝas en via domo, mortos en la vira aĝo.",
-    "Kaj jen estas por vi la pruvosigno, kiu plenumiĝos sur viaj du filoj, sur ĥofni kaj PineĤas:en unu tago ili ambaŭ mortos.",
+    "Kaj jen estas por vi la pruvosigno, kiu plenumiĝos sur viaj du filoj, sur ĥofni kaj Pineĥas:en unu tago ili ambaŭ mortos.",
     "Kaj Mi starigos por Mi pastron fidelan, kiu agados laŭ Mia koro kaj laŭ Mia animo; kaj Mi konstruos al li domon fidindan, kaj li irados ĉiam antaŭ Mia sanktoleito.",
     "Kaj ĉiu, kiu restos el via domo, venos kaj kliniĝos antaŭ li ĝis la tero pro malgranda monero kaj pro bulo da pano, kaj diros:Mi petas, lasu min aliĝi al ia el la pastraĵoj, por ke mi povu manĝi pecon da pano.",
   ],

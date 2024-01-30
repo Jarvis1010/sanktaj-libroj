@@ -8,7 +8,7 @@ export const chapter12 = {
     "Kaj ĝia vosto trenis trionon de la steloj de la ĉielo, kaj ĵetis ilin sur la teron; kaj la drako staris antaŭ la virino naskonta, por ke, kiam ŝi estos naskinta, ĝi formanĝu ŝian infanon.",
     "Kaj ŝi naskis filon, viran infanon, kiu regos ĉiujn naciojn per fera sceptro; kaj ŝia infano estis forkaptita supren al Dio kaj al Lia trono.",
     "Kaj la virino forkuris en la dezerton, kie ŝi havis lokon pretigitan de Dio, por ke tie oni nutru ŝin mil ducent sesdek tagojn.",
-    "Kaj fariĝis milito en la ĉielo:MiĤael kaj liaj anĝeloj ekmilitis kontraŭ la drako; kaj militis la drako kaj ĝiaj anĝeloj;",
+    "Kaj fariĝis milito en la ĉielo:Miĥael kaj liaj anĝeloj ekmilitis kontraŭ la drako; kaj militis la drako kaj ĝiaj anĝeloj;",
     "kaj ne prosperis al ili, kaj ne plu troviĝis ilia loko en la ĉielo.",
     "Kaj ĵetiĝis malsupren la granda drako, la antikva serpento, nomata Diablo kaj Satano, la trompanto de la tuta mondo; ĝi ĵetiĝis sur la teron, kaj ĝiaj anĝeloj ĵetiĝis kun ĝi.",
     "Kaj mi aŭdis grandan voĉon en la ĉielo, dirantan:Nun fariĝis la savo kaj la potenco kaj la reĝeco de nia Dio, kaj la aŭtoritato de Lia Kristo; ĉar ĵetiĝis malsupren la akuzanto de niaj fratoj, kiu tage kaj nokte akuzas ilin antaŭ nia Dio.",

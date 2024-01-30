@@ -19,7 +19,7 @@ export const chapter30 = {
     "Mi elverŝos Mian koleron sur la Egiptan fortikaĵon Sin, kaj Mi ekstermos la homomulton en No.",
     "Mi ekbruligos fajron en Egiptujo; forte ektremos Sin, No estos trarompita, kaj Nof havos ĉiutagan angoron.",
     "La junuloj de Aven kaj de Pi-Beset falos de glavo, kaj la virinoj iros en forkaptitecon.",
-    "En TaĤpanĤes mallumiĝos la tago, kiam Mi rompos tie la jugon de Egiptujo, kaj malaperos en ĝi la fiereco de ĝia forto; mallumo ĝin kovros, kaj ĝiaj filinoj iros en forkaptitecon.",
+    "En Taĥpanĥes mallumiĝos la tago, kiam Mi rompos tie la jugon de Egiptujo, kaj malaperos en ĝi la fiereco de ĝia forto; mallumo ĝin kovros, kaj ĝiaj filinoj iros en forkaptitecon.",
     "Kaj Mi faros juĝon kontraŭ Egiptujo; kaj oni ekscios, ke Mi estas la Eternulo.",
     "En la dek-unua jaro, en la unua monato, en la sepa tago de la monato, aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo! Mi rompis la brakon de Faraono, reĝo de Egiptujo; kaj jen ĝi ne estas bandaĝita, por resaniĝi, kaj ĝi ne estas ĉirkaŭligita, ke ĝi ricevu forton, por teni glavon.",

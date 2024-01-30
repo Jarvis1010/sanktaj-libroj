@@ -2,7 +2,7 @@ export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Mi atende esperis al la Eternulo, Kaj Li kliniĝis al mi kaj aŭskultis mian krion.",
+    "Al la ĥorestro. Psalmo de David. Mi atende esperis al la Eternulo, Kaj Li kliniĝis al mi kaj aŭskultis mian krion.",
     "Kaj Li eltiris min el la pereiga foso, el la ŝlima marĉo, Kaj Li starigis sur roko mian piedon kaj fortikigis miajn paŝojn.",
     "Kaj Li metis en mian buŝon novan kanton, laŭdon al nia Dio. Multaj tion vidos kaj ektimos,   Kaj ili esperos al la Eternulo.",
     "Feliĉa estas la homo, kiu metis sian esperon sur la Eternulon Kaj ne turnis sin al la fieruloj kaj al la mensogemuloj.",

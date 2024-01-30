@@ -2,7 +2,7 @@ export const chapter61 = {
   chapterTitle: "Ĉapitro 61",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por korda instrumento. De David. Aŭskultu, ho Dio, mian krion;   Atentu mian preĝon.",
+    "Al la ĥorestro. Por korda instrumento. De David. Aŭskultu, ho Dio, mian krion;   Atentu mian preĝon.",
     "De la fino de la tero mi vokas al Vi en la malĝojo de mia koro: Sur rokon tro altan por mi suprenkonduku min.",
     "Ĉar Vi estis mia rifuĝejo, Fortika turo kontraŭ malamiko.",
     "Lasu min loĝi eterne en Via tendo, Havi rifuĝon sub la kovro de Viaj flugiloj.  Sela.",

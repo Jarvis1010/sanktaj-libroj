@@ -12,7 +12,7 @@ export const chapter83 = {
     "Ankaŭ Asirio aliĝis al ili Kaj fariĝis helpo al la idoj de Lot.  Sela.",
     "Faru al ili, kiel al Midjan, Kiel al Sisera, kiel al Jabin ĉe la torento Kiŝon,",
     "Kiuj estis ekstermitaj en En-Dor Kaj fariĝis sterko por la tero.",
-    "Agu kun iliaj princoj kiel kun Oreb kaj Zeeb, Kaj kun ĉiuj iliaj estroj kiel kun ZebaĤ kaj Calmuna,",
+    "Agu kun iliaj princoj kiel kun Oreb kaj Zeeb, Kaj kun ĉiuj iliaj estroj kiel kun Zebaĥ kaj Calmuna,",
     "Kiuj diris:Ni ekposedu la loĝejon de Dio!",
     "Ho mia Dio, similigu ilin al turniĝanta polvo, Al pajlrestaĵo antaŭ vento.",
     "Kiel fajro bruligas arbaron, Kaj kiel flamo bruldezertigas montojn,",

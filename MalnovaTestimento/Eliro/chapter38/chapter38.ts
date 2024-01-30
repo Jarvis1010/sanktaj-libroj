@@ -24,7 +24,7 @@ export const chapter38 = {
     "Kaj ĉiuj najloj en la tabernaklo kaj en la korto ĉirkaŭe estis el kupro.",
     "Jen estas la kalkulo pri la tabernaklo, la tabernaklo de atesto, kiu estis kalkulita laŭ la ordono de Moseo, por la servo de la Levidoj, sub la kontrolo de Itamar, filo de la pastro Aaron.",
     "Kaj Becalel, filo de Uri, filo de ĥur, el la tribo de Jehuda, faris ĉion, kion ordonis la Eternulo al Moseo;",
-    "kaj kun li Oholiab, filo de AĤisamaĤ, el la tribo de Dan, artista skulptisto, teksisto, kaj brodisto sur blua, purpura, kaj ruĝa teksaĵo, kaj sur bisino.",
+    "kaj kun li Oholiab, filo de Aĥisamaĥ, el la tribo de Dan, artista skulptisto, teksisto, kaj brodisto sur blua, purpura, kaj ruĝa teksaĵo, kaj sur bisino.",
     "La tuta oro, kiu estis uzita por ĉiuj laboroj de la sanktejo, la oro, kiu estis alportita kiel oferdonoj, prezentis la kvanton de dudek naŭ kikaroj kaj sepcent tridek sikloj laŭ la mezuro de la sankta siklo.",
     "Kaj la arĝento, akirita per la kalkulado de la komunumo, prezentis la kvanton de cent kikaroj kaj mil sepcent sepdek kvin sikloj laŭ la sankta siklo:",
     "po unu bek�o, tio estas po duono de siklo laŭ la sankta siklo, por ĉiu kapo, de ĉiuj, kiuj trapasis la kalkulon, kiuj havis la aĝon de dudek jaroj kaj pli, de sescent tri mil kvincent kvindek homoj.",

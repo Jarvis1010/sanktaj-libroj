@@ -2,7 +2,7 @@ export const chapter76 = {
   chapterTitle: "Ĉapitro 76",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por kordaj instrumentoj. Psalmo de Asaf. Kanto. Dio estas konata en Judujo; Granda estas Lia nomo en Izrael.",
+    "Al la ĥorestro. Por kordaj instrumentoj. Psalmo de Asaf. Kanto. Dio estas konata en Judujo; Granda estas Lia nomo en Izrael.",
     "En Salem estas Lia tendo, Kaj Lia loĝejo sur Cion.",
     "Tie Li rompis la sagojn de pafarko, Ŝildon, glavon, kaj militon.  Sela.",
     "Vi estas majesta kaj potenca sur la sovaĝbestaj montoj.",

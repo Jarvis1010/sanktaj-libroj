@@ -26,7 +26,7 @@ export const chapter2 = {
     "Vi vidas, ke la fido kunagis kun liaj faroj, kaj per faroj la fido perfektiĝis;",
     "kaj plenumiĝis la Skribo, kiu diras:Kaj Abraham kredis al Dio, kaj tio estis kalkulita al li kiel virto; kaj li estis nomita:amiko de Dio.",
     "Vi vidas, ke homo praviĝas per faroj, kaj ne sole per fido.",
-    "Tiel same, ĉu ankaŭ la malĉastistino RaĤab ne praviĝis per faroj, kiam ŝi akceptis la senditojn kaj forsendis ilin per alia vojo?",
+    "Tiel same, ĉu ankaŭ la malĉastistino Raĥab ne praviĝis per faroj, kiam ŝi akceptis la senditojn kaj forsendis ilin per alia vojo?",
     "Ĉar kiel la korpo aparte de la spirito estas malviva, tiel ankaŭ fido aparte de faroj estas malviva.",
   ],
 } as const satisfies Chapter;

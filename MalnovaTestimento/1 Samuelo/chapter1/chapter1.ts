@@ -2,9 +2,9 @@ export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
-    "Estis unu viro el Ramataim-Cofim, de la monto de Efraim; lia nomo estis Elkana, filo de JeroĤam, filo de Elihu, filo de ToĤu, filo de Cuf, Efratano.",
+    "Estis unu viro el Ramataim-Cofim, de la monto de Efraim; lia nomo estis Elkana, filo de Jeroĥam, filo de Elihu, filo de Toĥu, filo de Cuf, Efratano.",
     "Li havis du edzinojn; la nomo de unu estis ĥana, kaj la nomo de la dua estis Penina. Penina havis infanojn, sed ĥana ne havis infanojn.",
-    "Tiu viro ĉiujare iradis el sia urbo, por adorkliniĝi kaj fari oferon al la Eternulo Cebaot en Ŝilo; kaj tie ĥofni kaj PineĤas, du filoj de Eli, estis pastroj de la Eternulo.",
+    "Tiu viro ĉiujare iradis el sia urbo, por adorkliniĝi kaj fari oferon al la Eternulo Cebaot en Ŝilo; kaj tie ĥofni kaj Pineĥas, du filoj de Eli, estis pastroj de la Eternulo.",
     "Unu tagon Elkana faris oferon, kaj li donis al sia edzino Penina kaj al ĉiuj ŝiaj filoj kaj filinoj partojn;",
     "kaj al ĥana li kun malĝojo donis unu parton, ĉar ĥanan li amis, sed la Eternulo ŝlosis ŝian uteron.",
     "Kaj ŝia konkurantino afliktis ŝin kaj tre incitis ŝin kaŭze de tio, ke la Eternulo ŝlosis ŝian uteron.",

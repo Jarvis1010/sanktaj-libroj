@@ -31,7 +31,7 @@ export const chapter10 = {
     "Kaj li responde diris:Amu la Eternulon, vian Dion, per via tuta koro kaj per via tuta animo kaj per via tuta forto kaj per via tuta menso, kaj vian proksimulon kiel vin mem.",
     "Kaj li diris al li:Vi prave respondis; tion faru, kaj vi vivos.",
     "Sed li, dezirante pravigi sin, diris al Jesuo:Kaj kiu estas mia proksimulo?",
-    "Jesuo respondis kaj diris:Unu homo malsupreniris de Jerusalem al JeriĤo; kaj li falis en la manojn de rabistoj, kiuj lin senvestigis kaj batis, kaj foriris, lasante lin duone senviva.",
+    "Jesuo respondis kaj diris:Unu homo malsupreniris de Jerusalem al Jeriĥo; kaj li falis en la manojn de rabistoj, kiuj lin senvestigis kaj batis, kaj foriris, lasante lin duone senviva.",
     "Kaj laŭ okazo unu pastro malsupreniris la saman vojon; kaj lin vidinte, li preterpasis aliflanke.",
     "Kaj tiel same unu Levido, veninte al la loko kaj lin vidinte, preterpasis aliflanke.",
     "Sed unu Samariano, vojaĝante, alvenis tien, kie li estis, kaj lin ekvidinte, li kortuŝiĝis,",

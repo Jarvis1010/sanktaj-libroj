@@ -10,7 +10,7 @@ export const chapter6 = {
     "Ĉar Mi deziras bonfaradon, sed ne oferon, kaj konadon de Dio Mi preferas ol bruloferojn.",
     "Sed ili rompis la interligon, kiel Adam, kaj ili defalis de Mi.",
     "Gilead estas urbo de malbonaguloj, makulita de sango.",
-    "Kiel bando da embuskantoj la anaro de la pastroj pereigas tiujn, kiuj iras al ŜeĤem; abomenindaĵon ili faras.",
+    "Kiel bando da embuskantoj la anaro de la pastroj pereigas tiujn, kiuj iras al Ŝeĥem; abomenindaĵon ili faras.",
     "En la domo de Izrael Mi vidas teruraĵon:tie malĉastas Efraim, malpuriĝas Izrael.",
     "Sed ankaŭ Jehuda havos rikolton, kiam Mi revenigos la forkaptitojn de Mia popolo.",
   ],

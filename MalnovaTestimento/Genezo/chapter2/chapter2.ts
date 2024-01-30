@@ -14,7 +14,7 @@ export const chapter2 = {
     "Kaj rivero eliras el Eden, por akvoprovizi la ĝardenon, kaj de tie ĝi dividiĝas kaj fariĝas kvar ĉefpartoj.",
     "La nomo de unu estas Piŝon; ĝi estas tiu, kiu ĉirkaŭas la tutan landon ĥavila, kie estas la oro.",
     "Kaj la oro de tiu lando estas bona; tie troviĝas bedelio kaj la ŝtono onikso.",
-    "Kaj la nomo de la dua rivero estas GiĤon; ĝi estas tiu, kiu ĉirkaŭas la tutan landon Etiopujo.",
+    "Kaj la nomo de la dua rivero estas Giĥon; ĝi estas tiu, kiu ĉirkaŭas la tutan landon Etiopujo.",
     "Kaj la nomo de la tria rivero estas ĥidekel; ĝi estas tiu, kiu fluas antaŭ Asirio. Kaj la kvara rivero estas Eŭfrato.",
     "Kaj Dio la Eternulo prenis la homon kaj enloĝigis lin en la ĝardeno Edena, por ke li prilaboradu ĝin kaj gardu ĝin.",
     "Kaj Dio la Eternulo ordonis al la homo, dirante: De ĉiu arbo de la ĝardeno vi manĝu;",

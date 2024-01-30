@@ -2,7 +2,7 @@ export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. La ĉieloj rakontas la gloron de Dio, Kaj la farojn de Liaj manoj raportas la ĉiela firmaĵo.",
+    "Al la ĥorestro. Psalmo de David. La ĉieloj rakontas la gloron de Dio, Kaj la farojn de Liaj manoj raportas la ĉiela firmaĵo.",
     "Tago al tago transdonas diron, Kaj nokto al nokto faras sciigon.",
     "Sen parolo kaj sen vortoj; Oni ne aŭdas ilian voĉon.",
     "Tra la tuta mondo iras ilia ordono, Kaj ĝis la fino de la universo iras iliaj vortoj;   Por la suno Li aranĝis tendon inter ili.",

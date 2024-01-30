@@ -20,7 +20,7 @@ export const chapter21 = {
     "Kaj la plejaĝuloj de la komunumo diris:Kion ni faru al la restintoj koncerne edzinojn? ekstermitaj estas ja la virinoj de Benjamen.",
     "Kaj ili diris:La restintoj el la Benjamenidoj bezonas ja heredontojn, por ke ne malaperu tribo el Izrael;",
     "kaj ni ne povas doni al ili edzinojn el niaj filinoj, ĉar la Izraelidoj ĵuris, dirante:Malbenita estu tiu, kiu donos edzinon al Benjamenido.",
-    "Sed ili diris:Jen ĉiujare estas festo de la Eternulo en Ŝilo, kiu estas norde de Bet-El, oriente de la vojo, kiu kondukas de Bet-El al ŜeĤem, kaj sude de Lebona.",
+    "Sed ili diris:Jen ĉiujare estas festo de la Eternulo en Ŝilo, kiu estas norde de Bet-El, oriente de la vojo, kiu kondukas de Bet-El al Ŝeĥem, kaj sude de Lebona.",
     "Kaj ili ordonis al la Benjamenidoj jene:Iru kaj faru insidon en la vinberĝardenoj;",
     "kaj kiam vi vidos, ke la knabinoj de Ŝilo eliras, por danci en rondoj, tiam eliru el la vinberĝardenoj kaj kaptu al vi ĉiu edzinon el la knabinoj de Ŝilo kaj iru en la landon de la Benjamenidoj.",
     "Kaj se venos iliaj patroj aŭ fratoj kun plendo al ni, ni diros al ili:Pardonu nin pro ili; ĉar ni ne prenis por ĉiu edzinon en la milito, kaj vi ne donis al ili; tial vi estas nun senkulpaj.",

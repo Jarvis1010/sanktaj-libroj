@@ -36,7 +36,7 @@ export const chapter23 = {
     "Vi do plenigu la mezuron de viaj patroj.",
     "Serpentoj, vipuridoj! kiel vi povos eviti la juĝon de Gehena?",
     "Jen do mi sendas al vi profetojn kaj saĝulojn kaj skribistojn; iujn el ili vi mortigos kaj krucumos, kaj aliajn el ili vi skurĝos en viaj sinagogoj kaj persekutos de urbo al urbo;",
-    "por ke venu sur vin la tuta justa sango elverŝita sur la teron, de la sango de la justulo Habel ĝis la sango de ZeĤarja, filo de BereĤja, kiun vi mortigis inter la sanktejo kaj la altaro.",
+    "por ke venu sur vin la tuta justa sango elverŝita sur la teron, de la sango de la justulo Habel ĝis la sango de Zeĥarja, filo de Bereĥja, kiun vi mortigis inter la sanktejo kaj la altaro.",
     "Vere mi diras al vi:Ĉio tio venos sur ĉi tiun generacion.",
     "Ho Jerusalem, Jerusalem, kiu mortigas la profetojn, kaj priĵetas per ŝtonoj tiujn, kiuj estas senditaj al ĝi! kiom ofte mi volis kolekti viajn infanojn, kiel kokino kolektas sian idaron sub la flugilojn, kaj vi ne volis.",
     "Jen via domo estas lasita al vi dezerta.",

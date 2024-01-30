@@ -21,10 +21,10 @@ export const chapter22 = {
     "tial Mi benos vin kaj Mi multigos vian idaron simile al la steloj de la ĉielo kaj al la sablo sur la bordo de la maro; kaj via idaro posedos la pordegojn de siaj malamikoj.",
     "Kaj beniĝos per via idaro ĉiuj popoloj de la tero, pro tio, ke vi obeis Mian voĉon.",
     "Kaj Abraham revenis al siaj junuloj, kaj ili leviĝis kaj iris kune al Beer-Ŝeba; kaj Abraham loĝis en Beer-Ŝeba.",
-    "Post tiuj okazintaĵoj oni sciigis al Abraham, dirante: Jen ankaŭ Milka naskis infanojn al via frato NaĤor:",
+    "Post tiuj okazintaĵoj oni sciigis al Abraham, dirante: Jen ankaŭ Milka naskis infanojn al via frato Naĥor:",
     "la unuenaskiton Uc, kaj lian fraton Buz, kaj Kemuelon, la patron de Aram;",
     "kaj Kesedon kaj ĥazon kaj Pildaŝon kaj Jidlafon kaj Betuelon.",
-    "Kaj de Betuel naskiĝis Rebeka. Ĉi tiujn ok naskis Milka al NaĤor, la frato de Abraham.",
-    "Kaj lia kromvirino, nome Reuma, ankaŭ naskis: TebaĤon kaj GaĤamon kaj TaĤaŝon kaj MaaĤan.",
+    "Kaj de Betuel naskiĝis Rebeka. Ĉi tiujn ok naskis Milka al Naĥor, la frato de Abraham.",
+    "Kaj lia kromvirino, nome Reuma, ankaŭ naskis: Tebaĥon kaj Gaĥamon kaj Taĥaŝon kaj Maaĥan.",
   ],
 } as const satisfies Chapter;

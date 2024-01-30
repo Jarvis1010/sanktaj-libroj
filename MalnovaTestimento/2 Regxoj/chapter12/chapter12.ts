@@ -19,9 +19,9 @@ export const chapter12 = {
     "Oni ne postulis kalkulan raporton de tiuj homoj, en kies manojn oni donis la monon, por transdoni al la farantoj de la laboroj, sed ili laboris konfidate.",
     "La monon de kulpofero kaj la monon de pekofero oni ne enportadis en la domon de la Eternulo:ĝi estis por la pastroj.",
     "En tiu tempo ekiris ĥazael, reĝo de Sirio, kaj ekmilitis kontraŭ Gat kaj venkoprenis ĝin; kaj ĥazael intencis iri kontraŭ Jerusalemon.",
-    "Tiam Jehoaŝ, reĝo de Judujo, prenis la tutan sanktigitaĵon, kiun sanktigis Jehoŝafat kaj Jehoram kaj AĤazja, liaj patroj, reĝoj de Judujo, kaj tion, kion li mem sanktigis, kaj la tutan oron, kiu troviĝis en la trezorejoj de la domo de la Eternulo kaj de la reĝa domo, kaj li sendis tion al ĥazael, reĝo de Sirio, kaj ĉi tiu foriris de Jerusalem.",
+    "Tiam Jehoaŝ, reĝo de Judujo, prenis la tutan sanktigitaĵon, kiun sanktigis Jehoŝafat kaj Jehoram kaj Aĥazja, liaj patroj, reĝoj de Judujo, kaj tion, kion li mem sanktigis, kaj la tutan oron, kiu troviĝis en la trezorejoj de la domo de la Eternulo kaj de la reĝa domo, kaj li sendis tion al ĥazael, reĝo de Sirio, kaj ĉi tiu foriris de Jerusalem.",
     "La cetera historio de Joaŝ, kaj ĉio, kion li faris, estas priskribitaj en la libro de kroniko de la reĝoj de Judujo.",
     "Liaj servantoj leviĝis kaj faris konspiron, kaj mortigis Joaŝon en la domo Milo, sur la vojo al Sila.",
-    "JozaĤar, filo de Ŝimeat, kaj Jehozabad, filo de Ŝomer, liaj servantoj, frapis lin, kaj li mortis. Kaj oni enterigis lin kun liaj patroj en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Amacja.",
+    "Jozaĥar, filo de Ŝimeat, kaj Jehozabad, filo de Ŝomer, liaj servantoj, frapis lin, kaj li mortis. Kaj oni enterigis lin kun liaj patroj en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Amacja.",
   ],
 } as const satisfies Chapter;

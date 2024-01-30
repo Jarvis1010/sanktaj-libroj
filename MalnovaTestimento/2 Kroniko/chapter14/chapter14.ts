@@ -10,7 +10,7 @@ export const chapter14 = {
     "Li konstruis urbojn fortikigitajn en Judujo; la lando estis trankvila, kaj li ne havis militon en tiuj jaroj, ĉar la Eternulo donis al li ripozon.",
     "Kaj li diris al la Judoj:Ni prikonstruu ĉi tiujn urbojn, ni ĉirkaŭigu ilin per muregoj kaj turoj, pordoj, kaj rigliloj. La lando estas ankoraŭ nia, ĉar ni turnis nin al la Eternulo, nia Dio; ni turnis nin, kaj Li donis al ni trankvilecon ĉirkaŭe. Kaj ili konstruis, kaj la afero iris sukcese.",
     "Kaj Asa havis militistaron:da viroj armitaj per ŝildo kaj lanco el la Jehudaidoj tricent mil, kaj el la Benjamenidoj da viroj portantaj manŝildon kaj pafantaj per pafarko estis ducent okdek mil; ĉiuj ili estis bravaj militistoj.",
-    "Eliris kontraŭ ilin ZeraĤ, la Etiopo, kun militistaro de unu miliono kaj kun tricent ĉaroj, kaj li venis ĝis Mareŝa.",
+    "Eliris kontraŭ ilin Zeraĥ, la Etiopo, kun militistaro de unu miliono kaj kun tricent ĉaroj, kaj li venis ĝis Mareŝa.",
     "Kaj eliris Asa renkonte al li, kaj ili aranĝiĝis al batalo en la valo Cefata, apud Mareŝa.",
     "Kaj Asa ekvokis al la Eternulo, sia Dio, kaj diris:Ho Eternulo, por Vi ne estas diferenco helpi al grandnombrulo aŭ al senfortulo; helpu do al ni, ho Eternulo, nia Dio, ĉar sur Vi ni nin apogas kaj en Via nomo ni venis kontraŭ ĉi tiun grandan anaron. Ho Eternulo, Vi estas nia Dio; kontraŭ Vi neniu homo montriĝu forta.",
     "Kaj la Eternulo frapis la Etiopojn antaŭ Asa kaj antaŭ la Judoj, kaj la Etiopoj forkuris.",

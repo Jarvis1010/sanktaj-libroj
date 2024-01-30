@@ -3,8 +3,8 @@ export const chapter38 = {
   summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
-    "Ho filo de homo, turnu vian vizaĝon al Gog, en la lando Magog, ĉefa princo de MeŝeĤ kaj Tubal, kaj profetu pri li;",
-    "kaj diru:Tiele diras la Sinjoro, la Eternulo:Jen Mi iras kontraŭ vin, ho Gog, ĉefa princo de MeŝeĤ kaj Tubal.",
+    "Ho filo de homo, turnu vian vizaĝon al Gog, en la lando Magog, ĉefa princo de Meŝeĥ kaj Tubal, kaj profetu pri li;",
+    "kaj diru:Tiele diras la Sinjoro, la Eternulo:Jen Mi iras kontraŭ vin, ho Gog, ĉefa princo de Meŝeĥ kaj Tubal.",
     "Kaj Mi vagigos vin, Mi metos buŝbridaĵon en vian buŝon, kaj Mi elirigos vin kaj vian tutan militistaron, ĉevalojn kaj rajdistojn, ĉiujn en belegaj vestoj, grandan anaron, en kirasoj kaj kun ŝildoj, kun glavo en la mano;",
     "Persojn, Etiopojn, kaj Putidojn, ĉiujn kun ŝildoj kaj kaskoj;",
     "Gomeron kun ĉiuj ĝiaj taĉmentoj, la domon de Togarma, de la nordaj randoj, kun ĉiuj ĝiaj taĉmentoj; multaj popoloj estos kun vi.",

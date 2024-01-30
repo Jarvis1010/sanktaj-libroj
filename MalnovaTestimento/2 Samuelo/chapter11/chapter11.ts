@@ -22,7 +22,7 @@ export const chapter11 = {
     "Joab sendis kaj raportigis al David ĉiujn cirkonstancojn de la batalo.",
     "Kaj al la sendito li donis jenan ordonon:Kiam vi finos raporti al la reĝo ĉiujn cirkonstancojn de la batalo,",
     "kaj la reĝo ekkoleros, kaj diros:Kial vi alproksimiĝis al la urbo, por batali? ĉu vi ne sciis, ke oni pafos de la muro?",
-    "kiu mortigis AbimeleĤon, filon de Jerubeŝet? ĉu ne virino ĵetis sur lin de la muro muelŝtonon, ke li mortis en Tebec? kial vi alproksimiĝis al la muro? tiam diru:Ankaŭ via servanto Urija, la ĥetido, mortis.",
+    "kiu mortigis Abimeleĥon, filon de Jerubeŝet? ĉu ne virino ĵetis sur lin de la muro muelŝtonon, ke li mortis en Tebec? kial vi alproksimiĝis al la muro? tiam diru:Ankaŭ via servanto Urija, la ĥetido, mortis.",
     "La sendito iris, kaj venis kaj raportis al David ĉion, por kio sendis lin Joab.",
     "Kaj la sendito diris al David:Kiam tiuj homoj montriĝis pli fortaj ol ni kaj eliris kontraŭ nin sur la kampon, ni komencis premi ilin al la enirejo en la pordegon;",
     "tiam la pafistoj pafis sur viajn servantojn de sur la muro, kaj pereis kelkaj el la servantoj de la reĝo, kaj ankaŭ via servanto Urija, la ĥetido, mortis.",

@@ -10,6 +10,6 @@ export const chapter27 = {
     "Jotam fariĝis potenca, ĉar li bone aranĝis siajn vojojn antaŭ la Eternulo, sia Dio.",
     "La cetera historio de Jotam, ĉiuj liaj militoj kaj liaj vojoj, estas priskribitaj en la libro de la reĝoj de Izrael kaj Judujo.",
     "La aĝon de dudek kvin jaroj li havis, kiam li fariĝis reĝo, kaj dek ses jarojn li reĝis en Jerusalem.",
-    "Kaj Jotam ekdormis kun siaj patroj, kaj oni enterigis lin en la urbo de David. Kaj anstataŭ li ekreĝis lia filo AĤaz.",
+    "Kaj Jotam ekdormis kun siaj patroj, kaj oni enterigis lin en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Aĥaz.",
   ],
 } as const satisfies Chapter;

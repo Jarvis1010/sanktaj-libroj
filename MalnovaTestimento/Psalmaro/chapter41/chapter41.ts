@@ -2,7 +2,7 @@ export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Psalmo de David. Feliĉa estas tiu, kiu atentas senhavulon: En tago de mizero savos lin la Eternulo.",
+    "Al la ĥorestro. Psalmo de David. Feliĉa estas tiu, kiu atentas senhavulon: En tago de mizero savos lin la Eternulo.",
     "La Eternulo lin gardos kaj vivigos; Li estos feliĉa sur la tero,   Kaj Vi ne transdonos lin al la volo de liaj malamikoj.",
     "La Eternulo fortigos lin sur la lito de malsano; Lian tutan kuŝejon Vi aliigas en la tempo de lia malsano.",
     "Mi diris:Ho Eternulo, kompatu min; Sanigu mian animon, ĉar mi pekis antaŭ Vi.",

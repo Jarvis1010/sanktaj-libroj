@@ -31,7 +31,7 @@ export const chapter106 = {
     "Kaj por disfaligi ilian semon inter la popoloj, Kaj disĵeti ilin en la landojn.",
     "Kaj ili aliĝis al Baal-Peor, Kaj manĝis oferricevojn de malvivuloj.",
     "Kaj ili kolerigis Lin per siaj faroj; Kaj disvastiĝis inter ili epidemio.",
-    "Kaj stariĝis PineĤas kaj aranĝis juĝon; Kaj la epidemio haltis.",
+    "Kaj stariĝis Pineĥas kaj aranĝis juĝon; Kaj la epidemio haltis.",
     "Kaj tio estas kalkulita al li kiel bonfaro, Por ĉiuj generacioj kaj eterne.",
     "Kaj ili kolerigis Lin ĉe la akvo de Meriba, Kaj pro ili fariĝis malbono al Moseo;",
     "Ĉar ili maldolĉigis lian spiriton, Kaj li eldiris ion nepripensitan per sia buŝo.",

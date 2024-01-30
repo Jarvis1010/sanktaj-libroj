@@ -7,7 +7,7 @@ export const chapter12 = {
     "Kaj Mi benos viajn benantojn, kaj viajn malbenantojn Mi malbenos, kaj beniĝos per vi ĉiuj gentoj de la tero.",
     "Kaj Abram iris, kiel la Eternulo diris al li, kaj kun li iris Lot. Kaj Abram havis la aĝon de sepdek kvin jaroj, kiam li eliris el ĥaran.",
     "Kaj Abram prenis sian edzinon Saraj kaj sian nevon Lot, kaj ilian tutan havon, kiun ili akiris, kaj la homojn, kiujn ili akiris en ĥaran; kaj ili eliris, por iri al la lando Kanaana; kaj ili venis en la landon Kanaanan.",
-    "Kaj Abram trapasis la landon ĝis la loko ŜeĤem, ĝis la kverko More; kaj la Kanaanidoj tiam loĝis en la lando.",
+    "Kaj Abram trapasis la landon ĝis la loko Ŝeĥem, ĝis la kverko More; kaj la Kanaanidoj tiam loĝis en la lando.",
     "Kaj la Eternulo aperis al Abram, kaj diris: Al via idaro Mi donos ĉi tiun teron. Kaj li konstruis tie altaron al la Eternulo, kiu aperis al li.",
     "Kaj de tie li transloĝiĝis al la monto, kiu estas oriente de Bet-El, kaj aranĝis sian tendon tiamaniere, ke Bet-El estis okcidente kaj Aj oriente; kaj li konstruis tie altaron al la Eternulo kaj preĝadis al la Eternulo.",
     "Kaj Abram iris pluen, ĉiam pluen al sudo.",

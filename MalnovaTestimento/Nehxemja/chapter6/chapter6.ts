@@ -19,7 +19,7 @@ export const chapter6 = {
     "La murego estis finita en la dudek-kvina tago de la monato Elul, en la daŭro de kvindek du tagoj.",
     "Kiam tion aŭdis ĉiuj niaj malamikoj, kaj vidis ĉiuj nacioj, kiuj estis ĉirkaŭ ni, ili multe perdis la kuraĝon; ĉar ili komprenis, ke tiu laboro estas farita de nia Dio.",
     "Krom tio, en tiuj tagoj la eminentuloj el la Judoj skribis multe da leteroj al Tobija, kaj leteroj de Tobija venis al ili;",
-    "ĉar multaj el la Judoj estis en ĵura ligo kun li, ĉar li estis bofilo de ŜeĤanja, filo de AraĤ, kaj lia filo JehoĤanan prenis por edzino filinon de Meŝulam, filo de BereĤja.",
+    "ĉar multaj el la Judoj estis en ĵura ligo kun li, ĉar li estis bofilo de Ŝeĥanja, filo de Araĥ, kaj lia filo Jehoĥanan prenis por edzino filinon de Meŝulam, filo de Bereĥja.",
     "Ili ankaŭ paroladis bone pri li antaŭ mi, kaj miajn vortojn ili transdonadis al li. Tobija sendis leterojn, por timigi min.",
   ],
 } as const satisfies Chapter;

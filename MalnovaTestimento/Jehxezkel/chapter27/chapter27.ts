@@ -14,7 +14,7 @@ export const chapter27 = {
     "Persoj, Ludidoj, kaj Putidoj estis en via armeo, kiel viaj militistoj, pendigis ĉe vi siajn ŝildojn kaj kaskojn, kaj estis via beleco.",
     "La filoj de Arvad kaj via militistaro staris sur viaj muregoj ĉirkaŭe kaj estis gardistoj sur viaj turoj; siajn ŝildojn ili pendigis ĉirkaŭe sur viaj muregoj, kaj ili perfektigis vian belecon.",
     "Tarŝiŝ komercis kun vi per multo da diversaj valoraĵoj; arĝenton, feron, stanon, kaj plumbon ĝi alportadis al via komercejo.",
-    "Javan, Tubal, kaj MeŝeĤ komercis kun vi, alportante al vi kiel komercaĵojn homajn animojn kaj kuprajn vazojn.",
+    "Javan, Tubal, kaj Meŝeĥ komercis kun vi, alportante al vi kiel komercaĵojn homajn animojn kaj kuprajn vazojn.",
     "El Togarma oni alportadis al via komercejo ĉevalojn, rajdoĉevalojn, kaj mulojn.",
     "La filoj de Dedan komercis kun vi; sur multaj insuloj estis viaj komercaĵoj; eburon kaj ebonon ili vendadis al vi siaflanke.",
     "Sirio prenadis de vi komerce la multon de viaj faritaĵoj; rubenojn, purpurajn kaj broditajn ŝtofojn, delikatan tolon, koralojn, kaj kristalojn ili alportadis al via komercejo.",

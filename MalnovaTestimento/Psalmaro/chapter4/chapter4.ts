@@ -2,7 +2,7 @@ export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
   summary: "",
   verses: [
-    "Al la Ĥorestro. Por kordaj instrumentoj. Psalmo de David. Kiam mi vokas, respondu al mi, justa mia Dio! En premo Vi liberigas min;   Korfavoru min, kaj aŭskultu mian preĝon.",
+    "Al la ĥorestro. Por kordaj instrumentoj. Psalmo de David. Kiam mi vokas, respondu al mi, justa mia Dio! En premo Vi liberigas min;   Korfavoru min, kaj aŭskultu mian preĝon.",
     "Homidoj, ĝis kiam mia honoro estos malhonorata? Ĝis kiam vi amos vantaĵon kaj celos malveron? Sela.",
     "Sciu do, ke la Eternulo apartigis la piulon por Si; La Eternulo aŭdas, kiam mi vokas al Li.",
     "Tremu, kaj ne peku; Meditu en viaj koroj, sur viaj kuŝejoj, kaj estu fortikanimaj.  Sela.",

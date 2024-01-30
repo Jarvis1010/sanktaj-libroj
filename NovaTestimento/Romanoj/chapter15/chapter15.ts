@@ -27,7 +27,7 @@ export const chapter15 = {
     "sed jam ne havante lokon en ĉi tiuj regionoj, kaj dum multe da jaroj sopirante veni al vi,",
     "kiam mi veturos al Hispanujo, mi venos al vi (ĉar mi esperas vin viziti travojaĝante, kaj esti helpata de vi sur la vojo, se antaŭe mi estos sufiĉe gastinta ĉe vi);",
     "sed nun mi veturas al Jerusalem, farante servon al la sanktuloj.",
-    "Ĉar Makedonujo kaj la AĤaja lando volonte decidis fari monoferon por la neriĉaj sanktuloj en Jerusalem.",
+    "Ĉar Makedonujo kaj la Aĥaja lando volonte decidis fari monoferon por la neriĉaj sanktuloj en Jerusalem.",
     "Volonte ili decidis, estante iliaj ŝuldantoj. Ĉar se la nacianoj partoprenas en iliaj spiritaj aferoj, tiuj siavice devas servi al ili ankaŭ en materiaj aferoj.",
     "Tial, plenuminte ĉi tion, kaj sigelinte por ili ĉi tiun frukton, mi ekiros Hispanujon, kaj vizitos vin survoje.",
     "Kaj mi scias, ke venante al vi, mi venos en la pleneco de la beno de Kristo.",

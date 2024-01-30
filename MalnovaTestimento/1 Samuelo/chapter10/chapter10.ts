@@ -3,7 +3,7 @@ export const chapter10 = {
   summary: "",
   verses: [
     "Tiam Samuel prenis kruĉeton kun oleo kaj verŝis sur lian kapon, kaj kisis lin, kaj diris:Vidu, la Eternulo sanktoleis vin kiel ĉefon super Sia heredaĵo.",
-    "Kiam vi hodiaŭ foriros de mi, vi trovos ĉe la tombo de RaĤel, en la regiono de Benjamen, en CelcaĤ, du homojn, kiuj diros al vi:Estas trovitaj la azeninoj, kiujn vi iris serĉi, kaj jen via patro ĉesis pensi pri la azeninoj, kaj estas maltrankvila pri vi, dirante:Kion mi faru koncerne mian filon?",
+    "Kiam vi hodiaŭ foriros de mi, vi trovos ĉe la tombo de Raĥel, en la regiono de Benjamen, en Celcaĥ, du homojn, kiuj diros al vi:Estas trovitaj la azeninoj, kiujn vi iris serĉi, kaj jen via patro ĉesis pensi pri la azeninoj, kaj estas maltrankvila pri vi, dirante:Kion mi faru koncerne mian filon?",
     "Kaj kiam vi foriros de tie pluen kaj venos al la kverko de Tabor, renkontos vin tie tri homoj, irantaj al Dio en Bet-Elon; unu portas tri kapridojn, la dua portas tri bulojn da pano, kaj la tria portas felsakon da vino.",
     "Kaj ili salutos vin, kaj donos al vi du panojn; kaj vi prenu el iliaj manoj.",
     "Poste vi venos al la monteto de Dio, kie estas garnizono de la Filiŝtoj; kaj kiam vi tie eniros en la urbon, vi renkontos grupon da profetoj, irantaj malsupren de la altaĵo, kaj antaŭ ili psalteron, tamburinon, fluton, kaj harpon, kaj ili profetas.",

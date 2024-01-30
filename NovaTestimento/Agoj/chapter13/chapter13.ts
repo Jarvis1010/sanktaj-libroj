@@ -2,7 +2,7 @@ export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
   summary: "",
   verses: [
-    "Kaj en AntioĤia, en la tiea eklezio, estis profetoj kaj instruistoj, Barnabas, kaj Simeon, nomata Niger, kaj Lucio, la Kirenano, kaj Manaen,  kunvartito de la tetrarĤo Herodo, kaj Saŭlo.",
+    "Kaj en Antioĥia, en la tiea eklezio, estis profetoj kaj instruistoj, Barnabas, kaj Simeon, nomata Niger, kaj Lucio, la Kirenano, kaj Manaen,  kunvartito de la tetrarĥo Herodo, kaj Saŭlo.",
     "Kaj dum ili faris servon al la Sinjoro kaj fastis, la Sankta Spirito diris:Apartigu al mi Barnabason kaj Saŭlon por tiu laboro, al kiu mi ilin vokis.",
     "Tiam, fastinte kaj preĝinte kaj metinte sur ilin la manojn, ili forsendis ilin.",
     "Kaj ĉi tiuj, forkondukite de la Sankta Spirito, malsupreniris al Seleŭkia; kaj de tie ili ŝipiris al Kipro.",
@@ -15,7 +15,7 @@ export const chapter13 = {
     "Kaj nun jen la mano de la Sinjoro estas sur vi, kaj vi estos blinda, ne vidante la sunon dum kelka tempo. Kaj tuj falis sur lin nebulo kaj mallumo, kaj ĉirkaŭvagante, li serĉis mankondukantojn.",
     "Tiam la prokonsulo, vidinte la okazintaĵon, kredis, mirigite de la instruado de la Sinjoro.",
     "Sed Paŭlo kaj liaj akompanantoj ekŝipiris de Pafos kaj venis al Perga en Pamfilio; kaj Johano forlasis ilin kaj reiris al Jerusalem.",
-    "Sed ili, trapasante de Perga venis al AntioĤia en Pisidio; kaj en la sabato ili eniris en la sinagogon, kaj sidiĝis.",
+    "Sed ili, trapasante de Perga venis al Antioĥia en Pisidio; kaj en la sabato ili eniris en la sinagogon, kaj sidiĝis.",
     "Kaj post la legado de la leĝo kaj la profetoj, la sinagogestroj sendis al ili, dirante:Fratoj, se estas ĉe vi vorto de admono por la popolo, parolu.",
     "Kaj Paŭlo, stariĝinte kaj gestinte per la mano, diris: Izraelidoj, kaj vi, kiuj timas Dion, aŭskultu.",
     "La Dio de ĉi tiu popolo Izrael elektis niajn patrojn, kaj altigis la popolon dum la loĝado en Egiptujo, kaj per alta brako elkondukis ilin el tie.",

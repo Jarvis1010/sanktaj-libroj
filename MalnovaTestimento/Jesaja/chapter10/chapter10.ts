@@ -29,7 +29,7 @@ export const chapter10 = {
     "ĉar ankoraŭ tre malmulte daŭros, kaj finiĝos la kolero kaj Mia furiozo pro iliaj malbonagoj;",
     "kaj la Eternulo Cebaot aperigos vipon super li, kiel Li frapis la Midjanidojn ĉe la roko Oreb kaj kiel Lia bastono estis super la maro, kaj Li levos ĝin, kiel kontraŭ la Egiptojn.",
     "Kaj en tiu tago lia ŝarĝo estos deprenita de sur viaj ŝultroj kaj lia jugo de sur via kolo, kaj la jugo krevos pro la graseco.",
-    "Li venas Ajaton, trapasas Migronon, revizias siajn armilojn en MiĤmaŝ;",
+    "Li venas Ajaton, trapasas Migronon, revizias siajn armilojn en Miĥmaŝ;",
     "ili trapasis la pasejon, tradormas la nokton en Geba; Rama tremas, Gibea de Saul forkuras.",
     "Kriu laŭte, filino de Galim! atentu, Laiŝ! ho malriĉa Anatot!",
     "Madmena cedas, la loĝantoj de Gebim forkuras.",

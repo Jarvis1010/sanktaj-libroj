@@ -2,7 +2,7 @@ export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
-    "Profeta vorto de la Eternulo al Izrael per MalaĤi.",
+    "Profeta vorto de la Eternulo al Izrael per Malaĥi.",
     "Mi ekamis vin, diras la Eternulo. Vi demandas:En kio Vi nin ekamis? Ĉu Esav ne estas frato de Jakob? diras la Eternulo; tamen Mi ekamis Jakobon,",
     "kaj Esavon mi malamis, kaj Mi dezertigis liajn montojn, kaj lian posedaĵon Mi donis al la ŝakaloj de la dezerto.",
     "Se la Edomidoj diras:Ni estas ruinigitaj, sed ni revenos kaj rekonstruos la ruinojn-la Eternulo Cebaot diras tiele:Ili konstruos, kaj Mi detruos, kaj oni nomos ilin lando de malpieco, kaj popolo, kontraŭ kiu la Eternulo koleras eterne.",

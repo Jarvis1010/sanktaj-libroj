@@ -46,7 +46,7 @@ export const chapter41 = {
     "Kaj Faraono deprenis sian ringon de sia mano kaj metis ĝin sur la manon de Jozef; kaj li vestis lin per bisinaj vestoj kaj metis oran ĉenon sur lian kolon.",
     "Kaj li veturigis lin sur sia dua ĉaro; kaj oni kriis antaŭ li: Genuiĝu! Kaj li estrigis lin super la tuta Egipta lando.",
     "Kaj Faraono diris al Jozef: Mi estas Faraono; sed sen via ordono neniu levos sian manon aŭ sian piedon en la tuta Egipta lando.",
-    "Kaj Faraono donis al Jozef la nomon Cafnat-PaneaĤ, kaj li donis al li kiel edzinon Asnaton, filinon de Poti-Fera, pastro el On. Kaj Jozef komencis veturadon tra la Egipta lando.",
+    "Kaj Faraono donis al Jozef la nomon Cafnat-Paneaĥ, kaj li donis al li kiel edzinon Asnaton, filinon de Poti-Fera, pastro el On. Kaj Jozef komencis veturadon tra la Egipta lando.",
     "Jozef havis la aĝon de tridek jaroj, kiam li stariĝis antaŭ Faraono, la reĝo de Egiptujo. Kaj Jozef foriris de Faraono kaj trapasis la tutan Egiptan landon.",
     "Kaj la tero alportis en la sep jaroj de abundeco grandegajn amasojn da greno.",
     "Kaj li kolektis la tutan grenon de la sep jaroj, kiuj estis en la Egipta lando, kaj li metis la grenon en la urbojn; la grenon de ĉiuj kampoj, kiuj estis ĉirkaŭ iu urbo, li metis en ĝin.",

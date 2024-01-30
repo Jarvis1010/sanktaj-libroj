@@ -5,7 +5,7 @@ export const chapter16 = {
     "Kaj la Eternulo ekparolis al Moseo post la morto de la du filoj de Aaron, kiam ili venis antaŭ la Eternulon kaj mortis.",
     "Kaj la Eternulo diris al Moseo:Diru al via frato Aaron, ke li ne en ĉiu tempo eniru en la sanktejon malantaŭ la kurtenon, antaŭ la fermoplaton, kiu estas sur la kesto, por ke li ne mortu; ĉar en nubo Mi aperados super la fermoplato.",
     "Kun jeno Aaron venadu en la sanktejon:kun bovido por pekofero kaj kun virŝafo por brulofero.",
-    "Sanktan linan Ĥitonon li surmetu sur sin, kaj linaj pantalonoj estu sur lia korpo, kaj per lina zono li zonu sin, kaj linan cidaron li havu sur la kapo:tio estas sanktaj vestoj. Kaj li banu en akvo sian korpon kaj surmetu ilin sur sin.",
+    "Sanktan linan ĥitonon li surmetu sur sin, kaj linaj pantalonoj estu sur lia korpo, kaj per lina zono li zonu sin, kaj linan cidaron li havu sur la kapo:tio estas sanktaj vestoj. Kaj li banu en akvo sian korpon kaj surmetu ilin sur sin.",
     "Kaj de la komunumo de la Izraelidoj li prenu du kaprojn por pekofero kaj unu virŝafon por brulofero.",
     "Kaj Aaron alportos sian bovidon de pekofero, kaj pekliberigos sin kaj sian domon.",
     "Kaj li prenos la du kaprojn, kaj starigos ilin antaŭ la Eternulo, ĉe la pordo de la tabernaklo de kunveno.",
