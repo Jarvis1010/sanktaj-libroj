@@ -2,7 +2,7 @@ export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
-    "MI, Nifai, naskita de bonaj gepatroj kaj pro tio iom instruita pri ĉiuj sciaĵoj de mia patro; kaj vidinte multajn afliktojn dum la daŭro de miaj tagoj, tamen, estante ege favorata de la Sinjoro dum mia tuta vivo; jes, ricevinte grandan konon pri la boneco kaj la misteroj de Dio, pro tio mi faras kronikon pri miaj agoj dum mia vivo.",
+    "Mi, Nifai, naskita de bonaj gepatroj kaj pro tio iom instruita pri ĉiuj sciaĵoj de mia patro; kaj vidinte multajn afliktojn dum la daŭro de miaj tagoj, tamen, estante ege favorata de la Sinjoro dum mia tuta vivo; jes, ricevinte grandan konon pri la boneco kaj la misteroj de Dio, pro tio mi faras kronikon pri miaj agoj dum mia vivo.",
     "Jes, mi faras kronikon per la lingvo de mia patro, kiu konsistas el la scio de la hebreoj kaj la lingvo de la egiptoj.",
     "Kaj mi scias, ke la kroniko, kiun mi faras, estas vera; kaj mi skribas ĝin per mia propra mano; kaj mi faras ĝin laŭ mia scio.",
     "Okazis en la komenco de la unua jaro de la reĝado de Cidkijo, reĝo de Judujo, (ĉar mia patro Lihai loĝis en Jerusalemo dum sia tuta ĝistiama vivo), ke en tiu sama jaro venis multaj profetoj, profetante al la popolo, ke ĝi devas penti, aŭ la granda urbo Jerusalemo devos esti detruata.",

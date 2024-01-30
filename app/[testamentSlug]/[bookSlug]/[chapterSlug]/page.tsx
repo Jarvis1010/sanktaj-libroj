@@ -46,23 +46,23 @@ export default function Chapter({
     ...maybeChapter,
   };
 
+  const isChapter1 = chapterName === "Ĉapitro 1";
+
   return (
     <main>
       <section data-bedrock-stack="gutter:size5">
+        <header data-bedrock-stack="gutter:size3">
+          <h1>{bookName}</h1>
+          {subtitle && isChapter1 ? <p>{subtitle}</p> : null}
+          {summary && isChapter1 ? <em>{summary}</em> : null}
+        </header>
+
+        <h2>{chapterName}</h2>
         {chapter.verses.map((verse, i) => {
           return (
-            <>
-              {i === 0 ? (
-                <header data-bedrock-stack="gutter:size3">
-                  <h1>{bookName}</h1>
-                  {subtitle ? <p>{subtitle}</p> : null}
-                  {summary ? <em>{summary}</em> : null}
-                </header>
-              ) : null}
-              <p key={verse}>
-                {i + 1}. {verse}
-              </p>
-            </>
+            <p key={verse}>
+              {i + 1}. {verse}
+            </p>
           );
         })}
       </section>

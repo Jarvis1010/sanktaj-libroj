@@ -1,5 +1,6 @@
 type Chapter = {
   chapterTitle: string;
+  chapterTitleShort?: string;
   summary: string;
   verses: string[];
 };
