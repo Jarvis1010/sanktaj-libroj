@@ -32,7 +32,9 @@ export default function Chapter({
     return notFound();
   }
 
-  const maybeChapter = maybeBook?.chapters.find(
+  const { chapters, subtitle, summary } = maybeBook;
+
+  const maybeChapter = chapters.find(
     (chapter) => chapter.chapterTitle === chapterName,
   );
 
@@ -46,13 +48,21 @@ export default function Chapter({
 
   return (
     <main>
-      <h1>{chapter.chapterTitle}</h1>
-      <section data-bedrock-stack="gutter:size3">
+      <section data-bedrock-stack="gutter:size5">
         {chapter.verses.map((verse, i) => {
           return (
-            <p key={verse}>
-              {i + 1}. {verse}
-            </p>
+            <>
+              {i === 0 ? (
+                <header data-bedrock-stack="gutter:size3">
+                  <h1>{bookName}</h1>
+                  {subtitle ? <p>{subtitle}</p> : null}
+                  {summary ? <em>{summary}</em> : null}
+                </header>
+              ) : null}
+              <p key={verse}>
+                {i + 1}. {verse}
+              </p>
+            </>
           );
         })}
       </section>

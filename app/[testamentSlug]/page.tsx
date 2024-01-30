@@ -24,6 +24,7 @@ export default function Testament({
 
   return (
     <main>
+      <h1>{testamentName}</h1>
       <ul data-bedrock-stack="gutter:size3">
         {maybeTestament.books.map((book) => {
           return (
