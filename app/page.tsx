@@ -1,17 +1,45 @@
 import { testamentSlugMap, testamentTitles } from "@/testaments";
 
+import { CSSProperties } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import styles from "./page.module.css";
+
+const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
+  "Malnova Testamento":
+    "https://www.churchofjesuschrist.org/imgs/6de4c15152c1c0e56b9ac5004e62d80cd04ad02d/full/200%2C/0/default",
+  "Nova Testamento":
+    "https://www.churchofjesuschrist.org/imgs/7d175abca40ddfa795593e4f713a44489acc6cd5/full/200%2C/0/default",
+  "La Libro De Mormon":
+    "https://www.churchofjesuschrist.org/imgs/a0a9b700fbd9bdd58c245a164d9cdbcdc8b31c8d/full/200%2C/0/default",
+  Muziko: "https://www.churchofjesuschrist.org/music/bc/music/hymn-lg.jpg",
+};
 
 export default function Home() {
   return (
     <main>
-      <ul data-bedrock-stack="gutter:size3">
+      <ul
+        className="testament-grid"
+        data-bedrock-grid="gutter:size3"
+        style={{ "--minItemWidth": "var(--size-11)" } as CSSProperties}
+      >
         {testamentTitles.map((title) => {
           return (
             <li key={title}>
-              <Link href={`/${testamentSlugMap[title]}`}>{title}</Link>
+              <Link
+                data-bedrock-frame
+                style={{ "--ratio": "var(--ratio-portrait)" } as CSSProperties}
+                href={`/${testamentSlugMap[title]}`}
+              >
+                <Image
+                  src={testamentImageMap[title]}
+                  alt={title}
+                  width={200}
+                  height={200}
+                />
+              </Link>
+              <span data-bedrock-center="center-text center-children">
+                {title}
+              </span>
             </li>
           );
         })}
