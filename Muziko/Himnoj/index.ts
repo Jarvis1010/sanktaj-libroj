@@ -1,6 +1,7 @@
 import { comeThouFont } from "./comeThouFont";
 import { forTheBeauty } from "./forTheBeauty";
 import { howGreatThouArt } from "./howGreatThouArt";
+
 export const himnoj = {
   bookTitle: "Himnoj",
   bookTitleShort: "Himnoj",
