@@ -3,6 +3,7 @@ import "@bedrock-layout/css";
 import "open-props/style";
 import "./globals.css";
 
+import { Analytics } from "@vercel/analytics/react";
 import { CSSProperties } from "react";
 import { Inter } from "next/font/google";
 import type { Metadata } from "next";
@@ -28,6 +29,7 @@ export default function RootLayout({
       >
         {children}
       </body>
+      <Analytics />
     </html>
   );
 }
