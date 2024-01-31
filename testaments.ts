@@ -1,12 +1,14 @@
-import { LaLibroDeMormono } from "./Mormono";
+import { LaLibroDeMormon } from "./Mormono";
 import { MalnovaTestimento } from "./MalnovaTestimento";
+import { Muziko } from "./Muziko";
 import { NovaTestimento } from "./NovaTestimento";
 import { stringToSlug } from "./routeutils";
 
 export const testaments = [
   MalnovaTestimento,
   NovaTestimento,
-  LaLibroDeMormono,
+  LaLibroDeMormon,
+  Muziko,
 ] as const;
 
 export const testamentTitles = testaments.map(

@@ -1,6 +1,6 @@
 import { unuNifai } from "./1 Nifai";
 
-export const LaLibroDeMormono = {
-  testamentTitle: "La Libro De Mormono",
+export const LaLibroDeMormon = {
+  testamentTitle: "La Libro De Mormon",
   books: [unuNifai],
 } as const satisfies Testament;
