@@ -59,6 +59,7 @@ export default function Chapter({
         </header>
 
         <h2>{chapterName}</h2>
+        <em>{chapter.summary}</em>
         {chapter.verses.map((verse, i) => {
           return (
             <p key={verse}>

@@ -1,6 +1,6 @@
 export const forTheBeauty = {
   chapterTitle: "Pro La Belo De La Ter",
-  summary: "",
+  summary: "For the Beauty of the Earth",
   verses: [
     "Pro la belo de la ter', pro la gloro de l' ĉiel', Pro la amo kaj la ver' nin tenantaj sen ŝancel', *Kantas ni el danka kor' laŭdokanton, ho Sinjor'!*",
     "Pro l' mirindo de la temp', de la nokto kaj la tag' De aŭtuno kaj printemp', monto, valo, kampo, lag', *Kantas ni el danka kor' laŭdokanton, ho Sinjor'!*",

@@ -1,6 +1,6 @@
 export const comeThouFont = {
   chapterTitle: "Venu Font De Ĉiu Beno",
-  summary: "",
+  summary: "Come Thou Font of Every Blessing",
   verses: [
     "Venu, Font' de ĉiu beno, veku kanton en la kor', Pro forigo de ĉagreno, pro indulgo kaj favor'. Kiel kantas anĝel-lando, tiel ankaŭ kantu mi, Pri la pek-kovranta sango de l' amanta Fil' de Di'.",
     "Ebenezer! Jen kordanke krias mi: Li helpis min! Kaj mi fidas, ke senmanke Li min tenos ĝis la fin'. Serĉis min Jesu' Paŝtisto, ŝafon en animdanĝer'; Kun miriga am-persisto faris Sin por mi ofer'.",

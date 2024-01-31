@@ -1,6 +1,6 @@
 export const howGreatThouArt = {
   chapterTitle: "Ho Granda Dio Kiam Mi Rigardas",
-  summary: "",
+  summary: "How Great Thou Art",
   verses: [
     "Ho granda Dio, kiam mi rigardas la mirindaĵojn, kiujn kreis Vi, Kaj ke senĉese Via amo ardas por teni ĉion en plenharmoni', Animo mia gloras Vin per kant', ho granda Di', ho granda Di'! Animo mia gloras Vin per kant', ho granda Di', ho granda Di'!",
     "Pri Vi parolas la somera vento, kaj floroj odorantaj en kampar', Trilantaj birdoj en vespersilento, sennombraj voĉoj de la kreitar' — Animo mia gloras Vin per kant', ho granda Di', ho granda Di'! Animo mia gloras Vin per kant', ho granda Di', ho granda Di'!",
