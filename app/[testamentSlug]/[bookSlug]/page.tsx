@@ -36,15 +36,17 @@ export default function Book({
     chapters: maybeBook.chapters.map((chapter) => ({
       chapterTitle: chapter.chapterTitle,
       chapterSlug: stringToSlug(chapter.chapterTitle),
+      summary: chapter.summary,
     })),
   };
 
   return (
-    <main>
-      <ul data-bedrock-stack="gutter:size3">
+    <main data-bedrock-stack="gutter:size5">
+      <h1>{book.bookTitle}</h1>
+      <ul className="chapter-list" data-bedrock-stack="gutter:size3">
         {book.chapters.map((chapter) => {
           return (
-            <li key={chapter.chapterTitle}>
+            <li data-bedrock-stack="gutter:size1" key={chapter.chapterTitle}>
               <Link
                 href={`/${testamentSlug}/${bookSlug}/${stringToSlug(
                   chapter.chapterTitle,
@@ -52,6 +54,7 @@ export default function Book({
               >
                 {chapter.chapterTitle}
               </Link>
+              {chapter.summary ? <em>{chapter.summary}</em> : null}
             </li>
           );
         })}
