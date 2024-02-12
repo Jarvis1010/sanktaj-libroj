@@ -39,7 +39,6 @@ export default function Chapter({
   );
 
   if (maybeChapter === undefined) {
-    console.log("maybeChapter", maybeChapter, chapterName);
     return notFound();
   }
 

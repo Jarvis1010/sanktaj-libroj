@@ -2,8 +2,8 @@ import { chapter1 } from "./chapter1/chapter1";
 import { chapter2 } from "./chapter2/chapter2";
 
 export const HXagaja = {
-  bookTitle: "ĥagaja",
-  bookTitleShort: "ĥagaja",
+  bookTitle: "Ĥagaja",
+  bookTitleShort: "Ĥagaja",
   subtitle: "",
   summary: "",
   chapters: [chapter1, chapter2],

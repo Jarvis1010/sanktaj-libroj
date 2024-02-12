@@ -2,7 +2,7 @@ export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
   summary: "",
   verses: [
-    "Profetaĵo, kiun laŭvizie eldiris la profeto ĥabakuk.",
+    "Profetaĵo, kiun laŭvizie eldiris la profeto Ĥabakuk.",
     "Ĝis kiam, ho Eternulo, mi krios, kaj Vi ne aŭskultos, mi krios al Vi pri perfortaĵo, kaj Vi ne helpos?",
     "Kial Vi devigas min vidi maljustaĵon, rigardi mizeraĵon? Rabado kaj perfortado estas antaŭ mi, leviĝas disputoj kaj malpaco.",
     "Tial la instruo perdis sian forton, la justeco neniam venkas; ĉar la malvirtulo superfortas la virtulon, tial la rezultoj de juĝo estas malĝustaj.",

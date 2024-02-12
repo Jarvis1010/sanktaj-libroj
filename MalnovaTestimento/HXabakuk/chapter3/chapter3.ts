@@ -2,7 +2,7 @@ export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
   summary: "",
   verses: [
-    "Preĝo de la profeto ĥabakuk laŭ maniero de psalmoj.",
+    "Preĝo de la profeto Ĥabakuk laŭ maniero de psalmoj.",
     "Ho Eternulo, mi aŭdis la sciigon pri Vi, kaj mi ektimis. Ho Eternulo, vivigu Vian faritaĵon en la mezo de la jaroj,   Montru en la mezo de la jaroj,   Ke eĉ en kolero Vi memoras pri kompato.",
     "Dio venas de Teman, La Sanktulo de la monto Paran. Sela.   Lia majesto kovras la ĉielon,   Kaj Lia gloro plenigas la teron.",
     "Lia brilo estas kiel hela lumo, Radioj iras el Lia mano,   Kaj tie estas kaŝita Lia potenco.",
