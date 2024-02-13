@@ -11,15 +11,21 @@ export default function BreadCrumbs() {
     .slice(0, -1);
 
   return (
-    <nav data-bedrock-inline="gutter:size3">
-      <a href="/">Sanktaj Libroj</a>
+    <nav
+      data-bedrock-inline="gutter:size3"
+      style={{ padding: "var(--size-4) var(--size-6)" }}
+    >
+      <Link href="/">Home</Link>
 
       {pathNames.map((path, index) => {
         const href = "/" + pathNames.slice(0, index + 1).join("/");
         return (
-          <Link key={path} href={href}>
-            {path}
-          </Link>
+          <>
+            <span> | </span>
+            <Link key={path} href={href}>
+              {path}
+            </Link>
+          </>
         );
       })}
     </nav>

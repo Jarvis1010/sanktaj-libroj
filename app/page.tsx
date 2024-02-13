@@ -16,34 +16,39 @@ const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
 
 export default function Home() {
   return (
-    <main>
-      <ul
-        className="testament-grid"
-        data-bedrock-grid="gutter:size3"
-        style={{ "--minItemWidth": "var(--size-11)" } as CSSProperties}
-      >
-        {testamentTitles.map((title) => {
-          return (
-            <li key={title}>
-              <Link
-                data-bedrock-frame
-                style={{ "--ratio": "var(--ratio-portrait)" } as CSSProperties}
-                href={`/${testamentSlugMap[title]}`}
-              >
-                <Image
-                  src={testamentImageMap[title]}
-                  alt={title}
-                  width={200}
-                  height={200}
-                />
-              </Link>
-              <span data-bedrock-center="center-text center-children">
-                {title}
-              </span>
-            </li>
-          );
-        })}
-      </ul>
+    <main data-bedrock-stack="gutter:size7">
+      <nav>
+        <ul
+          className="testament-grid"
+          data-bedrock-grid="gutter:size3"
+          style={{ "--minItemWidth": "var(--size-11)" } as CSSProperties}
+        >
+          {testamentTitles.map((title) => {
+            return (
+              <li key={title}>
+                <Link
+                  data-bedrock-frame
+                  style={
+                    { "--ratio": "var(--ratio-portrait)" } as CSSProperties
+                  }
+                  href={`/${testamentSlugMap[title]}`}
+                >
+                  <Image
+                    src={testamentImageMap[title]}
+                    alt={title}
+                    width={200}
+                    height={200}
+                  />
+                </Link>
+                <span data-bedrock-center="center-text center-children">
+                  {title}
+                </span>
+              </li>
+            );
+          })}
+        </ul>
+      </nav>
+      <Link href="/about">About this Project</Link>
     </main>
   );
 }
