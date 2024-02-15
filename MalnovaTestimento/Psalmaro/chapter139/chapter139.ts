@@ -1,6 +1,5 @@
 export const chapter139 = {
   chapterTitle: "Ĉapitro 139",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Ho Eternulo, Vi min esploras kaj min konas.",
     "Vi scias, kiam mi sidas kaj kiam mi leviĝas; Vi komprenas mian penson de malproksime.",

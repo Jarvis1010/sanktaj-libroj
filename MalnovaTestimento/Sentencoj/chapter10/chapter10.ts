@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Sentencoj de Salomono. Saĝa filo estas ĝojo por sia patro,   Kaj filo malsaĝa estas malĝojo por sia patrino.",
     "Maljustaj trezoroj ne donas utilon; Sed bonfaremo savas de morto.",

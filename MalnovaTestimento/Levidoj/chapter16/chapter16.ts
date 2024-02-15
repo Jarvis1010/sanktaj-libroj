@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo post la morto de la du filoj de Aaron, kiam ili venis antaŭ la Eternulon kaj mortis.",
     "Kaj la Eternulo diris al Moseo:Diru al via frato Aaron, ke li ne en ĉiu tempo eniru en la sanktejon malantaŭ la kurtenon, antaŭ la fermoplaton, kiu estas sur la kesto, por ke li ne mortu; ĉar en nubo Mi aperados super la fermoplato.",

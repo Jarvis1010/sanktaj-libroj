@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la tria jaro de la reĝado de Jehojakim, reĝo de Judujo, venis Nebukadnecar, reĝo de Babel, al Jerusalem, kaj eksieĝis ĝin.",
     "Kaj la Sinjoro transdonis en lian manon Jehojakimon, reĝon de Judujo, kaj parton de la vazoj de la domo de Dio; kaj li venigis ilin en la landon Ŝinar, en la domon de sia dio, kaj la vazojn li metis en la trezorejon de sia dio.",

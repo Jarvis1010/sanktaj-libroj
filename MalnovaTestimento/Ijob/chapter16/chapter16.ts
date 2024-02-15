@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Mi aŭdis multe da similaj aferoj; Tedaj konsolantoj vi ĉiuj estas.",

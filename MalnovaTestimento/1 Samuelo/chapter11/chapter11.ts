@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Venis Naĥaŝ la Amonido, kaj stariĝis tendare antaŭ Jabeŝ en Gilead. Kaj ĉiuj loĝantoj de Jabeŝ diris al Naĥaŝ:Faru kun ni interligon, kaj ni servos al vi.",
     "Sed Naĥaŝ la Amonido diris al ili:Mi faros kun la kondiĉo, ke al ĉiuj el vi mi elpikos la dekstran okulon kaj per tio metos malhonoron sur la tutan Izraelon.",

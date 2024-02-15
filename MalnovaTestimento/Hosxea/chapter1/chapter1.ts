@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Hoŝea, filo de Beeri, en la tempo de Uzija, Jotan, Aĥaz, kaj ĥizkija, reĝoj de Judujo, kaj en la tempo de Jerobeam, filo de Joaŝ, reĝo de Izrael.",
     "Kiam la Eternulo komencis paroli al Hoŝea, la Eternulo diris al Hoŝea:Iru, prenu al vi edzinon malĉastulinon kaj naskigu infanojn malĉastajn, ĉar la lando malĉastiĝis for de la Eternulo.",

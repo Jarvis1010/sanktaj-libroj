@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Tial ankaŭ ni, havante ĉirkaŭ ni tian nubegon da atestantoj, formetu ĉion pezan kaj la pekon embarasantan, kaj persiste kuru la kuradon antaŭ ni metitan,",
     "direktante la rigardon al la aŭtoro kaj perfektiganto de la fido, Jesuo, kiu, pro la ĝojo antaŭ li metita, suferis la krucon, malestimante honton, kaj sidiĝis dekstre de la trono de Dio.",

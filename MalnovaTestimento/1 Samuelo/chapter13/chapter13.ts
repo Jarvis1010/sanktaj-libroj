@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Unu jaro pasis post la reĝiĝo de Saul, kaj jam du jarojn li reĝis super Izrael.",
     "Kaj Saul elektis al si tri mil virojn el Izrael; du mil estis kun Saul en Miĥmaŝ kaj sur la monto Bet-El, kaj mil estis kun Jonatan en Gibea de Benjamen; la ceterajn el la popolo li foririgis ĉiun al lia tendo.",

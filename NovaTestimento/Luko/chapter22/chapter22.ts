@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Jam alproksimiĝis la festo de macoj, kiu estas nomata la Pasko.",
     "Kaj la ĉefpastroj kaj la skribistoj serĉis, kiamaniere ili povu mortigi lin, ĉar ili timis la popolon.",

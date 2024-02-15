@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Anstataŭ li ekreĝis lia filo Jehoŝafat. Kaj li fariĝis potenca kontraŭ Izrael.",
     "Li starigis militistaron en ĉiuj fortikigitaj urboj de Judujo, kaj starigis garnizonojn en la lando de Jehuda, kaj en la urboj de Efraim, kiujn venkoprenis lia patro Asa.",

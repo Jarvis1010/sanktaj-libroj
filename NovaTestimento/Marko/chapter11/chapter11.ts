@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj kiam ili alproksimiĝis al Jerusalem, al Betfage kaj Betania, apud la monto Olivarba, li sendis du el siaj disĉiploj,",
     "kaj diris al ili:Iru en la vilaĝon, kiu estas kontraŭ vi, kaj enirinte ĝin, vi tuj trovos azenidon alligitan, sur kiu ankoraŭ neniu iam sidis; malligu kaj alkonduku ĝin.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj vi, ho filo de homo, prenu al vi brikon kaj kuŝigu ĝin antaŭ vi, kaj desegnu sur ĝi urbon, nome Jerusalemon.",
     "Kaj faru ĉirkaŭ ĝi sieĝon, aranĝu kontraŭ ĝi bastionon, surŝutu kontraŭ ĝi remparon, faru kontraŭ ĝi tendaron, kaj starigu ĉirkaŭ ĝi muregrompilojn.",

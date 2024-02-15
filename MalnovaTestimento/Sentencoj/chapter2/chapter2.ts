@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mia filo! se vi akceptos miajn parolojn Kaj konservos ĉe vi miajn ordonojn,",
     "Ke via orelo atente aŭskultos saĝon Kaj vian koron vi inklinigos al komprenado;",

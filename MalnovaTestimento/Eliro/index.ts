@@ -42,8 +42,6 @@ import { chapter40 } from "./chapter40/chapter40";
 export const Eliro = {
   bookTitle: "Eliro",
   bookTitleShort: "Eliro",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Kaj Moseo kunvenigis la tutan komunumon de la Izraelidoj, kaj diris al ili:Jen kion la Eternulo ordonis al vi fari:",
     "Dum ses tagoj faru laboron, sed la sepa tago estu por vi sankta, sabato de ripozo al la Eternulo; ĉiu, kiu faros en ĝi laboron, estu mortigita.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la komenco Dio kreis la ĉielon kaj la teron.",
     "Kaj la tero estis senforma kaj dezerta, kaj mallumo estis super la abismo; kaj la spirito de Dio ŝvebis super la akvo.",

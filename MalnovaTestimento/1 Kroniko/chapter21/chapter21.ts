@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Satano leviĝis kontraŭ Izraelon kaj instigis Davidon kalkuli Izraelon.",
     "Kaj David diris al Joab kaj al la estroj de la popolo:Iru, kalkulu la Izraelidojn, de Beer-Ŝeba ĝis Dan, kaj raportu al mi, por ke mi sciu ilian nombron.",

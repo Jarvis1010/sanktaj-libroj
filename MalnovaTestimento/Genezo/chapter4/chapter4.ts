@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj Adam ekkonis Evan, sian edzinon, kaj ŝi gravediĝis, kaj ŝi naskis Kainon; kaj ŝi diris: Mi akiris homon de la Eternulo.",
     "Kaj plue ŝi naskis lian fraton Habel. Kaj Habel fariĝis ŝafpaŝtisto, kaj Kain fariĝis terlaboristo.",

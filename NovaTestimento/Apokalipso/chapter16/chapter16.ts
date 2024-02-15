@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj mi aŭdis grandan voĉon el la templo, dirantan al la sep anĝeloj:Iru, kaj elverŝu sur la teron la sep pelvojn de la kolero de Dio.",
     "Kaj la unua foriris, kaj elverŝis sian pelvon sur la teron; kaj fariĝis malbona kaj dolora ulcero sur la homoj, kiuj havis la markon de la besto kaj kiuj adorkliniĝis al ĝia bildo.",

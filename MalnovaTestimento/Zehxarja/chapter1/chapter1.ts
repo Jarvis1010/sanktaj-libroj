@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la oka monato, en la dua jaro de Dario, aperis vorto de la Eternulo al la profeto Zeĥarja, filo de Bereĥja, filo de Ido, dirante:",
     "Forte koleris la Eternulo kontraŭ viaj patroj.",

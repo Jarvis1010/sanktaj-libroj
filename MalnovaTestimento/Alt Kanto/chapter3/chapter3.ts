@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Sur mia kuŝejo dum la nokto mi serĉis tiun, kiun mia animo amas; Mi serĉis lin, sed mi lin ne trovis.",
     "Mi leviĝos, kaj irados tra la urbo; Sur la stratoj kaj placoj mi serĉos tiun, kiun mia animo amas;   Mi serĉis lin, sed mi lin ne trovis.",

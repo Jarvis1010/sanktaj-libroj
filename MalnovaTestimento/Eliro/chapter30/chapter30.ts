@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kaj faru altaron, por fumigi incenson; el akacia ligno faru ĝin.",
     "Unu ulno estu ĝia longo, kaj unu ulno ĝia larĝo; ĝi estu kvarangula; kaj du ulnoj estu ĝia alto; kornoj elstaru el ĝi.",

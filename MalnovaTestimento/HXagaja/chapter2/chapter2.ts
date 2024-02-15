@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "En la sepa monato, en la dudek-unua tago de la monato, aperis vorto de la Eternulo per la profeto ĥagaj, dirante:",
     "Diru al Zerubabel, filo de Ŝealtiel, regionestro de Judujo, kaj al la ĉefpastro Josuo, filo de Jehocadak, kaj al la cetera popolo jene:",

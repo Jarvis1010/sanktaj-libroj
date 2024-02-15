@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Post tio mi aŭdis kvazaŭ grandan voĉon de granda homamaso en la ĉielo, dirantan:Haleluja! La savo kaj la gloro kaj la potenco apartenas al nia Dio;",
     "ĉar veraj kaj justaj estas Liaj juĝoj; ĉar Li juĝis la grandan malĉastistinon, kiu infektis la teron per sia malĉasteco, kaj Li venĝis la sangon de Siaj servistoj el ŝia mano.",

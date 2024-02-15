@@ -1,6 +1,5 @@
 export const chapter90 = {
   chapterTitle: "Ĉapitro 90",
-  summary: "",
   verses: [
     "Preĝo de Moseo, homo de Dio. Mia Sinjoro, Vi estis por ni loĝejo De generacio al generacio.",
     "Antaŭ ol la montoj naskiĝis Kaj Vi kreis la teron kaj la mondon,   Kaj de eterne ĝis eterne, Vi estas Dio.",

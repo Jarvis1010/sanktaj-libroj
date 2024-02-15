@@ -1,6 +1,5 @@
 export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
-  summary: "",
   verses: [
     "En la naŭa jaro de Cidkija, reĝo de Judujo, en la deka monato, venis Nebukadnecar, reĝo de Babel, kun sia tuta militistaro al Jerusalem, kaj eksieĝis ĝin.",
     "En la dek-unua jaro de Cidkija, en la kvara monato, en la naŭa tago de la monato, oni faris enrompon en la urbon.",

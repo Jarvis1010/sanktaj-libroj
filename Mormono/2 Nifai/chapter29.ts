@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Sed sciu, estos multaj en tiu tago, kiam mi faros mirindan verkon inter ili, por ke mi memoru miajn interligojn, kiujn mi faris kun la homidoj, por ke mi denove la duan fojon etendu mian manon por reakiri mian popolon, kiu estas el la domo de Izrael;",
     "Kaj ankaŭ, por ke mi memoru la promesojn, kiujn mi faris al vi, Nifai, kaj ankaŭ al via patro, ke mi memoros vian idaron; kaj ke la vortoj de via idaro disvastiĝos el mia buŝo al via idaro; kaj miaj vortoj dissiblos ĝis la ekstremaĵoj de la tero, kiel standardo al mia popolo, kiu estas el la domo de Izrael;",

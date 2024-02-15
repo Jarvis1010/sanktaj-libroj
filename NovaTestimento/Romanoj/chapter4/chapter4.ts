@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kion do, ni diros, trovis Abraham, nia praavo laŭ la karno?",
     "Ĉar se Abraham praviĝis per faroj, li havas ion, pri kio fieri, sed ne antaŭ Dio.",

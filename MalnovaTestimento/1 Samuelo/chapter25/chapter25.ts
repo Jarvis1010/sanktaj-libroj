@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Samuel mortis; kaj kolektiĝis ĉiuj Izraelidoj, kaj priploris lin kaj enterigis lin en lia domo en Rama. Kaj David leviĝis, kaj foriris en la dezerton Paran.",
     "Estis viro en Maon, kiu havis siajn aferojn en Karmel; tiu homo estis tre potenca, li havis tri mil ŝafojn kaj mil kaprojn. Tiam oni estis tondanta liajn ŝafojn en Karmel.",

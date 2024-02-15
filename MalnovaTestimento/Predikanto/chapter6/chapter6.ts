@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Ekzistas malbono, kiun mi vidis sub la suno, kaj granda ĝi estas por la homo:",
     "se al iu homo Dio donas riĉecon kaj havon kaj honoron, kaj al lia animo mankas nenio, kion ajn li dezirus, sed Dio ne donas al li la povon konsumi ĝin, nur fremda homo ĝin konsumas-ĉi tio estas vantaĵo kaj malfacila doloro.",

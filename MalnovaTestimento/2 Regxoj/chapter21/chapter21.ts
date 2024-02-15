@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "La aĝon de dek du jaroj havis Manase, kiam li fariĝis reĝo, kaj kvindek kvin jarojn li reĝis en Jerusalem. La nomo de lia patrino estis ĥefci-Ba.",
     "Li agadis malbone antaŭ la Eternulo, simile al la abomenindaĵoj de la nacioj, kiujn la Eternulo forpelis de antaŭ la Izraelidoj.",

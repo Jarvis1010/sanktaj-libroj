@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo en la dezerto Sinaj en la tabernaklo de kunveno en la unua tago de la dua monato de la dua jaro post ilia eliro el la lando Egipta, dirante:",
     "Prikalkulu la tutan komunumon de la Izraelidoj laŭ iliaj familioj, laŭ iliaj patrodomoj, laŭ la nombro de la nomoj de ĉiuj virseksuloj laŭkape.",

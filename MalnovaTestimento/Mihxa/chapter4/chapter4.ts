@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Sed iam en la tempo estonta la monto de la domo de la Eternulo staros kiel ĉefo inter la montoj, kaj ĝi estos pli alta ol ĉiuj altaĵoj; kaj fluos al ĝi popoloj.",
     "Kaj iros multaj nacioj, kaj diros:Venu, ni iru supren sur la monton de la Eternulo kaj en la domon de Dio de Jakob, por ke Li instruu nin pri Siaj vojoj kaj ke ni iru laŭ Lia irejo; ĉar el Cion eliros la instruo, kaj la vorto de la Eternulo el Jerusalem.",

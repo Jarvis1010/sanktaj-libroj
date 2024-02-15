@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La presbitero al la elektita sinjorino kaj ŝiaj infanoj, kiujn mi amas en la vero; kaj ne mi sola, sed ankaŭ ĉiuj, kiuj konas la veron;",
     "pro la vero restanta en ni, kaj ĝi estos ĉe ni por ĉiam:",

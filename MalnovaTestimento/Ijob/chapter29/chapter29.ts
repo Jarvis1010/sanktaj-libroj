@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Kaj plue Ijob parolis siajn sentencojn, kaj diris:",
     "Ho, se estus al mi tiel, kiel en la antaŭaj monatoj, Kiel en la tempo, kiam Dio min gardis;",

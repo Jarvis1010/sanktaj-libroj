@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "La aĝon de dudek kvin jaroj havis Amacja, kiam li fariĝis reĝo, kaj dudek naŭ jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jehoadan, el Jerusalem.",
     "Li agadis bone antaŭ la Eternulo, tamen ne el plena koro.",

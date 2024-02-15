@@ -1,6 +1,5 @@
 export const chapter44 = {
   chapterTitle: "Ĉapitro 44",
-  summary: "",
   verses: [
     "Sed nun aŭskultu, ho Jakob, Mia servanto, kaj Izrael, kiun Mi elektis.",
     "Tiele diras la Eternulo, kiun vin kreis kaj formis kaj helpas vin de post via naskiĝo:Ne timu, ho Jakob, Mia servanto, kaj vi, ho Jeŝurun, kiun Mi elektis.",

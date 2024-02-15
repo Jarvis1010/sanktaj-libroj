@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ĉar jen la Sinjoro, la Eternulo Cebaot, forprenos de Jerusalem kaj de Judujo la apogon kaj forton, ĉian apogon de pano kaj ĉian apogon de akvo;",
     "heroon kaj militiston, juĝiston kaj profeton, aŭguriston kaj plejaĝulon,",

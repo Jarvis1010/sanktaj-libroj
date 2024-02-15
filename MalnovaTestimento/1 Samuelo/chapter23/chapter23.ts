@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Oni raportis al David la sciigon:Jen la Filiŝtoj militas kontraŭ Keila kaj prirabas la draŝejojn.",
     "Tiam David demandis la Eternulon, dirante:Ĉu mi iru kaj frapu tiujn Filiŝtojn? Kaj la Eternulo diris al David:Iru kaj frapu la Filiŝtojn, kaj savu Keilan.",

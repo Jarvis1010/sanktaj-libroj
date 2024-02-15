@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Moab defalis de Izrael post la morto de Aĥab.",
     "Kaj Aĥazja elfalis tra la krado de sia supra ĉambro en Samario, kaj malsaniĝis. Kaj li sendis senditojn, kaj diris al ili:Iru, demandu Baal- Zebubon, la dion de Ekron, ĉu mi resaniĝos de ĉi tiu malsano.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Estis iu homo en la lando Uc, lia nomo estis Ijob. Tiu homo estis honesta, justa, diotima, kaj li evitadis malbonon.",
     "Al li naskiĝis sep filoj kaj tri filinoj.",

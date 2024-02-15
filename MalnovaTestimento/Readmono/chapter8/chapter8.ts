@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Ĉiujn ordonojn, kiujn mi ordonas al vi hodiaŭ, observu, por plenumi ilin, por ke vi vivu kaj multiĝu, kaj venu kaj ekposedu la landon, pri kiu la Eternulo ĵuris al viaj patroj.",
     "Kaj memoru la tutan vojon, laŭ kiu kondukis vin la Eternulo, via Dio, dum kvardek jaroj tra la dezerto, por humiligi vin, por elprovi vin, por sciiĝi, kio estas en via koro, ĉu vi obeos Liajn ordonojn aŭ ne.",

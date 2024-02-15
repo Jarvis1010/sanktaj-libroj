@@ -1,6 +1,5 @@
 export const chapter43 = {
   chapterTitle: "Ĉapitro 43",
-  summary: "",
   verses: [
     "Juĝu min, ho Dio, kaj defendu mian aferon kontraŭ popolo nepia; De homo malverema kaj maljusta savu min.",
     "Ĉar Vi estas la Dio de mia forto; kial Vi forpuŝis min? Kial mi iradas malĝoja pro la premado de la malamiko?",

@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Fratoj, la deziro de mia koro kaj mia preĝo al Dio pri ili estas por ilia savado.",
     "Ĉar mi atestas pri ili, ke ili havas fervoron al Dio, sed ne laŭ scio.",

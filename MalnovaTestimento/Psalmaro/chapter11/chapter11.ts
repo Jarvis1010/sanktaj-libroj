@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Al la ĥorestro. De David. Ĉe la Eternulo mi rifuĝas. Kial vi diras al mia animo:   Flugu kiel birdo sur vian monton?",
     "Ĉar jen la malbonuloj streĉis pafarkon, Almetis sagon sian al la tendeno,   Por pafi kaŝe kontraŭ la honestajn korojn.",

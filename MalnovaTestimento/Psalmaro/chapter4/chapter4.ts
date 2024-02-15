@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por kordaj instrumentoj. Psalmo de David. Kiam mi vokas, respondu al mi, justa mia Dio! En premo Vi liberigas min;   Korfavoru min, kaj aŭskultu mian preĝon.",
     "Homidoj, ĝis kiam mia honoro estos malhonorata? Ĝis kiam vi amos vantaĵon kaj celos malveron? Sela.",

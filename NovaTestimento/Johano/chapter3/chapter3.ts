@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Estis viro el la Fariseoj, nomata Nikodemo, ĉefo inter la Judoj;",
     "tiu venis al li nokte, kaj diris al li:Rabeno, ni scias, ke vi estas instruisto, veninta de Dio; ĉar neniu povas fari tiujn signojn, kiujn vi faras, se Dio ne estas kun li.",

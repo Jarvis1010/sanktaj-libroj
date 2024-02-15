@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Tiele diris la Eternulo:Iru kaj aĉetu argilan kruĉon de potisto, kaj, preninte kelkajn el la plejaĝuloj de la popolo kaj el la plejaĝuloj de la pastroj,",
     "iru en la valon de la filo de Hinom, kiu estas antaŭ la Pordego de Argilaĵoj, kaj proklamu tie la vortojn, kiujn Mi diros al vi.",

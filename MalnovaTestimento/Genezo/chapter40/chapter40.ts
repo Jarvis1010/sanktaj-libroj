@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "Post tiuj okazintaĵoj la vinisto de la reĝo de Egiptujo kaj la bakisto kulpiĝis antaŭ sia sinjoro, la reĝo de Egiptujo.",
     "Kaj Faraono koleriĝis kontraŭ siaj du korteganoj, kontraŭ la vinistestro kaj kontraŭ la bakistestro.",

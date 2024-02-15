@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj Josuo, filo de Nun, sendis el Ŝitim du esplorrigardantojn sekrete, dirinte:Iru, pririgardu la landon kaj Jeriĥon. Kaj ili iris, kaj venis en la domon de malĉastistino, kies nomo estis Raĥab, kaj ili dormis tie.",
     "Kaj oni diris al la reĝo de Jeriĥo jene:Jen venis ĉi tien en la nokto viroj el la Izraelidoj, por esplorrigardi la landon.",

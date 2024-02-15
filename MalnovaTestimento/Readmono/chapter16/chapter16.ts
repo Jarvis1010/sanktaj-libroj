@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Observu la monaton Abib, kaj faru Paskon al la Eternulo, via Dio; ĉar en la monato Abib elkondukis vin la Eternulo, via Dio, el Egiptujo en la nokto.",
     "Kaj buĉu Paskon al la Eternulo, via Dio, el grandaj kaj malgrandaj brutoj, sur la loko, kiun la Eternulo elektos, por loĝigi tie Sian nomon.",

@@ -1,6 +1,5 @@
 export const chapter105 = {
   chapterTitle: "Ĉapitro 105",
-  summary: "",
   verses: [
     "Gloru la Eternulon, voku Lian nomon; Sciigu inter la popoloj Liajn farojn.",
     "Kantu al Li, muziku al Li; Parolu pri ĉiuj Liaj mirakloj.",

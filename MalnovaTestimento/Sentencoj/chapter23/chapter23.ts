@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Kiam vi sidiĝos, por manĝi kun reganto, Rigardu bone, kio estas antaŭ vi;",
     "Kaj vi metu tranĉilon al via gorĝo, Se vi estas avidulo.",

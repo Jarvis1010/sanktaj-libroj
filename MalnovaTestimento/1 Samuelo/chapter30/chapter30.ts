@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kiam David kaj liaj viroj venis en Ciklagon en la tria tago, la Amalekidoj estis atakintaj la sudan regionon kaj Ciklagon, venkobatintaj Ciklagon kaj forbruligintaj ĝin per fajro.",
     "Ili prenis en malliberecon la virinojn, kiuj estis tie, de la malgrandaj ĝis la grandaj; ili neniun mortigis, sed forkondukis, kaj iris sian vojon.",

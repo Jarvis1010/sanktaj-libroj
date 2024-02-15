@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Malvirtulo kuras, kiam neniu persekutas; Sed virtuloj estas sentimaj kiel leono.",
     "Kiam lando pekas, ĝi havas multe da estroj; Sed se regas homo prudenta kaj kompetenta, li regas longe.",

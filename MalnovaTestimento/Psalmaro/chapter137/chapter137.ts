@@ -1,6 +1,5 @@
 export const chapter137 = {
   chapterTitle: "Ĉapitro 137",
-  summary: "",
   verses: [
     "Apud la riveroj de Babel Ni sidis kaj ploris,   Rememorante Cionon.",
     "Sur la salikoj tie Ni pendigis niajn harpojn.",

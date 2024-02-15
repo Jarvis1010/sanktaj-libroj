@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Tio estis en la dek-kvara jaro de la reĝo ĥizkija, eliris Sanĥerib, reĝo de Asirio, kontraŭ ĉiujn fortikigitajn urbojn de Judujo, kaj venkoprenis ilin.",
     "Kaj la reĝo de Asirio sendis Rabŝaken el Laĥiŝ en Jerusalemon al la reĝo ĥizkija kun granda militistaro; kaj li stariĝis ĉe la akvotubo de la supra lageto, ĉe la vojo de la kampo de fulistoj.",

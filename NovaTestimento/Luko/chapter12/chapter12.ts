@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Dume, kiam la miriadoj de la homamaso kunkolektiĝis tiel, ke ili piedpremis unu la alian, li ekparolis al siaj disĉiploj, dirante unue:Gardu vin kontraŭ la fermentaĵo de la Fariseoj, kiu estas hipokriteco.",
     "Sed estas nenio kovrita, kio ne estos elmontrita; kaj nenio kaŝita, kio ne estos sciata.",

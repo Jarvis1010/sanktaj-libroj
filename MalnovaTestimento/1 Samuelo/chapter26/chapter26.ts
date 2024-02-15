@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Venis la Zifanoj al Saul en Gibean, kaj diris:David ja kaŝas sin sur la monteto ĥaĥila, kiu estas antaŭ la dezerto.",
     "Tiam Saul leviĝis kaj ekiris al la dezerto Zif, kaj kun li estis tri mil viroj elektitaj el Izrael, por serĉi Davidon en la dezerto Zif.",

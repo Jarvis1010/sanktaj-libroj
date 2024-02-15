@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Jiftaĥ, la Gileadano, estis heroa militisto, sed li estis filo de malĉastulino. De Gilead naskiĝis Jiftaĥ.",
     "Kaj la edzino de Gilead naskis al li filojn. Kiam la filoj de la edzino grandiĝis, ili forpelis Jiftaĥon, kaj diris al li:Vi ne heredos en la domo de nia patro; ĉar vi estas filo de alia patrino.",

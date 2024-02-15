@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj kiam la homoj komencis multiĝi sur la tero kaj al ili naskiĝis filinoj,",
     "tiam la filoj de Dio vidis la filinojn de la homoj, ke ili estas belaj; kaj ili prenis al si edzinojn el ĉiuj, kiujn ili elektis.",

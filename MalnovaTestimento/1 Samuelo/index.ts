@@ -33,8 +33,6 @@ import { chapter31 } from "./chapter31/chapter31";
 export const unuSamuelo = {
   bookTitle: "1 Samuelo",
   bookTitleShort: "1 Samuelo",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

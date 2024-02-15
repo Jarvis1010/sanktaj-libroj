@@ -17,6 +17,7 @@ const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
 export default function Home() {
   return (
     <main data-bedrock-stack="gutter:size7">
+      <Link href="/about">About this Project</Link>
       <nav>
         <ul
           className="testament-grid"
@@ -48,7 +49,6 @@ export default function Home() {
           })}
         </ul>
       </nav>
-      <Link href="/about">About this Project</Link>
     </main>
   );
 }

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Miĥa, la Moreŝetano, en la tempo de Jotam, Aĥaz, kaj ĥizkija, reĝoj de Judujo, kaj kiun li viziis pri Samario kaj Jerusalem.",
     "Aŭskultu, ĉiuj popoloj, atentu, ho tero, kaj ĉio, kio estas sur ĝi! La Sinjoro, la Eternulo, estu atestanto kontraŭ vi, la Sinjoro el Sia sankta templo.",

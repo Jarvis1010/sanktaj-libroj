@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Jen estas la generaciaro de Esav, kiu ankaŭ estas Edom.",
     "Esav prenis siajn edzinojn el la Kanaanidinoj: Adan, filinon de Elon la ĥetido, kaj Oholibaman, filinon de Ana, filino de Cibeon la ĥivido,",

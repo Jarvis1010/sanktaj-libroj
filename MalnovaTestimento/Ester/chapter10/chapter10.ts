@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "La reĝo Aĥaŝveroŝ metis sub tributon la teron kaj la insulojn de la maro.",
     "La tuta historio pri lia forto kaj lia potenco, kaj la detaloj pri la grandeco de Mordeĥaj, kiun la reĝo grandigis, estas priskribitaj en la libro de kroniko de la reĝoj de Medujo kaj Persujo.",

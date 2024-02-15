@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Jen estas la leĝoj kaj reguloj, kiujn vi devas observi por plenumi en la lando, kiun la Eternulo, la Dio de viaj patroj, donas al vi kiel posedaĵon, dum la tuta tempo, kiun vi vivos sur la tero.",
     "Ekstermu ĉiujn lokojn, kie la popoloj, kiujn vi ekposedos, servis al siaj dioj sur la altaj montoj kaj sur la montetoj kaj sub ĉiu verda arbo.",

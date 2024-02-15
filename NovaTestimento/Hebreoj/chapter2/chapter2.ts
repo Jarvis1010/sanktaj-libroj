@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Pro tio ni devas pli diligente atenti la aŭditaĵojn, por ke ni de ili ne forflosu.",
     "Ĉar se la vorto parolata per anĝeloj montriĝis konstanta, kaj ĉiu dekliniĝo kaj malobeo ricevis justan rekompencon,",

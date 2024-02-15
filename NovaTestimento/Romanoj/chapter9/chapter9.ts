@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Mi diras la veron en Kristo, mi ne mensogas, kaj mia konscienco atestas kun mi per la Sankta Spirito,",
     "ke mi havas grandan malĝojon kaj senĉesan doloron en la koro.",

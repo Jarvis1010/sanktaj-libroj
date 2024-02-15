@@ -1,6 +1,5 @@
 export const chapter61 = {
   chapterTitle: "Ĉapitro 61",
-  summary: "",
   verses: [
     "La spirito de la Sinjoro, la Eternulo, estas sur mi, ĉar la Eternulo min sanktoleis, por bonanonci al mizeruloj; Li sendis min, por bandaĝi tiujn, kies koro estas vundita, por anonci liberecon al kaptitoj kaj malŝloson al malliberigitoj,",
     "por proklami favorjaron de la Eternulo kaj venĝotagon de nia Dio, por konsoli ĉiujn malĝojulojn,",

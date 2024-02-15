@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Al la anĝelo de la eklezio en Efeso skribu: Tiele diras la tenanto de la sep steloj en sia dekstra mano, la iranto meze de la sep oraj lampingoj:",
     "Mi scias viajn farojn, kaj vian laboron kaj vian paciencon, kaj ke vi ne povas toleri la malbonulojn, kaj ke vi provis tiujn, kiuj nomas sin apostoloj kaj ne estas tiaj, kaj trovis ilin malveraj;",

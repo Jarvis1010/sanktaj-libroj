@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Kaj Agripo diris al Paŭlo:Estas permesate al vi paroli por vi mem. Tiam Paŭlo, etendinte sian manon, responde pledis:",
     "Mi min trovas feliĉa, reĝo Agripo, ke mi respondos antaŭ vi hodiaŭ rilate ĉion, pri kio mi estas akuzita de la Judoj;",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, apostolo de Kristo Jesuo per la volo de Dio, kaj Timoteo, nia frato,",
     "al la sanktuloj kaj fidelaj fratoj en Kristo, kiuj estas en Kolose:Graco al vi kaj paco estu de Dio, nia Patro.",

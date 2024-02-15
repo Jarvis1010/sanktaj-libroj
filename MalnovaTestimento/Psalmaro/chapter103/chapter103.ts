@@ -1,6 +1,5 @@
 export const chapter103 = {
   chapterTitle: "Ĉapitro 103",
-  summary: "",
   verses: [
     "De David. Benu, ho mia animo, la Eternulon, Kaj mia tuta internaĵo Lian sanktan nomon.",
     "Benu, ho mia animo, la Eternulon, Kaj ne forgesu ĉiujn Liajn bonfarojn.",

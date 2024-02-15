@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Sendu virojn, ke ili esplorrigardu la landon Kanaanan, kiun Mi donas al la Izraelidoj; po unu viro el ĉiu tribo de iliaj patroj sendu, ĉiu estu eminentulo inter ili.",

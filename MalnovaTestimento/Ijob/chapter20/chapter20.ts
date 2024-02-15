@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Ekparolis Cofar, la Naamano, kaj diris:",
     "Pro tio miaj pensoj devigas min respondi, Pro tio, kion mi sentas.",

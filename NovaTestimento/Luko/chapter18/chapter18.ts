@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kaj li parolis al ili parabolon pri tio, ke oni devas ĉiam preĝi kaj ne laciĝi,",
     "dirante:En unu urbo estis juĝisto, kiu ne timis Dion, nek respektis homon;",

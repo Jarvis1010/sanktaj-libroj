@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Ve al la fiera krono de la ebriuloj de Efraim! ilia bela majesto estas velkinta floro; sur la supro de grasa kampo ili estas senkonsciigitaj de vino.",
     "Jen la Sinjoro havas fortulon kaj potenculon; kiel hajla pluvego, kiel pereiga ventego, kiel inundo de forta disverŝiĝinta akvo, li potence ĵetos ilin sur la teron.",

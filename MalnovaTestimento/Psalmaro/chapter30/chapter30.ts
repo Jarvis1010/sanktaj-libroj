@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Psalmo-kanto ĉe inaŭguro de la Domo; de David. Mi gloros Vin alte, ho Eternulo,   Ĉar Vi levis min kaj Vi ne lasis miajn malamikojn triumfi super mi.",
     "Ho Eternulo, mia Dio, mi vokis al Vi, Kaj Vi min sanigis.",

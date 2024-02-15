@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al Aaron, kaj diru al li:Kiam vi ekbruligos la lucernojn, tiam sur la antaŭan flankon de la kandelabro lumu la sep lucernoj.",

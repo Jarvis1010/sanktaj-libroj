@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj vi eksonigu funebran kanton pri la princoj de Izrael;",
     "kaj diru:Kial via patrino kiel leonino kuŝis inter leonoj, inter leonidoj edukis siajn idojn?",

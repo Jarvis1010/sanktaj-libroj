@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj Jesuo, elirinte, ekforiris de la templo; kaj liaj disĉiploj venis al li, por montri al li la konstruaĵojn de la templo.",
     "Sed li responde diris al ili:Ĉu vi ne vidas ĉion tion? vere mi diras al vi:Ne estos lasita ĉi tie ŝtono sur ŝtono, kiu ne estos deĵetita.",

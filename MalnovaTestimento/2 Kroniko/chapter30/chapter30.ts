@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "ĥizkija sendis al la tuta Izrael kaj Jehuda, li skribis ankaŭ leterojn al Efraim kaj Manase, ke ili venu en la domon de la Eternulo, en Jerusalemon, por fari Paskon al la Eternulo, Dio de Izrael.",
     "Kaj la reĝo kaj liaj eminentuloj kaj la tuta komunumo en Jerusalem per konsiliĝo decidis fari la Paskon en la dua monato;",

@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "En tiu tago vi diros:Mi dankas Vin, ho Eternulo; ĉar kvankam Vi koleris min, Via kolero jam foriĝis, kaj Vi konsolas min.",
     "Jen Dio estas mia savo:mi fidas, kaj mi ne timas; ĉar Dio, la Eternulo, estas mia forto kaj mia kanto, kaj Li fariĝis mia savo.",

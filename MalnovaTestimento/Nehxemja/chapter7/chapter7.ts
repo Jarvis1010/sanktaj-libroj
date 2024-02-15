@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kiam la murego estis konstruita, mi starigis la pordojn; kaj ricevis siajn oficojn la pordegistoj, la kantistoj, kaj la Levidoj.",
     "Kaj mi donis ordonon al mia frato ĥanani, kaj al ĥananja, kastelestro de Jerusalem (ĉar li estis homo fidela, kaj diotima pli ol multaj aliaj),",

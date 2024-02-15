@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Se do vi estas levitaj kun Kristo, serĉu tion, kio estas supre, kie Kristo sidas dekstre de Dio.",
     "Atentu tion, kio estas supre, ne surteraĵojn.",

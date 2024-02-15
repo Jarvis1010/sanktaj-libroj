@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Ve al la paŝtistoj, kiuj pereigas kaj diskurigas la ŝafojn de Mia paŝtataro! diras la Eternulo.",
     "Tial tiele diras la Eternulo, Dio de Izrael, pri la paŝtistoj, kiuj paŝtas Mian popolon:Vi diskurigis Miajn ŝafojn kaj dispelis ilin kaj ne observis ilin; jen Mi punos sur vi viajn malbonajn agojn, diras la Eternulo.",

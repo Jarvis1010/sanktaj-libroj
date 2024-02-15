@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Li montris al mi la ĉefpastron Josuo, kiu staris antaŭ la anĝelo de la Eternulo, kaj Satanon, kiu staris dekstre de li, por kontraŭagi al li.",
     "Kaj la Eternulo diris al Satano:La Eternulo faras al vi severan riproĉon, ho Satano, severe riproĉas vin la Eternulo, kiu favoras Jerusalemon; ĝi estas ja brulŝtipo, savita el la fajro.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Post la morto de Saul, kiam David revenis de la venkobato de Amalek, kaj David estis en Ciklag de du tagoj,",
     "okazis, ke en la tria tago iu viro venis el la tendaro, de Saul, kaj liaj vestoj estis disŝiritaj kaj terpolvo estis sur lia kapo; kaj kiam li alvenis al David, li ĵetis sin sur la teron kaj adorkliniĝis.",

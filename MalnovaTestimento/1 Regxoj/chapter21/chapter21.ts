@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Post tiu historio okazis jeno:Nabot, Jizreelano, havis vinberĝardenon en Jizreel, apud la palaco de Aĥab, reĝo de Samario.",
     "Kaj Aĥab ekparolis al Nabot, dirante:Donu al mi vian vinberĝardenon, por ke ĝi fariĝu por mi legomĝardeno, ĉar ĝi estas proksime de mia domo;  kaj mi donos al vi anstataŭ ĝi vinberĝardenon pli bonan ol ĝi; se vi volas, mi donos al vi per arĝento ĝian prezon.",

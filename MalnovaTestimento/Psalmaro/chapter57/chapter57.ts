@@ -1,6 +1,5 @@
 export const chapter57 = {
   chapterTitle: "Ĉapitro 57",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por Al-taŝĥet. Verko de David, kiam li forkuris de Saul en la kavernon. Korfavoru min, ho Dio, korfavoru min; Ĉar ĉe Vi rifuĝas mia animo,   Kaj sub la ombro de Viaj flugiloj mi min kaŝas,   Ĝis pasos la mizeroj.",
     "Mi vokas al Dio Plejalta, Al Dio, kiu decidas pri mi.",

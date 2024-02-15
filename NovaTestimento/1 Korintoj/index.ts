@@ -18,8 +18,6 @@ import { chapter16 } from "./chapter16/chapter16";
 export const unuKorintoj = {
   bookTitle: "1 Korintoj",
   bookTitleShort: "1 Korintoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

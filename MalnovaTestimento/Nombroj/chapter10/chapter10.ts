@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Faru al vi du arĝentajn trumpetojn, forĝitaj faru ilin; kaj ili servu al vi por kunvokado de la komunumo kaj por elmoviĝado de la tendaroj.",

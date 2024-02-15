@@ -1,6 +1,5 @@
 export const chapter33 = {
   chapterTitle: "Ĉapitro 33",
-  summary: "",
   verses: [
     "Kaj jen estas la beno, per kiu benis Moseo, la Dia homo, la Izraelidojn antaŭ sia morto.",
     "Li diris: La Eternulo venis de Sinaj  Kaj eklumis al ili de Seir;   Li ekbrilis de la monto Paran  Kaj venis el milmiloj da sanktuloj;   Ĉe Lia dekstra flanko estas fajro de leĝo por ili.",

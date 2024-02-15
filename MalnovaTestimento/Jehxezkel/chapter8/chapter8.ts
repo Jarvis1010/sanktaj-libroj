@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "En la sesa jaro, en la kvina tago de la sesa monato, mi sidis en mia domo, kaj la plejaĝuloj de Jehuda sidis antaŭ mi; kaj falis sur min la mano de la Sinjoro, la Eternulo.",
     "Kaj mi vidis, jen estas bildo, kiu aspektas kiel fajro; de la bildo de liaj lumboj malsupren estis fajro, kaj supre de liaj lumboj estis hela brilo, tre hela lumo.",

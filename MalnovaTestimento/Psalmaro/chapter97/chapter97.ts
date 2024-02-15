@@ -1,6 +1,5 @@
 export const chapter97 = {
   chapterTitle: "Ĉapitro 97",
-  summary: "",
   verses: [
     "La Eternulo reĝas; ĝoju la tero; Estu gajaj la multaj insuloj.",
     "Nubo kaj mallumo estas ĉirkaŭ Li; Vero kaj justeco estas la fundamento de Lia trono.",

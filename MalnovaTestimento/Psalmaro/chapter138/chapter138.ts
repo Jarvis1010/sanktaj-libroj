@@ -1,6 +1,5 @@
 export const chapter138 = {
   chapterTitle: "Ĉapitro 138",
-  summary: "",
   verses: [
     "De David. Mi gloras Vin el mia tuta koro; Antaŭ la dioj mi Vin prikantas.",
     "Mi kliniĝas antaŭ Via sankta templo, Kaj mi gloras Vian nomon por Via boneco kaj vereco;   Ĉar Vi grandigis pli ol ĉio Vian nomon per Via vorto.",

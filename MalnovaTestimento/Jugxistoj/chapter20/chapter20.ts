@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj eliris ĉiuj Izraelidoj, kaj kolektiĝis la tuta komunumo kiel unu homo, de Dan ĝis Beer-Ŝeba, kaj la lando Gilead, antaŭ la Eternulo en Micpa.",
     "Kaj kunvenis la estroj de la tuta popolo, ĉiuj triboj de Izrael, en la kunvenejon de la popolo de Dio, kvarcent mil piedirantoj kapablaj eltiri glavon.",

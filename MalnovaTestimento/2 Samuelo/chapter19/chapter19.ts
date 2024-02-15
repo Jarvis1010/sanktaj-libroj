@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Oni sciigis al Joab:Jen la reĝo ploras kaj malĝojas pri Abŝalom.",
     "Kaj la triumfo en tiu tago fariĝis funebro por la tuta popolo; ĉar la popolo aŭdis en tiu tago, ke la reĝo malĝojas pri sia filo.",

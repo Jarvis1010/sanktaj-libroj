@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Li konstruis al si domojn en la urbo de David, kaj pretigis lokon por la kesto de Dio, kaj etendis tendon super ĝi.",
     "Tiam David diris:Neniu portu la keston de Dio krom la Levidoj; ĉar ilin la Eternulo elektis, por ke ili portu la keston de Dio kaj servu al Li eterne.",

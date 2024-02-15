@@ -4,7 +4,5 @@ import { chapter2 } from "./chapter2/chapter2";
 export const HXagaja = {
   bookTitle: "Ĥagaja",
   bookTitleShort: "Ĥagaja",
-  subtitle: "",
-  summary: "",
   chapters: [chapter1, chapter2],
 } as const satisfies Book;

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Aŭskultu tion, ho pastroj, atentu, ho domo de Izrael, kaj prenu en viajn orelojn, ho reĝa domo; ĉar vin trafos juĝo pro tio, ke vi estis kaptilo en Micpa kaj etendita reto sur Tabor.",
     "Per premado ili profundigis la pekojn; Mi punos ĉiujn.",

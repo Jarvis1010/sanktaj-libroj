@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Ŝimŝon iris en Timnan, kaj ekvidis en Timna virinon el la filinoj de la Filiŝtoj.",
     "Kaj li iris kaj sciigis tion al sia patro kaj al sia patrino, kaj diris:Mi vidis en Timna virinon el la filinoj de la Filiŝtoj; nun prenu ŝin al mi kiel edzinon.",

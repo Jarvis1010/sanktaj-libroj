@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Mi atende esperis al la Eternulo, Kaj Li kliniĝis al mi kaj aŭskultis mian krion.",
     "Kaj Li eltiris min el la pereiga foso, el la ŝlima marĉo, Kaj Li starigis sur roko mian piedon kaj fortikigis miajn paŝojn.",

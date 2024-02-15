@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj mi vidis alian signon en la ĉielo, grandan kaj mirindan:sep anĝelojn havantajn sep plagojn, la finajn, ĉar en ili finiĝis la kolero de Dio.",
     "Kaj mi vidis kvazaŭ vitran maron, miksitan kun fajro; kaj tiujn, kiuj venkis la beston kaj ĝian bildon kaj la numeron de ĝia nomo; kaj ili staris sur la vitra maro, havante harpojn de Dio.",

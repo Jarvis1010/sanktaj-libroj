@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "En la tria jaro de Hoŝea, filo de Ela, reĝo de Izrael, ekreĝis ĥizkija, filo de Aĥaz, reĝo de Judujo.",
     "Li havis la aĝon de dudek kvin jaroj, kiam li fariĝis reĝo, kaj dudek naŭ jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Abi, filino de Zeĥarja.",

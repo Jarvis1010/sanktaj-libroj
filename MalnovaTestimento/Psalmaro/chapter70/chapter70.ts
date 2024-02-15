@@ -1,6 +1,5 @@
 export const chapter70 = {
   chapterTitle: "Ĉapitro 70",
-  summary: "",
   verses: [
     "Al la ĥorestro. De David. Pro memoro. Volu, ho Dio, savi min; Ho Eternulo, rapidu helpi min.",
     "Hontiĝu kaj konfuziĝu tiuj, kiuj serĉas mian animon; Retiriĝu kaj estu mokataj tiuj, kiuj deziras al mi malbonon.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Jakobo, servisto de Dio kaj de la Sinjoro Jesuo Kristo, al la dek du triboj, kiuj estas dispelitaj:Saluton!",
     "Rigardu ĉion kiel ĝojigan, miaj fratoj, kiam vi falas en diversajn tentojn,",

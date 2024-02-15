@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj ekrigardante, li vidis riĉulojn enĵetantajn siajn donacojn en la monkeston.",
     "Kaj li vidis unu malriĉan vidvinon enĵetantan tien du leptojn.",

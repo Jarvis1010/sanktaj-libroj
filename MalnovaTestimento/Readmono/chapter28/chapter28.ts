@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Se vi aŭskultos la voĉon de la Eternulo, via Dio, penante plenumi ĉiujn Liajn ordonojn, kiujn mi transdonas al vi hodiaŭ, tiam la Eternulo, via Dio, faros vin pli alta, ol ĉiuj popoloj de la tero.",
     "Kaj venos sur vin ĉiuj ĉi tiuj benoj kaj atingos vin, se vi aŭskultos la voĉon de la Eternulo, via Dio.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Alta kanto de Salomono.",
     "Ho, li kisu min per kisoj de sia buŝo! Ĉar via amo estas pli bona, ol vino.",

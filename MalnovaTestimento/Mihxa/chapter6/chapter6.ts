@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Aŭskultu, kion diras la Eternulo:Leviĝu, havu juĝan disputon kun la montoj, kaj la montetoj aŭdu vian voĉon.",
     "Aŭskultu, ho montoj, la juĝan disputon de la Eternulo, kaj ankaŭ vi, ho potencaj fundamentoj de la tero; ĉar la Eternulo havas juĝan disputon kun Sia popolo, kaj al Izrael Li volas doni moralinstruon.",

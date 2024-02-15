@@ -1,6 +1,5 @@
 export const chapter85 = {
   chapterTitle: "Ĉapitro 85",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de la Koraĥidoj. Vi korfavoris, ho Eternulo, Vian landon, Vi revenigis la forkaptitojn de Jakob;",
     "Vi pardonis la kulpon de Via popolo, Vi kovris ĉiujn ĝiajn pekojn.  Sela.",

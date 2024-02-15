@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj kiam la tumulto ĉesiĝis, Paŭlo, veniginte al si kaj admoninte la disĉiplojn, adiaŭis ilin, kaj foriris, por iri en Makedonujon.",
     "Kaj trairinte tiujn regionojn, kaj per multaj paroloj kuraĝiginte la tieulojn, li venis en Grekujon.",

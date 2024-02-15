@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "En la dek-unua jaro, en la tria monato, en la unua tago de la monato, aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, diru al Faraono, reĝo de Egiptujo, kaj al lia tuta popolo:Al kiu vi similigas vin en via grandeco?",

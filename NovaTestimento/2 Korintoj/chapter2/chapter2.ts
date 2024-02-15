@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Sed mi decidis por mi mem, ke mi ne venos al vi denove en malĝojo.",
     "Ĉar se mi vin malĝojigas, kiu do min ĝojigas, krom tiu, kiu estas malĝojigata de mi?",

@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo:",
     "Stariĝu en la pordego de la domo de la Eternulo, kaj tie proklamu ĉi tiun vorton, kaj diru:Aŭskultu la vorton de la Eternulo, ĉiuj Judoj, kiuj venas en ĉi tiun pordegon, por adorkliniĝi al la Eternulo.",

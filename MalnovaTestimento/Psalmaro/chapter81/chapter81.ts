@@ -1,6 +1,5 @@
 export const chapter81 = {
   chapterTitle: "Ĉapitro 81",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por la gitito. De Asaf. Laŭte kantu al Dio, nia forto; Ĝoje kriu al la Dio de Jakob.",
     "Sonigu kanton, donu tamburinon, Ĉarman harpon, kaj psalteron.",

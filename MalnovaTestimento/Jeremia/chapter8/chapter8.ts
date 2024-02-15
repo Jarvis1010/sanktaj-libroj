@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "En tiu tempo, diras la Eternulo, oni elĵetos el iliaj tomboj la ostojn de la reĝoj de Judujo kaj la ostojn de ĝiaj princoj kaj la ostojn de la pastroj kaj la ostojn de la profetoj kaj la ostojn de la loĝantoj de Jerusalem;",
     "kaj oni disĵetos ilin antaŭ la suno kaj antaŭ la luno kaj antaŭ la tuta armeo de la ĉielo, kiujn ili amis, al kiuj ili servis, kiujn ili sekvis, kiujn ili serĉis, kaj al kiuj ili adorkliniĝis; oni ne kolektos ilin kaj ne enterigos ilin, sed ili estos kiel sterko sur la supraĵo de la tero.",

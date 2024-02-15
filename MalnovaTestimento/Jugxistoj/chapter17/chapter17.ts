@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Estis homo sur la monto de Efraim; lia nomo estis Miĥa.",
     "Li diris al sia patrino:La mil kaj cent arĝentaj moneroj, kiujn oni prenis de vi kaj pro kiuj vi malbenis antaŭ miaj oreloj, jen la arĝento estas ĉe mi; mi prenis ĝin. Kaj lia patrino diris:Mia filo estu benata de la Eternulo.",

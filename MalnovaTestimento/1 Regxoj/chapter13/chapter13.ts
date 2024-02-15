@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj jen homo de Dio venis el Judujo laŭ ordono de la Eternulo en Bet- Elon, kiam Jerobeam staris sur la altaro, por incensi.",
     "Kaj li vokis al la altaro laŭ ordono de la Eternulo kaj diris:Ho altaro, altaro! tiele diras la Eternulo:Jen en la domo de David naskiĝos filo, kies nomo estos Joŝija, kaj li buĉos sur vi la pastrojn de la altaĵoj, incensantajn sur vi, kaj homaj ostoj estos bruligitaj sur vi.",

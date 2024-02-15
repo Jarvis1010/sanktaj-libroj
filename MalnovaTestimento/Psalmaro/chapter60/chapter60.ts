@@ -1,6 +1,5 @@
 export const chapter60 = {
   chapterTitle: "Ĉapitro 60",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por ŝuŝan-eduto. Instrua verko de David, kiam li militis kun Sirio Mezopotamia kaj kun Sirio Coba, kaj kiam Joab, revenante, batis dek du mil Edomidojn en la Valo de Salo. Ho Dio, Vi forlasis nin, Vi disbatis nin;   Vi koleris; rekonsolu nin.",
     "Vi ekskuis la teron kaj fendis ĝin; Resanigu ĝiajn vundojn, ĉar ĝi ŝanceliĝas.",

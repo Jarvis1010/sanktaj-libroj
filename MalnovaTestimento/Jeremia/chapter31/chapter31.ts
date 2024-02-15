@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "En tiu tempo, diras la Eternulo, Mi estos Dio de ĉiuj familioj de Izrael, kaj ili estos Mia popolo.",
     "Tiele diras la Eternulo:En la dezerto trovis favoron popolo, kiu restis ne ekstermita de la glavo; Izrael iras al sia trankviliĝo.",

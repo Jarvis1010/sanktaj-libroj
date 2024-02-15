@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj jen estas, kion la Izraelidoj ekposedis en la lando Kanaana, kaj kion posedigis al ili la pastro Eleazar, kaj Josuo, filo de Nun, kaj la familiestroj de la triboj de Izrael.",
     "Laŭ loto ili donis posedaĵon, kiel ordonis la Eternulo per Moseo, al la naŭ triboj kaj duono.",

@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj la Izraelidoj elmoviĝis, kaj haltis tendare en la stepoj de Moab, transe de Jordan, kontraŭ Jeriĥo.",
     "Balak, filo de Cipor, vidis ĉion, kion Izrael faris al la Amoridoj.",

@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ĉu vi, ho filo de homo, volas juĝi la urbon de sango kaj montri al ĝi ĉiujn ĝiajn abomenindaĵojn?",

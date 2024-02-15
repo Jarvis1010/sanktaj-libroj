@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Saĝa filo lernas de la patro; Sed mokanto ne aŭskultas moralinstruon.",
     "La frukto de la buŝo donas al homo bonan manĝon; Sed la deziro de krimuloj estas perforto.",

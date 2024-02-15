@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj dum Apolos estis en Korinto, Paŭlo, trapasinte la supran regionon, venis al Efeso, kaj trovinte iujn disĉiplojn,",
     "li diris al ili:Ĉu vi ricevis la Sanktan Spiriton, kiam vi ekkredis? Kaj ili diris al li:Ni ankoraŭ eĉ ne aŭdis, ĉu estas Sankta Spirito.",

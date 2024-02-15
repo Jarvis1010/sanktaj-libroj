@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ho malsaĝaj Galatoj, kiu vin ensorĉis? vin, antaŭ kies okuloj Kristo Jesuo estis publike prezentita krucumita.",
     "Nur la jenon mi deziras sciiĝi de vi:Ĉu per faroj de la leĝo vi ricevis la Spiriton, aŭ per la aŭdado de fido?",

@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo en la naŭa jaro, en la deka monato, en la deka tago de la monato, dirante:",
     "Ho filo de homo! enskribu al vi la nomon de ĉi tiu tago, ĝuste de ĉi tiu tago; la reĝo de Babel atingis Jerusalemon ĝuste en ĉi tiu tago.",

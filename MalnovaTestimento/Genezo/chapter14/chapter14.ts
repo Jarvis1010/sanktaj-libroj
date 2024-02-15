@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj estis en la tempo de Amrafel, reĝo de Ŝinar, Arjoĥ, reĝo de Elasar, Kedorlaomer, reĝo de Elam, kaj Tidal, reĝo de Gojim;",
     "ili faris militon kontraŭ Bera, reĝo de Sodom, kaj Birŝa, reĝo de Gomora, Ŝinab, reĝo de Adma, kaj Ŝemeber, reĝo de Ceboim, kaj la reĝo de Bela, kiu estas Coar.",

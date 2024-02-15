@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Abimeleĥ, filo de Jerubaal, iris en Ŝeĥemon, al la fratoj de sia patrino, kaj ekparolis al ili kaj al la tuta familio de la domo de sia patrinpatro jene:",
     "Diru al la oreloj de ĉiuj loĝantoj de Ŝeĥem:Kio estas pli bona al vi, ĉu ke regu vin sepdek homoj, ĉiuj filoj de Jerubaal, aŭ ke regu vin unu homo? memoru ankaŭ, ke mi estas via osto kaj via karno.",

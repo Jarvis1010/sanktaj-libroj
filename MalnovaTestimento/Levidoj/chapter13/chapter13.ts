@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante:",
     "Se ĉe iu homo sur la haŭto de lia korpo aperos ŝvelaĵo aŭ pustulo aŭ makulo tiamaniere, ke sur la haŭto de lia korpo fariĝos kvazaŭ infektaĵo de lepro, tiam oni alkonduku lin al la pastro Aaron aŭ al unu el liaj filoj, la pastroj.",

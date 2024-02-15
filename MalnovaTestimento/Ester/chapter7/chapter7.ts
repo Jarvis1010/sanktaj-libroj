@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "La reĝo kaj Haman venis, por festeni ĉe la reĝino Ester.",
     "Kaj ankaŭ en la dua tago, dum la trinkado de vino, la reĝo diris al Ester:Kion vi petas, ho reĝino Ester? tio estos donita al vi; kaj kia estas via deziro? ĝis duono de la regno ĝi estos plenumita.",

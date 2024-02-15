@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Pasis tri jaroj, kaj estis nenia milito inter Sirio kaj Izrael.",
     "En la tria jaro Jehoŝafat, reĝo de Judujo, venis al la reĝo de Izrael.",

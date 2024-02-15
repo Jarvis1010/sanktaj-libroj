@@ -1,6 +1,5 @@
 export const chapter95 = {
   chapterTitle: "Ĉapitro 95",
-  summary: "",
   verses: [
     "Venu, ni kantu al la Eternulo; Ni ĝoje kriu al la rifuĝejo de nia helpo.",
     "Ni venu antaŭ Lian vizaĝon kun glorado, Per psalmoj ni ĝoje kriu al Li.",

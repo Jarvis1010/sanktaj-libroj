@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj sian domon Salomono konstruis dum dek tri jaroj, kaj li finis sian tutan domon.",
     "Kaj li konstruis la domon de la arbaro Lebanona; ĝi havis la longon de cent ulnoj, la larĝon de kvindek ulnoj, kaj la alton de tridek ulnoj; sur kvar vicoj da cedraj kolonoj, kaj cedraj traboj estis sur la kolonoj.",

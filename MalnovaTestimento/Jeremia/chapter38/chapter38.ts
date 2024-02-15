@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "Ŝefatja, filo de Matan, Gedalja, filo de Paŝĥur, Juĥal, filo de Ŝelemja, kaj Paŝĥur, filo de Malkija, aŭdis la vortojn, kiujn Jeremia parolis al la tuta popolo, dirante:",
     "Tiele diras la Eternulo:Kiu restos en ĉi tiu urbo, tiu mortos de glavo, de malsato, aŭ de pesto; sed kiu eliros al la ĥaldeoj, tiu restos vivanta,  lia animo estos lia akiro, kaj li vivos.",

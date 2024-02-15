@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Kaj plue parolis Elihu, kaj diris:",
     "Atendu ankoraŭ iom; mi montros al vi, Ĉar mi havas ankoraŭ kion paroli pro Dio.",

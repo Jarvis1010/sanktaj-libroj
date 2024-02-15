@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Al la homo apartenas la projektoj de la koro; Sed de la Eternulo venas la vortoj de la lango.",
     "Ĉiuj vojoj de la homo estas puraj en liaj okuloj; Sed la Eternulo esploras la spiritojn.",

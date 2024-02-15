@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj David diris:Ĉu ekzistas ankoraŭ iu, kiu restis el la domo de Saul, ke mi povu fari al li favorkoraĵon pro Jonatan?",
     "El la domo de Saul estis servanto, kies nomo estis Ciba; kaj oni vokis lin al David, kaj la reĝo diris al li:Ĉu vi estas Ciba? Kaj tiu respondis:Mi, via sklavo.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "La reĝo Belŝacar faris grandan festenon por siaj mil eminentuloj kaj multe drinkis kun tiuj mil.",
     "Fariĝinte ebria, Belŝacar ordonis alporti la orajn kaj arĝentajn vazojn, kiujn lia patro Nebukadnecar venigis el la templo de Jerusalem, por ke el ili trinku la reĝo kaj liaj eminentuloj, liaj edzinoj kaj kromvirinoj.",

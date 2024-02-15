@@ -1,6 +1,5 @@
 export const chapter141 = {
   chapterTitle: "Ĉapitro 141",
-  summary: "",
   verses: [
     "Psalmo de David. Ho Eternulo, mi vokas al Vi; rapidu al mi; Atentu mian voĉon, kiam mi vokas al Vi.",
     "Mia preĝo valoru antaŭ Vi kiel incenso, La levo de miaj manoj kiel vespera oferdono.",

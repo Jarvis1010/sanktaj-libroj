@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Post multe da tempo aperis la vorto de la Eternulo al Elija en la tria jaro, dirante:Iru, montru vin al Aĥab, kaj Mi donos pluvon sur la teron.",
     "Kaj Elija iris, por montri sin al Aĥab. La malsato estis forta en Samario.",

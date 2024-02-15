@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Psalmo de David. Ho Eternulo, kiu povas gasti en Via tendo? Kiu povas loĝi sur Via sankta monto?",
     "Tiu, kiu vivas honeste, agas juste, Kaj parolas veron el sia koro;",

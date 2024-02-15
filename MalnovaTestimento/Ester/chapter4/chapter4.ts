@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiam Mordeĥaj eksciis ĉion, kio fariĝis, tiam Mordeĥaj disŝiris siajn vestojn, metis sur sin sakaĵon kaj cindron, eliris en la mezon de la urbo, kaj kriis per laŭta kaj maldolĉa voĉo.",
     "Kaj li venis ĝis antaŭ la pordego de la reĝo, ĉar estis malpermesite eniri en sakaĵo en la pordegon de la reĝo.",

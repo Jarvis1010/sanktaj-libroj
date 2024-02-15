@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Tiam Samuel diris al ĉiuj Izraelidoj:Jen mi obeis vian voĉon pri ĉio, kion vi diris al mi, kaj mi starigis por vi reĝon.",
     "Kaj nun jen la reĝo iras antaŭ vi, kaj mi maljuniĝis kaj griziĝis, kaj miaj filoj estas ĉi tie inter vi; mi iradis antaŭ vi de mia juneco ĝis la nuna tago.",

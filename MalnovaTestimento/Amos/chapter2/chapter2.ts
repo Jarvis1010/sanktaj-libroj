@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Tiele diras la Eternulo:Pro tri krimoj de Moab kaj pro kvar Mi ne indulgos lin, pro tio, ke li forbruligis la ostojn de la reĝo de Edom ĝis cindreco.",
     "Mi sendos fajron sur Moabon, kaj ĝi ekstermos la palacojn de Keriot; kaj Moab mortos en tumulto, ĉe bruo kaj sonado de trumpeto.",

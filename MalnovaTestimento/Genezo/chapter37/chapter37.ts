@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "Jakob loĝis en la lando, en kiu lia patro loĝis fremdule, en la lando Kanaana.",
     "Jen estas la generaciaro de Jakob. Jozef, havante la aĝon de dek sep jaroj, paŝtis kune kun siaj fratoj la brutaron; li estis knabo kune kun la filoj de Bilha kaj la filoj de Zilpa, la edzinoj de lia patro; kaj malbonajn famojn pri ili Jozef raportadis al ilia patro.",

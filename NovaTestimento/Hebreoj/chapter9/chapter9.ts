@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Sed eĉ la unua interligo havis ordonojn pri Diservado, kaj sanktejon mondan.",
     "Ĉar tabernaklo estis pretigita:la unua, en kiu estis la kandelabro kaj la tablo kaj la panoj de propono; ĝi estas nomata la Sanktejo;",

@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Sekvu amon; tamen deziregu spiritajn donacojn, sed prefere, ke vi profetadu.",
     "Ĉar tiu, kiu per lingvo parolas, ne al homoj parolas, sed al Dio; ĉar neniu komprenas, sed en la spirito li parolas misterojn.",

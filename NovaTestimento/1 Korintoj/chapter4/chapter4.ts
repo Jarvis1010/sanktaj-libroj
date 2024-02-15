@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Tiel oni rigardu nin, kiel servantojn de Kristo kaj administrantojn de la misteroj de Dio.",
     "Cetere, ĉi tie estas postulate ĉe administrantoj, ke oni troviĝu fidela.",

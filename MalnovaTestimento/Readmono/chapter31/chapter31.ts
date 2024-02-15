@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Kaj Moseo iris kaj parolis ĉi tiujn vortojn al la tuta Izrael.",
     "Kaj li diris al ili:Mi havas hodiaŭ la aĝon de cent dudek jaroj, mi ne povas plu eliri nek eniri; kaj la Eternulo diris al mi:Vi ne transiros ĉi tiun Jordanon.",

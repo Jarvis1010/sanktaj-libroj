@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj la profetoj, ĥagaj, la profeto, kaj Zeĥarja, filo de Ido, profetis pri la Judoj, kiuj estis en Judujo kaj Jerusalem, en la nomo de Dio de Izrael.",
     "Tiam leviĝis Zerubabel, filo de Ŝealtiel, kaj Jeŝua, filo de Jocadak, kaj komencis konstrui la domon de Dio en Jerusalem, kaj kun ili estis la profetoj de Dio, kiuj fortigadis ilin.",

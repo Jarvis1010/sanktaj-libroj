@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mi denove levis miajn okulojn, kaj mi ekvidis:jen staras viro, kiu tenas en sia mano mezurŝnuron.",
     "Mi demandis:Kien vi iras? Kaj li respondis al mi:Mezuri Jerusalemon, por vidi, kiel larĝa kaj kiel longa ĝi estas.",

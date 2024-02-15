@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Sekve, vi estas nedefendebla, ho ĉiu homo juĝanta; ĉar dum vi juĝas alian, vi kondamnas vin mem, ĉar vi, la juĝanto, faradas la samajn agojn.",
     "Kaj ni scias, ke la juĝo de Dio estas laŭ vero kontraŭ tiuj, kiuj faradas tiajn agojn.",

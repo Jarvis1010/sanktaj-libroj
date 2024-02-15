@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj Saŭlo konsentis al lia mortigo. Kaj en tiu tago komenciĝis granda persekutado kontraŭ la eklezio, kiu estis en Jerusalem; kaj ĉiuj estis dispelitaj tra la regionoj de Judujo kaj Samario, kun escepto de la apostolaro.",
     "Kaj piuloj enterigis Stefanon, kaj faris pri li grandan funebron.",

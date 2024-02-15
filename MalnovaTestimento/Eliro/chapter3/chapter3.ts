@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Moseo paŝtis la ŝafojn de Jitro, sia bopatro, pastro Midjana. Kaj li forkondukis la ŝafojn en malproksiman parton de la dezerto kaj venis al la Dia monto ĥoreb.",
     "Kaj aperis al li anĝelo de la Eternulo en flama fajro el la mezo de arbetaĵo. Kaj li vidis, ke jen la arbetaĵo brulas en la fajro, kaj tamen la arbetaĵo ne forbrulas.",

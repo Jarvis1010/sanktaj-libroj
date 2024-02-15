@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj nun, Jakobo, mi parolas al vi: Vi estas mia unuenaskito en la tagoj de mia aflikto en la dezerto, Kaj en via infaneco vi ja suferis afliktojn kaj multe da malĝojo pro la krudeco de viaj fratoj.",
     "Tamen, Jakobo, mia unuenaskito en la dezerto, vi konas la noblecon de Dio; kaj li konsekros viajn afliktojn por via avantaĝo.",

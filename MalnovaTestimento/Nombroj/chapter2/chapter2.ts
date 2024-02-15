@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante:",
     "La Izraelidoj starigu siajn tendojn ĉiu apud sia standardo, apud la signoj de sia patrodomo; iom malproksime ĉirkaŭ la tabernaklo de kunveno ili starigu siajn tendojn.",

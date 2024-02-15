@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj kiam li eniris en sabato en la domon de unu reganto de la Fariseoj, por manĝi panon, ili lin observis.",
     "Kaj jen antaŭ li estis unu hidropsulo.",

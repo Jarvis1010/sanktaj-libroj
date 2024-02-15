@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Tio estas la vortoj de la interligo, kiun la Eternulo ordonis al Moseo fari kun la Izraelidoj en la lando de Moab, krom la interligo, kiun Li faris kun ili sur ĥoreb.",
     "Kaj Moseo vokis al ĉiuj Izraelidoj, kaj diris al ili:Vi vidis ĉion, kion faris la Eternulo antaŭ viaj okuloj en la lando Egipta al Faraono kaj al ĉiuj liaj servantoj kaj al lia tuta lando,",

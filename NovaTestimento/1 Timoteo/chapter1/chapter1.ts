@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, apostolo de Kristo Jesuo, laŭ la ordono de Dio, nia Savanto, kaj Kristo Jesuo, nia espero,",
     "al Timoteo, mia vera filo en fido:Graco, kompato, kaj paco de Dio, la Patro, kaj de Kristo Jesuo, nia Sinjoro.",

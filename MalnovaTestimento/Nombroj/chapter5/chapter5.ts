@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Ordonu al la Izraelidoj, ke ili elsendu el la tendaro ĉiujn leprulojn, kaj ĉiujn, kiuj havas elfluon, kaj ĉiujn, kiuj malpuriĝis de mortinto.",

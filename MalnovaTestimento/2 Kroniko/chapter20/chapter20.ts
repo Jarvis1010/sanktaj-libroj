@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Post tio la Moabidoj kaj la Amonidoj, kaj kun ili ankaŭ najbaroj de la Amonidoj, iris milite kontraŭ Jehoŝafaton.",
     "Kaj oni venis kaj raportis al Jehoŝafat, dirante:Venis kontraŭ vin granda multo da homoj de trans la maro, el Sirio; kaj jen ili nun estas en ĥacacon-Tamar, tio estas en En-Gedi.",

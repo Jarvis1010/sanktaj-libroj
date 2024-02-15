@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Fidinda estas la diro:Se iu celas episkopecon, tiu deziras bonan laboron.",
     "Episkopo do devas esti neriproĉebla, edzo de unu edzino, sobra, moderema, ordema, gastama, instruema,",

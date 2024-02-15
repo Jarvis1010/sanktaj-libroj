@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Ili elmoviĝis el Elim, kaj la tuta komunumo de la Izraelidoj venis en la dezerton Sin, kiu troviĝas inter Elim kaj Sinaj, en la dek-kvina tago de la dua monato, post sia eliro el la lando Egipta.",
     "Kaj la tuta komunumo de la Izraelidoj ekmurmuris kontraŭ Moseo kaj Aaron en la dezerto.",

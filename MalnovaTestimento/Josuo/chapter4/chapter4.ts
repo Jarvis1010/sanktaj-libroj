@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj kiam la tuta popolo transiris Jordanon, la Eternulo diris al Josuo jene:",
     "Prenu al vi el la popolo dek du virojn, po unu viro el ĉiu tribo,",

@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "Kaj ekreĝis la reĝo Cidkija, filo de Joŝija, anstataŭ Konja, filo de Jehojakim, ĉar Nebukadnecar, reĝo de Babel, faris lin reĝo en la Juda lando.",
     "Li kaj liaj servantoj kaj la popolo de la lando ne obeis la vortojn de la Eternulo, kiujn Li diris per la profeto Jeremia.",

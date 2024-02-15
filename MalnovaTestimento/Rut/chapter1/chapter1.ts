@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la tempo, kiam regis la juĝistoj, iam malsato okazis en la lando; kaj foriris viro el Bet-Leĥem en Judujo, por pasloĝi en la lando de Moab; li kaj lia edzino kaj liaj du filoj.",
     "La nomo de la viro estis Elimeleĥ, kaj la nomo de lia edzino estis Naomi, kaj la nomoj de liaj du filoj estis Maĥlon kaj Kiljon, Efratanoj el Bet-Leĥem en Judujo. Kaj ili venis sur la kampojn de Moab kaj restis tie.",

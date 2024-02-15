@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Kiam ĉio ĉi tio finiĝis, ĉiuj Izraelidoj, kiuj tie troviĝis, eliris en la urbojn de Judujo, kaj disrompis la statuojn, dishakis la sanktajn stangojn, kaj detruis la altaĵojn kaj la altarojn en la tuta Judujo kaj en la regionoj de Benjamen, de Efraim, kaj de Manase, ĝis plena ekstermo. Kaj reiris ĉiuj Izraelidoj ĉiu al sia posedaĵo, al siaj urboj.",
     "Kaj ĥizkija starigis la grupojn de la pastroj kaj de la Levidoj laŭ ilia ordo, ĉiun laŭ ĝia destino, la pastrojn kaj la Levidojn por la bruloferoj kaj por la pacoferoj, por servado, por laŭdkantado kaj glorkantado, ĉe la pordegoj de la tendaro de la Eternulo.",

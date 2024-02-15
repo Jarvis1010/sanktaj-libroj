@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, diru al la reganto de Tiro:Tiele diras la Sinjoro, la Eternulo:Pro tio, ke via koro fieriĝis, kaj vi diris:Mi estas dio, mi sidas sur dia trono en la mezo de la maroj; dum vi estas homo, sed ne dio, kvankam vi rigardas vian koron kiel koron de dio;",

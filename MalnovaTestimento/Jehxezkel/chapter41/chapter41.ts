@@ -1,6 +1,5 @@
 export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
-  summary: "",
   verses: [
     "Kaj li venigis min en la templon; kaj li mezuris ĉe la kolonoj ses ulnojn da larĝo ĉe unu flanko kaj ses ulnojn da larĝo ĉe la alia flanko, laŭlarĝe de la tabernaklo.",
     "La larĝo de la pordo estis dek ulnoj, kaj la flankoj de la pordo havis la larĝon de kvin ulnoj ĉe unu flanko kaj kvin ulnoj ĉe la alia flanko; kaj li mezuris la longon de la templo, kvardek ulnojn, kaj la larĝon, dudek ulnojn.",

@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Ĉu iu el vi, havante aferon kontraŭ sia proksimulo, kuraĝas procesi antaŭ la malpiuloj, kaj ne antaŭ la sanktuloj?",
     "Aŭ ĉu vi ne scias, ke la sanktuloj juĝos la mondon? kaj se la mondon vi juĝos, ĉu vi ne estas indaj juĝi la plej malgrandajn aferojn?",

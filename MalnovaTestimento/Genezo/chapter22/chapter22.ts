@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Post tiuj okazintaĵoj Dio provis Abrahamon, kaj diris al li: Abraham! Kaj tiu respondis: Jen mi estas.",
     "Kaj Li diris: Prenu vian filon, vian solan, kiun vi amas, Isaakon, kaj iru en la landon Morija, kaj oferu lin tie kiel bruloferon sur unu el la montoj, kiun Mi montros al vi.",

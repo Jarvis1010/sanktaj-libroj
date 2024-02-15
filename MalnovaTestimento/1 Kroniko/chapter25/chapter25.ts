@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "David kaj la militestroj apartigis por la servado filojn de Asaf, de Heman, kaj de Jedutun, kiuj estis inspiritaj por harpoj, psalteroj, kaj cimbaloj. Ili estis kalkulitaj por sia servado:",
     "el la filoj de Asaf:Zakur, Jozef, Netanja, kaj Aŝarela, filoj de Asaf, sub gvidado de Asaf, kiu kantis ĉe la reĝo.",

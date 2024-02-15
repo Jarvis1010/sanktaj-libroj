@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kiam Salomono finis la konstruadon de la domo de la Eternulo kaj de la reĝa domo, kaj de ĉio dezirita de Salomono, kion li deziris fari,",
     "la Eternulo aperis al Salomono duan fojon, kiel Li aperis al li en Gibeon.",

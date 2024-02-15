@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Post tio Abŝalom havigis al si ĉaron kaj ĉevalojn kaj kvindek virojn, kiuj kuradis antaŭ li.",
     "Kaj Abŝalom leviĝadis frue, kaj stariĝadis ĉe la vojo al la pordego; kaj ĉiun homon, kiu havis plendon kaj iris al la reĝo por juĝo, Abŝalom vokis al si, kaj diris al li:El kiu urbo vi estas? Kaj kiam tiu respondis:Via sklavo estas el tiu aŭ tiu tribo de Izrael,",

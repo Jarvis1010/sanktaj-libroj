@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Profetaĵo, kiun laŭvizie eldiris la profeto Ĥabakuk.",
     "Ĝis kiam, ho Eternulo, mi krios, kaj Vi ne aŭskultos, mi krios al Vi pri perfortaĵo, kaj Vi ne helpos?",

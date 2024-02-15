@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "La Filiŝtoj kolektis siajn militistarojn por milito, kaj kuniĝis apud Soĥo de Jehuda, kaj stariĝis tendare inter Soĥo kaj Azeka, en Efes-Damim.",
     "Kaj Saul kaj la viroj de Izrael kolektiĝis, kaj stariĝis tendare en la valo de Ela, kaj pretigis sin por batalo kontraŭ la Filiŝtoj.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj revenis la anĝelo, kiu antaŭe parolis kun mi; kaj li vekis min, kiel oni vekas iun el lia dormo.",
     "Kaj li diris al mi:Kion vi vidas? Mi respondis:Mi vidas kandelabron tute el oro, kaj kaliketon ĝi havas sur sia supro, kaj sep lucernoj estas sur ĝi, kaj po sep tubetoj troviĝas sur la lucernoj supre de ĝi.",

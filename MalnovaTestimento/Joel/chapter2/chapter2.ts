@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Blovu per korno en Cion, kaj kriu alarmon sur Mia sankta monto; ektremu ĉiuj loĝantoj de la lando; ĉar venas la tago de la Eternulo, ĝi estas jam proksima;",
     "tago de mallumo kaj senlumeco, tago de nuboj kaj nebulo; simile al la matena ĉielruĝo disvastiĝas sur la montoj popolo grandnombra kaj forta; tia neniam ekzistis ĝis nun, kaj ankaŭ post ĝi ne plu ekzistos tia, en iu ajn generacio.",

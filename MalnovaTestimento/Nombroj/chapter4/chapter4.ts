@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante:",
     "Prikalkulu la filojn de Kehat el inter la Levidoj laŭ iliaj familioj, laŭ iliaj patrodomoj,",

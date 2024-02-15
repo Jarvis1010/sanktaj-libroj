@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Unu tagon, kiam la filoj de Dio venis, por stariĝi antaŭ la Eternulo, venis ankaŭ Satano inter ili, por stariĝi antaŭ la Eternulo.",
     "Kaj la Eternulo diris al Satano:De kie vi venas? Kaj Satano respondis al la Eternulo, kaj diris:Mi vagadis sur la tero kaj rondiradis sur ĝi.",

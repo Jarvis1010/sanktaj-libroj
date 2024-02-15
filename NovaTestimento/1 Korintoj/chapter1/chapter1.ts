@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, vokita por esti apostolo de Jesuo Kristo per la volo de Dio, kaj Sostenes, nia frato,",
     "al tiu eklezio de Dio, kiu estas en Korinto, al tiuj, kiuj estas sanktigitaj en Kristo Jesuo, vokitaj por esti sanktuloj, kune kun ĉiuj, kiuj en ĉiu loko vokas la nomon de nia Sinjoro Jesuo Kristo, ilia Sinjoro kaj nia:",

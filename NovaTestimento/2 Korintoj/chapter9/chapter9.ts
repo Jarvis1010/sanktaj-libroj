@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Ĉar pri la servado al la sanktuloj estas por mi superflue skribi al vi;",
     "ĉar mi scias vian volontecon, pri kiu mi fanfaronas pro vi al la Makedonoj, ke la Aĥaja lando jam antaŭ unu jaro pretiĝis; kaj via fervoro instigis la plimulton el ili.",

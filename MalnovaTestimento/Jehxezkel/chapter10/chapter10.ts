@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj mi vidis:jen sur la firmamento, kiu estis super la kapoj de la keruboj, io simila al safiro, aspektanta kiel bildo de trono, aperis super ili.",
     "Kaj Li diris al la viro, vestita per tolo, jene:Eniru inter la radojn sub la kerubon, kaj prenu plenmanojn da ardantaj karboj el inter la keruboj, kaj ĵetu ilin sur la urbon. Kaj li eniris antaŭ miaj okuloj.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Joel, filo de Petuel.",
     "Aŭskultu ĉi tion, ho maljunuloj, kaj atentu, ho ĉiuj loĝantoj de la lando! Ĉu estis ĉi tio en via tempo, aŭ en la tempo de viaj patroj?",

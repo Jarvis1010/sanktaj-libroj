@@ -1,6 +1,5 @@
 export const chapter43 = {
   chapterTitle: "Ĉapitro 43",
-  summary: "",
   verses: [
     "Sed nun tiele diras la Eternulo, kiu vin kreis, ho Jakob, kaj kiu vin estigis, ho Izrael:Ne timu, ĉar Mi vin savos; Mi vokos vin laŭ via nomo, vi estas Mia.",
     "Kiam vi transiros akvon, Mi estos kun vi, kaj trans riverojn, ili vin ne dronigos; kiam vi iros en fajron, vi ne brulvundiĝos, kaj flamo vin ne bruligos.",

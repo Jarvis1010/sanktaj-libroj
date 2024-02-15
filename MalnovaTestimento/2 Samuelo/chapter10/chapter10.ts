@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Okazis poste, ke mortis la reĝo de la Amonidoj, kaj lia filo ĥanun fariĝis reĝos anstataŭ li.",
     "Tiam David diris:Mi estos favorkora al ĥanun, filo de Naĥaŝ, konforme al tio, kiel lia patro agis favorkore koncerne min. Kaj David sendis, por konsoli lin per siaj servantoj pri lia patro. Kaj la servantoj de David venis en la landon de la Amonidoj.",

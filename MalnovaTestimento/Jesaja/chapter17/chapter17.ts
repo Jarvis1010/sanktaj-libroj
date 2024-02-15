@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Profetaĵo pri Damasko: Jen Damasko ne plu estos urbo, sed ĝi estos amaso da ruinaĵoj.",
     "Forlasitaj estos la urboj de Aroer; brutaroj tie paŝtiĝos, kaj neniu ilin fortimigos.",

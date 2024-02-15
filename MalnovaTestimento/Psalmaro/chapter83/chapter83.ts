@@ -1,6 +1,5 @@
 export const chapter83 = {
   chapterTitle: "Ĉapitro 83",
-  summary: "",
   verses: [
     "Kanto-psalmo de Asaf. Ho Dio, ne silentu; Ne estu senparola kaj ne restu trankvila, ho Dio!",
     "Ĉar jen Viaj malamikoj ekbruis, Kaj Viaj malamantoj levis la kapon.",

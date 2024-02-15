@@ -1,6 +1,5 @@
 export const chapter114 = {
   chapterTitle: "Ĉapitro 114",
-  summary: "",
   verses: [
     "Kiam Izrael eliris el Egiptujo, La domo de Jakob el fremda popolo,",
     "Tiam Jehuda fariĝis Lia sanktaĵo, Izrael Lia regno.",

@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kiam Raĥel vidis, ke ŝi ne naskas al Jakob, ŝi enviis sian fratinon, kaj ŝi diris al Jakob: Donu al mi infanojn, ĉar alie mi mortos.",
     "Kaj Jakob forte ekkoleris Raĥelon, kaj li diris: Ĉu mi anstataŭas Dion, kiu rifuzis al vi frukton de ventro?",

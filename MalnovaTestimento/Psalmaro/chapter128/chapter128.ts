@@ -1,6 +1,5 @@
 export const chapter128 = {
   chapterTitle: "Ĉapitro 128",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Feliĉa estas tiu, kiu timas la Eternulon Kaj iras laŭ Liaj vojoj.",
     "Kiam vi manĝas la laborakiron de viaj manoj, Feliĉe kaj bone estas al vi.",

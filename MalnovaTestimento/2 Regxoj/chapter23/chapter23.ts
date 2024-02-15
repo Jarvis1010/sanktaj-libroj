@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "La reĝo sendis, kaj oni kunvenigis al li ĉiujn plejaĝulojn de Judujo kaj Jerusalem.",
     "Kaj la reĝo iris en la domon de la Eternulo, kaj kune kun li ĉiuj Judoj kaj ĉiuj loĝantoj de Jerusalem, kaj la pastroj kaj la profetoj kaj la tuta popolo, de la malgrandaj ĝis la grandaj; kaj oni voĉlegis antaŭ ili ĉiujn vortojn de la libro de interligo, kiu estis trovita en la domo de la Eternulo.",

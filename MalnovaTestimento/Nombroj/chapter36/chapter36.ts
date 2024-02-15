@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Kaj aliris la familiestroj de la familio de Gilead, filo de Maĥir, filo de Manase, el la familioj de la Jozefidoj, kaj ekparolis antaŭ Moseo kaj antaŭ la eminentuloj, la familiestroj de la Izraelidoj;",
     "kaj ili diris:Al nia sinjoro la Eternulo ordonis disdoni la teron kiel posedaĵon per loto al la Izraelidoj, kaj al nia sinjoro la Eternulo ordonis doni la parton de nia frato Celofĥad al liaj filinoj.",

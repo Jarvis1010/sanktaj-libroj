@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Tiam la reĝo Dario ordonis, ke oni serĉu en la domo de dokumentoj, kie la trezoroj estis deponitaj, en Babel.",
     "Kaj oni trovis en Aĥmeta, la reĝa kastelo en la Meda lando, unu skribrulaĵon, en kiu estis skribita la sekvanta pormemoraĵo:",

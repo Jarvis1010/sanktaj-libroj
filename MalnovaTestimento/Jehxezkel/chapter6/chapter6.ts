@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, direktu vian vizaĝon al la montoj de Izrael, kaj profetu pri ili;",

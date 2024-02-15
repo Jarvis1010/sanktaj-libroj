@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Sed la Eternulo diris al Moseo:Nun vi vidos, kion Mi faros al Faraono; ĉar pro mano forta li foririgos ilin kaj pro mano forta li elpelos ilin el sia lando.",
     "Kaj Dio ekparolis al Moseo kaj diris al li:Mi estas la ETERNULO.",

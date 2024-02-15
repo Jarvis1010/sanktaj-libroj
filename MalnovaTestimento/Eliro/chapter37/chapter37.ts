@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "Kaj Becalel faris la keston el akacia ligno; du ulnoj kaj duono estis ĝia longo, kaj unu ulno kaj duono ĝia larĝo, kaj unu ulno kaj duono ĝia alto.",
     "Kaj li tegis ĝin per pura oro interne kaj ekstere, kaj li faris al ĝi oran kronon ĉirkaŭe.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "En la tria tago Ester vestis sin reĝe, kaj stariĝis sur la interna korto de la reĝa domo, kontraŭ la domo de la reĝo. La reĝo sidis sur sia reĝa trono en la reĝa domo, kontraŭ la enirejo de la domo.",
     "Kiam la reĝo ekvidis la reĝinon Ester, starantan sur la korto, ŝi trovis favoron en liaj okuloj, kaj la reĝo etendis al Ester la oran sceptron, kiu estis en lia mano; tiam Ester aliris, kaj ektuŝis la pinton de la sceptro.",

@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Ŝimŝon iris en Gazan kaj vidis tie malĉastulinon kaj eniris al ŝi.",
     "Al la Gazaanoj oni diris:Ŝimŝon venis ĉi tien; kaj ili ĉirkaŭis lin kaj spione atendis lin dum la tuta nokto ĉe la pordego de la urbo, kaj staris senbrue dum la tuta nokto, dirante:Antaŭ la mateniĝo ni lin mortigos.",

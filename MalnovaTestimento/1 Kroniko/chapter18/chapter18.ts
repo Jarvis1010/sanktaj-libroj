@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Post tio okazis, ke David venkobatis la Filiŝtojn kaj humiligis ilin, kaj li prenis Gaton kaj ĝiajn filinurbojn el la manoj de la Filiŝtoj.",
     "Li ankaŭ venkobatis la Moabidojn, kaj la Moabidoj submetiĝis al David kaj alportis tributojn.",

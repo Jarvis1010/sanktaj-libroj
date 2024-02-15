@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kiam Ezra preĝis kaj faris konfeson, plorante kaj kuŝante antaŭ la domo de Dio, kolektiĝis al li el la Izraelidoj tre granda amaso, viroj, virinoj, kaj infanoj; ĉar ankaŭ la popolo tre multe ploris.",
     "Kaj ekparolis Ŝeĥanja, filo de Jeĥiel, el la idoj de Elam, kaj diris al Ezra:Ni faris krimon kontraŭ nia Dio, prenante edzinojn aligentajn el la popoloj de la lando. Tamen nun ekzistas espero por Izrael en ĉi tiu afero.",

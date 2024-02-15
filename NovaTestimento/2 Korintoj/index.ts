@@ -15,8 +15,6 @@ import { chapter13 } from "./chapter13/chapter13";
 export const duKorintoj = {
   bookTitle: "2 Korintoj",
   bookTitleShort: "2 Korintoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

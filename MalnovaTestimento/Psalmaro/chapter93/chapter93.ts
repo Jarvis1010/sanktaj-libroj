@@ -1,6 +1,5 @@
 export const chapter93 = {
   chapterTitle: "Ĉapitro 93",
-  summary: "",
   verses: [
     "La Eternulo reĝas; Li estas vestita de majesto; La Eternulo estas vestita kaj zonita de potenco;   Kaj fortikigita estas la mondo, ke ĝi ne ŝanceliĝu.",
     "De antikve estas fortika Via trono; Vi estas de eterne.",

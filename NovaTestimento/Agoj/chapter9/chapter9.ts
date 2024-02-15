@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj Saŭlo, ankoraŭ spirante minacojn kaj mortigon kontraŭ la disĉiploj de la Sinjoro, iris al la ĉefpastro,",
     "kaj petis de li leterojn al la sinagogoj en Damasko, por ke, se li eble trovos homojn, aliĝintajn al la Vojo, ĉu virojn aŭ virinojn, li alkonduku ilin katenitajn al Jerusalem.",

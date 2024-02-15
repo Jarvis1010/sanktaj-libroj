@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj Petro kaj Johano estis suprenirantaj en la templon je la horo de preĝado, la naŭa.",
     "Kaj unu viro, lama de la patrina ventro, estis portata; oni lin metis ĉiutage apud tiu pordego de la templo, kiu estas nomata La Bela, por ke li petu pri almozoj la enirantojn en la templon;",

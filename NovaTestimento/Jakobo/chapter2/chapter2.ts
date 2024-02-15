@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Miaj fratoj, ne kun personfavorado tenu la fidon de nia Sinjoro Jesuo Kristo, la glora Sinjoro.",
     "Ĉar se en vian sinagogon envenas viro kun oraj ringoj, en bela vestaro, kaj envenas ankaŭ malriĉulo en malpura vestaro;",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Aŭskultu, ho Izrael! vi transiras nun Jordanon, por iri kaj ekposedi popolojn, kiuj estas pli grandaj kaj pli fortaj ol vi, urbojn grandajn kaj fortikigitajn ĝis la ĉielo,",
     "popolon grandan kaj altkreskan, la Anakidojn, kiujn vi konas, kaj pri kiuj vi aŭdis:Kiu povas kontraŭstari al la filoj de Anak?",

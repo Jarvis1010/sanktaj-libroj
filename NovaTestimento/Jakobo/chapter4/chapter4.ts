@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "De kie militoj kaj de kie bataloj inter vi? ĉu ne de viaj voluptoj, militantaj en viaj membroj?",
     "Vi deziras, kaj ne havas; vi mortigas kaj konkuras, kaj ne povas akiri; vi batalas kaj militas; vi ne havas, ĉar vi ne petas.",

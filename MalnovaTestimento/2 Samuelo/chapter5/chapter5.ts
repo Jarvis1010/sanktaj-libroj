@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj venis ĉiuj triboj de Izrael al David en ĥebronon, kaj diris jene:Jen ni estas via osto kaj via karno;",
     "jam antaŭe, kiam Saul estis reĝo super ni, vi estis la elkondukanto kaj enkondukanto de Izrael; kaj la Eternulo diris al vi:Vi paŝtos Mian popolon Izrael, kaj vi estos la estro super Izrael.",

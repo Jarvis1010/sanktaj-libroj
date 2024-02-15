@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Tial ni, pravigite per fido, havu pacon kun Dio per nia Sinjoro Jesuo Kristo,",
     "per kiu ankaŭ ni ricevis enkondukon per fido en ĉi tiun gracon, en kiu ni staras; kaj ni ĝoju pro espero de la gloro de Dio.",

@@ -1,6 +1,5 @@
 export const chapter66 = {
   chapterTitle: "Ĉapitro 66",
-  summary: "",
   verses: [
     "Al la ĥorestro. Kanto-psalmo. Ĝoje kriu al Dio tuta la tero.",
     "Muziku la gloron de Lia nomo, Faru honoron al Lia gloro.",

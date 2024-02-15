@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Se estus pesita mia ĉagreno, Kaj samtempe estus metita sur la pesilon mia suferado,",

@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj tiam okazis, ke, post kiam mi, Nifai, ĉesis paroli al miaj fratoj, ili diris al mi: Vi deklaris al ni severaĵojn, pli ol kiom ni povas elporti.",
     "Kaj okazis, ke mi diris al ili, ke mi scias, ke mi diris severaĵojn kontraŭ la malbonuloj, konforme al la vero; kaj la virtulojn mi pravigis kaj atestis, ke ili estos altigitaj en la lasta tago; pro tio la kulpuloj opinias, ke la vero estas severa, ĉar ĝi tranĉas ilin al la centro mem.",

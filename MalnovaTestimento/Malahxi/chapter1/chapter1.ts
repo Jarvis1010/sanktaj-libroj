@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Profeta vorto de la Eternulo al Izrael per Malaĥi.",
     "Mi ekamis vin, diras la Eternulo. Vi demandas:En kio Vi nin ekamis? Ĉu Esav ne estas frato de Jakob? diras la Eternulo; tamen Mi ekamis Jakobon,",

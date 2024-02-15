@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "KAJ nun okazis, kiam la reĝo Benjameno finis paroli la vortojn, kiujn la anĝelo de la Sinjoro transdiris al li, ke li ĵetis sian rigardon sur la homamason, kaj li vidis, ke ili falis sur la teron, ĉar sur ilin falis teruro de la Sinjoro.",
     "Kaj ili vidis sin en sia karna stato eĉ malpli ol la polvo de la tero. Kaj unuvoĉe ili ĉiuj laŭte kriis, dirante: Ho, havu kompaton, kaj apliku la elaĉetantan sangon de Kristo por ke ni ricevu pardonon de niaj pekoj, kaj por ke niaj koroj estu purigitaj; ĉar ni kredas je Jesuo Kristo, la Filo de Dio, kiu kreis la ĉielon kaj la teron, kaj ĉion; kiu malsuprenvenos inter la homidojn.",

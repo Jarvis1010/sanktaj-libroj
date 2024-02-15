@@ -1,6 +1,5 @@
 export const chapter46 = {
   chapterTitle: "Ĉapitro 46",
-  summary: "",
   verses: [
     "Kliniĝis Bel, falis Nebo; iliaj idoloj estas transdonitaj al bestoj kaj brutoj; tio, kion vi portadis, fariĝis ŝarĝo por lacaj bestoj.",
     "Ili kliniĝis kaj falis kune, ne povis savi sian ŝarĝon, kaj mem iris en malliberecon.",

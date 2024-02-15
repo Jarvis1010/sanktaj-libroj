@@ -1,6 +1,5 @@
 export const chapter112 = {
   chapterTitle: "Ĉapitro 112",
-  summary: "",
   verses: [
     "Haleluja! Bone estas al la homo, kiu timas la Eternulon  Kaj tre amas Liajn ordonojn.",
     "Forta sur la tero estos lia semo; La gento de virtuloj estos benita.",

@@ -1,6 +1,5 @@
 export const chapter48 = {
   chapterTitle: "Ĉapitro 48",
-  summary: "",
   verses: [
     "Post tiuj okazintaĵoj oni sciigis al Jozef: Jen, via patro estas malsana. Kaj li prenis kun si siajn du filojn, Manase kaj Efraim.",
     "Kaj oni sciigis al Jakob, dirante: Jen via filo Jozef venas al vi. Tiam Izrael streĉis siajn fortojn kaj sidiĝis sur la lito.",

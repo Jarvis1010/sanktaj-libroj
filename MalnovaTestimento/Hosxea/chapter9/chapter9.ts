@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Ne ĝoju, ho Izrael, ne estu gaja, kiel la popoloj, ĉar vi malĉaste foriĝis de via Dio, vi preferas proamaĵajn donacojn ol ĉiujn grenejojn plenajn de greno.",
     "Tial draŝejo kaj vinpremejo ne nutros ilin, la mosto mankos en ĝi.",

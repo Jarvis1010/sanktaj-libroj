@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Kaj vi, ho filo de homo, profetu pri la montoj de Izrael, kaj diru:Ho montoj de Izrael, aŭskultu la vorton de la Eternulo!",
     "Tiele diras la Sinjoro, la Eternulo:Ĉar la malamiko diras pri vi:Ha, ha! ankaŭ la eternaj altaĵoj fariĝis niaj posedaĵoj;",

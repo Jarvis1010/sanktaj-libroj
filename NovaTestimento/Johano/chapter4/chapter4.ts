@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiam do la Sinjoro sciis, ke la Fariseoj aŭdis, ke Jesuo faras kaj baptas pli multe da disĉiploj, ol Johano",
     "(kvankam baptadis ne Jesuo mem, sed liaj disĉiploj),",

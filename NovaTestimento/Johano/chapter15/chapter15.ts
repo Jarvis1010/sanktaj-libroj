@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Mi estas la vera vinberarbo, kaj mia Patro estas la kultivisto.",
     "Ĉiun nefruktodonan branĉon en mi Li forprenas; kaj ĉiun fruktodonan branĉon Li purigas, por ke ĝi donu pli da frukto.",

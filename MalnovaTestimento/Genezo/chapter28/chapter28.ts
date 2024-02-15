@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Tiam Isaak alvokis Jakobon kaj benis lin, kaj ordonis al li, dirante: Ne prenu edzinon el la filinoj Kanaanaj.",
     "Leviĝu, iru Mezopotamion, al la domo de Betuel, la patro de via patrino, kaj prenu al vi el tie edzinon el la filinoj de Laban, la frato de via patrino.",

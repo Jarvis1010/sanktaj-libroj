@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Diru al la Izraelidoj jene:Se iu pekos per eraro kontraŭ la ordonoj de la Eternulo, malpermesantaj fari diversajn aferojn, kaj li faros iun el ili;",

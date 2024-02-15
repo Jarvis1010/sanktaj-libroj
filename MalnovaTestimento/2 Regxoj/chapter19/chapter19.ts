@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kiam la reĝo ĥizkija tion aŭdis, li disŝiris siajn vestojn kaj ĉirkaŭkovris sin per sako, kaj iris en la domon de la Eternulo.",
     "Kaj li sendis Eljakimon, la palacestron, kaj Ŝebnan, la skribiston, kaj la plejaĝulojn el la pastroj, ĉirkaŭkovritajn per sakoj, al la profeto Jesaja, filo de Amoc.",

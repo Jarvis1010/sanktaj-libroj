@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj Dio diris ĉiujn sekvantajn vortojn:",
     "Mi estas la Eternulo, via Dio, kiu elkondukis vin el la lando Egipta, el la domo de sklaveco.",

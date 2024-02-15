@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj ni turnis nin kaj ekiris laŭ la vojo al Baŝan. Kaj eliris kontraŭ nin Og, la reĝo de Baŝan, li kaj lia tuta popolo, por batalo apud Edrei.",
     "Kaj la Eternulo diris al mi:Ne timu lin; ĉar en vian manon Mi transdonis lin kaj lian tutan popolon kaj lian landon, kaj vi faros al li, kiel vi faris al Siĥon, la reĝo de la Amoridoj, kiu loĝis en ĥeŝbon.",

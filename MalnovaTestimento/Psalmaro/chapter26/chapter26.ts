@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "De David. Juĝu min, ho Eternulo, ĉar mi iris en sincereco kaj la Eternulon mi fidis; Mi ne ŝanceliĝos.",
     "Esploru min, ho Eternulo, kaj elprovu min; Refandu mian internaĵon kaj mian koron.",

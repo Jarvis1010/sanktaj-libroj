@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Mi estas la viro, kiu spertis suferon sub la vergo de Lia kolero.",
     "Min Li kondukis kaj irigis en mallumon, ne en lumon.",

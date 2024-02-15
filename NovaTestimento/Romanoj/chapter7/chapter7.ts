@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Aŭ ĉu vi ne scias, fratoj (ĉar mi parolas al konantoj de la leĝo), ke la leĝo regas la homon tiel longe, kiel li vivas?",
     "Ĉar la edzinigita virino estas leĝe alligita al sia edzo dum lia vivo; sed se la edzo mortas, ŝi liberiĝas el la leĝo de la edzo.",

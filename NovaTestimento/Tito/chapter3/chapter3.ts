@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Memorigu ilin, ke ili submetiĝu al regantoj kaj estroj, ke ili estu obeemaj, pretaj por ĉiu bona laboro,",
     "ke ili ne parolu malbonon pri iu ajn, estu ne malpacemaj, sed dolĉanimaj, montrantaj ĉian mildecon al ĉiuj homoj.",

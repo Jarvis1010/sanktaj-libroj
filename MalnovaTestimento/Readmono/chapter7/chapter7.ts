@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kiam la Eternulo venigos vin en la landon, al kiu vi iras, por ekposedi ĝin, kaj Li forpelos antaŭ vi grandnombrajn popolojn, la ĥetidojn kaj la Girgaŝidojn kaj la Amoridojn kaj la Kanaanidojn kaj la Perizidojn kaj la ĥividojn kaj la Jebusidojn, sep popolojn pli grandnombrajn kaj pli fortajn ol vi;",
     "kaj kiam la Eternulo, via Dio, transdonos ilin al vi, kaj vi venkobatos ilin; tiam anatemu ilin, ne faru kun ili interligon kaj ne indulgu ilin.",

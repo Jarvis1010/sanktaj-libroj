@@ -1,6 +1,5 @@
 export const chapter146 = {
   chapterTitle: "Ĉapitro 146",
-  summary: "",
   verses: [
     "Haleluja! Gloru, ho mia animo, la Eternulon.",
     "Mi gloros la Eternulon en la daŭro de mia tuta vivo, Mi kantos al mia Dio tiel longe, kiel mi estos.",

@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "La loĝantoj de Jerusalem ekreĝigis lian plej junan filon Aĥazja anstataŭ li, ĉar ĉiujn pli aĝajn mortigis la taĉmento, kiu venis kun la Araboj en la tendaron. Kaj ekreĝis Aĥazja, filo de Jehoram, reĝo de Judujo.",
     "La aĝon de kvardek du jaroj havis Aĥazja, kiam li fariĝis reĝo, kaj unu jaron li reĝis en Jerusalem. La nomo de lia patrino estis Atalja, filino de Omri.",

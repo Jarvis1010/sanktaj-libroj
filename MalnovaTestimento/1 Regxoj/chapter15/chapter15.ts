@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "En la dek-oka jaro de la reĝo Jerobeam, filo de Nebat, ekreĝis Abijam super Judujo.",
     "Tri jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Maaĥa, filino de Abiŝalom.",

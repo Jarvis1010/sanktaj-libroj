@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj ili venis trans la maron en la landon de la Gerasenoj.",
     "Kaj kiam li elvenis el la ŝipeto, tuj lin renkontis el la tomboj viro, havanta malpuran spiriton,",

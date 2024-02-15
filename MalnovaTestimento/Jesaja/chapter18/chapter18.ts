@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Ve al la lando flanke ombrata, kiu troviĝas transe de la riveroj Etiopaj,",
     "kiu sendas senditojn per la maro kaj per kanaj ŝipoj sur la akvo! Iru, rapidaj senditoj, al la popolo grandkreska kaj glathaŭta, al la popolo, kiu estas pli terura, ol kia ajn alia, al la popolo laŭregulara kaj piedpremanta, kies landon tratranĉas riveroj.",

@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Se iu pekos kaj krimos antaŭ la Eternulo, neante al sia proksimulo koncerne konfiditaĵon aŭ deponitaĵon aŭ rabitaĵon, aŭ se li trompe forprenos ion de sia proksimulo,",

@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "David maljuniĝis kaj atingis sufiĉan aĝon; kaj li faris Salomonon, sian filon, reĝo super Izrael.",
     "Kaj li kunvenigis ĉiujn estrojn de Izrael kaj la pastrojn kaj la Levidojn.",

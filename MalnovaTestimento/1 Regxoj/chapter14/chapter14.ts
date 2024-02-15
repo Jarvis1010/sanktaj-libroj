@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "En tiu tempo malsaniĝis Abija, filo de Jerobeam.",
     "Kaj Jerobeam diris al sia edzino:Leviĝu kaj aliaspektiĝu, por ke oni ne sciu, ke vi estas edzino de Jerobeam, kaj iru en Ŝilon; tie troviĝas la profeto Aĥija, kiu antaŭdiris al mi, ke mi estos reĝo super ĉi tiu popolo.",

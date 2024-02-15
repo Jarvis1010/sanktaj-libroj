@@ -7,7 +7,5 @@ import { chapter5 } from "./chapter5/chapter5";
 export const unuJohano = {
   bookTitle: "1 Johano",
   bookTitleShort: "1 Johano",
-  subtitle: "",
-  summary: "",
   chapters: [chapter1, chapter2, chapter3, chapter4, chapter5],
 } as const satisfies Book;

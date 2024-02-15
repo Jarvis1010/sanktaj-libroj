@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj iris unu homo el la domo de Levi kaj prenis edzinon Leviidinon.",
     "Kaj la virino gravediĝis, kaj naskis filon; kaj ŝi vidis, ke li estas bela, kaj ŝi kaŝis lin dum tri monatoj.",

@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Ho Eternulo, pro Via forto ĝojas la reĝo, Kaj pro Via helpo kiel forte li triumfas!",
     "Kion lia koro deziris, tion Vi donis al li; Kaj la peton de lia buŝo Vi ne rifuzis. Sela.",

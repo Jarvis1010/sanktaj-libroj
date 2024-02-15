@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "La knabo Samuel servadis al la Eternulo antaŭ Eli; kaj la vorto de la Eternulo estis grandpreza en tiu tempo; ne aperadis ofte profetaj vizioj.",
     "En tiu tempo unu fojon Eli kuŝis sur sia loko (lia vidado komencis malakriĝi, ke li ne povis vidi);",

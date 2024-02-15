@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La presbitero al Gajo, la amata, kiun mi amas en la vero.",
     "Amato, mi preĝas, ke al vi prosperu ĉio, kaj vi bonsanu tiel same, kiel prosperas al via animo.",

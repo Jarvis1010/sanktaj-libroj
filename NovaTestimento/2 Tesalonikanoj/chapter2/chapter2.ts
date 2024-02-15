@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Nun ni petegas vin, fratoj, koncerne la alvenon de nia Sinjoro Jesuo Kristo kaj nian alkolektiĝon al li,",
     "ke vi ne fariĝu facile skueblaj mense, kaj ne konsterniĝu, ĉu per spirito, aŭ per parolo, aŭ per letero ŝajne de ni, kvazaŭ la tago de la Sinjoro jam apudestus;",

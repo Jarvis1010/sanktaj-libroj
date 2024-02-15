@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Ankaŭ ĉi tio estas sentencoj de Salomono, kiujn kolektis la viroj de ĥizkija, reĝo de Judujo.",
     "Honoro de Dio estas kaŝi aferon; Sed honoro de reĝoj estas esplori aferon.",

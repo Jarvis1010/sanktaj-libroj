@@ -58,7 +58,13 @@ export default function Chapter({
         </header>
 
         <h2>{chapterName}</h2>
-        <em>{chapter.summary}</em>
+
+        {chapter.chapterSubtitle ? (
+          <strong>{chapter.chapterSubtitle}</strong>
+        ) : null}
+
+        {chapter.summary ? <em>{chapter.summary}</em> : null}
+
         {chapter.verses.map((verse, i) => {
           return (
             <p key={verse}>

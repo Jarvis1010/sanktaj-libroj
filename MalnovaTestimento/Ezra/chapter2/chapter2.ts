@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Jen estas la loĝantoj de la lando, kiuj iris el la forkaptitoj, kiujn forkondukis en Babelon Nebukadnecar, reĝo de Babel, kaj kiuj revenis en Jerusalemon kaj en Judujon, ĉiu en sian urbon,",
     "kiuj venis kun Zerubabel, Jeŝua, Neĥemja, Seraja, Reelaja, Mordeĥaj, Bilŝan, Mispar, Bigvaj, Reĥum, Baana. La nombro de la viroj de la popolo Izraela estis:",

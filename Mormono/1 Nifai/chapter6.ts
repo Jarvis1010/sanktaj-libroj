@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj nun mi, Nifai, ne donas la genealogion de miaj prapatroj en ĉi tiu parto de mia kroniko; kaj mi neniam donos ĝin poste sur ĉi tiuj platoj, kiujn mi surskribas; ĉar ĝi estas donita en la kroniko, kiun mia patro verkis; pro tio mi ne skribas ĝin en ĉi tiu verko.",
     "Ĉar sufiĉas por mi diri, ke ni estas idoj de Jozef.",

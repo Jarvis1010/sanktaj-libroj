@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Elihu parolis plue, kaj diris:",
     "Aŭskultu, saĝuloj, miajn vortojn; Kaj vi, kompetentuloj, atentu min.",

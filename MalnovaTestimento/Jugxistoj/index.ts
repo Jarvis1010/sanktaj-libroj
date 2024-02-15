@@ -23,8 +23,6 @@ import { chapter21 } from "./chapter21/chapter21";
 export const Jugxistoj = {
   bookTitle: "Juĝistoj",
   bookTitleShort: "Juĝistoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

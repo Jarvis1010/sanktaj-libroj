@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj jen estas la juĝoj, kiujn vi proponos al ili:",
     "Se vi aĉetos sklavon Hebreon, li servu dum ses jaroj; sed en la sepa li eliru libera senpage.",

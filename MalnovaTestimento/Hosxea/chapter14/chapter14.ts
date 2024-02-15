@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Revenu, ho Izrael, al la Eternulo, via Dio; ĉar vi falis pro viaj malbonagoj.",
     "Prenu kun vi vortojn kaj revenu al la Eternulo; diru al Li:Pardonu ĉiun pekon kaj akceptu bonon; anstataŭ bovoj ni alportos ofere niajn lipojn.",

@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "En la dudek-sepa jaro de Jerobeam, reĝo de Izrael, ekreĝis Azarja, filo de Amacja, reĝo de Judujo.",
     "Li havis la aĝon de dek ses jaroj, kiam li fariĝis reĝo, kaj kvindek du jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jeĥolja, el Jerusalem.",

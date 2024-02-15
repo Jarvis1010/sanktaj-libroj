@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "En Cezarea estis unu viro, nomata Kornelio, centestro de la kohorto nomata la Itala,",
     "viro pia, kiu timis Dion kune kun sia tuta familio, kaj donis multajn almozojn al la popolo, kaj preĝis al Dio konstante.",

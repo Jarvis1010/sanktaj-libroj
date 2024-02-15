@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "La filoj de Isaĥar estis:Tola, Pua, Jaŝub, kaj Ŝimron-kvar.",
     "La idoj de Tola:Uzi, Refaja, Jeriel, Jaĥmaj, Jibsam, kaj Ŝemuel, ĉefoj de patrodomoj de Tola, kuraĝaj militistoj en siaj generacioj; ilia nombro en la tempo de David estis dudek du mil sescent.",

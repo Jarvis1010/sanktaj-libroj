@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj li eniris en Jeriĥon kaj ĝin trapasis.",
     "Kaj jen viro, nomata Zakĥeo; kaj li estis ĉefimpostisto, kaj li estis riĉa.",

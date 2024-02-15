@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Milda respondo kvietigas koleron; Sed malmola vorto ekscitas koleron.",
     "La lango de saĝuloj bonigas la instruon; Sed la buŝo de malsaĝuloj elparolas sensencaĵon.",

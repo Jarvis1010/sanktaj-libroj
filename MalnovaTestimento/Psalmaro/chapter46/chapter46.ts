@@ -1,6 +1,5 @@
 export const chapter46 = {
   chapterTitle: "Ĉapitro 46",
-  summary: "",
   verses: [
     "Al la ĥorestro. De la Koraĥidoj. Por sopranuloj. Kanto. Dio estas por ni rifuĝejo kaj forto, Helpo en mizeroj, rapide trovata.",
     "Tial ni ne timas, eĉ se pereus la tero Kaj la montoj falus en la internon de la maroj.",

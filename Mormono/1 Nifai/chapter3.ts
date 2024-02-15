@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj okazis, ke mi, Nifai, parolinte kun la Sinjoro, revenis al la tendo de mia patro.",
     "Kaj okazis, ke li parolis al mi, dirante: Jen, mi sonĝis sonĝon, en kiu la Sinjoro ordonis al mi, ke vi kaj viaj fratoj reiru al Jerusalemo.",

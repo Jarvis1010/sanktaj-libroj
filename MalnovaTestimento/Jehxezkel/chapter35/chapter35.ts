@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, turnu vian vizaĝon al la monto Seir, kaj profetu pri ĝi;",

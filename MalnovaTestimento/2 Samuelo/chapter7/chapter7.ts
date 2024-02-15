@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kiam la reĝo loĝis en sia domo, kaj la Eternulo donis al li ripozon rilate ĉiujn liajn malamikojn ĉirkaŭe,",
     "la reĝo diris al la profeto Natan:Vidu, mi loĝas en domo cedroligna, kaj la kesto de Dio restas inter tapiŝoj.",

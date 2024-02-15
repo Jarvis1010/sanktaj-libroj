@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj Josuo kunvenigis ĉiujn tribojn de Izrael en Ŝeĥemon, kaj alvokis la plejaĝulojn de Izrael kaj iliajn ĉefojn kaj juĝistojn kaj observistojn; kaj ili stariĝis antaŭ Dio.",
     "Kaj Josuo diris al la tuta popolo:Tiel diris la Eternulo, Dio de Izrael:Transe de la Rivero loĝis viaj patroj en la tempo antikva, Teraĥ, patro de Abraham kaj patro de Naĥor; kaj ili servis al aliaj dioj.",

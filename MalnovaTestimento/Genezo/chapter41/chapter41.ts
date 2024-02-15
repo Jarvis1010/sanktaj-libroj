@@ -1,6 +1,5 @@
 export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
-  summary: "",
   verses: [
     "Post du jaroj Faraono havis sonĝon, ke jen li staras apud la Rivero.",
     "Kaj jen el la Rivero eliras sep bovinoj belaspektaj kaj grasaj, kaj ili paŝtiĝas en la kanejo.",

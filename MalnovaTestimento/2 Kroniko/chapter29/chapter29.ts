@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "ĥizkija fariĝis reĝo, havante la aĝon de dudek kvin jaroj, kaj dudek naŭ jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Abija, filino de Zeĥarja.",
     "Li agadis bone antaŭ la Eternulo, tiel same, kiel agadis lia patro David.",

@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "kaj ĝi staris sur la sablo de la maro. Kaj mi vidis beston suprenirantan el la maro, havantan dek kornojn kaj sep kapojn, kaj sur siaj kornoj dek diademojn, kaj sur siaj kapoj nomojn de blasfemo.",
     "Kaj la besto, kiun mi vidis, estis simila al leopardo, kaj ĝiaj piedoj estis kiel de urso, kaj ĝia buŝo kiel buŝo de leono; kaj la drako donis al ĝi sian potencon kaj sian tronon kaj grandan aŭtoritaton.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La reĝo David maljuniĝis kaj atingis profundan aĝon; kaj oni kovris lin bone per vestoj, sed li ne povis varmiĝi.",
     "Tiam diris al li liaj servantoj:Oni elserĉu por nia sinjoro la reĝo junulinon virgulinon, kaj ŝi staru antaŭ la reĝo kaj flegu lin kaj dormu ĉe lia brusto, kaj tiam al nia sinjoro la reĝo fariĝos varme.",

@@ -1,6 +1,5 @@
 export const chapter75 = {
   chapterTitle: "Ĉapitro 75",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por Al-taŝĥet. Psalmo de Asaf. Kanto. Ni gloras Vin, ho Dio, ni gloras Vin; Proksima estas Via nomo;   Oni rakontas Viajn miraklojn.",
     "Kiam Mi elektos tempon, Mi faros justan juĝon.",

@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Elsendu vian panon sur la akvon; ĉar post longa tempo vi ĝin retrovos.",
     "Donu parton al sep, kaj eĉ al ok, ĉar vi ne scias, ĉu ne estos malfeliĉo sur la tero.",

@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, turnu vian vizaĝon al Gog, en la lando Magog, ĉefa princo de Meŝeĥ kaj Tubal, kaj profetu pri li;",

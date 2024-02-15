@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj mi returniĝis, kaj mi vidis ĉiujn premojn, kiuj estas farataj sub la suno:kaj jen estas larmoj de prematoj, kaj ne ekzistas por ili konsolanto; kaj perforteco de la mano de iliaj premantoj, kaj ne ekzistas por ili konsolanto.",
     "Kaj mi trovis, ke la mortintoj, kiuj jam antaŭ longe mortis, estas pli feliĉaj ol la vivantoj, kiuj vivas ĝis nun;",

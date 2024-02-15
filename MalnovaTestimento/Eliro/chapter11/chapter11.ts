@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Ankoraŭ unu punon Mi venigos sur Faraonon kaj sur Egiptujon; post tio li forliberigos vin el ĉi tie; kaj forliberigante, li tute elpelos vin el ĉi tie.",
     "Diru nun al la popolo, ke ili petu ĉiu viro de sia proksimulo kaj ĉiu virino de sia proksimulino vazojn arĝentajn kaj vazojn orajn.",

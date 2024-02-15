@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Dume la Filiŝtoj batalis kontraŭ Izrael; kaj la Izraelidoj forkuris de la Filiŝtoj, kaj falis mortigitaj sur la monto Gilboa.",
     "Kaj la Filiŝtoj kuratingis Saulon kaj liajn filojn; kaj la Filiŝtoj mortigis Jonatanon kaj Abinadabon kaj Malki-Ŝuan, filojn de Saul.",

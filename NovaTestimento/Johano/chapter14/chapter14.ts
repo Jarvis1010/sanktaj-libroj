@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Ne maltrankviliĝu via koro; vi kredas al Dio, kredu ankaŭ al mi.",
     "Ĉe la domo de mia Patro estas multe da loĝejoj; se ne tiel estus, mi dirus al vi; mi iras, por pretigi por vi lokon.",

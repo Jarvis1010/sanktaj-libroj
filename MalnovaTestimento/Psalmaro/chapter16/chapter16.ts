@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Verko de David. Gardu min, ho Dio, ĉar mi rifuĝas ĉe Vi.",
     "Mi diris al la Eternulo:Vi estas mia Sinjoro; Mi ne havas alian bonon krom Vi.",

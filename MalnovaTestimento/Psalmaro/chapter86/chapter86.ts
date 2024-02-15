@@ -1,6 +1,5 @@
 export const chapter86 = {
   chapterTitle: "Ĉapitro 86",
-  summary: "",
   verses: [
     "Preĝo de David. Klinu, ho Eternulo, Vian orelon, aŭskultu min; Ĉar mi estas mizera kaj malriĉa.",
     "Konservu mian animon, ĉar mi estas fidela; Ho Vi, mia Dio, helpu Vian sklavon, kiu fidas Vin.",

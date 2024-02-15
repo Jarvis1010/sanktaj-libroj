@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Mi do, malliberulo pro la Sinjoro, petegas vin, ke vi iradu inde je la voko, en kiu vi estas vokitaj,",
     "kun ĉia humileco kaj mildeco, kun toleremeco, paciencante unu al alia en amo,",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj dum la homamaso ĉirkaŭpremis lin kaj aŭskultis la vorton de Dio, li staris apud la lago Genesaret;",
     "kaj li vidis du ŝipetojn starantajn apud la lago, sed la fiŝkaptistoj ĵus eliris el ili, kaj lavis la retojn.",

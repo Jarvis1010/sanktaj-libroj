@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Pro tio, ke ni havas ĉi tiun administradon, kiel ni ricevis kompaton, ni ne senkuraĝiĝas;",
     "sed ni formetis la kaŝitajn aferojn de honto, ne irante kun ruzeco kaj ne falsante la vorton de Dio, sed per elmontro de la vero rekomendante nin al ĉies konscienco antaŭ Dio.",

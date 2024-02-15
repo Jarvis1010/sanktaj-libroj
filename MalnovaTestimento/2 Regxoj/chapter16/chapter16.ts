@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "En la dek-sepa jaro de Pekaĥ, filo de Remalja, ekreĝis Aĥaz, filo de Jotam, reĝo de Judujo.",
     "La aĝon de dudek jaroj havis Aĥaz, kiam li fariĝis reĝo, kaj dek ses jarojn li reĝis en Jerusalem; kaj li ne agadis bone antaŭ la Eternulo, lia Dio, kiel lia patro David.",

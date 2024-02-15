@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Tio estis en la tempo de Aĥaŝveroŝ, de tiu Aĥaŝveroŝ, kiu reĝis de Hindujo ĝis Etiopujo, super cent dudek sep landoj.",
     "En tiu tempo, kiam la reĝo Aĥaŝveroŝ sidis sur sia reĝa trono en la kastelurbo Ŝuŝan,",

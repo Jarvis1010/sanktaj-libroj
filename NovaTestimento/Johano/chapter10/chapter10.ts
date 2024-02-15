@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Vere, vere, mi diras al vi:Kiu eniras en la ŝafejon ne tra la pordo, sed aliloke suprengrimpas, tiu estas ŝtelisto kaj rabisto.",
     "Sed kiu eniras tra la pordo, tiu estas la paŝtisto de la ŝafoj.",

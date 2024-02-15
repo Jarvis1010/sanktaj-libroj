@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Al la ĥorestro. De la sklavo de la Eternulo, David, kiu eldiris al la Eternulo la vortojn de ĉi tiu kanto, kiam la Eternulo lin savis el la manoj de ĉiuj liaj malamikoj kaj el la mano de Saul. Kaj li diris: Mi varmege Vin amas, ho Eternulo, mia forteco!",
     "La Eternulo estas mia Roko, kaj mia fortikaĵo, kaj mia Savanto, Mia Dio, mia forta Roko, kiun mi fidas,   Mia ŝildo kaj la korno de mia savo, mia rifuĝejo.",

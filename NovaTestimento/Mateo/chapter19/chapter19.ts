@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj kiam Jesuo finis ĉi tiujn parolojn, li foriris el Galileo, kaj venis en la limojn de Judujo trans Jordan;",
     "kaj grandaj homamasoj lin sekvis, kaj li sanigis ilin tie.",

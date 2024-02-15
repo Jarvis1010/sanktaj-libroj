@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "La Filiŝtoj prenis la keston de Dio kaj portis ĝin el Eben-Ezer en Aŝdodon.",
     "Kaj la Filiŝtoj prenis la keston de Dio kaj enportis ĝin en la templon de Dagon kaj starigis ĝin apude de Dagon.",

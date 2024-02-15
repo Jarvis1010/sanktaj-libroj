@@ -1,6 +1,5 @@
 export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
-  summary: "",
   verses: [
     "Kaj aliris ĉiuj militestroj, kaj Joĥanan, filo de Kareaĥ, kaj Jezanja, filo de Hoŝaja, kaj la tuta popolo, de la malgrandaj ĝis la grandaj,",
     "kaj diris al la profeto Jeremia:Ni humile petegas vin, preĝu por ni al la Eternulo, via Dio, por ĉi tiu tuta restaĵo; ĉar el multaj ni restis malmultaj, kiel viaj okuloj nin vidas.",

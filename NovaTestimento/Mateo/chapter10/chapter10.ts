@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj li alvokis al si la dek du disĉiplojn, kaj donis al ili aŭtoritaton super malpuraj spiritoj, por elpeli ilin, kaj por sanigi ĉian malsanon kaj ĉian malfortaĵon.",
     "Kaj la nomoj de la dek du apostoloj estas jenaj:la unua, Simon, kiu estis nomata Petro, kaj lia frato Andreo, Jakobo, filo de Zebedeo, kaj lia frato Johano,",

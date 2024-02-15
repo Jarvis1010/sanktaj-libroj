@@ -1,6 +1,5 @@
 export const chapter53 = {
   chapterTitle: "Ĉapitro 53",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por maĥalato. Instruo de David. La sensaĝulo diris en sia koro:Dio ne ekzistas. Ili sentaŭgiĝis, kaj abomeniĝis en la malvirto;   Ekzistas neniu, kiu faras bonon.",
     "Dio el la ĉielo ekrigardis la homidojn, Por vidi, ĉu ekzistas prudentulo, kiu serĉas Dion.",

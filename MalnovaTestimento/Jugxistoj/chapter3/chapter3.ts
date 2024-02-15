@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj jen estas la popoloj, kiujn la Eternulo restigis, por elprovi per ili Izraelon, ĉiujn, kiuj ne sciis pri ĉiuj militoj kontraŭ Kanaan;",
     "por ke eksciu la generacioj de la Izraelidoj, por lernigi militon al tiuj, kiuj antaŭe ne konis ĝin:",

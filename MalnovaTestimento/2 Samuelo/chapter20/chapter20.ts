@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Troviĝis tie viro malbonaga, kies nomo estis Ŝeba, filo de Biĥri, Benjamenido; li ekblovis per trumpeto, kaj diris:Ni ne havas parton en David,  ni ne havas heredaĵon en la filo de Jiŝaj:iru, Izraelidoj, ĉiu en sian tendon.",
     "Kaj ĉiuj Izraelidoj foriris de David, kaj sekvis Ŝeban, filon de Biĥri; sed la Judoj restis fidelaj al sia reĝo, de Jordan ĝis Jerusalem.",

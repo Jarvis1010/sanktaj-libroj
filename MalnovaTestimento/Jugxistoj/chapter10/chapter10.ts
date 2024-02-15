@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Post Abimeleĥ leviĝis, por helpadi al Izrael, Tola, filo de Pua, filo de Dodo, Isaĥarido. Li loĝis en Ŝamir, sur la monto de Efraim.",
     "Kaj li estis juĝisto de Izrael dum dudek tri jaroj, kaj li mortis, kaj oni enterigis lin en Ŝamir.",

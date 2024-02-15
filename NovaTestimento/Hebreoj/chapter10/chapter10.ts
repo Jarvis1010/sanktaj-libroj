@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Ĉar la leĝo, havante ombron de estontaj bonaĵoj, ne la bildon mem de la aferoj, neniam povas, per tiuj samaj oferoj, kiujn oni oferadas senĉese jaron post jaro, perfektigi la tien venantajn.",
     "Ĉar alie ĉu ili ne ĉesus esti oferataj? tial, ke la adorantoj, unufoje purigite, jam ne havus konsciencon pri pekoj.",

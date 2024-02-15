@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj ĥana preĝis kaj diris: Ĝojas mia koro pri la Eternulo,   Mia korno altiĝis pro la Eternulo;   Larĝe malfermiĝis mia buŝo kontraŭ miaj malamikoj,   Ĉar mi ĝojas pro Via helpo.",
     "Neniu estas tiel sankta, kiel la Eternulo; Ĉar ekzistas neniu krom Vi,   Kaj nenia defendanto simila al nia Dio.",

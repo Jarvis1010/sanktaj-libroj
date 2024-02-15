@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Se iu pekos per tio, ke li aŭdos ĵuron kaj estos atestanto, aŭ ke li vidos aŭ scios, sed ne sciigos kaj portos sur si la pekon;",
     "aŭ se iu ektuŝos ion malpuran, aŭ kadavraĵon de malpura besto, aŭ kadavraĵon de malpura bruto, aŭ kadavraĵon de malpura rampaĵo, kaj li tion ne scios, kaj li malpuriĝos kaj kulpiĝos;",

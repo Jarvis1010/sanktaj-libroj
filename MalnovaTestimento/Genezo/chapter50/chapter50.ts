@@ -1,6 +1,5 @@
 export const chapter50 = {
   chapterTitle: "Ĉapitro 50",
-  summary: "",
   verses: [
     "Tiam Jozef ĵetis sin sur la vizaĝon de sia patro, kaj ploris super li kaj kisis lin.",
     "Kaj Jozef ordonis al siaj servantoj kuracistoj, balzami lian patron; kaj la kuracistoj balzamis Izraelon.",

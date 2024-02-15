@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj denove li eniris en la sinagogon, kaj tie estis viro, havanta manon velkintan.",
     "Kaj oni observis lin, ĉu en la sabato li lin sanigos, por ke ili povu lin akuzi.",

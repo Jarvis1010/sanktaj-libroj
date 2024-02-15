@@ -1,6 +1,5 @@
 export const chapter43 = {
   chapterTitle: "Ĉapitro 43",
-  summary: "",
   verses: [
     "Kaj li venigis min al la pordego, al tiu pordego, kiu estas turnita orienten.",
     "Kaj jen la majesto de la Dio de Izrael estis venanta laŭ la orienta vojo; kaj Lia voĉo estis kiel la bruo de granda akvo; kaj la tero lumiĝis de Lia majesto.",

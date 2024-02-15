@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Tiam do Pilato prenis Jesuon kaj lin skurĝigis.",
     "Kaj la soldatoj plektis kronon el dornoj kaj metis ĝin sur lian kapon, kaj vestis lin per purpura mantelo;",

@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Alproksimiĝu, popoloj, por aŭskulti; kaj atentu, ho gentoj; aŭskultu la tero, kaj ĉio, kio ĝin plenigas, la mondo kaj ĉiuj ĝiaj produktoj.",
     "Ĉar indignas la Eternulo kontraŭ ĉiuj popoloj kaj flame koleras kontraŭ ilia tuta anaro; Li kondamnis ilin, eldonis ilin al buĉado.",

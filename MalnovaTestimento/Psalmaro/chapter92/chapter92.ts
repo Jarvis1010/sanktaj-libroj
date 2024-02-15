@@ -1,6 +1,5 @@
 export const chapter92 = {
   chapterTitle: "Ĉapitro 92",
-  summary: "",
   verses: [
     "Psalmo-kanto por la tago sabata. Bone estas glori la Eternulon Kaj prikanti Vian nomon, ho Plejaltulo;",
     "Rakonti matene pri Via boneco Kaj nokte pri Via fideleco,",

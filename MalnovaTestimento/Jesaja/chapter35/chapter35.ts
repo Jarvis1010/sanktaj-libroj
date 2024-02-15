@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Ekĝojos la dezerto kaj la senakvejo, triumfos la stepo kaj ekfloros kiel lilio.",
     "Ĝi forte ekfloros kaj triumfos, triumfos kaj kantos; la gloro de Lebanon estos donita al ĝi, la beleco de Karmel kaj Ŝaron; ili vidos la gloron de la Eternulo, la majeston de nia Dio.",

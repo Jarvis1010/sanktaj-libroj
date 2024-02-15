@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Mia filo! se vi garantiis por via proksimulo Kaj donis vian manon por aliulo,",
     "Tiam vi enretiĝis per la vortoj de via buŝo, Kaptiĝis per la vortoj de via buŝo.",

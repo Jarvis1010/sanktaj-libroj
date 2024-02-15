@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Post tio okazis, ke David venkobatis la Filiŝtojn kaj humiligis ilin, kaj David prenis la ĉefurbon el la manoj de la Filiŝtoj.",
     "Li ankaŭ venkobatis la Moabidojn, kaj, kuŝiginte ilin sur la tero, li mezuris ilin per ŝnuro; du partojn li mezuris por mortigi, kaj unu plenan mezuron por restigi vivaj. Kaj la Moabidoj submetiĝis al David kaj alportis tributojn.",

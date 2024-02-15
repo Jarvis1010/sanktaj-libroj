@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj Salomono ordonis, ke oni konstruu domon al la nomo de la Eternulo kaj reĝan domon por li.",
     "Salomono starigis sepdek mil portistojn, okdek mil montajn ŝtonhakistojn, kaj tri mil sescent kontrolistojn super ili.",

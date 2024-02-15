@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Ordonu al la Izraelidoj, ke ili alportadu al vi oleon olivan, puran, pistitan, por lumigado, por ke lucerno brulu ĉiam.",

@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "En tiu tempo ĥizkija morte malsaniĝis; kaj venis al li la profeto Jesaja, filo de Amoc, kaj diris al li:Tiele diras la Eternulo:Faru testamenton pri via domo, ĉar vi mortos kaj ne vivos.",
     "Tiam ĥizkija turnis sian vizaĝon al la muro, kaj ekpreĝis al la Eternulo,",

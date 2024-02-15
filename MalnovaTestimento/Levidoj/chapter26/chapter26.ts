@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Ne faru al vi idolojn, kaj figurojn kaj statuojn ne starigu ĉe vi, kaj ŝtonojn kun bildoj ne kuŝigu en via lando, por adorkliniĝi super ili:ĉar Mi estas la Eternulo, via Dio.",
     "Miajn sabatojn observu, kaj Mian sanktejon respektegu:Mi estas la Eternulo.",

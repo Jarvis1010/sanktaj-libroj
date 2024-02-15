@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj oni alportis la keston de Dio, kaj metis ĝin interne de la tendo, kiun David starigis por ĝi; kaj oni alportis bruloferojn kaj pacoferojn antaŭ Dion.",
     "Kiam David finis la oferadon de la bruloferoj kaj de la pacoferoj, li benis la popolon en la nomo de la Eternulo.",

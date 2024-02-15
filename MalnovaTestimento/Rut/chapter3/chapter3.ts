@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Naomi, ŝia bopatrino, diris al ŝi:Mia bofilino, mia celo estas, ke mi trovu por vi ripozejon, kie pliboniĝos via stato.",
     "Vidu nun, nia parenco Boaz, kun kies junulinoj vi kuniĝis, ventumas hordeon dum ĉi tiu nokto en la draŝejo;",

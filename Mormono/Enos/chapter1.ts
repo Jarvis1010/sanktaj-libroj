@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Aŭdu, okazis, ke mi, Enos sciis, ke mia patro estas virta homo ĉar li instruis al mi pri sia lingvo, kaj ankaŭ nutris min en la disciplino kaj admono de la Sinjoro kaj benata estu la nomo de mia Dio pro tio -",
     "Kaj mi diros al vi pri la lukto, kiun mi luktis antaŭ Dio, antaŭ ol mi ricevis pardonon de miaj pekoj.",

@@ -1,6 +1,5 @@
 export const chapter44 = {
   chapterTitle: "Ĉapitro 44",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia pri ĉiuj Judoj, kiuj loĝas en la lando Egipta, kiuj loĝas en Migdol, en Taĥpanĥes, en Nof, kaj en la lando Patros:",
     "Tiele diras la Eternulo Cebaot, Dio de Izrael:Vi vidis la tutan malbonon, kiun Mi venigis sur Jerusalemon kaj sur ĉiujn urbojn de Judujo; jen ili estas nun dezertaj, kaj neniu loĝas en ili,",

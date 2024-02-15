@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por kordaj instrumentoj, por basuloj. Psalmo de David. Ho Eternulo, ne en Via kolero min riproĉu, Kaj ne en Via furiozo min punu.",
     "Korfavoru min, ho Eternulo, ĉar mi senfortiĝis; Sanigu min, ho Eternulo, ĉar ektremis miaj ostoj.",

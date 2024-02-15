@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La komenco de la evangelio de Jesuo Kristo, Filo de Dio.",
     "Kiel estas skribite en la profeto Jesaja: Jen Mi sendas Mian anĝelon antaŭ via vizaĝo,   Kaj li preparos vian vojon;",

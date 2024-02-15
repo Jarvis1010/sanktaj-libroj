@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, apostolo de Kristo Jesuo per la volo de Dio, kaj la frato Timoteo, al la eklezio de Dio, kiu estas en Korinto, kune kun ĉiuj sanktuloj, kiuj estas en la tuta Aĥaja lando:",
     "Graco al vi kaj paco de Dio, nia Patro, kaj de la Sinjoro Jesuo Kristo.",

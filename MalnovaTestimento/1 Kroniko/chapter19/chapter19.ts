@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Okazis poste, ke mortis Naĥaŝ, reĝo de la Amonidoj, kaj lia filo fariĝis reĝo anstataŭ li.",
     "Tiam David diris:Mi estos favorkora al ĥanun, filo de Naĥaŝ, ĉar lia patro agis favorkore koncerne min. Kaj David sendis senditojn, por konsoli lin pri lia patro. Kaj la servantoj de David venis en la landon de la Amonidoj, al ĥanun, por lin konsoli.",

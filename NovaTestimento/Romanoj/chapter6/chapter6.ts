@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kion do ni diru? Ĉu ni restu en peko, por ke graco abundu?",
     "Nepre ne! Ĉu ni, kiuj mortis al peko, ankoraŭ vivus en ĝi?",

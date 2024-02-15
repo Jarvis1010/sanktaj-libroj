@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kial, ho Eternulo, Vi staras malproksime? Kial Vi kaŝas Vin en la tempo de la mizero?",
     "Pro la malhumileco de malbonulo suferas malriĉulo; Ili kaptiĝu per la artifikoj, kiujn ili elpensis.",

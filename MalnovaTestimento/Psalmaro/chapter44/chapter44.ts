@@ -1,6 +1,5 @@
 export const chapter44 = {
   chapterTitle: "Ĉapitro 44",
-  summary: "",
   verses: [
     "Al la ĥorestro. Instruo de la Koraĥidoj. Ho Dio, per niaj oreloj ni aŭdis, niaj patroj rakontis al ni, Kion Vi faris en iliaj tagoj, en tempo antikva.",
     "Vi per Via mano forpelis popolojn, kaj ilin Vi enloĝigis; Popolojn Vi pereigis, kaj ilin Vi vastigis.",

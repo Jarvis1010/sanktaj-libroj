@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Jen, Mi vokis per la nomo Becalelon, filon de Uri, filo de ĥur, el la tribo de Jehuda;",

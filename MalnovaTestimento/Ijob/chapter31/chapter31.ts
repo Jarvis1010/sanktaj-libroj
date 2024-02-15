@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Mi faris interligon kun miaj okuloj, Ke mi ne atentu virgulinon.",
     "Kia estas la parto, kiun donas Dio de supre? Kaj kion destinas la Plejpotenculo el la altaj sferoj?",

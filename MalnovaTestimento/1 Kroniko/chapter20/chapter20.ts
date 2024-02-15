@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Post paso de unu jaro, en la tempo, kiam la reĝoj eliras milite, Joab kondukis la militistaron kaj komencis ruinigi la landon de la Amonidoj, kaj li venis kaj eksieĝis Raban. Sed David restis en Jerusalem. Kaj Joab venkobatis Raban kaj detruis ĝin.",
     "Kaj David prenis la kronon de Malkam de lia kapo; li trovis, ke ĝi enhavas laŭpeze kikaron da oro, kaj estis en ĝi multekosta ŝtono, kiu transiris sur la kapon de David. Kaj da militakiraĵo li elportis el la urbo tre multe.",

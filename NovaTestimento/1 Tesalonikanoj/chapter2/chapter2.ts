@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Ĉar vi mem scias, fratoj, ke nia alveno al vi ne montriĝis senfrukta;",
     "sed suferinte kaj insultite en Filipi, kiel vi scias, ni kuraĝiĝis en nia Dio prediki al vi la evangelion de Dio meze de granda konflikto.",

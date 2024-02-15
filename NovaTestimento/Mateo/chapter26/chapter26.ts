@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Kaj kiam Jesuo finis ĉiujn tiujn vortojn, li diris al siaj disĉiploj:",
     "Vi scias, ke post du tagoj okazos la Pasko, kaj la Filo de homo estos transdonita, por esti krucumita.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Ĉiuj Izraelidoj estis kalkulitaj, kaj ili estis enskribitaj en la libro de la reĝoj de Izrael. La Judojn oni forkondukis en Babelon pro iliaj malbonagoj.",
     "La unuaj loĝantoj, kiuj loĝis en siaj posedaĵoj, en siaj urboj, estis Izraelidoj, pastroj, Levidoj, kaj Netinoj.",

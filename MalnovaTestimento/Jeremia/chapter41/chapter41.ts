@@ -1,6 +1,5 @@
 export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
-  summary: "",
   verses: [
     "En la sepa monato Iŝmael, filo de Netanja, filo de Eliŝama, el la reĝa idaro, unu el la eminentuloj de la reĝo, kaj kun li dek viroj, venis al Gedalja, filo de Aĥikam, en Micpan, kaj ili kune tie manĝis en Micpa.",
     "Kaj leviĝis Iŝmael, filo de Netanja, kaj la dek viroj, kiuj estis kun li, kaj frapis Gedaljan, filon de Aĥikam, filo de Ŝafan, per glavo, kaj mortigis lin, kiun la reĝo de Babel starigis kiel reganton super la lando.",

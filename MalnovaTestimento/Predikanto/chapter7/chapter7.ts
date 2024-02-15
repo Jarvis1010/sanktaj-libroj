@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Pli bona estas bona nomo, ol bona oleo; kaj la tago de la morto estas pli bona, ol la tago de la naskiĝo.",
     "Pli bone estas iri en domon de funebro, ol iri en domon de festenado; ĉar morto estas la fino de ĉiu homo, kaj la vivanto notos ĉi tion en sia koro.",

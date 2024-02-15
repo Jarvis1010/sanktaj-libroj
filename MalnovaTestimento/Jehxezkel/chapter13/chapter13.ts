@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo! profetu pri la profetoj de Izrael, kiuj profetas, kaj diru al tiuj, kiuj profetas laŭ sia propra bontrovo:Aŭskultu la vorton de la Eternulo!",

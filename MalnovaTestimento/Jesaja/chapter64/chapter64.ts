@@ -1,6 +1,5 @@
 export const chapter64 = {
   chapterTitle: "Ĉapitro 64",
-  summary: "",
   verses: [
     "Ho, se Vi disfendus la ĉielon kaj malsuprenirus, antaŭ Vi ektremus la montoj;",
     "aperu kiel fajro, kiu bruligas lignerojn, kiel akvo, kiu bolas de fajro, por konigi Vian nomon al Viaj malamikoj; antaŭ Via vizaĝo ektremu la popoloj!",

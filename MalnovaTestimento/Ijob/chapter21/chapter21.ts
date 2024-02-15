@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Aŭskultu mian parolon; Kaj ĝi estu anstataŭ viaj konsoloj.",

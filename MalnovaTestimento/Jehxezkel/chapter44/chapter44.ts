@@ -1,6 +1,5 @@
 export const chapter44 = {
   chapterTitle: "Ĉapitro 44",
-  summary: "",
   verses: [
     "Kaj li venigis min denove al la ekstera pordego de la sanktejo, al tiu, kiu estis turnita orienten; sed ĝi estis ŝlosita.",
     "Kaj la Eternulo diris al mi:Ĉi tiu pordego estos ŝlosita, kaj oni ĝin ne malfermu, kaj neniu iru tra ĝi; ĉar la Eternulo, Dio de Izrael, eniris tra ĝi, tial ĝi restu ŝlosita.",

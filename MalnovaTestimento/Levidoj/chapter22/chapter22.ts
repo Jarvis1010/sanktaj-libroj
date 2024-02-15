@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Diru al Aaron kaj al liaj filoj, ke ili agu singarde koncerne la sanktaĵojn de la Izraelidoj, kaj ili ne malhonoru Mian sanktan nomon en tio, kion ili konsekras al Mi:Mi estas la Eternulo.",

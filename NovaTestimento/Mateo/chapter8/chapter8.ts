@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj kiam li malsupreniris de la monto, lin sekvis grandaj homamasoj.",
     "Kaj jen venis al li leprulo kaj adorkliniĝis al li, dirante:Sinjoro, se vi volas, vi povas min purigi.",

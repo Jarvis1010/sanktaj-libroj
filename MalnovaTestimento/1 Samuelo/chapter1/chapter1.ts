@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Estis unu viro el Ramataim-Cofim, de la monto de Efraim; lia nomo estis Elkana, filo de Jeroĥam, filo de Elihu, filo de Toĥu, filo de Cuf, Efratano.",
     "Li havis du edzinojn; la nomo de unu estis ĥana, kaj la nomo de la dua estis Penina. Penina havis infanojn, sed ĥana ne havis infanojn.",

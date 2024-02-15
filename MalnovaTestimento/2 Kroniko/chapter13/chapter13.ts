@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "En la dek-oka jaro de la reĝo Jerobeam ekreĝis Abija super Judujo.",
     "Tri jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Miĥaja, filino de Uriel, el Gibea. Milito estis inter Abija kaj Jerobeam.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Certe, mi scias, ke tiel estas; Kaj kiel povas homo esti prava koncerne Dion?",

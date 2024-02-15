@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Jen estas la pastroj kaj Levidoj, kiuj venis kun Zerubabel, filo de Ŝealtiel, kaj kun Jeŝua:Ŝeraja, Jeremia, Ezra,",
     "Amarja, Maluĥ, ĥatuŝ,",

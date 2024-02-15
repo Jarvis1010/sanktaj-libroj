@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Petu de la Eternulo pluvon printempan; la Eternulo faros fulmojn, kaj donos abundan pluvon por ĉiuj kreskaĵoj sur la kampo.",
     "La domaj dioj parolas sensencaĵon, la antaŭdiristoj havas malverajn viziojn, rakontas mensogajn sonĝojn, kaj konsolas per vantaĵo; tial ili diskuras kiel ŝafoj, suferas pro tio, ke ili ne havas paŝtiston.",

@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Tion Jesuo parolis; kaj levinte la okulojn al la ĉielo, li diris:Patro, la horo venis; gloru Vian Filon, por ke la Filo Vin gloru;",
     "kiel Vi donis al li aŭtoritaton super ĉiu karno, por ke li donu eternan vivon al ĉiuj tiuj, kiujn Vi donis al li.",

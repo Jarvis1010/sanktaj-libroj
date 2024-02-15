@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kiel akvaj torentoj estas la koro de reĝo en la mano de la Eternulo: Kien Li volas, Li ĝin direktas.",
     "Ĉiuj vojoj de homo estas ĝustaj en liaj okuloj; Sed la Eternulo pesas la korojn.",

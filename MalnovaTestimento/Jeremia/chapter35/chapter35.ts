@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo en la tempo de Jehojakim, filo de Joŝija, reĝo de Judujo:",
     "Iru en la domon de la Reĥabidoj, kaj parolu al ili, kaj venigu ilin en la domon de la Eternulo en unu el la ĉambroj, kaj trinkigu al ili vinon.",

@@ -1,6 +1,5 @@
 export const chapter69 = {
   chapterTitle: "Ĉapitro 69",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por ŝoŝanoj. De David. Savu min, ho Dio; Ĉar la akvoj venis ĝis mia animo.",
     "Mi profundiĝis en profundan marĉon, kaj mi ne havas, sur kio stari; Mi enfalis en la profundon de la akvo, kaj la fluo min forportas.",

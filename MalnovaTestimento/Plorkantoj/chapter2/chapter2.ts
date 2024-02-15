@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kiele la Sinjoro en Sia kolero kovris per mallumo la filinon de Cion! De la ĉielo sur la teron Li ĵetegis la belecon de Izrael,   Kaj ne rememoris Sian piedbenketon en la tago de Sia kolero.",
     "Senindulge ekstermis la Sinjoro ĉiujn loĝejojn de Jakob; Li detruis en Sia kolero la fortikaĵojn de la filino de Jehuda, alniveligis ilin al la tero;   Li frapis la regnon kaj ĝiajn regantojn.",

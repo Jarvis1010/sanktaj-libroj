@@ -27,8 +27,6 @@ import { chapter25 } from "./chapter25/chapter25";
 export const duRegxoj = {
   bookTitle: "2 Reĝoj",
   bookTitleShort: "2 Reĝoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

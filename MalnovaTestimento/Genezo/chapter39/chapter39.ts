@@ -1,6 +1,5 @@
 export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
-  summary: "",
   verses: [
     "Jozef estis forkondukita en Egiptujon, kaj lin aĉetis Potifar, kortegano de Faraono, estro de la korpogardistoj, Egipto, el la manoj de la Iŝmaelidoj, kiuj venigis lin tien.",
     "Kaj la Eternulo estis kun Jozef, kaj li estis sukcesulo; kaj li estis en la domo de sia sinjoro, la Egipto.",

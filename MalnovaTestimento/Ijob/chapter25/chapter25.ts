@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Ekparolis Bildad, la Ŝuĥano, kaj diris:",
     "Regado kaj timigo estas ĉe Li, Kiu faras pacon en Siaj altaj sferoj.",

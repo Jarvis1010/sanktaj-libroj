@@ -1,6 +1,5 @@
 export const chapter51 = {
   chapterTitle: "Ĉapitro 51",
-  summary: "",
   verses: [
     "Tiele diras la Eternulo:Jen Mi vekos pereigan venton kontraŭ Babelon, kaj kontraŭ ĝiajn loĝantojn, kiuj leviĝis kontraŭ Min.",
     "Kaj Mi sendos ventumistojn kontraŭ Babelon, kaj ili ĝin disventumos, kaj dezertigos ĝian landon; ĉar en la tago de la malfeliĉo ili estos ĉirkaŭ ĝi ĉiuflanke.",

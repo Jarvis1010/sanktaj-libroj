@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Vi estas bela, mia amatino, vi estas bela; Viaj okuloj estas kolombaj, malantaŭ via vualo.   Viaj haroj estas kiel aro da kaprinoj,   Deirantaj sur la deklivo de la monto Gilead.",
     "Viaj dentoj estas kiel tondotaj ŝafinoj, Kiuj elvenas el la lavejo;   Ĉiuj estas en paroj,   Kaj ne mankas eĉ unu el ili.",

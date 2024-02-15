@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Ĉar la Eternulo ekkompatos Jakobon, kaj denove elektos Izraelon, kaj reloĝigos ilin en ilia lando. Kaj fremduloj kuniĝos kun ili, kaj aliĝos al la domo de Jakob.",
     "Kaj popoloj prenos ilin kaj venigos ilin sur ilian lokon, kaj la domo de Izrael ekposedos ilin en la lando de la Eternulo kiel sklavojn kaj sklavinojn. Kaj ili malliberigos siajn malliberigintojn kaj regos siajn premintojn.",

@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Jen estas la vortoj de la letero, kiun la profeto Jeremia sendis el Jerusalem al la plej gravaj plejaĝuloj, kiuj estis forkondukitaj, kaj al la pastroj, al la profetoj, kaj al la tuta popolo, kiujn Nebukadnecar forkondukis el Jerusalem en Babelon",
     "(post kiam la reĝo Jeĥonja, kaj la reĝino, kaj la korteganoj, la eminentuloj de Judujo kaj Jerusalem, la ĉarpentistoj kaj forĝistoj foriris el Jerusalem);",

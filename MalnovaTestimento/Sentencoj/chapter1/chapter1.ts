@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Sentencoj de Salomono, filo de David, reĝo de Izrael:",
     "Por scii saĝon kaj moralinstruon; Por kompreni parolojn de prudento;",

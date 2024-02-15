@@ -1,6 +1,5 @@
 export const chapter96 = {
   chapterTitle: "Ĉapitro 96",
-  summary: "",
   verses: [
     "Kantu al la Eternulo novan kanton; Kantu al la Eternulo la tuta tero.",
     "Kantu al la Eternulo, gloru Lian nomon, Proklamu de tago al tago Lian savon.",

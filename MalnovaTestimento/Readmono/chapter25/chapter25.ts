@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Se estos disputo inter homoj, ili venu al la juĝo, kaj oni juĝu ilin, kaj oni deklaru prava la pravulon, kaj la malpravulon oni kondamnu.",
     "Kaj se la kulpulo meritas batojn, tiam la juĝisto ordonu kuŝigi lin kaj bati lin antaŭ li laŭ la grado de lia kulpeco, laŭ kalkulo.",

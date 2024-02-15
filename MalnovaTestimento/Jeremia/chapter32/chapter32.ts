@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo en la deka jaro de Cidkija, reĝo de Judujo, tio estas en la dek-oka jaro de Nebukadnecar.",
     "Tiam la militistaro de la reĝo de Babel sieĝis Jerusalemon, kaj la profeto Jeremia estis malliberigita sur la korto de la malliberejo, kiu estis apud la domo de la reĝo de Judujo.",

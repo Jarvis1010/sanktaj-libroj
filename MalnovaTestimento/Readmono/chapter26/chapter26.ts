@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Kaj kiam vi venos en la landon, kiun la Eternulo, via Dio, donas al vi kiel posedaĵon, kaj vi ekposedos ĝin kaj enloĝiĝos en ĝi:",
     "tiam prenu el la unuaj el ĉiuj fruktoj de la tero, kiujn vi ricevos de via tero, kiun la Eternulo, via Dio, donas al vi, kaj metu en korbon, kaj iru al la loko, kiun la Eternulo, via Dio, elektos, por loĝigi tie Sian nomon;",

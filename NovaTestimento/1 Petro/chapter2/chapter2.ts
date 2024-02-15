@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Formetinte do ĉian malbonon kaj ĉian trompon kaj hipokritecon kaj enviojn kaj ĉiajn kalumniojn,",
     "kiel ĵusnaskitaj suĉinfanoj, sopiru al la spirita lakto pura, por ke vi per tio kresku en savon,",

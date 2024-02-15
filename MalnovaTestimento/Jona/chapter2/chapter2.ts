@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj Jona ekpreĝis al la Eternulo, sia Dio, el la interno de la fiŝo.",
     "Kaj li diris: Kiam mi suferis, mi vokis al la Eternulo,   Kaj Li respondis al mi;   El la ventro de Ŝeol mi kriis,   Kaj Vi aŭskultis mian voĉon.",

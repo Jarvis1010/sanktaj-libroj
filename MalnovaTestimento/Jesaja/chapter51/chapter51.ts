@@ -1,6 +1,5 @@
 export const chapter51 = {
   chapterTitle: "Ĉapitro 51",
-  summary: "",
   verses: [
     "Aŭskultu Min, vi, kiuj postkuras la veron, kiuj serĉas la Eternulon:rigardu la rokon, el kiu vi estas elhakitaj, kaj en la profundon de la kavo, el kiu vi estas elfositaj.",
     "Rigardu Abrahamon, vian patron, kaj Saran, vian naskintinon; ĉar Mi alvokis lin, kiam li estis sola, kaj Mi benis lin kaj multigis lin.",

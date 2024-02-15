@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj venis anĝelo de la Eternulo el Gilgal al Boĥim, kaj diris:Mi elkondukis vin el Egiptujo, kaj venigis vin en la landon, pri kiu Mi ĵuris al viaj patroj, kaj Mi diris:Mi neniam rompos Mian interligon kun vi;",
     "sed vi ne faru interligon kun la loĝantoj de ĉi tiu lando, iliajn altarojn detruu. Sed vi ne obeis Mian voĉon; kial vi tion faris?",

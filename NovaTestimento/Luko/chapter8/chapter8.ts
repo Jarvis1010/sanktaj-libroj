@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj post ne longe li vojiradis tra urboj kaj vilaĝoj, predikante kaj alportante la evangelion de la regno de Dio, kaj kun li la dek du,",
     "kaj iuj virinoj, kiuj estis resanigitaj je malbonaj spiritoj kaj malsanoj:Maria, kiu estis nomata Magdalena, el kiu eliris sep demonoj,",

@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Infanoj, obeu al viaj gepatroj en la Sinjoro, ĉar tio decas.",
     "Respektu vian patron kaj vian patrinon (ĝi estas la unua ordono kun promeso),",

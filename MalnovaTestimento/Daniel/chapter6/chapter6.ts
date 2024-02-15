@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj Dario bonvolis starigi super sia regno cent dudek satrapojn, por administri lian tutan regnon;",
     "kaj super ili tri ĉefajn estrojn, inter kiuj estis ankaŭ Daniel, por ke la satrapoj donadu al ili kalkulraportojn, kaj por ke la reĝo ne havu malprofiton.",

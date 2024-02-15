@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "David prikalkulis la popolon, kiu estis kun li, kaj starigis super ĝi milestrojn kaj centestrojn.",
     "Kaj David metis trionon de la popolo sub la disponon de Joab, kaj trionon sub la disponon de Abiŝaj, filo de Ceruja kaj frato de Joab, kaj trionon sub la disponon de Itaj, la Gatano. Kaj la reĝo diris al la popolo:Mi ankaŭ iros kun vi.",

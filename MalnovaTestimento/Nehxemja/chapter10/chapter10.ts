@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "La sigelintoj estas:Neĥemja, la regionestro, filo de ĥaĥalja, kaj Cidkija,",
     "Seraja, Azarja, Jeremia,",

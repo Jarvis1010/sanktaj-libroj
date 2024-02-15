@@ -1,6 +1,5 @@
 export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
-  summary: "",
   verses: [
     "En tiu tempo Merodaĥ-Baladan, filo de Baladan, reĝo de Babel, sendis leteron kaj donacojn al ĥizkija; ĉar li aŭdis, ke li estis malsana kaj resaniĝis.",
     "Kaj ĥizkija ĝojis pri ili, kaj montris al ili sian trezorejon, la arĝenton kaj la oron kaj la aromaĵojn kaj la karan oleon kaj sian tutan armilejon, kaj ĉion, kio troviĝis en liaj trezorejoj; estis nenio, kion ĥizkija ne montrus al ili en sia domo kaj en sia tuta posedaĵo.",

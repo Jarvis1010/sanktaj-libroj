@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "De Benjamen naskiĝis:Bela, lia unuenaskito, Aŝbel, la dua, Aĥraĥ, la tria;",
     "Noĥa estis la kvara, kaj Rafa estis la kvina.",

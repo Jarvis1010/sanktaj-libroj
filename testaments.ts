@@ -22,7 +22,10 @@ export const testamentSlugMap = testamentTitles.reduce(
   {} as Record<string, string>,
 );
 
-export const testamentMap = testaments.reduce((map, testament) => {
-  map[testament.testamentTitle] = testament;
-  return map;
-}, {} as Record<(typeof testamentTitles)[number], Testament>);
+export const testamentMap = testaments.reduce(
+  (map, testament) => {
+    map[testament.testamentTitle] = testament;
+    return map;
+  },
+  {} as Record<(typeof testamentTitles)[number], Testament>,
+);

@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Kiam la popolo vidis, ke Moseo longe ne malsuprenvenas de la monto, la popolo kolektiĝis antaŭ Aaron, kaj diris al li:Leviĝu, faru al ni diojn, kiuj irus antaŭ ni; ĉar pri tiu Moseo, la viro, kiu elkondukis nin el la lando Egipta, ni ne scias, kio fariĝis kun li.",
     "Tiam diris al ili Aaron:Elprenu la orajn orelringojn, kiuj estas en la oreloj de viaj edzinoj, de viaj filoj, kaj de viaj filinoj, kaj alportu al mi.",

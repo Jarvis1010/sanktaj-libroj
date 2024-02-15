@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj antaŭ la Paska festo Jesuo, sciante, ke lia horo venis, por ke li transiru el ĉi tiu mondo al la Patro, aminte siajn proprulojn, kiuj estis en la mondo, amis ilin ĝis la fino.",
     "Kaj dum la vespermanĝo, kiam la diablo jam metis en la koron de Judas Iskariota, filo de Simon, la intencon perfidi lin,",

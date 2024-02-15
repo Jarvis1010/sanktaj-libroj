@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj jen estas la leĝo pri la kulpofero:plejsanktaĵo ĝi estas.",
     "Sur la loko, sur kiu estas buĉata la brulofero, oni buĉu la kulpoferon, kaj per ĝia sango oni aspergu la altaron ĉirkaŭe.",

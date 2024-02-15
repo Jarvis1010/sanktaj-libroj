@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Se iu ŝtelos bovon aŭ ŝafon kaj buĉos ĝin aŭ vendos ĝin, tiam li pagu kvin bovojn pro la bovo kaj kvar ŝafojn pro la ŝafo.",
     "Se iu trovos ŝtelanton ĉe subfosado kaj batos lin kaj tiu mortos, tiam oni ne juĝu lin pro la sango.",

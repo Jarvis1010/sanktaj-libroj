@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "En la tria monato post la eliro de la Izraelidoj el la lando Egipta, en tiu tago ili venis en la dezerton Sinaj.",
     "Ili eliris el Refidim, kaj venis en la dezerton Sinaj kaj starigis sian tendaron en la dezerto; kaj Izrael stariĝis tie tendare antaŭ la monto.",

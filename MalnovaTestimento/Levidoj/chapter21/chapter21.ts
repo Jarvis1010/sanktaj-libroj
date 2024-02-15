@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Parolu al la pastroj, la Aaronidoj, kaj diru al ili:Neniu el ili malpurigu sin per mortinto en sia popolo;",
     "krom nur per sia proksima parenco, per sia patrino, per sia patro, per sia filo, per sia filino, kaj per sia frato;",

@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Li aŭdis, ke la filoj de Laban parolis jene: Jakob forprenis la tutan havon de nia patro, kaj el la havo de nia patro li akiris la tutan riĉecon.",
     "Kaj Jakob vidis laŭ la vizaĝo de Laban, ke li ne estas rilate al li tia, kia li estis hieraŭ kaj antaŭhieraŭ.",

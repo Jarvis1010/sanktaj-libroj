@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj kiam ili alproksimiĝis al Jerusalem, kaj venis al Betfage, al la monto Olivarba, tiam Jesuo sendis du disĉiplojn,",
     "dirante al ili:Iru en la vilaĝon, kiu estas kontraŭ vi, kaj vi tuj trovos azeninon ligitan, kaj azenidon kun ĝi. Ilin malligu kaj alkonduku al mi.",

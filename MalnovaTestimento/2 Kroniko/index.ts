@@ -38,8 +38,6 @@ import { chapter36 } from "./chapter36/chapter36";
 export const duKroniko = {
   bookTitle: "2 Kroniko",
   bookTitleShort: "2 Kroniko",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

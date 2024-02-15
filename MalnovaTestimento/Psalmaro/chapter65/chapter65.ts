@@ -1,6 +1,5 @@
 export const chapter65 = {
   chapterTitle: "Ĉapitro 65",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Kanto. Vin oni fidas kaj gloras, ho Dio, en Cion;   Kaj al Vi oni plenumas promesojn.",
     "Al Vi, kiu aŭskultas preĝon, Venas ĉiu karno.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Mi ordonas al vi antaŭ Dio, kaj antaŭ Kristo Jesuo, kiu juĝos la vivantojn kaj la mortintojn, kaj pro lia apero kaj lia regno;",
     "prediku la vorton; insistu ĝustatempe, malĝustatempe; konvinku, admonu, konsilu, en ĉia pacienco kaj instruado.",

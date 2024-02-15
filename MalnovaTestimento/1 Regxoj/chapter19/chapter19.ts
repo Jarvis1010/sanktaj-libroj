@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Aĥab rakontis al Izebel ĉion, kion faris Elija, kaj tion, ke li mortigis ĉiujn profetojn per glavo.",
     "Tiam Izebel sendis senditon al Elija, por diri:La dioj faru al mi tion kaj pli, se mi morgaŭ en ĉi tiu tempo ne faros kun via animo, kiel estas farite kun la animo de ĉiu el ili.",

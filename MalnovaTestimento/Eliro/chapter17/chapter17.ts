@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "La tuta komunumo de la Izraelidoj elmoviĝis el la dezerto Sin laŭ siaj tagvojoj, kiel ordonis la Eternulo; kaj ili starigis sian tendaron en Refidim, kaj la popolo ne havis akvon por trinki.",
     "Kaj la popolo malpacis kontraŭ Moseo, kaj ili diris:Donu al ni akvon por trinki. Kaj Moseo diris al ili:Kial vi malpacas kontraŭ mi? kial vi provas la Eternulon?",

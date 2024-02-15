@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "En la unua jaro de Belŝacar, reĝo de Babel, Daniel havis sonĝon kaj vizion de sia kapo sur sia lito. Li enskribis tiun sonĝon, prezentinte la esencon de la afero.",
     "Daniel komencis sian rakonton, dirante:Mi vidis en mia nokta vizio, ke jen kvar ventoj de la ĉielo batalas inter si sur granda maro.",

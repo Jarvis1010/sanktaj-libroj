@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "Kaj Ijob daŭrigis siajn sentencojn, kaj diris:",
     "Kiel vivas Dio, kiu rifuzis al mi miajn rajtojn, Kaj la Plejpotenculo, kiu afliktas mian animon:",

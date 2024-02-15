@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Mi levis denove miajn okulojn, kaj mi ekvidis:jen kvar ĉaroj eliras el inter du montoj; kaj la montoj estas kupraj.",
     "La unua ĉaro havis ĉevalojn ruĝajn, la dua ĉaro havis ĉevalojn nigrajn,",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Nun armu vin, ho batalistino! oni sieĝos nin; per vergo oni frapos la vangon de la juĝisto de Izrael.",
     "Kaj vi, ho Bet-Leĥem Efrata, kiu estas malgranda inter la milejoj de Judujo, el vi eliros al Mi tiu, kiu devas esti reganto en Izrael kaj kies deveno estas de tempo tre antikva.",

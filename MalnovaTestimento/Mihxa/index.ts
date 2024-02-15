@@ -9,8 +9,6 @@ import { chapter7 } from "./chapter7/chapter7";
 export const Mihxa = {
   bookTitle: "Miĥa",
   bookTitleShort: "Miĥa",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

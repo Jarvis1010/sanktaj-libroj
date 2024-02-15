@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj iuj homoj vojaĝis tien el Judujo, kaj instruis la fratojn:Se vi ne cirkumcidiĝos laŭ la moro de Moseo, vi ne povas saviĝi.",
     "Kaj kiam Paŭlo kaj Barnabas havis ne malgrandan malkonsenton kaj diskutadon kontraŭ ili, oni aranĝis, ke Paŭlo kaj Barnabas kaj aliaj tieuloj iru Jerusalemon al la apostoloj kaj presbiteroj pri tiu demando.",

@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "Kaj aliris la filinoj de Celofĥad, filo de ĥefer, filo de Gilead, filo de Maĥir, filo de Manase, el la familioj de Manase, filo de Jozef; kaj jen estas la nomoj de liaj filinoj:Maĥla kaj Noa kaj ĥogla kaj Milka kaj Tirca;",
     "kaj ili stariĝis antaŭ Moseo kaj antaŭ la pastro Eleazar kaj antaŭ la estroj kaj la tuta komunumo ĉe la pordo de la tabernaklo de kunveno, kaj diris:",

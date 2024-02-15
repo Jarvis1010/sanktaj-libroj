@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Mia filo! atentu mian saĝon; Al mia prudento klinu vian orelon,",
     "Por ke vi konservu prudenton Kaj via buŝo tenu scion.",

@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Fine, fratoj, ĝoju en la Sinjoro. Tute ne ĝenas min al vi skribi ripete, kaj por vi tio estas sendanĝeriga.",
     "Gardu vin kontraŭ la hundoj, gardu vin kontraŭ la malbonaguloj, gardu vin kontraŭ la karntranĉuloj;",

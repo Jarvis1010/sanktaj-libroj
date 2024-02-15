@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj Salomono boparenciĝis kun Faraono, reĝo de Egiptujo, kaj prenis filinon de Faraono kaj venigis ŝin en la urbon de David, ĝis li finis la konstruadon de sia domo kaj de la domo de la Eternulo kaj de la muregoj de Jerusalem ĉirkaŭe.",
     "Tamen la popolo alportadis ankoraŭ oferojn sur altaĵoj, ĉar ĝis tiu tempo ankoraŭ ne estis konstruita domo al la nomo de la Eternulo.",

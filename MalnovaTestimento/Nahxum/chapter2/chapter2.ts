@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Disĵetanto iras kontraŭ vin; fortikigu viajn fortikaĵojn, gardu la vojon, armu viajn lumbojn, fortigu vin kiel eble plej potence.",
     "Ĉar la Eternulo restarigos la majeston de Jakob, kiel ankaŭ la majeston de Izrael; ĉar la ruinigantoj ilin ruinigis kaj ekstermis iliajn vinberbranĉojn.",

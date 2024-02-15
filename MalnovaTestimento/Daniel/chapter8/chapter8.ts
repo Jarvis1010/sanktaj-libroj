@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "En la tria jaro de reĝado de la reĝo Belŝacar aperis al mi, al Daniel, vizio, post tiu, kiu aperis al mi en la komenco.",
     "Kiam mi vidis la vizion, mi estis en la kastelurbo Ŝuŝan, kiu troviĝas en la lando Elam; sed en la vizio mi vidis, ke mi estas ĉe la rivero Ulaj.",

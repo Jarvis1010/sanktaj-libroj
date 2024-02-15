@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Tio tre forte ĉagrenis Jonan, kaj li ekkoleris.",
     "Kaj li ekpreĝis al la Eternulo, kaj diris:Ho Eternulo, tion mi ja diris, kiam mi estis ankoraŭ en mia lando; kaj tial mi preferis forkuri en Tarŝiŝon, ĉar mi sciis, ke Vi estas Dio indulgema kaj kompatema,  longepacienca kaj tre favorkora, kaj bedaŭras malbonon.",

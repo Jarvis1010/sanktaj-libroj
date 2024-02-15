@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Fine do, fratoj, ni petegas kaj admonas vin en la Sinjoro Jesuo, ke kiamaniere vi lernis de ni, kiel vi devus iradi kaj plaĉi al Dio (kaj vi ja tiel iradas), tiamaniere vi pli kaj pli abunde agu.",
     "Ĉar vi scias, kian admonon ni donis al vi en la Sinjoro Jesuo.",

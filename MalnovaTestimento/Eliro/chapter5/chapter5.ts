@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Poste venis Moseo kaj Aaron, kaj diris al Faraono:Tiel diris la Eternulo, la Dio de Izrael:Permesu, ke Mia popolo iru kaj faru al Mi feston en la dezerto.",
     "Sed Faraono diris:Kiu estas la Eternulo, kies voĉon mi devas obei kaj lasi Izraelon iri? mi ne konas la Eternulon, kaj al Izrael mi ne permesos iri.",

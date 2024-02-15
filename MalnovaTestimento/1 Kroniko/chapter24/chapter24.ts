@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "La ordo de la Aaronidoj:la filoj de Aaron:Nadab, Abihu, Eleazar, kaj Itamar.",
     "Nadab kaj Abihu mortis pli frue ol ilia patro, kaj filojn ili ne havis; kaj Eleazar kaj Itamar fariĝis pastroj.",

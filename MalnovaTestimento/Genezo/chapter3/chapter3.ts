@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj la serpento estis pli ruza, ol ĉiuj kampaj bestoj, kiujn kreis Dio la Eternulo. Kaj ĝi diris al la virino: Ĉu Dio diris, ke vi ne manĝu de ĉiuj arboj de la ĝardeno?",
     "Kaj la virino diris al la serpento: La fruktojn de la arboj de la ĝardeno ni povas manĝi;",

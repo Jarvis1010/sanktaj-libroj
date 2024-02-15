@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "En tiu nokto la reĝo ne povis dormi; kaj li ordonis alporti la memoraĵan libron de la kronikoj, kaj oni legis ilin antaŭ la reĝo.",
     "Kaj tie troviĝis skribite, kiel Mordeĥaj raportis pri Bigtan kaj Tereŝ, la du reĝaj korteganoj el la sojlogardistoj, kiuj intencis meti manon sur la reĝon Aĥaŝveroŝ.",

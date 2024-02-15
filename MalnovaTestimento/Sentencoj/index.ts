@@ -33,8 +33,6 @@ import { chapter31 } from "./chapter31/chapter31";
 export const Sentencoj = {
   bookTitle: "Sentencoj",
   bookTitleShort: "Sentencoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

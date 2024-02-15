@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Adam, Set, Enoŝ,",
     "Kenan, Mahalalel, Jared,",

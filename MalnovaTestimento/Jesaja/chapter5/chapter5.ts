@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Mi kantos al mia amato la kanton de mia amiko pri lia vinberĝardeno. Vinberĝardenon havis mia amiko sur grasa altaĵo;",
     "kaj li ĉirkaŭfosis ĝin, senŝtonigis ĝin, kaj plantis en ĝi plej bonspecajn vinberbranĉojn; kaj li konstruis turon meze de ĝi, kaj ankaŭ vinpremejon li elhakis en ĝi; kaj li esperis, ke ĝi donos bonajn vinberojn, sed ĝi donis senvalorajn berojn.",

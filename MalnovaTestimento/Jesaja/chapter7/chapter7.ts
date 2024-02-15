@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "En la tempo de Aĥaz, filo de Jotam, filo de Uzija, reĝo de Judujo, eliris Recin, reĝo de Sirio, kaj Pekaĥ, filo de Remalja, reĝo de Izrael,  kontraŭ Jerusalemon, por militi kontraŭ ĝi; sed ili ne povis konkeri ĝin.",
     "Oni raportis al la domo de David, dirante:La Sirianoj stariĝis tendare en la lando de Efraim. Tiam ektremis lia koro kaj la koro de lia popolo, kiel la arboj de arbaro tremas de vento.",

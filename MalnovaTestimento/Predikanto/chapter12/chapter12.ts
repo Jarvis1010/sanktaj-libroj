@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj memoru vian Kreinton en la tagoj de via juneco, dum ankoraŭ ne venis la tagoj de malbono, kaj ne venis la jaroj, pri kiuj vi diros:Mi ne havas plezuron de ili;",
     "dum ne mallumiĝis la suno, la lumo, la luno, kaj la steloj, kaj ne revenis nuboj post la pluvo;",

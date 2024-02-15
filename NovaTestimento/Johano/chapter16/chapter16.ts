@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Tion mi parolis al vi, por ke vi ne falpuŝiĝu.",
     "Ili forpelos vin el la sinagogoj; eĉ venas la horo, kiam iu, kiu mortigos vin, opinios, ke li faras servon al Dio.",

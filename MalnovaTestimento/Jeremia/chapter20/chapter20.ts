@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kiam la pastro Paŝĥur, filo de Imer, la ĉefa oficisto en la domo de la Eternulo, aŭdis, kiel Jeremia profetis ĉion diritan,",
     "Paŝĥur batis la profeton Jeremia, kaj metis lin en karceron, kiu estis en la supra Pordego de Benjamen ĉe la domo de la Eternulo.",

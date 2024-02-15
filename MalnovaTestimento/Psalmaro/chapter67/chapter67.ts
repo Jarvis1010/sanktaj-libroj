@@ -1,6 +1,5 @@
 export const chapter67 = {
   chapterTitle: "Ĉapitro 67",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por kordaj instrumentoj. Psalmo-kanto. Dio nin korfavoru kaj benu; Li aperigu al ni Sian luman vizaĝon.  Sela.",
     "Oni ekkonu sur la tero Vian vojon, En ĉiuj popoloj Vian savon.",

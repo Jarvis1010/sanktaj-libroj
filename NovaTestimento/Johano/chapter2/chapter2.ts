@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "La trian tagon okazis edziĝo en Kana Galilea, kaj la patrino de Jesuo ĉeestis tie;",
     "ankaŭ Jesuo kaj liaj disĉiploj estis invititaj al la edziĝo.",

@@ -1,6 +1,5 @@
 export const chapter62 = {
   chapterTitle: "Ĉapitro 62",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por Jedutun. Psalmo de David. Nur al Dio esperas mia animo; De Li venas mia savo.",
     "Nur Li estas mia fortikaĵo kaj mia savo, mia rifuĝejo; Mi ne tute renversiĝos.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "En la unua jaro de Dario, filo de Aĥaŝveroŝ, el la gento Meda, kiu fariĝis reĝo super la regno de la ĥaldeoj,",
     "en la unua jaro de lia reĝado, mi, Daniel, rimarkis en la libroj la nombron de la jaroj, pri kiuj la Eternulo parolis al la profeto Jeremia, ke devas finiĝi sepdek jaroj de la dezerteco de Jerusalem.",

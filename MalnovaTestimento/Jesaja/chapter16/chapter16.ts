@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Sendu ŝafidon al la reganto de la tero el Sela en la dezerto sur la monton de la filino de Cion.",
     "Kiel vaganta birdo, elpelita el la nesto, tiel estos la filinoj de Moab ĉe la transirejoj de Arnon.",

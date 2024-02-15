@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Afero, kiun Jesaja, filo de Amoc, vidis vizie pri Judujo kaj Jerusalem.",
     "Iam en la tempo estonta la monto de la domo de la Eternulo staros kiel ĉefo inter la montoj, kaj ĝi estos pli alta ol ĉiuj altaĵoj; kaj fluos al ĝi ĉiuj nacioj.",

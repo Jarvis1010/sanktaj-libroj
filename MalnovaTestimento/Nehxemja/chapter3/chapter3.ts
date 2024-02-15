@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj leviĝis la ĉefpastro Eljaŝib, kaj liaj fratoj, la pastroj, kaj konstruis la Pordegon de Ŝafoj; ili sanktigis ĝin kaj starigis ĝiajn pordojn, ili sanktigis ĝis la turo Mea, ĝis la turo ĥananel.",
     "Apud li konstruis la loĝantoj de Jeriĥo, apud ili konstruis Zakur, filo de Imri.",

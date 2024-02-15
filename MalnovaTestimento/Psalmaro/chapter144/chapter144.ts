@@ -1,6 +1,5 @@
 export const chapter144 = {
   chapterTitle: "Ĉapitro 144",
-  summary: "",
   verses: [
     "De David. Benata estu la Eternulo, mia Roko, Kiu instruas miajn manojn batali, miajn fingrojn militi:",
     "Mia bono kaj mia fortikaĵo, Mia rifuĝejo kaj mia savanto,   Mia ŝildo, Li, kiun mi fidas,   Kiu submetas al mi mian popolon.",

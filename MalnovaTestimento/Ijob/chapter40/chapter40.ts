@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "Kaj la Eternulo plue parolis al Ijob, kaj diris:",
     "Ĉu povas blasfemanto disputi kun la Plejpotenculo? La mallaŭdanto de Dio tion respondu.",

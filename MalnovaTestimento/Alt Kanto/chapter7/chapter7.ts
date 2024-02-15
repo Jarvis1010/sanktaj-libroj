@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kiel belaj estas viaj paŝoj en sandaloj, ho filino de princo! La svingado de viaj femuroj estas kiel ĉenringoj,   Majstre ellaboritaj.",
     "Via umbiliko estas kiel ronda pokalo, Al kiu trinkaĵo ne mankas;   Via ventro estas kiel amaso da tritiko ĉirkaŭita de rozoj;",

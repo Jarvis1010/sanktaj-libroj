@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj la popolo kaj iliaj edzinoj komencis forte krii kontraŭ siaj fratoj, la Judoj.",
     "Estis tiaj, kiuj parolis:Estas multe da ni kaj da niaj filoj kaj filinoj; ni prenu al ni grenon kaj manĝu, por ke ni vivu.",

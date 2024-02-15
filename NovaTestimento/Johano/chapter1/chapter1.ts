@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la komenco estis la Vorto, kaj la Vorto estis kun Dio, kaj la Vorto estis Dio.",
     "Tiu estis en la komenco kun Dio.",

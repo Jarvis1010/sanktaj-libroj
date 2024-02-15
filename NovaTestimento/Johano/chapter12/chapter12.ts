@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Jesuo do ses tagojn antaŭ la Pasko venis al Betania, kie estis Lazaro, kiun Jesuo relevis el inter la mortintoj.",
     "Oni do pretigis por li tie vespermanĝon, kaj Marta servadis; sed Lazaro estis unu el tiuj, kiuj sidis kun li ĉe manĝo.",

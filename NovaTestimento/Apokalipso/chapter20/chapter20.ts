@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj mi vidis anĝelon malsuprenirantan el la ĉielo, havantan la ŝlosilon de la abismo kaj grandan katenon en sia mano.",
     "Kaj li ekkaptis la drakon, la antikvan serpenton, kiu estas la Diablo kaj Satano, kaj enkatenis lin por mil jaroj,",

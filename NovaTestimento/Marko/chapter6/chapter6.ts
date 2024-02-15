@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj li eliris de tie, kaj venis en sian patrujon; kaj liaj disĉiploj lin sekvis.",
     "Kaj kiam venis la sabato, li komencis instrui en la sinagogo; kaj multaj, lin aŭdante, miris, dirante:De kie tiu viro havas tion? kaj:Kia estas la saĝeco donita al li? kaj kiaj estas tiaj potencaĵoj farataj per liaj manoj?",

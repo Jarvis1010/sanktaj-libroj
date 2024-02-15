@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Kaj Moseo supreniris de la stepo de Moab sur la monton Nebo, sur la supron de Pisga, kiu estas kontraŭ Jeriĥo. Kaj la Eternulo montris al li la tutan landon Gilead, ĝis Dan,",
     "kaj la tutan teron de Naftali kaj la teron de Efraim kaj Manase kaj la tutan teron de Jehuda ĝis la ekstrema maro,",

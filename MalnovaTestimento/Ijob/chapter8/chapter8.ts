@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj ekparolis Bildad, la Ŝuĥano, kaj diris:",
     "Kiel longe vi tiel parolos, Kaj la vortoj de via buŝo estos kiel forta vento?",

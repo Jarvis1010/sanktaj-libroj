@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "David konsiliĝis kun la milestroj, centestroj, kaj ĉiuj ĉefoj;",
     "kaj David diris al la tuta komunumo de Izrael:Se plaĉas al vi, kaj se tio estas de la Eternulo, nia Dio, ni dissendu ĉiuflanken al ĉiuj ceteraj niaj fratoj en ĉiujn regionojn de Izrael, kaj samtempe al la pastroj kaj Levidoj en la urbojn de ilia loĝado, ke ili kolektiĝu al ni;",

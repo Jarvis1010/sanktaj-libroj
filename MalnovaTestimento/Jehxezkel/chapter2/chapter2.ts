@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj Li diris al mi:Ho filo de homo, stariĝu sur viaj piedoj, kaj Mi parolos al vi.",
     "Kaj kiam Li parolis al mi, venis en min spirito kaj starigis min sur miaj piedoj; kaj mi aŭskultis Tiun, kiu parolis al mi.",

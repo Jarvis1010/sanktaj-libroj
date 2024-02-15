@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Jen estas la filoj de Izrael:Ruben, Simeon, Levi, Jehuda, Isaĥar, Zebulun,",
     "Dan, Jozef, Benjamen, Naftali, Gad, kaj Aŝer.",

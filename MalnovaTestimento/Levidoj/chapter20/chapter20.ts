@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Al la Izraelidoj diru:Ĉiu el la Izraelidoj, kaj el la fremduloj, kiuj loĝas inter la Izraelidoj, kiu donos iun el siaj idoj al Moleĥ, mortu; la popolo de la lando mortigu lin per ŝtonoj.",

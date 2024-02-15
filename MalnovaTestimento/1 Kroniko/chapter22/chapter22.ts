@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj David diris:Ĉi tie estas la domo de Dio, la Eternulo, kaj ĉi tio estas altaro por bruloferoj por Izrael.",
     "Kaj David ordonis kunvenigi la fremdulojn, kiuj estis en la lando de Izrael, kaj li starigis ŝtonhakistojn, por ĉirkaŭhaki ŝtonojn por la konstruado de la domo de Dio.",

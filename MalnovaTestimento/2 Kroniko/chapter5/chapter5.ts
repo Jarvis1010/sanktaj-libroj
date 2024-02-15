@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Tiamaniere estis finita la tuta laboro, kiun Salomono faris por la domo de la Eternulo. Kaj Salomono enportis la konsekritaĵojn de sia patro David; la arĝenton kaj la oron kaj ĉiujn vazojn li metis en la trezorejojn de la domo de Dio.",
     "Tiam Salomono kunvenigis la plejaĝulojn de Izrael kaj ĉiujn ĉefojn de la triboj, la estrojn de la patrodomoj de la Izraelidoj, en Jerusalemon, por transporti la keston de interligo de la Eternulo el la urbo de David, tio estas el Cion.",

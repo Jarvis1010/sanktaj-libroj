@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Mia filo! konservu miajn vortojn, Kaj gardu ĉe vi miajn moralordonojn.",
     "Konservu miajn moralordonojn, kaj vivu; Kaj mian instruon, kiel la pupilon de viaj okuloj.",

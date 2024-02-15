@@ -1,6 +1,5 @@
 export const chapter45 = {
   chapterTitle: "Ĉapitro 45",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por ŝoŝanoj. Instrua ama kanto de la Koraĥidoj. Mia koro pleniĝis per bona temo;   Mi kantos pri reĝo;   Mia lango estas kiel plumo de lerta skribisto.",
     "Vi estas la plej bela el la homidoj; Ĉarmo estas sur viaj lipoj;   Tial Dio benis vin por ĉiam.",

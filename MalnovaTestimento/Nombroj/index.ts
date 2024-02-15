@@ -38,8 +38,6 @@ import { chapter36 } from "./chapter36/chapter36";
 export const Nombroj = {
   bookTitle: "Nombroj",
   bookTitleShort: "Nombroj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

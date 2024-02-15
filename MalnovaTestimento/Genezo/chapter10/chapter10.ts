@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Jen estas la generaciaro de la filoj de Noa: Ŝem, ĥam, kaj Jafet. Kaj naskiĝis al ili filoj post la diluvo.",
     "La filoj de Jafet: Gomer kaj Magog kaj Madaj kaj Javan kaj Tubal kaj Meŝeĥ kaj Tiras.",

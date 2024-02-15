@@ -1,6 +1,5 @@
 export const chapter130 = {
   chapterTitle: "Ĉapitro 130",
-  summary: "",
   verses: [
     "Kanto de suprenirado. El profundo mi vokas Vin, ho Eternulo.",
     "Mia Sinjoro, aŭskultu mian voĉon; Viaj oreloj atentu la voĉon de mia petego.",

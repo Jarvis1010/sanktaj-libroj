@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj estis finitaj la ĉielo kaj la tero kaj ĉiuj iliaj apartenaĵoj.",
     "Kaj Dio finis en la sepa tago Sian laboron, kiun Li faris, kaj Li ripozis en la sepa tago de la tuta laboro, kiun Li faris.",

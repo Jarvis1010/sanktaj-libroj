@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj aperis vorto de la Eternulo, dirante:",
     "Tiele diras la Eternulo Cebaot:Mi ekfervoris pri Cion per granda fervoro, kaj kun granda kolero Mi ekfervoris pri ĝi.",

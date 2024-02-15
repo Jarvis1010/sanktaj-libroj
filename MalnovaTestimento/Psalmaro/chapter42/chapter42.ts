@@ -1,6 +1,5 @@
 export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
-  summary: "",
   verses: [
     "Al la ĥorestro. Instruo de la Koraĥidoj. Kiel cervo sopiras al fluanta akvo, Tiel mia animo sopiras al Vi, ho Dio.",
     "Mia animo soifas Dion, la vivantan Dion; Kiam mi venos kaj aperos antaŭ la vizaĝo de Dio?",

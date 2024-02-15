@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Naomi havis parencon de ŝia edzo, viron eminentan, el la familio de Elimeleĥ; lia nomo estis Boaz.",
     "Kaj la Moabidino Rut diris al Naomi:Mi iros sur la kampon, kaj mi kolektos spikojn post tiu, ĉe kiu mi trovos favoron. Kaj ŝi respondis:Iru, mia filino.",

@@ -24,8 +24,6 @@ import { chapter22 } from "./chapter22/chapter22";
 export const unuRegxoj = {
   bookTitle: "1 Reĝoj",
   bookTitleShort: "1 Reĝoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

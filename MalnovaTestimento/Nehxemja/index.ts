@@ -15,8 +15,6 @@ import { chapter13 } from "./chapter13/chapter13";
 export const Nehxemja = {
   bookTitle: "Neĥemja",
   bookTitleShort: "Neĥemja",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al la Izraelidoj, kaj prenu de ili po unu bastono de ĉiu tribo, de ĉiuj iliaj triboj dek du bastonojn, kaj ĉies nomon skribu sur lia bastono.",

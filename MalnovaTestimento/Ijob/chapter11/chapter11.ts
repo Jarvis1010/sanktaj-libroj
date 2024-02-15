@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj ekparolis Cofar, la Naamano, kaj diris:",
     "Ĉu kontraŭ multe da vortoj oni ne povas doni respondon? Kaj ĉu tiu, kiu multe parolas, estas prava?",

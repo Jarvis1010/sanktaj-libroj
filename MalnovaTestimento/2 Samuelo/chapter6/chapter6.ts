@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj denove David kolektis ĉiujn elektitojn en Izrael, tridek mil.",
     "Kaj David, kaj la tuta popolo, kiu estis kun li, leviĝis kaj iris el Baale-Jehuda, por venigi de tie la keston de Dio, kiu estas nomata per la nomo de la Eternulo Cebaot, kiu sidas sur la keruboj.",

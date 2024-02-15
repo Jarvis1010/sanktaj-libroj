@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Metu trumpeton al via buŝo! Li flugas kiel aglo al la domo de la Eternulo, pro tio, ke ili agis kontraŭ Mia interligo kaj defalis de Mia instruo.",
     "Al Mi ili vokos:Ho mia Dio, ni, Izraelidoj, ekkonis Vin.",

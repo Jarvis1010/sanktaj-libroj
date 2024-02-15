@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Iru al Faraono, kaj diru al li:Tiel diris la Eternulo, Dio de la Hebreoj:Forliberigu Mian popolon, ke ĝi faru al Mi servon.",
     "Ĉar se vi ne volos forliberigi kaj vi plue ilin retenos,",

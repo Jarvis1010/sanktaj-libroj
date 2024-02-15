@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "La aĝon de ok jaroj havis Joŝija, kiam li fariĝis reĝo, kaj tridek unu jarojn li reĝis en Jerusalem.",
     "Li agadis bone antaŭ la Eternulo, kaj iradis laŭ la vojoj de sia patro David, kaj ne deflankiĝis dekstren nek maldekstren.",

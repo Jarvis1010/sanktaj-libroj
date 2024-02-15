@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Vorto de la Eternulo, kiu aperis al Jeremia koncerne la senpluvecon.",
     "Judujo funebras, ĝiaj pordegoj malĝoje nigriĝis, klinite al la tero, kaj plora kriado leviĝas el Jerusalem.",

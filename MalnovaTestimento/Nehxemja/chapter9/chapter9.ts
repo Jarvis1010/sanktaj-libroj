@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "En la dudek-kvara tago de tiu monato kunvenis la Izraelidoj, fastante, en sakaĵoj kaj kun tero sur la kapoj.",
     "Kaj la idaro de Izrael apartigis sin de ĉiuj fremduloj, kaj stariĝis, kaj faris konfeson pri siaj pekoj kaj pri la pekoj de siaj patroj.",

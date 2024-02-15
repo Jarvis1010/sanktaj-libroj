@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Malfermu, ho Lebanon, viajn pordojn, ke la fajro ekstermu viajn cedrojn.",
     "Ĝemegu, ho cipreso, ĉar falis la cedro kaj la potenculoj estas ruinigitaj. Ĝemegu, ho kverkoj de Baŝan, ĉar falis la fortika arbaro.",

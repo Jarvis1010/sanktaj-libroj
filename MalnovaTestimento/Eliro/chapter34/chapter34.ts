@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Skulptu al vi du ŝtonajn tabelojn kiel la unuaj; kaj Mi skribos sur la tabeloj la vortojn, kiuj estis sur la unuaj tabeloj, kiujn vi rompis.",
     "Kaj estu preta por la mateno, kaj supreniru matene sur la monton Sinaj kaj stariĝu antaŭ Mi tie sur la pinto de la monto.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "KAJ nun mi, Nifai, parolas pri la profetaĵoj, pri kiuj mia patro parolis, koncerne Jozefon, kiu estis forkondukita en Egipton.",
     "Ĉar li ja vere profetis pri sia tuta idaro. Kaj ne troviĝas multe da profetaĵoj, kiuj estas pli grandaj ol tiuj, kiujn li skribis. Kaj li profetis pri ni kaj niaj estontaj generacioj; kaj tio estas skribita sur la platoj el latuno.",

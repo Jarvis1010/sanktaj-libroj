@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al mi:Eĉ se stariĝus antaŭ Mi Moseo kaj Samuel, eĉ tiam Mia animo ne estos kun tiu popolo; forpelu ilin de antaŭ Mia vizaĝo, ili foriru.",
     "Kaj se ili diros al vi:Kien ni iru? tiam diru al ili, ke tiele diras la Eternulo:Kiu estas destinita por la morto, tiu iru al la morto; kiu estas destinita por la glavo, tiu iru al la glavo; kiu estas destinita por la malsato, tiu iru al la malsato; kiu estas destinita por kaptiteco, tiu iru en kaptitecon.",

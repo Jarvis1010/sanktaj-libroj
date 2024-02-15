@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj en Antioĥia, en la tiea eklezio, estis profetoj kaj instruistoj, Barnabas, kaj Simeon, nomata Niger, kaj Lucio, la Kirenano, kaj Manaen,  kunvartito de la tetrarĥo Herodo, kaj Saŭlo.",
     "Kaj dum ili faris servon al la Sinjoro kaj fastis, la Sankta Spirito diris:Apartigu al mi Barnabason kaj Saŭlon por tiu laboro, al kiu mi ilin vokis.",

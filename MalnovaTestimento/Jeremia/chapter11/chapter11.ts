@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo:",
     "Aŭskultu la vortojn de ĉi tiu interligo, kaj raportu ilin al la Judoj kaj al la loĝantoj de Jerusalem.",

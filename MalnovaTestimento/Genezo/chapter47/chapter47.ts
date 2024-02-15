@@ -1,6 +1,5 @@
 export const chapter47 = {
   chapterTitle: "Ĉapitro 47",
-  summary: "",
   verses: [
     "Jozef venis kaj sciigis al Faraono, kaj diris: Mia patro kaj miaj fratoj kaj iliaj malgrandaj kaj grandaj brutoj, kaj ĉio, kio apartenas al ili, venis el la lando Kanaana, kaj nun ili estas en la lando Goŝen.",
     "Kaj el inter siaj fratoj li prenis kvin homojn kaj starigis ilin antaŭ Faraono.",

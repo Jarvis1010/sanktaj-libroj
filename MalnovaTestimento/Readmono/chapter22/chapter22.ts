@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kiam vi vidos, ke bovo de via frato aŭ lia ŝafo erarvagas, ne forturnu vin de ili, sed rekonduku ilin al via frato.",
     "Se via frato ne estas proksime de vi aŭ se vi lin ne konas, tiam enpelu ilin en vian domon, kaj ili estu ĉe vi, ĝis via frato ilin serĉos, kaj tiam redonu ilin al li.",

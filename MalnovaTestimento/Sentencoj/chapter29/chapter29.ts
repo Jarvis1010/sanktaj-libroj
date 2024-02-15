@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Se homo ofte admonita restos obstina, Li subite pereos sen ia helpo.",
     "Kiam altiĝas virtuloj, la popolo ĝojas; Sed kiam regas malvirtulo, la popolo ĝemas.",

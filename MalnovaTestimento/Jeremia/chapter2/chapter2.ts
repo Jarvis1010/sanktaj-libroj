@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj aperis al mi la vorto de la Eternulo, dirante:",
     "Iru kaj prediku al la oreloj de Jerusalem, dirante:Tiele diras la Eternulo:Mi memoras la piecon de via juneco, la amon de via fianĉineco, kiam vi sekvis Min en la dezerto, en lando ne prisemita.",

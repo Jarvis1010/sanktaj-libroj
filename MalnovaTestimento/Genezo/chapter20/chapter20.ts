@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj Abraham ekmigris de tie al la lando suda, kaj li ekloĝis inter Kadeŝ kaj Ŝur; kaj li loĝis kiel fremdulo en Gerar.",
     "Kaj Abraham diris pri sia edzino Sara: Ŝi estas mia fratino. Kaj Abimeleĥ, reĝo de Gerar, sendis kaj prenis Saran.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Mi venis en mian ĝardenon, mia fratino, mia fianĉino; Mi deŝiris mian mirhon kaj miajn aromaĵojn;   Mi manĝis mian mielĉelaron, kiel ankaŭ mian mielon;   Mi trinkis mian vinon, kiel ankaŭ mian lakton.   Manĝu, ho miaj kamaradoj;   Drinku kaj ebriiĝu, ho miaj amikoj.",
     "Mi dormis, sed mia koro estis maldorma; Jen estas la voĉo de mia amato, jen li ekfrapas:   Malfermu al mi, ho mia fratino, mia amatino, mia kolombino, mia virtulino;   Ĉar mia kapo estas plena de roso,   Miaj harbukloj de la gutoj de la nokto.",

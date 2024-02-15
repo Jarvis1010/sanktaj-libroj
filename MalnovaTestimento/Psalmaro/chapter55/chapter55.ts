@@ -1,6 +1,5 @@
 export const chapter55 = {
   chapterTitle: "Ĉapitro 55",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por kordaj instrumentoj. Instruo de David. Aŭskultu, ho Dio, mian preĝon,   Kaj ne kaŝu Vin de mia petego.",
     "Atentu min, kaj respondu al mi; Mi ĝemas en mia malĝojo, kaj mi ploregas,",

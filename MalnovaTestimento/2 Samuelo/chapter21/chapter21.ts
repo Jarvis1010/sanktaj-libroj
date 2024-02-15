@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Estis malsato en la tempo de David dum tri jaroj, jaron post jaro. Kaj David faris demandon ĉe la Eternulo; kaj la Eternulo respondis:Tio estas pro Saul kaj pro la sangavida domo, pro tio, ke li mortigis la Gibeonanojn.",
     "Tiam la reĝo alvokis la Gibeonanojn, kaj parolis kun ili. (Kaj la Gibeonanoj estis ne el la Izraelidoj, sed el la restaĵoj de la Amoridoj; kaj la Izraelidoj ĵuris al ili, sed Saul penis ekstermi ilin pro sia fervoro por la Izraelidoj kaj Judoj.)",

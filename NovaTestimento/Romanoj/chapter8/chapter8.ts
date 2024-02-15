@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Ekzistas do jam nenia kondamno kontraŭ tiuj, kiuj estas en Kristo Jesuo.",
     "Ĉar la leĝo de la Spirito de vivo en Kristo Jesuo liberigis min de la leĝo de peko kaj morto.",

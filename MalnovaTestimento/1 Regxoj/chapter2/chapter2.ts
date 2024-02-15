@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kiam por David alproksimiĝis la tempo por morti, li testamentis al sia filo Salomono jene:",
     "Mi foriras la vojon de la tuta mondo; sed vi tenu vin forte kaj estu viro.",

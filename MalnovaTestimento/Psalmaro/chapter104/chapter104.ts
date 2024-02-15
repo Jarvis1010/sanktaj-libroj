@@ -1,6 +1,5 @@
 export const chapter104 = {
   chapterTitle: "Ĉapitro 104",
-  summary: "",
   verses: [
     "Benu, ho mia animo, la Eternulon. Ho Eternulo, mia Dio, Vi estas tre granda,   De majesto kaj beleco Vi estas vestita;",
     "Vi, kiu estas ĉirkaŭkovrita de lumo kiel de vesto, Kiu sternas la ĉielon kiel tapiŝon;",

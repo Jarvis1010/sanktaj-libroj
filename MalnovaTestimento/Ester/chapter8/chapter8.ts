@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "En tiu tago la reĝo Aĥaŝveroŝ transdonis al la reĝino Ester la domon de Haman, la malamiko de la Judoj; kaj Mordeĥaj venis antaŭ la reĝon, ĉar Ester diris, kio li estas por ŝi.",
     "Kaj la reĝo deprenis sian ringon, kiun li forprenis de Haman, kaj donis ĝin al Mordeĥaj; kaj Ester starigis Mordeĥajon super la domo de Haman.",

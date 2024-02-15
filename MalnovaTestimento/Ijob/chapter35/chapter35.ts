@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Elihu parolis plue, kaj diris:",
     "Ĉu tion vi opinias justa, ke vi diras: Mi estas pli prava ol Dio?",

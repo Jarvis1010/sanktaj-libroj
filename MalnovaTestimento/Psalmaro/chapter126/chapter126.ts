@@ -1,6 +1,5 @@
 export const chapter126 = {
   chapterTitle: "Ĉapitro 126",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Kiam la Eternulo revenigis la forkaptitojn al Cion, Tiam ni estis kiel sonĝantoj.",
     "Tiam nia buŝo estis plena de gajeco, Kaj nia lango plena de kantado;   Tiam oni diris inter la popoloj:   Ion grandan la Eternulo faris por ĉi tiuj.",

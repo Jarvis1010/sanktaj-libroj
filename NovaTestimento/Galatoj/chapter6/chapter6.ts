@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Fratoj, eĉ se homo estos trovita en ia kulpo, vi, kiuj estas spiritaj, restarigu tiun per spirito de mildeco; rigardante vin, ĉiu sin mem, por ke vi ne estu tentataj.",
     "Reciproke subtenadu viajn ŝarĝojn, kaj tiamaniere plenumu la leĝon de Kristo.",

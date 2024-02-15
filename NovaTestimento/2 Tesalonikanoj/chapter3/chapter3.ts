@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Fine, fratoj, preĝu por ni, ke la vorto de la Sinjoro disvastiĝu kaj estu glorata, kiel ankaŭ ĉe vi;",
     "kaj ke ni forsaviĝu de senprudentaj kaj malbonaj homoj; ĉar ne ĉe ĉiuj estas la fido.",

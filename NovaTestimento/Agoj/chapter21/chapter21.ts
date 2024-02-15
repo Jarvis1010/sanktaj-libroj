@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj kiam ni, apartiĝinte de ili, ekŝipiris, ni rekte veturis al Kos, kaj en la sekvanta tago al Rodo, kaj de tie al Patara;",
     "kaj trovinte ŝipon transirontan al Fenikio, ni enŝipiĝis kaj ekveturis.",

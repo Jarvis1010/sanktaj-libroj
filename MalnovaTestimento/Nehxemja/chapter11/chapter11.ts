@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "La estroj de la popolo loĝis en Jerusalem. La cetera popolo faris lotadon, por ke unu parto el dek loĝu en Jerusalem, la sankta urbo, kaj la ceteraj naŭ partoj en la urboj.",
     "Kaj la popolo benis ĉiujn homojn, kiuj memvole konsentis loĝi en Jerusalem.",

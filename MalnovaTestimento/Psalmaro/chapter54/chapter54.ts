@@ -1,6 +1,5 @@
 export const chapter54 = {
   chapterTitle: "Ĉapitro 54",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por kordaj instrumentoj. Instruo de David, kiam venis la Zifanoj, kaj diris al Saul:Jen David kaŝiĝas ĉe ni. Ho Dio, per Via nomo helpu min, Kaj per Via forto donu al mi justecon.",
     "Ho Dio, aŭskultu mian preĝon, Atentu la vortojn de mia buŝo.",

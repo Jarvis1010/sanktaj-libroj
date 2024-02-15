@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Mi do vin petas, fratoj, pro la kompatoj de Dio, ke vi prezentu viajn korpojn kiel vivantan oferon, sanktan, plaĉantan al Dio, kio estas via racia servo.",
     "Kaj ne konformiĝu al ĉi tiu mondo; sed aliformiĝu per renovigado de via menso, por ke vi provu, kio estas la bona kaj aprobinda kaj perfekta volo de Dio.",

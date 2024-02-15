@@ -8,7 +8,5 @@ import { chapter6 } from "./chapter6/chapter6";
 export const Galatoj = {
   bookTitle: "Galatoj",
   bookTitleShort: "Galatoj",
-  subtitle: "",
-  summary: "",
   chapters: [chapter1, chapter2, chapter3, chapter4, chapter5, chapter6],
 } as const satisfies Book;

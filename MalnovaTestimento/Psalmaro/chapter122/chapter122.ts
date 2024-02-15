@@ -1,6 +1,5 @@
 export const chapter122 = {
   chapterTitle: "Ĉapitro 122",
-  summary: "",
   verses: [
     "Kanto de suprenirado. De David. Mi ekĝojis, kiam oni diris al mi: Ni iru en la domon de la Eternulo.",
     "Niaj piedoj staris en viaj pordegoj, Ho Jerusalem,",

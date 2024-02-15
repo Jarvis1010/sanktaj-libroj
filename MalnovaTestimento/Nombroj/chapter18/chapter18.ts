@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Aaron:Vi kaj viaj filoj kaj la domo de via patro kune kun vi portos sur vi la kulpon pri la tabernaklo, kaj vi kaj viaj filoj kune kun vi portos la kulpon pri via pastrado.",
     "Ankaŭ viajn fratojn, la tribon de Levi, la genton de via patro, alproksimigu al vi; ili aliĝu al vi kaj servu vin; kaj vi kune kun viaj filoj estos ĉe la tabernaklo de atesto.",

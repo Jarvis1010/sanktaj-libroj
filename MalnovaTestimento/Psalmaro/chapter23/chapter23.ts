@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Psalmo de David. La Eternulo estas mia paŝtisto; mi mankon ne havos.",
     "Sur verdaj herbejoj Li ripozigas min, Apud trankvilaj akvoj Li kondukas min.",

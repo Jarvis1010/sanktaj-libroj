@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Pro tio mi, Paŭlo, malliberulo de Kristo Jesuo por vi nacianoj,",
     "se vi aŭdis pri la dispono de tiu graco de Dio, kiu estas donita al mi por vi,",

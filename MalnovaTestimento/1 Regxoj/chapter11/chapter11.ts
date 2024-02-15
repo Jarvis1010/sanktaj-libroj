@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "La reĝo Salomono amis multajn aligentajn virinojn, la filinon de Faraono, Moabidinojn, Amonidinojn, Edomidinojn, Cidonaninojn, ĥetidinojn,",
     "el tiuj popoloj, pri kiuj la Eternulo diris al la Izraelidoj:Ne iru al ili, kaj ili ne iru al vi, ĉar ili turnos vian koron al siaj dioj; al ili Salomono aliĝis per amo.",

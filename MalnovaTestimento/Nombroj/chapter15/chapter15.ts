@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:Kiam vi venos en la landon de via loĝado, kiun Mi donas al vi,",

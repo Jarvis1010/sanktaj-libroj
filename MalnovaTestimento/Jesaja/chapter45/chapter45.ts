@@ -1,6 +1,5 @@
 export const chapter45 = {
   chapterTitle: "Ĉapitro 45",
-  summary: "",
   verses: [
     "Tiele diras la Eternulo pri Sia sanktoleito Ciro:Mi prenis lin je lia dekstra mano, por faligi antaŭ li popolojn, kaj la lumbojn de reĝoj Mi senzonigos, por malfermi antaŭ li la pordojn, kaj por ke la pordegoj ne estu ŝlositaj.",
     "Mi iros antaŭ vi kaj ebenigos altaĵojn; kuprajn pordojn Mi disbatos, kaj ferajn riglilojn Mi rompos.",

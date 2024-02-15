@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Post la morto de Josuo la Izraelidoj demandis la Eternulon, dirante:Kiu el ni plej antaŭe devas iri kontraŭ la Kanaanidojn, por militi kontraŭ ili?",
     "Kaj la Eternulo diris:Jehuda iros; jen Mi transdonas la landon en liajn manojn.",

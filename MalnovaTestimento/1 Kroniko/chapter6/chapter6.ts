@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "La filoj de Levi:Gerŝon, Kehat, kaj Merari.",
     "La filoj de Kehat:Amram, Jichar, ĥebron, kaj Uziel.",

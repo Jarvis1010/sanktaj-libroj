@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Tiam Salomono ekparolis:La Eternulo diris, ke Li deziras loĝi en mallumo;",
     "tial mi konstruis domon por Via loĝado, kaj lokon por Via restado eterna.",

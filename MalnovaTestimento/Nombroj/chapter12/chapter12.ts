@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj ekparolis Mirjam kaj Aaron kontraŭ Moseo pro la edzino Etiopino, kiun li prenis; ĉar li prenis al si edzinon Etiopinon.",
     "Kaj ili diris:Ĉu nur kun Moseo parolis la Eternulo? Li parolis ja ankaŭ kun ni. Kaj la Eternulo tion aŭdis.",

@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "Kiam la reĝo ĥizkija tion aŭdis, li disŝiris siajn vestojn kaj ĉirkaŭkovris sin per sako, kaj iris en la domon de la Eternulo.",
     "Kaj li sendis Eljakimon, la palacestron, kaj Ŝebnan, la skribiston, kaj la plejaĝulojn de la pastroj, ĉirkaŭkovritajn per sakoj, al la profeto Jesaja, filo de Amoc.",

@@ -1,6 +1,5 @@
 export const chapter33 = {
   chapterTitle: "Ĉapitro 33",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, parolu al la filoj de via popolo, kaj diru al ili:Se Mi venigos glavon kontraŭ iun landon, kaj la popolo de la lando prenos el sia mezo unu viron kaj starigos lin ĉe si kiel observanton;",

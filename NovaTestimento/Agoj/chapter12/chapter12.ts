@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj ĉirkaŭ tiu tempo la reĝo Herodo etendis siajn manojn, por premi iujn el la eklezianoj.",
     "Kaj li mortigis per glavo Jakobon, la fraton de Johano.",

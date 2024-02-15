@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Dediĉu al Mi ĉiun unuenaskiton, kiu malfermas ĉiun uteron inter la Izraelidoj, el la homo kaj el la brutoj:al Mi li apartenas.",

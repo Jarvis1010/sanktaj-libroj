@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj levis min la spirito, kaj venigis min al la orienta pordego de la domo de la Eternulo, al tiu, kiu rigardas orienten. Kaj jen ĉe la enirejo de la pordego staras dudek kvin homoj, kaj inter ili mi vidas Jaazanjan, filon de Azur, kaj Pelatjan, filon de Benaja, estrojn de la popolo.",
     "Kaj Li diris al mi:Ho filo de homo, ĉi tiuj homoj havas malpiajn intencojn kaj donas malbonajn konsilojn en ĉi tiu urbo.",

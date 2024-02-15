@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Fratoj kaj patroj, aŭskultu la pledon, kiun mi faras nun antaŭ vi.",
     "Kaj kiam ili aŭdis, ke li parolas al ili en la Hebrea lingvo, ili des pli silentiĝis; kaj li diris:",

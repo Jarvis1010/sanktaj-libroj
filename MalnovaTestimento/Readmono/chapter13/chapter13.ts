@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Se aperos inter vi profeto aŭ sonĝisto kaj prezentos al vi signon aŭ miraklon,",
     "kaj plenumiĝos la signo aŭ miraklo, pri kiu li parolis al vi, kaj li diros:Ni sekvu aliajn diojn, kiujn vi ne konas, kaj ni servu al ili:",

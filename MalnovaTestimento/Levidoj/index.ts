@@ -29,8 +29,6 @@ import { chapter27 } from "./chapter27/chapter27";
 export const Levidoj = {
   bookTitle: "Levidoj",
   bookTitleShort: "Levidoj",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

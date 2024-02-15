@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Ne riproĉu maljunulon, sed konsilu lin, kiel patron; la pli junajn virojn, kiel fratojn;",
     "la maljunulinojn, kiel patrinojn; la pli junajn virinojn, kiel fratinojn, kun ĉia ĉasteco.",

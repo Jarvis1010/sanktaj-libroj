@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj David venis en Nobon al la pastro Aĥimeleĥ, kaj Aĥimeleĥ time eliris renkonte al David, kaj diris al li:Kial vi estas sola kaj neniu estas kun vi?",
     "Kaj David respondis al la pastro Aĥimeleĥ:La reĝo ion komisiis al mi, kaj diris al mi:Neniu ion sciu pri la afero, por kiu mi sendas vin kaj kiun mi komisiis al vi; tial por miaj junuloj mi destinis lokon tian kaj tian.",

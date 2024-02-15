@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo en la dezerto Sinaj en la dua jaro post ilia eliro el la lando Egipta, en la unua monato, dirante:",
     "La Izraelidoj faru la Paskon en la difinita tempo.",

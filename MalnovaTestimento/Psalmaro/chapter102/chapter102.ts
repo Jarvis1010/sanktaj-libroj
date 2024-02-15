@@ -1,6 +1,5 @@
 export const chapter102 = {
   chapterTitle: "Ĉapitro 102",
-  summary: "",
   verses: [
     "Preĝo de mizerulo, kiam li perdas la fortojn kaj elverŝas antaŭ la Eternulo sian malĝojon. Ho Eternulo, aŭskultu mian preĝon; Kaj mia krio venu al Vi.",
     "Ne kaŝu antaŭ mi Vian vizaĝon en la tago de mia suferado; Klinu al mi Vian orelon;   En la tago, kiam mi vokas, rapide aŭskultu min.",

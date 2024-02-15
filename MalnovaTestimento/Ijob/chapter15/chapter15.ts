@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Ekparolis Elifaz, la Temanano, kaj diris:",
     "Ĉu saĝulo povas respondi per ventaj opinioj, Kaj plenigi sian ventron per sensencaĵoj?",

@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al mi plue:Iru, kaj komencu amaĵon kun virino, kiun amas ŝia edzo, sed kiu adultas, simile al tio, kiel la Eternulo amas la Izraelidojn, sed ili turnas sin al aliaj dioj kaj amas iliajn vinberkukojn.",
     "Kaj mi akiris ŝin al mi per dek kvin arĝentaj moneroj kaj ĥomero kaj duono da hordeo.",

@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kial tumultas popoloj, Kaj gentoj pripensas vanaĵon?",
     "Leviĝas reĝoj de la tero, Kaj eminentuloj konsiliĝas kune,   Kontraŭ la Eternulo kaj kontraŭ Lia sanktoleito, dirante:",

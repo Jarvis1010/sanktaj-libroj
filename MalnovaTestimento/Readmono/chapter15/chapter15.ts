@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Post paso de sep jaroj faru forlason.",
     "Jen estas la esenco de la forlaso:ĉiu kreditoro, kiu pruntedonis ion al sia proksimulo, forlasu tion, li ne postulu tion de sia proksimulo aŭ de sia frato; ĉar estas proklamita forlaso pro la Eternulo.",

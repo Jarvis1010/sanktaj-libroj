@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Salomono, filo de David, fortikiĝis en sia regno; kaj la Eternulo, lia Dio, estis kun li kaj levis lin alte.",
     "Kaj Salomono kunvokis la tutan Izraelon, la milestrojn kaj centestrojn, la juĝistojn, kaj ĉiujn estrojn en la tuta Izrael, la ĉefojn de la patrodomoj.",

@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Dume la Filiŝtoj kolektis sian tutan militistaron en Afek; kaj la Izraelidoj staris tendare apud la fonto, kiu estas en Jizreel.",
     "La estroj de la Filiŝtoj preterpasis kun siaj centoj kaj miloj, kaj David kun siaj viroj preterpasis en la fina parto kun Aĥiŝ.",

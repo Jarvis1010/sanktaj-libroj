@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:La festoj de la Eternulo, kiujn vi nomos sanktaj kunvenoj, jen ili estas, Miaj festoj.",

@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "La Izraelidoj havis laŭ sia nombro ĉefojn de patrodomoj, milestrojn, centestrojn, kaj siajn inspektistojn, kiuj servis al la reĝo pri ĉiuj aferoj de la apartaĵoj, interŝanĝante sin ĉiumonate, en ĉiuj monatoj de la jaro. Ĉiu apartaĵo konsistis el dudek kvar mil.",
     "Super la unua apartaĵo en la unua monato estis Jaŝobeam, filo de Zabdiel; en lia apartaĵo estis dudek kvar mil;",

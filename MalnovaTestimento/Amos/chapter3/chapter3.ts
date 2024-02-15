@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Aŭskultu ĉi tiun vorton, kiun la Eternulo eldiris pri vi, ho Izraelidoj, pri la tuta gento, kiun Mi elkondukis el la lando Egipta:",
     "nur vin Mi distingis el ĉiuj gentoj de la tero, tial Mi punos vin pro ĉiuj viaj malbonagoj.",

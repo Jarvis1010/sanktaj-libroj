@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Vi estos prava, ho Eternulo, kiam mi procesos kun Vi; tamen mi parolos kun Vi pri justeco:kial la vojo de malpiuloj estas sukcesa kaj ĉiuj perfiduloj vivas trankvile?",
     "Vi plantis ilin, kaj ili ricevis fortajn radikojn, ili kreskas kaj donas fruktojn; proksima Vi estas en ilia buŝo, sed malproksima de ilia interno.",

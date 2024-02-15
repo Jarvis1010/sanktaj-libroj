@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "En la dua jaro de Joaŝ, filo de Joaĥaz, reĝo de Izrael, Amacja, filo de Joaŝ, reĝo de Judujo, fariĝis reĝo.",
     "Li havis la aĝon de dudek kvin jaroj, kiam li fariĝis reĝo, kaj dudek naŭ jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jehoadan, el Jerusalem.",

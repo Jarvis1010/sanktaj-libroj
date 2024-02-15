@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Post tio estis festo de la Judoj, kaj Jesuo supreniris al Jerusalem.",
     "En Jerusalem apud la Pordego de Ŝafoj estas lageto, nomata en la Hebrea lingvo Betesda, havanta kvin portikojn.",

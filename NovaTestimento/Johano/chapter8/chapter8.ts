@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "sed Jesuo iris al la monto Olivarba.",
     "Kaj li revenis frumatene en la templon, kaj la tuta popolo venis al li; kaj li sidiĝis, kaj instruadis ilin.",

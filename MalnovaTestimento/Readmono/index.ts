@@ -36,8 +36,6 @@ import { chapter34 } from "./chapter34/chapter34";
 export const Readmono = {
   bookTitle: "Readmono",
   bookTitleShort: "Readmono",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

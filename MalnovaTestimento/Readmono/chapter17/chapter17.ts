@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Ne oferbuĉu al la Eternulo, via Dio, bovon aŭ ŝafon, kiu havas sur si difekton, kian ajn malbonaĵon; ĉar tio estas abomenaĵo por la Eternulo, via Dio.",
     "Se troviĝos inter vi en iu el viaj urboj, kiujn la Eternulo, via Dio, donas al vi, viro aŭ virino, kiu faras malbonon antaŭ la Eternulo, via Dio,  malobeante Lian interligon;",

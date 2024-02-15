@@ -1,6 +1,5 @@
 export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
-  summary: "",
   verses: [
     "Silentu antaŭ Mi, ho insuloj, kaj la popoloj refortiĝu; ili alproksimiĝu kaj parolu; ni kune iru al juĝo.",
     "Kiu vekis el la oriento la justulon, vokis lin, ke li iru? Li transdonis al li naciojn kaj detronigis reĝojn, transdonis kiel polvon al lia glavo, kiel disflugantajn pajlerojn al lia pafarko.",

@@ -6,7 +6,12 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "prettier": "prettier --ignore-path .gitignore \"**/*.+(js|jsx|ts|tsx|json)\"",
+    "fix-format": "yarn prettier --write",
+    "check-format": "yarn prettier --list-different",
+    "check-types": "tsc --noEmit",
+    "verify": "yarn check-format && yarn check-types && yarn lint"
   },
   "dependencies": {
     "@bedrock-layout/css": "^2.3.2",
@@ -22,6 +27,7 @@
     "@types/react-dom": "^18",
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
+    "prettier": "3.2.5",
     "typescript": "^5"
   }
 }

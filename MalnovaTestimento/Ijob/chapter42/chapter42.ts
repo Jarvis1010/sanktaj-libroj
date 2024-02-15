@@ -1,6 +1,5 @@
 export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
-  summary: "",
   verses: [
     "Ijob respondis al la Eternulo, kaj diris:",
     "Mi scias, ke Vi ĉion povas fari, Kaj ke nenio, kion Vi entreprenas, estas malfacila por Vi.",

@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Saĝa virino konstruas sian domon; Sed malsaĝa detruas ĝin per siaj manoj.",
     "Kiu iras la ĝustan vojon, tiu timas la Eternulon; Sed kiu iras vojon malĝustan, tiu Lin malestimas.",

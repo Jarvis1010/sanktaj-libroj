@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Aŭskultu ĉi tiun vorton, per kiu mi plorkantas pri vi, ho domo de Izrael.",
     "Falis kaj ne releviĝos la virgulino de Izrael; ŝi estas ĵetita sur la teron, kaj neniu ŝin restarigos.",

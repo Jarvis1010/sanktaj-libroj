@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo kaj Timoteo, servistoj de Jesuo Kristo, al ĉiuj sanktuloj en Kristo Jesuo, kiuj estas en Filipi, kun la episkopoj kaj diakonoj:",
     "Graco al vi kaj paco estu de Dio, nia Patro, kaj de la Sinjoro Jesuo Kristo.",

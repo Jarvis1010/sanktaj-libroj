@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Se vi volas rekonverti vin, ho Izrael, diras la Eternulo, rekonvertu vin al Mi; kaj se vi forigos viajn abomenindaĵojn de antaŭ Mia vizaĝo, kaj ne plu vagados,",
     "kaj se vi en vero, bonordo, kaj pieco ĵuros:Kiel la Eternulo vivas, tiam ankaŭ la popoloj benos sin per Li kaj gloros sin per Li.",

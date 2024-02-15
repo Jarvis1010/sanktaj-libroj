@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Ĉar Bileam vidis, ke al la Eternulo plaĉas beni Izraelon, li ne iris, kiel antaŭe, por aŭguri, sed li turnis sian vizaĝon al la dezerto.",
     "Kaj Bileam levis siajn okulojn, kaj ekvidis Izraelon, starantan laŭ siaj triboj; kaj la spirito de Dio venis sur lin.",

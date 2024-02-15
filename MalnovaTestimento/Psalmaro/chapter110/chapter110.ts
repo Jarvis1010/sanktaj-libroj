@@ -1,6 +1,5 @@
 export const chapter110 = {
   chapterTitle: "Ĉapitro 110",
-  summary: "",
   verses: [
     "Psalmo de David. La Eternulo diris al mia sinjoro:Sidu dekstre de Mi, Ĝis Mi faros viajn malamikojn benketo por viaj piedoj.",
     "La sceptron de via potenco la Eternulo sendos el Cion: Regu inter viaj malamikoj.",

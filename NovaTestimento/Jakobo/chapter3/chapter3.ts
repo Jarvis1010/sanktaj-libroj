@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ne estu multaj instruistoj, miaj fratoj, sciante, ke ni ricevos pli severan juĝon.",
     "Ĉar multokaze ni ĉiuj falpuŝiĝas. Se iu ne falpuŝiĝas parole, tiu estas perfekta homo, kapabla bridi ankaŭ la tutan korpon.",

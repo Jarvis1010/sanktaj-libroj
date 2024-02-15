@@ -1,6 +1,5 @@
 export const chapter46 = {
   chapterTitle: "Ĉapitro 46",
-  summary: "",
   verses: [
     "Tiele diras la Sinjoro, la Eternulo:La pordego de la interna korto, kiu estas turnita al oriento, estu ŝlosita dum la ses laboraj tagoj, sed en la tago sabata ĝi estu malfermita, kaj ankaŭ en la monatkomenco ĝi estu malfermita.",
     "Kaj la princo eniros tra la portiko de la pordego el ekstere, kaj stariĝos ĉe la fosto de la pordego; kaj la pastroj faros lian bruloferon kaj lian pacoferon; kaj li adorkliniĝos sur la sojlo de la pordego kaj eliros; sed la pordego ne estos ne estos ŝlosita ĝis vespero.",

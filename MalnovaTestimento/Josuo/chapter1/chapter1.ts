@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Post la morto de Moseo, servanto de la Eternulo, la Eternulo diris al Josuo, filo de Nun, helpanto de Moseo, jene:",
     "Mia servanto Moseo mortis; kaj nun leviĝu, transiru ĉi tiun Jordanon, vi kaj ĉi tiu tuta popolo, en la landon, kiun Mi donas al ili, al la Izraelidoj.",

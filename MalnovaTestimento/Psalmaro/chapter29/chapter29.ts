@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Psalmo de David. Tributu al la Eternulo, vi potenculoj, Tributu al la Eternulo honoron kaj forton.",
     "Tributu al la Eternulo la honoron de Lia nomo; Kliniĝu antaŭ la Eternulo en sankta ornamo.",

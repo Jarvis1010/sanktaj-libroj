@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vortoj de Neĥemja, filo de ĥaĥalja. En la monato Kislev, en la dudeka jaro, mi estis en la kastelurbo Ŝuŝan.",
     "Kaj venis ĥanani, unu el miaj fratoj, li kaj kelkaj viroj el Judujo. Kaj mi demandis lin pri la Judoj, kiuj saviĝis kaj restis el la forkaptitaro, kaj pri Jerusalem.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La Eternulo vokis Moseon, kaj ekparolis al li el la tabernaklo de kunveno, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:Se iu el vi volas alporti oferon al la Eternulo, el la brutoj, el la bovoj, kaj el la ŝafoj alportu vian oferon.",

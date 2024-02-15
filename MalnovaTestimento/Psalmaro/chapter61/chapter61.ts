@@ -1,6 +1,5 @@
 export const chapter61 = {
   chapterTitle: "Ĉapitro 61",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por korda instrumento. De David. Aŭskultu, ho Dio, mian krion;   Atentu mian preĝon.",
     "De la fino de la tero mi vokas al Vi en la malĝojo de mia koro: Sur rokon tro altan por mi suprenkonduku min.",

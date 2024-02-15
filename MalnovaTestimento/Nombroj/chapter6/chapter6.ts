@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:Se viro aŭ virino decidos fari sanktan promeson de konsekriĝo, por konsekri sin al la Eternulo,",

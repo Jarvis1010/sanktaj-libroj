@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "En la komenco de la reĝado de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis de la Eternulo jena vorto al Jeremia:",
     "Tiele diras al mi la Eternulo:Faru al vi ligilojn kaj jugon, kaj metu tion sur vian kolon;",

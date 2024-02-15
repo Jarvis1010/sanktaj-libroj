@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Profetaĵo pri Babel, kiun viziis Jesaja, filo de Amoc.",
     "Sur senarba monto levu standardon, laŭte voku al ili, faru signon per la mano, ke ili eniru en la pordegon de la eminentuloj.",

@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj la Eternulo sendis al David Natanon, kaj ĉi tiu venis al li, kaj diris al li:En unu urbo estis du viroj, unu riĉulo kaj la dua malriĉulo;",
     "la riĉulo havis tre multe da ŝafoj kaj da bovoj;",

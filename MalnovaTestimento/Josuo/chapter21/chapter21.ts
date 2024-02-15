@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj la familiestroj de la Levidoj aliris al la pastro Eleazar, kaj al Josuo, filo de Nun, kaj al la familiestroj de la triboj de la Izraelidoj,",
     "kaj ekparolis al ili en Ŝilo, en la lando Kanaana, dirante:La Eternulo ordonis per Moseo doni al ni urbojn por loĝi, kaj iliajn ĉirkaŭaĵojn por niaj brutoj.",

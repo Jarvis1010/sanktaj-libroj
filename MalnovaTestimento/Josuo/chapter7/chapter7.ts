@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Sed la Izraelidoj pekis kontraŭ la anatemo:Aĥan, filo de Karmi, filo de Zabdi, filo de Zeraĥ, el la tribo de Jehuda, prenis el la anatemitaĵo, kaj la kolero de la Eternulo ekflamis kontraŭ la Izraelidoj.",
     "Kaj Josuo sendis virojn el Jeriĥo al Aj, kiu estis apud Bet-Aven, oriente de Bet-El, kaj li diris al ili jene:Iru kaj esplorrigardu la landon.  Kaj la viroj iris kaj esplorrigardis Ajon.",

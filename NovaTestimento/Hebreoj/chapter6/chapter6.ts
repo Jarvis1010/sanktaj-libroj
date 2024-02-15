@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Tial, ĉesigante la diskutadon pri la elementoj de Kristo, ni iru antaŭen al perfektiĝo, ne metante denove fundamenton de pento el malvivaj faroj kaj de fido al Dio,",
     "de la dogmaro pri baptoj, surmetado de manoj, de revivigo de mortintoj, de eterna juĝo.",

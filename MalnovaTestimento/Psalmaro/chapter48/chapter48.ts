@@ -1,6 +1,5 @@
 export const chapter48 = {
   chapterTitle: "Ĉapitro 48",
-  summary: "",
   verses: [
     "Kanto-psalmo de la Koraĥidoj. Granda estas la Eternulo, Kaj tre glora en la urbo de nia Dio,   Sur Lia sankta monto.",
     "Bela altaĵo, ĝojiga por la tuta tero Estas la monto Cion, en la norda regiono,   La urbo de la granda Reĝo.",

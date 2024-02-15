@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Diru al la Izraelidoj, ke ili alportu por Mi oferdonon; de ĉiu homo, kies koro deziros doni, prenu la oferdonon por Mi.",

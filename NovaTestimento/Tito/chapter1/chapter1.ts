@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, servisto de Dio kaj apostolo de Jesuo Kristo, laŭ la fido de la elektitoj de Dio, kaj laŭ la scio de la vero, kiu estas laŭ pieco,",
     "kun espero al eterna vivo, kiun la senmensoga Dio promesis antaŭ la tempoj eternaj,",

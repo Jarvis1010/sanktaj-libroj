@@ -1,6 +1,5 @@
 export const chapter48 = {
   chapterTitle: "Ĉapitro 48",
-  summary: "",
   verses: [
     "Jen estas la nomoj de la triboj:de la norda rando laŭ la vojo al ĥetlon, en la direkto al ĥamat, ĥacar-Enan, norde de la limo de Damasko ĝis ĥamat; ĉi tiu regiono de oriente ĝis okcidente apartenos sole al Dan.",
     "Kaj apud la limo de Dan, de la orienta rando ĝis la okcidenta, havos sian parton Aŝer.",

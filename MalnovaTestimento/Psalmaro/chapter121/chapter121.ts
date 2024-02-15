@@ -1,6 +1,5 @@
 export const chapter121 = {
   chapterTitle: "Ĉapitro 121",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Mi levas miajn okulojn al la montoj: De kie venas al mi helpo?",
     "Mia helpo venas de la Eternulo, Kiu kreis la ĉielon kaj la teron.",

@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Tiam tumultiĝis la tuta komunumo kaj ekkriis, kaj la popolo ploris en tiu nokto.",
     "Kaj ekmurmuris kontraŭ Moseo kaj kontraŭ Aaron ĉiuj Izraelidoj, kaj la tuta komunumo diris al ili:Ho, se ni estus mortintaj en la lando Egipta, aŭ se ni mortus en ĉi tiu dezerto!",

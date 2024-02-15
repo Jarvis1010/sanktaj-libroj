@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj la Efraimidoj diris al li:Kial vi tion faris al ni, ke vi ne vokis nin, kiam vi iris batali kontraŭ Midjan? Kaj ili forte kverelis kun li.",
     "Sed li diris al ili:Kion mi faris nun similan al via faro? ĉu la postkolekto de Efraim ne estas pli bona ol la tuta vinberkolekto de Abiezer?",

@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Kaj en la sepa monato, en la unua tago de la monato, estu ĉe vi sankta kunveno; faru nenian servan laboron; tago de trumpetado ĝi estu por vi.",
     "Kaj alportu bruloferon, kiel agrablan odoraĵon al la Eternulo:unu bovidon, unu virŝafon, sep jaraĝajn ŝafidojn sendifektajn;",

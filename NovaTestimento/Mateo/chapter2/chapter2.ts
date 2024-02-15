@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj kiam Jesuo estis naskita en Bet-Leĥem de Judujo en la tempo de la reĝo Herodo, jen saĝuloj el la oriento venis al Jerusalem, dirante:",
     "Kie estas tiu, kiu estas naskita Reĝo de la Judoj? ĉar ni vidis lian stelon en la oriento, kaj venis, por adorkliniĝi al li.",

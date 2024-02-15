@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj li kunvokis la dek du, kaj donis al ili potencon kaj aŭtoritaton super ĉiuj demonoj, kaj por forigi malsanojn.",
     "Kaj li forsendis ilin, por prediki la regnon de Dio, kaj por sanigi la malsanulojn.",

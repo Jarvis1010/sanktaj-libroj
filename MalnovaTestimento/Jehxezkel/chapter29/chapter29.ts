@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "En la deka jaro, en la deka monato, en la dek-dua tago de la monato, aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, turnu vian vizaĝon al Faraono, reĝo de Egiptujo, kaj profetu pri li kaj pri la tuta Egiptujo.",

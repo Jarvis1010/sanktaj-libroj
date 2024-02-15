@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Post tio li foriris el Ateno kaj alvenis en Korinton.",
     "Kaj li trovis Judon, nomatan Akvila, Pontanon laŭ gento, antaŭ ne longe venintan el Italujo, kaj Priskilan, lian edzinon, ĉar Klaŭdio jam ordonis, ke ĉiuj Judoj foriru el Romo; kaj li iris al ili;",

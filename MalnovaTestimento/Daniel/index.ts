@@ -14,8 +14,6 @@ import { chapter12 } from "./chapter12/chapter12";
 export const Daniel = {
   bookTitle: "Daniel",
   bookTitleShort: "Daniel",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

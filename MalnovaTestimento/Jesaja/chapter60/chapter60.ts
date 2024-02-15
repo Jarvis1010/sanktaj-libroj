@@ -1,6 +1,5 @@
 export const chapter60 = {
   chapterTitle: "Ĉapitro 60",
-  summary: "",
   verses: [
     "Leviĝu, lumiĝu; ĉar venas via lumo, kaj la majesto de la Eternulo ekbrilas super vi.",
     "Ĉar jen mallumo kovros la teron, kaj krepusko la popolojn; sed super vi brilos la Eternulo, kaj Lia majesto aperos super vi.",

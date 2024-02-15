@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj frue matene leviĝis Jerubaal, tio estas Gideon, kaj la tuta popolo, kiu estis kun li, kaj ili starigis sian tendaron ĉe la fonto ĥarod; kaj la tendaro de Midjan estis rilate al li sur la norda flanko de la monteto More en la valo.",
     "Kaj la Eternulo diris al Gideon:La popolo, kiu estas kun vi, estas tro grandnombra, por ke Mi transdonu la Midjanidojn en iliajn manojn; eble fieriĝos kontraŭ Mi Izrael, dirante:Mia mano helpis min.",

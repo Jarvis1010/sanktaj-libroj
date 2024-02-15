@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Tiam Samuel prenis kruĉeton kun oleo kaj verŝis sur lian kapon, kaj kisis lin, kaj diris:Vidu, la Eternulo sanktoleis vin kiel ĉefon super Sia heredaĵo.",
     "Kiam vi hodiaŭ foriros de mi, vi trovos ĉe la tombo de Raĥel, en la regiono de Benjamen, en Celcaĥ, du homojn, kiuj diros al vi:Estas trovitaj la azeninoj, kiujn vi iris serĉi, kaj jen via patro ĉesis pensi pri la azeninoj, kaj estas maltrankvila pri vi, dirante:Kion mi faru koncerne mian filon?",

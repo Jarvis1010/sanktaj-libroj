@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj granda signo vidiĝis en la ĉielo:virino vestita per la suno, kaj la luno sub ŝiaj piedoj, kaj sur ŝia kapo krono el dek du steloj;",
     "kaj estante graveda, ŝi ekkriis, naskodolorigate kaj suferante por naski.",

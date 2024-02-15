@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Jen estas la libro de naskoj de Adam. Kiam Dio kreis la homon, Li faris lin laŭ la bildo de Dio;",
     "kiel viron kaj virinon Li kreis ilin, kaj Li benis ilin kaj donis al ili la nomon Homo en la tago de ilia naskiĝo.",

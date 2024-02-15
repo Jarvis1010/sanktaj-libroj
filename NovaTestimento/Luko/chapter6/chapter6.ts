@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj en sabato li iris tra la grenkampoj, kaj liaj disĉiploj deŝiris la spikojn, kaj manĝis, frotante ilin en la manoj.",
     "Sed iuj el la Fariseoj diris:Kial vi faras tion, kion fari en sabato ne estas permesate?",

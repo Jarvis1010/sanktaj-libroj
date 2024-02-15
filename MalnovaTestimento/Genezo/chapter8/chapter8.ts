@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj Dio rememoris Noan, kaj ĉiujn bestojn kaj ĉiujn brutojn, kiuj estis kun li en la arkeo; kaj Dio venigis venton sur la teron, kaj la akvo kvietiĝis.",
     "Kaj fermiĝis la fontoj de la abismo kaj la aperturoj de la ĉielo, kaj ĉesiĝis la pluvo el la ĉielo.",

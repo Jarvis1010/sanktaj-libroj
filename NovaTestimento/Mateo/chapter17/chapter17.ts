@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj post ses tagoj Jesuo prenis kun si Petron, kaj Jakobon, kaj Johanon, lian fraton, kaj kondukis ilin sur altan monton aparte;",
     "kaj li estis aliformita antaŭ ili, kaj lia vizaĝo lumis kiel la suno, kaj liaj vestoj fariĝis blankaj kiel la lumo.",

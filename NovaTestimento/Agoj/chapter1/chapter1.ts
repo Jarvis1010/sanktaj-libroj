@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La unuan historion mi faris, ho Teofilo, pri ĉio, kion Jesuo komencis fari kaj instrui,",
     "ĝis la tago, kiam li estis akceptita supren, doninte ordonon per la Sankta Spirito al la apostoloj, kiujn li elektis;",

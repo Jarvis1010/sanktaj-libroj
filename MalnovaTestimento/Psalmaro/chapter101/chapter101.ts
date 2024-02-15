@@ -1,6 +1,5 @@
 export const chapter101 = {
   chapterTitle: "Ĉapitro 101",
-  summary: "",
   verses: [
     "Psalmo de David. Bonecon kaj justecon mi prikantos; Al Vi, ho Eternulo, mi muzikos.",
     "Mi penas iri prudente la vojon de pieco; Kiam Vi venos al mi?   Mi iras kun pura koro interne de mia domo.",

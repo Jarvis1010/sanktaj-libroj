@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Ve al Ariel, al Ariel, al la urbo, en kiu sidis David! aldonu jaron al jaro, la festoj faru sian ciklon.",
     "Mi premos Arielon, kaj estos ĝemado kaj malĝojo; kaj li estos al Mi vera Ariel.",

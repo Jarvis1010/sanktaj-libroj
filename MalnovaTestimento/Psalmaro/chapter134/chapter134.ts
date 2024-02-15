@@ -1,6 +1,5 @@
 export const chapter134 = {
   chapterTitle: "Ĉapitro 134",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Nun benu la Eternulon, ĉiuj sklavoj de la Eternulo, Kiuj en la noktoj staras en la domo de la Eternulo.",
     "Levu la manojn al la sanktejo, Kaj benu la Eternulon.",

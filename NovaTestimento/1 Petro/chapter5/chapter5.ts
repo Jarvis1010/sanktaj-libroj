@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "La presbiterojn do inter vi mi admonas, estante kunpresbitero kaj atestanto de la suferoj de Kristo kaj partoprenanto en la malkaŝota gloro:",
     "Paŝtu la gregon de Dio ĉe vi, direktante ĝin, ne devige, sed volonte, laŭ Dio; ne pro avideco, sed bonvole;",

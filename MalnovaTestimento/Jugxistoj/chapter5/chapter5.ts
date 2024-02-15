@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj ekkantis Debora, kaj Barak, filo de Abinoam, en tiu tago, jene:",
     "Ĉar la ĉefoj gvidis en Izrael Kaj la popolo montris sin fervora,   Benu la Eternulon.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Okazis, ke mi, Nifai, multfoje kriis al la Sinjoro, mia Dio, pro la kolero de miaj fratoj.",
     "Sed ilia kolero kontraŭ mi pligrandiĝis, tiom ke ili celis forpreni mian vivon.",

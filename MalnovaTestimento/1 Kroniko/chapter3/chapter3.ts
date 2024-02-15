@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Jen estas la filoj de David, kiuj naskiĝis al li en ĥebron:la unuenaskito Amnon, de la Jizreelanino Aĥinoam; la dua estis Daniel, de la Karmelanino Abigail;",
     "la tria estis Abŝalom, filo de Maaĥa, filino de Talmaj, reĝo de Geŝur; la kvara estis Adonija, filo de ĥagit;",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Jen estas la vortoj, kiujn diris Moseo al la tuta Izrael transe de Jordan, en la dezerto, en la stepo antaŭ Suf, inter Paran kaj Tofel kaj Laban kaj ĥacerot kaj Di-Zahab,",
     "dek unu tagojn malproksime de ĥoreb, sur la vojo de la monto Seir al Kadeŝ-Barnea.",

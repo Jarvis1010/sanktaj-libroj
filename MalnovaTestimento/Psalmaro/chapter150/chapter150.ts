@@ -1,6 +1,5 @@
 export const chapter150 = {
   chapterTitle: "Ĉapitro 150",
-  summary: "",
   verses: [
     "Haleluja! Gloru Dion en Lia sanktejo,   Gloru Lin en la firmaĵo de Lia forto.",
     "Gloru Lin por Liaj potencaj faroj, Gloru Lin laŭ Lia granda majesto.",

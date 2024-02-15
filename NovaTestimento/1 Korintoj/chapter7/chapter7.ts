@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Nun rilate al la aferoj, pri kiuj vi skribis:Estas bone por viro, ne tuŝi virinon.",
     "Sed pro malĉastaĵoj ĉiu viro havu propran edzinon, kaj ĉiu virino havu propran edzon.",

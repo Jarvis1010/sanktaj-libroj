@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Mi, Nifai, naskita de bonaj gepatroj kaj pro tio iom instruita pri ĉiuj sciaĵoj de mia patro; kaj vidinte multajn afliktojn dum la daŭro de miaj tagoj, tamen, estante ege favorata de la Sinjoro dum mia tuta vivo; jes, ricevinte grandan konon pri la boneco kaj la misteroj de Dio, pro tio mi faras kronikon pri miaj agoj dum mia vivo.",
     "Jes, mi faras kronikon per la lingvo de mia patro, kiu konsistas el la scio de la hebreoj kaj la lingvo de la egiptoj.",

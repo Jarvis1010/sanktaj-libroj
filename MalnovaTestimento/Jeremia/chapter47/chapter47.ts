@@ -1,6 +1,5 @@
 export const chapter47 = {
   chapterTitle: "Ĉapitro 47",
-  summary: "",
   verses: [
     "Jen estas la vorto de la Eternulo, kiu aperis al la profeto Jeremia pri la Filiŝtoj, antaŭ ol Faraono venkobatis Gazan:",
     "Tiele diras la Eternulo:Jen venos akvo de norde, kaj ĝi fariĝos inundanta torento, kaj ĝi inundos la landon, kaj ĉion, kio estas en ĝi, la urbon kaj ĝiajn loĝantojn; ekkrios la homoj, kaj ekploregos ĉiuj loĝantoj de la lando.",

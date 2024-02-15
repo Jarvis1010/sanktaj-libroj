@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "La tabernaklon faru el dek tapiŝoj el tordita bisino, kaj el blua, purpura, kaj ruĝa teksaĵo; kerubojn artiste laboritajn faru sur ili.",
     "La longo de ĉiu tapiŝo estu dudek ok ulnoj, kaj la larĝo de ĉiu tapiŝo estu kvar ulnoj; unu mezuro estu por ĉiuj tapiŝoj.",

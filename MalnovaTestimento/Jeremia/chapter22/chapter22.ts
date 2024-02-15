@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Tiele diris la Eternulo:Iru en la domon de la reĝo de Judujo, kaj diru tie jenon:",
     "diru:Aŭskultu la vorton de la Eternulo, ho reĝo de Judujo, kiu sidas sur la trono de David, vi, kaj viaj servantoj, kaj via popolo, kiu iras tra ĉi tiuj pordegoj.",

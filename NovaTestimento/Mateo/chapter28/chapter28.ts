@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Kaj sabate malfrue, kiam eklumis por la unua tago de la semajno, venis Maria Magdalena kaj la alia Maria, por vidi la tombon.",
     "Kaj jen okazis granda tertremo; ĉar anĝelo de la Eternulo malsupreniris el la ĉielo, kaj venis kaj derulis la ŝtonon, kaj sidiĝis sur ĝi.",

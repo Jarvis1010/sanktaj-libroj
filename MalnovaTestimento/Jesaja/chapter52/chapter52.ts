@@ -1,6 +1,5 @@
 export const chapter52 = {
   chapterTitle: "Ĉapitro 52",
-  summary: "",
   verses: [
     "Vekiĝu, vekiĝu, vestu vin per via forto, ho Cion; surmetu sur vin la vestojn de via majesto, ho Jerusalem, sankta urbo; ĉar ne plu eniros en vin necirkumcidito kaj malpurulo.",
     "Forskuu de vi la polvon, leviĝu, sidiĝu, ho Jerusalem; disigu la ligilojn de via kolo, ho kaptita filino de Cion.",

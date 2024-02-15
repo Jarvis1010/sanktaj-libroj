@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante al ili:",
     "Diru al la Izraelidoj jene:Tio estas la bestoj, kiujn vi povas manĝi el ĉiuj brutoj, kiuj estas sur la tero:",

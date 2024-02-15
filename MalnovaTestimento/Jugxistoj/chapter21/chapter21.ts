@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj la Izraelidoj ĵuris en Micpa, dirante:Neniu el ni donos sian filinon edzinige al Benjamenido.",
     "Kaj la popolo venis en Bet-Elon, kaj restis tie ĝis la vespero antaŭ Dio, kaj levis sian voĉon kaj forte ploris,",

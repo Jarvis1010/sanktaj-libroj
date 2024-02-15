@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Tiam parolis Jesuo al la homamasoj kaj al siaj disĉiploj, dirante:",
     "La skribistoj kaj la Fariseoj sidas sur la seĝo de Moseo:",

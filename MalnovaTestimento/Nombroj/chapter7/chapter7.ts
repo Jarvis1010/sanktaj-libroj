@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "En la tago, kiam Moseo finis la starigadon de la tabernaklo, kiam li sanktoleis ĝin kaj sanktigis ĝin kaj ĉiujn ĝiajn apartenaĵojn kaj la altaron kaj ĉiujn ĝiajn apartenaĵojn kaj sanktoleis ilin kaj sanktigis ilin,",
     "tiam alportis la estroj de Izrael, la ĉefoj de siaj patrodomoj, tiuj estroj de la triboj, tiuj, kiuj administris la kalkuladon-",

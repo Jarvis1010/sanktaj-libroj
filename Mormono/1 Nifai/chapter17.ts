@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "KAJ okazis, ke ni denove ekiris en la dezerto; kaj ni iris preskaŭ orienten ek de tiu tempo. Kaj ni iris kaj vadis tra multa afliktaĵo en la dezerto; kaj niaj virinoj naskis infanojn en la dezerto.",
     "Kaj tiel grandaj estis la benoj de la Sinjoro al ni, ke, dum ni vivtenis nin per kruda karnaĵo en la dezerto, niaj virinoj abunde mamnutris siajn infanojn, kaj ili estis fortikaj, jes, kiel viroj; kaj ili komencis senplende toleri sian vojaĝadon.",

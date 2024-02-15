@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Kiel solece sidas la urbo, kiu estis tiel multehoma! La estrino de la nacioj fariĝis kiel vidvino,   La princino de landoj fariĝis tributulino!",
     "Senĉese ŝi ploras en la nokto, kaj ŝiaj larmoj estas sur ŝiaj vangoj; Ŝi havas neniun konsolanton inter ĉiuj siaj amintoj,   Ĉiuj ŝiaj amikoj ŝin perfidis, fariĝis ŝiaj malamikoj.",

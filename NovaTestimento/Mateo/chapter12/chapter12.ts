@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "En tiu tempo Jesuo iris en sabato tra la grenkampoj, kaj liaj disĉiploj malsatis, kaj komencis deŝiri spikojn, kaj manĝi.",
     "Sed la Fariseoj, vidinte, diris al li:Jen viaj disĉiploj faras tion, kio ne estas permesata en sabato.",

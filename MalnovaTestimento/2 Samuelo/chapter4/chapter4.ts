@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiam la filo de Saul aŭdis, ke mortis Abner en ĥebron, tiam liaj manoj malleviĝis kaj la tuta Izrael konsterniĝis.",
     "Du viroj taĉmentestroj estis ĉe la filo de Saul; la nomo de unu estis Baana, kaj la nomo de la dua Reĥab, filoj de Rimon, Beerotano, el la Benjamenidoj; ĉar Beerot ankaŭ estis kalkulata kiel apartenaĵo de la Benjamenidoj.",

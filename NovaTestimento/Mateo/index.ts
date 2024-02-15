@@ -30,8 +30,6 @@ import { chapter28 } from "./chapter28/chapter28";
 export const Mateo = {
   bookTitle: "Mateo",
   bookTitleShort: "Mateo",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

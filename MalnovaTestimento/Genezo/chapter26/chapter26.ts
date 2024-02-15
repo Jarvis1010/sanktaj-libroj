@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Estis malsato en la lando, krom la antaŭa malsato, kiu estis en la tempo de Abraham. Kaj Isaak iris al Abimeleĥ, la reĝo de la Filiŝtoj, en Gerar.",
     "Kaj la Eternulo aperis al li, kaj diris: Ne iru Egiptujon, loĝu en la lando, pri kiu Mi diros al vi.",

@@ -1,6 +1,5 @@
 export const chapter33 = {
   chapterTitle: "Ĉapitro 33",
-  summary: "",
   verses: [
     "Jen estas la iroj de la Izraelidoj, per kiuj ili eliris el la lando Egipta, laŭ siaj taĉmentoj, sub la kondukado de Moseo kaj Aaron.",
     "Kaj Moseo priskribis iliajn lokojn de eliro, laŭ ilia irado, konforme al la ordono de la Eternulo; kaj jen estas ilia irado laŭ iliaj lokoj de eliro:",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Tion, kio estis de la komenco, kion ni aŭdis, kion ni vidis per niaj propraj okuloj, kion ni rigardis kaj niaj manoj palpis, koncerne la Vorton de vivo",
     "(kaj la vivo elmontriĝis, kaj ni vidis kaj atestas kaj anoncas al vi la vivon, la eternan vivon, kiu estis ĉe la Patro kaj montriĝis al ni);",

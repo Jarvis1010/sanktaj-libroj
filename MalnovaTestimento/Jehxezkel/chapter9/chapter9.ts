@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj Li vokis al miaj oreloj per laŭta voĉo, dirante:Alproksimiĝu la punantoj de la urbo, kaj ĉiu havu en sia mano sian pereigilon.",
     "Kaj jen ses homoj venis per la vojo de la supra pordego, kiu estas turnita norden, kaj ĉiu havis en la mano sian detruilon, kaj inter ili estis unu vestita per tolo, kaj li havis skribilon ĉe siaj lumboj. Ili venis, kaj stariĝis apud la kupra altaro.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "En la dek-dua monato, tio estas en la monato Adar, en ĝia dek-tria tago, kiam venis la tempo de plenumo de la reĝa ordono kaj dekreto-en la tago,  kiam la malamikoj de la Judoj esperis superforti ilin-la afero turniĝis,  kaj la Judoj superfortis siajn malamikojn.",
     "La Judoj kolektiĝis en siaj urboj en ĉiuj landoj de la reĝo Aĥaŝveroŝ, por etendi la manon kontraŭ siajn malbondezirantojn; kaj neniu povis kontraŭstari al ili, ĉar timo antaŭ ili falis sur ĉiujn popolojn.",

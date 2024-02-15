@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Mi nepre devas fanfaroni, kvankam tio ne konvenas; sed mi venos al vizioj kaj malkaŝoj de la Sinjoro.",
     "Mi konas viron en Kristo, antaŭ dek kvar jaroj (ĉu en la korpo, mi ne scias, ĉu ekster la korpo, mi ne scias; Dio scias) eklevitan ĝis en la trian ĉielon;",

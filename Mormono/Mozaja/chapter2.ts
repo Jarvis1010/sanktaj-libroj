@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj okazis, post kiam Mozaja faris tion, kion lia patro ordonis al li, kaj disigis proklamon tra la tuta lando, ke la popolo tra la tuta lando kuniĝis, por iri al la templo por aŭdi la vortojn, kiujn la reĝo Benjameno diros al ili.",
     "Kaj estis granda nombro, eĉ tiel multa, ke oni ne nombris ilin, ĉar ili treege multiĝis kaj grandiĝis en la lando.",

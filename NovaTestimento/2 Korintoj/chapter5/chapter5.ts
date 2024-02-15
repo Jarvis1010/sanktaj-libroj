@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Ĉar ni scias, ke se la surtera loĝejo de nia tabernaklo dissolviĝos, ni havas de Dio konstruaĵon, domon ne manfaritan, eternan en la ĉieloj.",
     "Ĉar vere en ĉi tiu ni ĝemas, sopirante al la survestado per nia loĝejo, kiu devenas de la ĉielo;",

@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, turnu vian vizaĝon al Jerusalem, prediku pri la sanktaĵoj, kaj profetu pri la lando de Izrael.",

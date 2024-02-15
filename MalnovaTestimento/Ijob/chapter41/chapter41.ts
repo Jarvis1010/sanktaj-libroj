@@ -1,6 +1,5 @@
 export const chapter41 = {
   chapterTitle: "Ĉapitro 41",
-  summary: "",
   verses: [
     "Ĉu vi povas eltiri levjatanon per fiŝhoko, Aŭ ligi per ŝnuro ĝian langon?",
     "Ĉu vi povas trameti kanon tra ĝia nazo Kaj trapiki ĝian vangon per pikilo?",

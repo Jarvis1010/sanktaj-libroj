@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Gardu vian piedon, kiam vi iros en la domon de Dio, kaj estu preta pli por aŭskultado, ol por oferdonado de malsaĝuloj; ĉar ili ne scias, ke ili agas malbone.",
     "Ne rapidu kun via buŝo, kaj via koro ne rapidu elparoli vorton antaŭ Dio, ĉar Dio estas en la ĉielo, kaj vi estas sur la tero; tial malmultaj estu viaj vortoj.",

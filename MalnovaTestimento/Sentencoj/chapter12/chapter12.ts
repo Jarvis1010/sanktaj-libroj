@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kiu amas instruon, tiu amas scion; Sed kiu malamas atentigon, tiu estas malsaĝulo.",
     "Bonulo akiras favoron de la Eternulo; Sed homo malica estos kondamnita.",

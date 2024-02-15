@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj David foriris de tie, kaj saviĝis en la kaverno Adulam. Kiam tion aŭdis liaj fratoj kaj la tuta domo de lia patro, ili venis al li tien.",
     "Kaj kolektiĝis al li ĉiuj viroj premataj, ŝulduloj, afliktitoj, kaj li fariĝis ilia estro; ili estis kun li ĉirkaŭ kvarcent viroj.",

@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "En la naŭa jaro de lia reĝado, en la deka monato, en la deka tago de la monato, venis Nebukadnecar, reĝo de Babel, li kaj lia tuta militistaro, kontraŭ Jerusalemon, kaj eksieĝis ĝin, kaj oni konstruis ĉirkaŭ ĝi bastionojn.",
     "Kaj la urbo restis sieĝata ĝis la dek-unua jaro de la reĝo Cidkija.",

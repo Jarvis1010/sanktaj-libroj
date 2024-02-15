@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kiam Abram havis la aĝon de naŭdek naŭ jaroj, aperis la Eternulo al Abram, kaj diris al li: Mi estas Dio la Plejpotenca; iradu antaŭ Mi kaj estu senpeka.",
     "Kaj Mi faros Mian interligon inter Mi kaj vi, kaj Mi multigos vin tre forte.",

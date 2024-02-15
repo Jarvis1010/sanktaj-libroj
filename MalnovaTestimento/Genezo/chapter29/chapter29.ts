@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Kaj Jakob levis siajn piedojn kaj iris al la lando de la orientanoj.",
     "Kaj li vidis: jen estas puto sur la kampo, kaj tri gregoj da ŝafoj kuŝas apud ĝi; ĉar el tiu puto oni trinkigadis la gregojn; kaj granda ŝtono estis sur la aperturo de la puto.",

@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kiam Samuel maljuniĝis, li faris siajn filojn juĝistoj de Izrael.",
     "La nomo de lia unuenaskita filo estis Joel, kaj la nomo de lia dua filo estis Abija; ili juĝadis en Beer-Ŝeba.",

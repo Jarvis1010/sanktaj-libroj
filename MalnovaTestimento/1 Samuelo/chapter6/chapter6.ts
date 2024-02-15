@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "La kesto de la Eternulo estis en la lando de la Filiŝtoj dum sep monatoj.",
     "Kaj la Filiŝtoj vokis la pastrojn kaj la aŭguristojn, kaj diris:Kion ni faru kun la kesto de la Eternulo? sciigu al ni, kiamaniere ni resendu ĝin sur ĝian lokon.",

@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Ĉar tiu Melkicedek, reĝo de Salem, pastro de Dio la Plejalta, kiu renkontis Abrahamon revenantan de la mortigado de la reĝoj, kaj lin benis,",
     "kaj al kiu ankaŭ Abraham donis dekonon el ĉio (unue laŭ interpreto reĝo de justeco, kaj poste reĝo de Salem, tio estas reĝo de paco;",

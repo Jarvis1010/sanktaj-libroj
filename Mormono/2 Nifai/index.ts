@@ -12,8 +12,6 @@ import { chapter33 } from "./chapter33";
 export const duNifai = {
   bookTitle: "La Dua Libro De Nifai",
   bookTitleShort: "2 Nifai",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

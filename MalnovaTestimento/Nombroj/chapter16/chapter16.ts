@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj entreprenis Koraĥ, filo de Jichar, filo de Kehat, ido de Levi, kaj Datan kaj Abiram, filoj de Eliab, kaj On, filo de Pelet, idoj de Ruben,",
     "kaj stariĝis antaŭ Moseo, kaj kun ili el la Izraelidoj ducent kvindek viroj, estroj de la komunumo, vokataj al la kunvenoj; homoj eminentaj;",

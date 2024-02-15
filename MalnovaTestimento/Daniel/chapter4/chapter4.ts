@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "La reĝo Nebukadnecar al ĉiuj popoloj, gentoj, kaj lingvoj, kiuj estas sur la tuta tero:Kresku via bonstato!",
     "Mi trovas bona konigi la pruvosignojn kaj miraklojn, kiujn faris sur mi Dio la Plejalta.",

@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Jena vorto aperis de la Eternulo al Jeremia:",
     "Tiele diras la Eternulo, Dio de Izrael:Enskribu al vi en libron ĉiujn vortojn, kiujn Mi diris al vi.",

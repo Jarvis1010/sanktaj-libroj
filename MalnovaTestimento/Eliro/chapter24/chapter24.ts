@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj al Moseo Li diris:Supreniru al la Eternulo, vi kaj Aaron, Nadab kaj Abihu, kaj sepdek el la ĉefoj de Izrael, kaj faru adoron de malproksime.",
     "Kaj Moseo sola alproksimiĝu al la Eternulo; sed ili ne alproksimiĝu, kaj la popolo ne supreniru kun li.",

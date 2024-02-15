@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj li diris al ili:Vere mi diras al vi:Inter la ĉi tie starantaj estas iuj, kiuj neniel gustumos morton, antaŭ ol ili vidos la regnon de Dio venintan en potenco.",
     "Kaj post ses tagoj Jesuo prenis kun si Petron kaj Jakobon kaj Johanon, kaj kondukis ilin solajn sur altan monton aparte; kaj li estis aliformita antaŭ ili;",

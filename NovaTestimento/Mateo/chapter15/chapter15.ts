@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Tiam alvenis al Jesuo el Jerusalem Fariseoj kaj skribistoj, dirante:",
     "Kial viaj disĉiploj transpaŝas la tradicion de la antaŭuloj? ĉar ili ne lavas siajn manojn, kiam ili manĝas panon.",

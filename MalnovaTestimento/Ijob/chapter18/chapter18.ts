@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Ekparolis Bildad, la Ŝuĥano, kaj diris:",
     "Kiam vi ĉesos ĵetadi vortojn? Pripensu, kaj poste ni parolos.",

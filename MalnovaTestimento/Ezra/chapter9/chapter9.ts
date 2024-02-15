@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kiam ĉio tio estis finita, aliris al mi la estroj, kaj diris:La popolo Izraela kaj la pastroj kaj la Levidoj ne apartigis sin de la popoloj de la landoj koncerne iliajn abomenindaĵojn, de la Kanaanidoj, ĥetidoj, Perizidoj, Jebusidoj, Amonidoj, Moabidoj, Egiptoj, kaj Amoridoj;",
     "ĉar ili prenis el iliaj filinoj edzinojn por si kaj por siaj filoj, kaj miksiĝis la sankta semo kun la popoloj de la landoj; kaj la mano de la eminentuloj kaj ĉefoj estis la unua en ĉi tiu malbonago.",

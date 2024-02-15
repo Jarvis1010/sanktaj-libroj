@@ -1,6 +1,5 @@
 export const chapter48 = {
   chapterTitle: "Ĉapitro 48",
-  summary: "",
   verses: [
     "Aŭskultu tion, ho domo de Jakob, vi, kiuj estas nomataj per la nomo de Izrael, kiuj devenis el la fonto de Jehuda, kiuj ĵuras per la nomo de la Eternulo kaj citas la Dion de Izrael, ne en vero kaj ne en justeco.",
     "Laŭ la sankta urbo ili sin nomas, kaj je la Dio de Izrael ili sin apogas; Eternulo Cebaot estas Lia nomo.",

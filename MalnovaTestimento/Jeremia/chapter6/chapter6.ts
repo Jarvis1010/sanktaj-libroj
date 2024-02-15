@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kuru rapide, ho filoj de Benjamen, el Jerusalem, kaj en Tekoa sonigu la trumpeton kaj super Bet-Kerem faru signalon; ĉar de nordo aperas malbono kaj granda pereo.",
     "Al bela kaj delikata virino Mi similigis la filinon de Cion.",

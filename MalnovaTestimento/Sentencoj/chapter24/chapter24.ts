@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Ne sekvu malbonajn homojn, Kaj ne deziru esti kun ili;",
     "Ĉar ilia koro pensas pri perfortaĵo, Kaj ilia buŝo parolas malbonaĵon.",

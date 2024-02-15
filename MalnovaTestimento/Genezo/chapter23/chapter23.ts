@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Kaj la vivo de Sara estis cent dudek sep jaroj; tiom estis la jaroj de la vivo de Sara.",
     "Kaj Sara mortis en Kirjat-Arba, kiu estas ĥebron, en la lando Kanaana. Kaj Abraham venis, por funebri pri Sara kaj plori pri ŝi.",

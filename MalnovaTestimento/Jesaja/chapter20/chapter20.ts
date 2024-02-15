@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "En la jaro, kiam Tartan venis Aŝdodon, kien lin sendis Sargon, reĝo de Asirio, kaj li militis kontraŭ Aŝdod kaj prenis ĝin,",
     "en tiu tempo la Eternulo parolis per Jesaja, filo de Amoc, dirante:Iru, kaj demetu la sakaĵon de via lumbo, kaj demetu la ŝuojn de viaj piedoj. Kaj li faris tiel; li iris nuda kaj nudpieda.",

@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:Ĉiu, kiu havos elfluon el sia korpo, estos malpura pro sia elfluo.",

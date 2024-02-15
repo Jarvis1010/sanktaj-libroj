@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj estis unu malsanulo, nomata Lazaro, el Betania, la vilaĝo de Maria kaj ŝia fratino Marta.",
     "Tiu Maria, kies frato Lazaro estis malsana, estis tiu sama, kiu ŝmiris la Sinjoron per ŝmiraĵo kaj viŝis liajn piedojn per siaj haroj.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj ekparolis Elifaz, la Temanano, kaj diris:",
     "Se oni provos diri al vi vorton, tio eble estos por vi turmenta? Sed kiu povas deteni sin de parolado?",

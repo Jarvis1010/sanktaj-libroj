@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kiam Reĥabeam venis en Jerusalemon, li kolektis el la domo de Jehuda kaj de Benjamen cent okdek mil elektitajn militistojn, por militi kontraŭ Izrael, por revenigi la regnon al Reĥabeam.",
     "Sed aperis vorto de la Eternulo al Ŝemaja, homo de Dio, dirante:",

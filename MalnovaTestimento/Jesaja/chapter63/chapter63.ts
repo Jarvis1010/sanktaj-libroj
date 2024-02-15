@@ -1,6 +1,5 @@
 export const chapter63 = {
   chapterTitle: "Ĉapitro 63",
-  summary: "",
   verses: [
     "Kiu estas tiu, kiu venas el Edom, en ruĝaj vestoj el Bocra? tiu majesta en siaj vestoj, klinanta sin sub la grandeco de sia forto? Tio estas Mi, anoncanta la veron, potenca por helpi.",
     "Kial Via drapiraĵo estas ruĝa, kaj Viaj vestoj kiel ĉe tretanto en vinpremejo?",

@@ -1,6 +1,5 @@
 export const chapter50 = {
   chapterTitle: "Ĉapitro 50",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiun la Eternulo diris per la profeto Jeremia pri Babel kaj pri la lando de la ĥaldeoj:",
     "Sciigu al la nacioj kaj proklamu, levu standardon, proklamu, ne kaŝu, diru:Prenita estas Babel, hontigita estas Bel, frakasita estas Merodaĥ,  hontigitaj estas ĝiaj idoloj, frakasitaj estas ĝiaj statuoj.",

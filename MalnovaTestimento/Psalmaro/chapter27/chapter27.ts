@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "De David. La Eternulo estas mia lumo kaj mia savo; kiun mi devas timi? La Eternulo estas la forto de mia vivo; kiu povas min teruri?",
     "Kiam alproksimiĝos al mi malbonfarantoj, por manĝi mian karnon, Miaj kontraŭuloj kaj malamikoj, ili surpuŝiĝos kaj falos.",

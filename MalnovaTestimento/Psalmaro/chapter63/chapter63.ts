@@ -1,6 +1,5 @@
 export const chapter63 = {
   chapterTitle: "Ĉapitro 63",
-  summary: "",
   verses: [
     "Psalmo de David, kiam li estis en la dezerto de Judujo. Ho Dio, mia Dio, Vin mi fervore serĉas; Soifas pri Vi mia animo, sopiras pri Vi mia karno,   En lando seka, sensuka, kaj senakva.",
     "Mi volus vidi Vin en Via sanktejo, Vidi Vian forton kaj gloron.",

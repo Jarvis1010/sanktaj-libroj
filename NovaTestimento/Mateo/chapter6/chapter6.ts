@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Gardu vin, ke vi ne faru vian justaĵon antaŭ homoj, por esti alrigardataj de ili; alie vi ne havas rekompencon ĉe via Patro, kiu estas en la ĉielo.",
     "Tial, kiam vi donos almozon, ne sonigu trumpeton antaŭ vi, kiel faras la hipokrituloj en la sinagogoj kaj sur la stratoj, por havi gloron ĉe homoj. Vere mi diras al vi:Ili jam ricevas sian rekompencon.",

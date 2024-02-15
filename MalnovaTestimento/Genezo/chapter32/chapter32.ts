@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Kaj Jakob iris sian vojon. Kaj renkontiĝis kun li anĝeloj de Dio.",
     "Kaj Jakob diris, kiam li ilin vidis: Tio estas militistaro de Dio; kaj li donis al tiu loko la nomon Maĥanaim.",

@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Sed sciu, ke en la lastaj tagoj venos danĝeraj tempoj.",
     "Ĉar homoj estos sinamantaj, monamantaj, fanfaronemaj, arogantaj, insultemaj, malobeemaj al gepatroj, sendankaj, nesanktaj,",

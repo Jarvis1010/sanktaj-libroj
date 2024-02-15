@@ -1,6 +1,5 @@
 export const chapter91 = {
   chapterTitle: "Ĉapitro 91",
-  summary: "",
   verses: [
     "Kiu loĝas sub la ŝirmo de la Plejaltulo, Tiu ripozas en la ombro de la Plejpotenculo.",
     "Mi diras al la Eternulo:Mia rifuĝejo kaj mia fortikaĵo Estas Dio, kiun mi fidas.",

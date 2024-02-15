@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Kaj Abraham prenis alian edzinon, kiu estis nomata Ketura.",
     "Kaj ŝi naskis al li Zimranon kaj Jokŝanon kaj Medanon kaj Midjanon kaj Jiŝbakon kaj Ŝuaĥon.",

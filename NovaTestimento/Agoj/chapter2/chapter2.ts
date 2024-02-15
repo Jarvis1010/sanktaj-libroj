@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj kiam venis la Pentekosta tago, ili ĉiuj estis unuanime en unu loko.",
     "Kaj subite venis el la ĉielo sono kvazaŭ blovego de forta vento, kaj ĝi plenigis la tutan domon, kie ili sidis.",

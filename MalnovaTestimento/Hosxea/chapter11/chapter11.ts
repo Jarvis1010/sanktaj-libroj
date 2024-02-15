@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kiam Izrael estis junulo, Mi lin ekamis, kaj el Egiptujo Mi vokis Mian filon.",
     "Sed nun oni vokas ilin, kaj ili sin deturnas; al la Baaloj ili oferas, kaj al idoloj ili incensas.",

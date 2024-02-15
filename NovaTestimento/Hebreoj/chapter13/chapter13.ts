@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "La fratamo daŭradu.",
     "Ne forgesu gastamon al nekonatoj; ĉar per tio iuj gastigis anĝelojn, ne sciante.",

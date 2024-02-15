@@ -1,6 +1,5 @@
 export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
-  summary: "",
   verses: [
     "Kiam Jakob sciiĝis, ke oni vendas grenon en Egiptujo, li diris al siaj filoj: Kion vi rigardas?",
     "Kaj li diris: Mi aŭdis, ke oni vendas grenon en Egiptujo; veturu do tien kaj aĉetu por ni tie grenon, por ke ni vivu kaj ne mortu.",

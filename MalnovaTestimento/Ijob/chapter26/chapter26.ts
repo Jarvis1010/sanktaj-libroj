@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Kiel vi helpas al tiu, kiu ne havas forton! Kiel vi subtenas tiun, kies brako estas senforta!",

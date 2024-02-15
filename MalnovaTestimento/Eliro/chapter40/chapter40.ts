@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "En la unua monato, en la unua tago de la monato starigu la konstruaĵon de la tabernaklo de kunveno.",

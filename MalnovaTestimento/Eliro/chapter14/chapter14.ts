@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Diru al la Izraelidoj, ke ili iru returne, kaj starigu sian tendaron antaŭ Pi-Haĥirot, inter Migdol kaj la maro, apud Baal-Cefon; tie ili stariĝu tendare super la maro.",

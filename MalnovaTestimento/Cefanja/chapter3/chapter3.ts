@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ve al la abomeninda kaj malpurigita urbo-premanto!",
     "Ĝi ne aŭskultas voĉon, ne akceptas admonon; la Eternulon ĝi ne fidas, al sia Dio ĝi sin ne turnas.",

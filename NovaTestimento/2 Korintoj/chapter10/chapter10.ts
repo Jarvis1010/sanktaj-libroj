@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Mi mem, Paŭlo, petegas vin pro la mildeco kaj dolĉanimeco de Kristo, mi, kiu en via ĉeesto estas humila inter vi, sed, forestante, tre kuraĝas rilate al vi:",
     "mi mem petegas vin, ke ĉeestante, mi ne kuraĝu per la insisteco, per kiu mi bontrovas kuraĝi kontraŭ iuj, kiuj rigardas nin kiel laŭkarne iradantajn.",

@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Vi estu imitantoj de mi, kiel mi ankaŭ estas imitanto de Kristo.",
     "Mi laŭdas vin, ke vi min memoras en ĉio, kaj ke vi firme tenas la tradiciojn, ĝuste kiel mi transdonis ilin al vi.",

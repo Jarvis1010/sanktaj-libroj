@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "En tiu tempo ne ekzistis reĝo ĉe Izrael; kaj en tiu tempo la tribo de Dan serĉis por si posedaĵon, por ekloĝi, ĉar ĝis tiu tempo ili ne ricevis posedaĵon inter la triboj de Izrael.",
     "Kaj la Danidoj sendis kvin homojn el sia tribo, el siaj reprezentantoj, virojn batalkapablajn el Corea kaj Eŝtaol, por rigardi la landon kaj esplori ĝin, kaj diris al ili:Iru, esploru la landon. Kaj ili venis sur la monton de Efraim al la domo de Miĥa kaj tranoktis tie.",

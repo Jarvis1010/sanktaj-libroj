@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Profeta vorto de la Eternulo pri la lando ĥadraĥ kaj pri ĝia ripozejo Damasko (ĉar la Eternulo rigardas ĉiujn homojn, kiel ĉiujn tribojn de Izrael),",
     "kaj pri ĥamat, kiu havas sian limon apud ĝi, pri Tiro kaj Cidon, kiuj pensas, ke ili estas tre saĝaj.",

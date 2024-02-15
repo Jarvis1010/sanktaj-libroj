@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Profetaĵo pri la apudmara dezerto: Kiel renversanta de ventego de sudo, li venas el la dezerto, el lando terura.",
     "Kruela vizio estas montrita al mi:rabanto rabas, kaj ruiniganto ruinigas. Supreniru, ho Elam; sieĝu, ho Medujo; ĉiun ĝemadon mi ĉesigis.",

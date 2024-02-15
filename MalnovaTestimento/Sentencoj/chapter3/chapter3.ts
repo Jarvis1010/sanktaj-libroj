@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Mia filo! ne forgesu mian instruon, Kaj via koro konservu miajn ordonojn.",
     "Ĉar ili akirigos al vi longan vivon, Jarojn de vivo kaj paco.",

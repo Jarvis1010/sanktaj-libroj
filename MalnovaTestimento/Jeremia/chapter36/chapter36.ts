@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "En la kvara jaro de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis jena vorto al Jeremia de la Eternulo:",
     "Prenu al vi libron-rulaĵon, kaj skribu en ĝin ĉiujn vortojn, kiujn Mi diris al vi pri Izrael kaj pri Jehuda kaj pri ĉiuj nacioj, de la tago, en kiu Mi parolis al vi, de la tempo de Joŝija ĝis la nuna tago.",

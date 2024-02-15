@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Sed en la sepa jaro kuraĝis Jehojada kaj prenis al si en interligon la centestrojn Azarja, filo de Jeroĥam, Iŝmael, filo de Jehoĥanan, Azarja, filo de Obed, Maaseja, filo de Adaja, kaj Eliŝafat, filo de Ziĥri;",
     "kaj ili rondiris en Judujo kaj kolektis la Levidojn el ĉiuj urboj de Judujo kaj la ĉefojn de patrodomoj en Izrael kaj venis en Jerusalemon.",

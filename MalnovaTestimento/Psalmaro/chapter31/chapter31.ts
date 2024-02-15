@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Vin, ho Eternulo, mi fidas, ke mi neniam estu hontigita; Per Via justeco savu min.",
     "Klinu al mi Vian orelon, rapide savu min! Estu por mi forta roko, fortika kastelo, por helpi min.",

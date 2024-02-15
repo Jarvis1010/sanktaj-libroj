@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Mi do diras:Ĉu Dio forpuŝis Sian popolon? Nepre ne! Ĉar ankaŭ mi estas Izraelido, el la idoj de Abraham, el la tribo de Benjamen.",
     "Dio ne forpuŝis Sian popolon, kiun Li antaŭkonis. Aŭ ĉu vi ne scias, kion la Skribo diras pri Elija? kiel li pledis ĉe Dio kontraŭ Izrael:",

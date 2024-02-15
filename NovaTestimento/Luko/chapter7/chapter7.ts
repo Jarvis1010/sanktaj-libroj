@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Fininte ĉiujn siajn dirojn en la oreloj de la popolo, li eniris en Kapernaumon.",
     "Kaj sklavo de unu centestro, kiu estis kara por li, estis malsana kaj preskaŭ mortanta.",

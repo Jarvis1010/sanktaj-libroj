@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj mi rigardis, kiam la Ŝafido malfermis unu el la sep sigeloj, kaj mi aŭdis unu el la kvar kreitaĵoj dirantan kvazaŭ per voĉo de tondro:Venu.",
     "Kaj mi rigardis, kaj jen blanka ĉevalo, kaj la sidanta sur ĝi havis pafarkon; kaj estis donita al li krono; kaj li eliris venkanta, kaj por venki.",

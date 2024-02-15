@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj Dio benis Noan kaj liajn filojn, kaj diris al ili: Fruktu kaj multiĝu, kaj plenigu la teron.",
     "Kaj ili timu vin kaj tremu antaŭ vi, ĉiuj bestoj de la tero kaj ĉiuj birdoj de la ĉielo, ĉio, kio moviĝas sur la tero, kaj ĉiuj fiŝoj de la maro; en viajn manojn ili estas transdonitaj.",

@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj la Izraelidoj faris malbonon antaŭ la okuloj de la Eternulo; kaj la Eternulo transdonis ilin en la manojn de Midjan por la daŭro de sep jaroj.",
     "Kaj la mano de Midjan forte premis Izraelon. Kontraŭ la Midjanidoj la Izraelidoj faris al si la fendegojn en la montoj kaj la kavernojn kaj la fortikaĵojn.",

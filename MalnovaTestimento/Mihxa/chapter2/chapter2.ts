@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Ve al tiuj, kiuj meditas pri pekoj kaj intencas malbonagojn sur sia kuŝejo, por plenumi ilin matene, kiam ilia mano havas forton.",
     "Ili ekdeziras kampojn kaj rabas ilin, domojn kaj forprenas ilin; ili premas homon kaj lian domon, viron kaj lian posedaĵon.",

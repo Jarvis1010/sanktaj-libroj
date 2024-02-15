@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Ĉar la regno de la ĉielo similas al domomastro, kiu eliris frumatene, por dungi laboristojn por sia vinberĝardeno.",
     "Kaj kontraktinte kun la laboristoj po unu denaro por la tago, li ilin sendis en sian vinberejon.",

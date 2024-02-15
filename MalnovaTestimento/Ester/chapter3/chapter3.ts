@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Post tiuj okazintaĵoj la reĝo Aĥaŝveroŝ eminentigis Hamanon, filon de Hamedata, la Agagidon, altigis lin kaj starigis lian seĝon super ĉiuj princoj, kiuj estis ĉe li.",
     "Kaj ĉiuj servantoj de la reĝo, kiuj estis ĉe la pordego de la reĝo, klinadis sin kaj ĵetadis sin vizaĝaltere antaŭ Haman, ĉar tiel ordonis pri li la reĝo. Sed Mordeĥaj sin ne klinadis kaj ne ĵetadis sin vizaĝaltere.",

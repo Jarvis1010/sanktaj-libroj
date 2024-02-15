@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "De David. Al Vi, ho Eternulo, mi vokas; Mia Roko, ne silentu al mi;   Se Vi silentos al mi, mi similiĝos al tiuj,   Kiuj iras en la tombon.",
     "Aŭskultu la voĉon de mia petego, kiam mi krias al Vi, Kiam mi levas miajn manojn al Via plejsanktejo.",

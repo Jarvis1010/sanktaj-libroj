@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Malvera pesilo estas abomenaĵo por la Eternulo; Sed plena pezo plaĉas al Li.",
     "Se venis malhumileco, venos ankaŭ honto; Sed ĉe la humiluloj estas saĝo.",

@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kaj kiam venos sur vin ĉiuj ĉi tiuj aferoj, la beno kaj la malbeno, kiujn mi prezentis al vi, kaj vi pentos per via koro inter ĉiuj popoloj,  inter kiujn ĵetis vin la Eternulo, via Dio;",
     "kaj kiam vi revenos al la Eternulo, via Dio, kaj aŭskultos Lian voĉon konforme al ĉio, kion mi ordonas al vi hodiaŭ, vi kaj viaj gefiloj, per via tuta koro kaj per via tuta animo:",

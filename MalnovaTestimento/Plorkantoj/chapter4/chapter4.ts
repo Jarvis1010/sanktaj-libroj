@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiele senbriliĝis la oro, ŝanĝiĝis la bonega metalo! La ŝtonoj de la sanktejo kuŝas disĵetitaj en la komenco de ĉiuj stratoj!",
     "La karaj filoj de Cion, havantaj la valoron de plej pura oro, Kiele ili similiĝis al argilaj potoj, faritaĵo de potisto!",

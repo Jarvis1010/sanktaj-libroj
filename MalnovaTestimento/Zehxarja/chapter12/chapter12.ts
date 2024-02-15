@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Profeta vorto de la Eternulo pri Izrael. Diro de la Eternulo, kiu etendis la ĉielon, fondis la teron, kaj kreis la spiriton de la homo interne de li:",
     "Jen Mi faros Jerusalemon freneziga kaliko por ĉiuj popoloj ĉirkaŭe, kaj eĉ por Judujo, kiam Jerusalem estos sieĝata.",

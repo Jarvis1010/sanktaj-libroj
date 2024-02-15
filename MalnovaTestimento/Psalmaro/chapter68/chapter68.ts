@@ -1,6 +1,5 @@
 export const chapter68 = {
   chapterTitle: "Ĉapitro 68",
-  summary: "",
   verses: [
     "Al la ĥorestro. De David. Psalmo-kanto. Leviĝu Dio, disĵetiĝu Liaj malamikoj, Kaj forkuru Liaj malamantoj for de Li.",
     "Kiel dispeliĝas fumo, tiel Vi ilin dispelu; Kiel vakso fandiĝas de fajro, tiel pereu la malvirtuloj antaŭ Dio.",

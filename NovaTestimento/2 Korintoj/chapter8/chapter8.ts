@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Cetere, fratoj, ni sciigas al vi la gracon de Dio, kiu estas donacita en la eklezioj Makedonaj;",
     "nome, en grava provo per suferado, la abundo de ilia ĝojo kaj ilia profunda malriĉeco abundis al la riĉo de ilia malavareco.",

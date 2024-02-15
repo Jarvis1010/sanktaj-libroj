@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj Saraj, la edzino de Abram, ne naskis al li; sed ŝi havis sklavinon, Egiptinon, kies nomo estis Hagar.",
     "Kaj Saraj diris al Abram: Jen la Eternulo ŝlosis min, ke mi ne nasku; eniru do al mia sklavino, eble mi havos infanojn per ŝi. Kaj Abram obeis la voĉon de Saraj.",

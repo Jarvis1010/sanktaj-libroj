@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Sed nun ridas pri mi homoj pli junaj ol mi, Kies patrojn mi ne volus starigi kun la hundoj de miaj ŝafaroj;",
     "Kies forto de la manoj estis senbezona por mi, Kaj kiuj ne povis atingi maljunecon;",

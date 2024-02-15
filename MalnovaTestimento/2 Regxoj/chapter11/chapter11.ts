@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kiam Atalja, la patrino de Aĥazja, vidis, ke ŝia filo mortis, ŝi leviĝis kaj ekstermis la tutan reĝan idaron.",
     "Sed Jehoŝeba, filino de la reĝo Joram kaj fratino de Aĥazja, prenis Joaŝon, filon de Aĥazja, kaj ŝtele forkondukis lin el inter la mortigataj filoj de la reĝo, lin kaj lian nutristinon, kaj lokis ilin en la ĉambro de litoj; kaj oni kaŝis lin for de Atalja, kaj li ne estis mortigita.",

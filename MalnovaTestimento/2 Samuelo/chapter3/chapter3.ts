@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj la milito estis longedaŭra inter la domo de Saul kaj la domo de David. Sed David fariĝadis ĉiam pli forta, kaj la domo de Saul fariĝadis ĉiam pli malforta.",
     "Al David naskiĝis filoj en ĥebron. Lia unuenaskito estis Amnon, de Aĥinoam, la Jizreelanino;",

@@ -1,6 +1,5 @@
 export const chapter74 = {
   chapterTitle: "Ĉapitro 74",
-  summary: "",
   verses: [
     "Instruo de Asaf. Kial, ho Dio, Vi forpuŝis nin por ĉiam? Kial fumas Via kolero kontraŭ la ŝafoj de Via paŝtejo?",
     "Rememoru Vian komunumon, kiun Vi aĉetis en la tempo antikva, La genton de Via heredo, kiun Vi liberigis,   Ĉi tiun monton Cion, sur kiu Vi loĝiĝis.",

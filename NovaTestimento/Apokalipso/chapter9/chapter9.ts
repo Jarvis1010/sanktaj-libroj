@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj la kvina anĝelo trumpetis, kaj mi vidis stelon el la ĉielo falintan sur la teron; kaj al li estis donita la ŝlosilo de la puto de la abismo.",
     "Kaj li malfermis la puton de la abismo; kaj el la puto leviĝadis fumo, kiel fumo el granda forno; kaj mallumiĝis la suno kaj la aero pro la fumo de la puto.",

@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj kunlaborante kun li, ni petegas ankaŭ, ke vi ne vane akceptu la gracon de Dio",
     "(ĉar Li diris: En tempo de favoro Mi aŭskultis vin,   Kaj en tago de savo Mi helpis vin;  jen nun la tempo de favoro; jen nun la tago de savo);",

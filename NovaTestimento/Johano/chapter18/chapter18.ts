@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Parolinte tiujn vortojn, Jesuo foriris kun siaj disĉiploj trans la torenton Kidron, kie estis ĝardeno, en kiun li eniris kune kun siaj disĉiploj.",
     "Kaj Judas, lia perfidanto, konis la lokon; ĉar Jesuo ofte venis tien kun siaj disĉiploj.",

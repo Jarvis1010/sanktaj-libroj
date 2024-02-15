@@ -1,6 +1,5 @@
 export const chapter43 = {
   chapterTitle: "Ĉapitro 43",
-  summary: "",
   verses: [
     "La malsato estis tre premanta en la lando.",
     "Kiam ili formanĝis la grenon, kiun ili venigis el Egiptujo, ilia patro diris al ili: Iru denove kaj aĉetu por ni iom da pano.",

@@ -50,8 +50,6 @@ import { chapter48 } from "./chapter48/chapter48";
 export const Jehxezkel = {
   bookTitle: "Jeĥezkel",
   bookTitleShort: "Jeĥezkel",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

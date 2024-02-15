@@ -54,8 +54,6 @@ import { chapter52 } from "./chapter52/chapter52";
 export const Jeremia = {
   bookTitle: "Jeremia",
   bookTitleShort: "Jeremia",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

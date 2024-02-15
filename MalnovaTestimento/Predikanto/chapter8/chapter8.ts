@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kiu estas simila al saĝulo? kaj kiu komprenas la sencon de la aferoj? Saĝeco de homo lumigas lian vizaĝon, kaj la maldelikateco de lia vizaĝo ŝanĝiĝas.",
     "Mi diras:La reĝan ordonon plenumu, pro la ĵuro farita antaŭ Dio.",

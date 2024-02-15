@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kiam la Eternulo, via Dio, ekstermos la popolojn, kies landon la Eternulo, via Dio, donas al vi, kaj vi forpelos ilin kaj ekloĝos en iliaj urboj kaj en iliaj domoj:",
     "tiam apartigu el vi tri urbojn en via lando, kiun la Eternulo, via Dio, donas al vi kiel posedaĵon.",

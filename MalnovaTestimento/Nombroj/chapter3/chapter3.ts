@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj jen estas la genealogio de Aaron kaj Moseo en tiu tempo, kiam la Eternulo parolis al Moseo sur la monto Sinaj.",
     "Jen estas la nomoj de la filoj de Aaron:la unuenaskito Nadab, kaj Abihu, Eleazar, kaj Itamar.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "La saĝo konstruis sian domon, Ĉarpentis ĝiajn sep kolonojn.",
     "Ĝi buĉis sian bruton, verŝis sian vinon, Kaj pretigis sian tablon.",

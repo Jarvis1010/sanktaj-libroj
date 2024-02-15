@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vizio de Jesaja, filo de Amoc, kiun li vidis pri Judujo kaj Jerusalem, en la tempo de Uzija, Jotam, Aĥaz, kaj ĥizkija, reĝoj de Judujo.",
     "Aŭskultu, ho ĉielo, kaj atentu, ho tero, ĉar parolas la Eternulo:Filojn Mi edukis kaj altigis, kaj ili perfidis Min.",

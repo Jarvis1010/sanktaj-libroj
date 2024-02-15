@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Por libereco Kristo nin liberigis; tial staru fortike, kaj ne reimplikiĝu en jugon de sklaveco.",
     "Jen mi, Paŭlo, diras al vi, ke, se vi cirkumcidiĝos, Kristo al vi tute ne utilos.",

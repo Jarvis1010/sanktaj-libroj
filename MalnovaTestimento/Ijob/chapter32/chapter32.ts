@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Kaj tiuj tri viroj ĉesis respondi al Ijob, ĉar li opiniis sin prava.",
     "Tiam ekflamis la kolero de Elihu, filo de Baraĥel, Buzano, el la familio de Ram. Kontraŭ Ijob ekflamis lia kolero pro tio, ke li opiniis sin pli prava ol Dio;",

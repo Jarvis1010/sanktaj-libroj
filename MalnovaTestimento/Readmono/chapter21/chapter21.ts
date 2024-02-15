@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Se estos trovita mortigito sur la tero, kiun la Eternulo, via Dio, donas al vi kiel posedaĵon, kuŝanta sur la kampo, kaj oni ne scios, kiu lin mortigis:",
     "tiam eliru viaj plejaĝuloj kaj viaj juĝistoj, kaj ili mezuru ĝis la urboj, kiuj troviĝas ĉirkaŭe de la mortigito.",

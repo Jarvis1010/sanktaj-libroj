@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "La popolo de la lando prenis Jehoaĥazon, filon de Joŝija, kaj faris lin reĝo anstataŭ lia patro en Jerusalem.",
     "La aĝon de dudek tri jaroj havis Jehoaĥaz, kiam li fariĝis reĝo, kaj tri monatojn li reĝis en Jerusalem.",

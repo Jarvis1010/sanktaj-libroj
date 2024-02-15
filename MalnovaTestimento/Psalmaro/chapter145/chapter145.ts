@@ -1,6 +1,5 @@
 export const chapter145 = {
   chapterTitle: "Ĉapitro 145",
-  summary: "",
   verses: [
     "Glorkanto de David. Mi altigos Vin, mia Dio, ho Reĝo, Kaj mi benos Vian nomon ĉiam kaj eterne.",
     "Ĉiutage mi Vin benos, Kaj mi gloros Vian nomon ĉiam kaj eterne.",

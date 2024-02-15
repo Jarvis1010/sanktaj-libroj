@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Kaj kiam ni saviĝis, tiam ni sciiĝis, ke la insulo estas nomata Melita.",
     "Kaj la barbaroj montris al ni neordinaran bonecon; ĉar ili ekbruligis fajron kaj akceptis nin ĉiujn pro la tiama pluvo kaj pro la malvarmeco.",

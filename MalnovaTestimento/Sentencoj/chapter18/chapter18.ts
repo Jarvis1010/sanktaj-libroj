@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kiu apartiĝas, tiu serĉas sian volupton Kaj iras kontraŭ ĉiu saĝa konsilo.",
     "Malsaĝulo ne deziras prudenton, Sed nur malkovri sian koron.",

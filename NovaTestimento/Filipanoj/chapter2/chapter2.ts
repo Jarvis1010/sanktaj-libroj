@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Se do en Kristo ekzistas ia konsolo, ia simpatio de amo, ia kunuleco de la Spirito, ia korfavoro kaj kompato,",
     "plenigu mian ĝojon, ke vi tiel same sentu, havante la saman amon, estante unuanimaj, sampensaj,",

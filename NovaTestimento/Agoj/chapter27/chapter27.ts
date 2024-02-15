@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "Kaj kiam estis decidite, ke ni ŝipiru al Italujo, oni transdonis Paŭlon kaj kelkajn aliajn malliberulojn al centestro, nomata Julio, el la Aŭgusta kohorto.",
     "Kaj enirinte en ŝipon el Adramitio, veturontan al la lokoj ĉe la marbordo de Azio, ni ekveturis sur la maron, havante kun ni Aristarĥon, Makedonon el Tesaloniko.",

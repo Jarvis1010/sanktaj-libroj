@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj la tuta popolo, kiel unu homo, kolektiĝis sur la placo, kiu estas antaŭ la Pordego de la Akvo, kaj ili diris al Ezra, la skribisto, ke li alportu la libron de instruo de Moseo, kiun la Eternulo ordonis al Izrael.",
     "Kaj la pastro Ezra alportis la instruon antaŭ la komunumon, antaŭ la virojn kaj virinojn, antaŭ ĉiujn, kiuj povis kompreni, en la unua tago de la sepa monato.",

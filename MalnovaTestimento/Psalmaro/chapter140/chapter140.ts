@@ -1,6 +1,5 @@
 export const chapter140 = {
   chapterTitle: "Ĉapitro 140",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Liberigu min, ho Eternulo, de malbona homo, Gardu min kontraŭ perfortulo;",
     "Kontraŭ tiuj, kiuj elpensas malbonon en la koro, Ĉiutage kaŭzas militojn;",

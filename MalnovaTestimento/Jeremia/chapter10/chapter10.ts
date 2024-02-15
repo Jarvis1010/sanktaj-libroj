@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Aŭskultu la vorton, kiun diras pri vi la Eternulo, ho domo de Izrael!",
     "Tiele diras la Eternulo:Ne lernu la konduton de la nacioj, kaj ne timu la signojn de la ĉielo, kiel la nacioj ilin timas.",

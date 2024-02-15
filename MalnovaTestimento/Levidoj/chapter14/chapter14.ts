@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Jen estas la leĝo pri la leprulo, en la tago, kiam oni devos purigi lin:oni venigu lin al la pastro;",

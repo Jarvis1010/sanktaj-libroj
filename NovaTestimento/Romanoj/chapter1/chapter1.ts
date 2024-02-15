@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, servisto de Jesuo Kristo, apostolo vokita, apartigita al la evangelio de Dio,",
     "kiun Li promesis antaŭe per Siaj profetoj en la sanktaj skriboj,",

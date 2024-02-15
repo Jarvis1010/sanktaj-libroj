@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por ario:Matenkrepuska Cervino. Psalmo de David. Mia Dio, mia Dio, kial Vi forlasis min,   Kaj estas malproksima de mia savo, de miaj plendaj paroloj?",
     "Mia Dio, mi vokas en la tago, kaj Vi ne respondas; En la nokto, kaj mi ne trovas trankvilon.",

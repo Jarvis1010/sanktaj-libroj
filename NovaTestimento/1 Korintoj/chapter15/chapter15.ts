@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj mi sciigas vin, fratoj, pri la evangelio, kiun mi predikis al vi, kiun ankaŭ vi ricevis, en kiu ankaŭ vi staras,",
     "per kiu vi saviĝis; se vi en memoro tenas, per kiuj vortoj mi ĝin predikis al vi, krom se vi kredis vane.",

@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Saul diris al sia filo Jonatan kaj al ĉiuj siaj servantoj, ke ili mortigu Davidon.",
     "Sed Jonatan, filo de Saul, tre amis Davidon. Kaj Jonatan sciigis al David, dirante:Mia patro Saul intencas mortigi vin; tial gardu vin, mi petas, morgaŭ matene:iru en sekretan lokon kaj kaŝu vin.",

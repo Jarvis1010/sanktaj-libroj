@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, profetu, kaj diru:Tiele diras la Sinjoro, la Eternulo:Plorkriu:Ve al la tago!",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "En la dua jaro de la reĝo Dario, en la sesa monato, en la unua tago de la monato, aperis vorto de la Eternulo per la profeto ĥagaj al Zerubabel, filo de Ŝealtiel, regionestro de Judujo, kaj al la ĉefpastro Josuo, filo de Jehocadak, dirante:",
     "Tiele diras la Eternulo Cebaot:Tiu popolo diras, ke ankoraŭ ne venis la tempo, por konstrui la domon de la Eternulo.",

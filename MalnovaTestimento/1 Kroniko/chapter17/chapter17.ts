@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kiam David loĝis en sia domo, li diris unu fojon al la profeto Natan:Jen mi loĝas en domo cedroligna, kaj la kesto de interligo de la Eternulo restas sub tapiŝoj.",
     "Kaj Natan diris al David:Ĉion, kio estas sur via koro, faru, ĉar Dio estas kun vi.",

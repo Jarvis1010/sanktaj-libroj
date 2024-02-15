@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Ho, se mia kapo havus sufiĉe da akvo kaj miaj okuloj estus fonto da larmoj! tage kaj nokte mi priplorus la mortigitojn el mia popolo.",
     "Ho, se mi havus en la dezerto rifuĝejon por migrantoj! tiam mi forlasus mian popolon kaj forirus de ili, ĉar ili ĉiuj estas adultuloj, amaso da perfiduloj.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Moseo respondis kaj diris:Sed se ili ne kredos al mi kaj ne aŭskultos mian voĉon, kaj se ili diros:Ne aperis al vi la Eternulo?",
     "Kaj la Eternulo diris al li:Kion vi tie havas en via mano? Kaj li diris:Bastonon.",

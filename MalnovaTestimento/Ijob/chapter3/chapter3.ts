@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Poste Ijob malfermis sian buŝon, kaj malbenis sian tagon.",
     "Kaj Ijob ekparolis, kaj diris:",

@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Nomu viajn fratojn Mia popolo, kaj viajn fratinojn Kompatataj.",
     "Havu juĝon kontraŭ via patrino, havu juĝon, ĉar ŝi ne estas Mia edzino, kaj Mi ne estas ŝia edzo; ŝi forigu la malĉastecon de sia vizaĝo kaj la adultemecon de siaj mamoj,",

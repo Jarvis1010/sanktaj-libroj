@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Kaj la reĝo David diris al la tuta komunumo:Mia filo Salomono, la sola, kiun elektis la Eternulo, estas juna kaj neforta, kaj la laboro estas granda;  ĉar ne por homo estas la loĝejo, sed por Dio la Eternulo.",
     "Mi preparis per mia tuta forto por la domo de mia Dio oron por la oraj objektoj, arĝenton por la arĝentaj, kupron por la kupraj, feron por la feraj, lignon por la lignaj, ŝtonojn oniksajn kaj ŝtonojn enkadrigitajn, ŝtonojn belajn kaj diverskolorajn, kaj ĉiaspecajn ŝtonojn multekostajn,  kaj multe da ŝtonoj marmoraj.",

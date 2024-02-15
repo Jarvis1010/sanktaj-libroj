@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kiam Saul revenis de sia iro kontraŭ la Filiŝtoj, oni raportis al li, dirante:Jen David estas en la dezerto En-Gedi.",
     "Tiam Saul prenis tri mil virojn, elektitajn el la tuta Izrael, kaj iris serĉi Davidon kaj liajn homojn sur la rokoj de la ibeksoj.",

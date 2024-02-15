@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Naaman, la militestro de la reĝo de Sirio, estis granda homo antaŭ sia sinjoro kaj tre estimata, ĉar per li la Eternulo donis venkon al Sirio. Tiu homo estis forta militisto, sed leprulo.",
     "La Sirianoj unu fojon eliris taĉmente kaj kaptis el la Izraela lando malgrandan knabinon, kaj ŝi fariĝis servantino de la edzino de Naaman.",

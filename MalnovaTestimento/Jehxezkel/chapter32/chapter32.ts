@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "En la dek-dua jaro, en la dek-dua monato, en la unua tago de la monato, aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, ekkantu funebran kanton pri Faraono, reĝo de Egiptujo, kaj diru al li:Vi estas kiel leonido inter la nacioj, vi estas kiel drako en la maroj, vi saltas en viaj riveroj, vi movmalklarigas la akvon per viaj piedoj, vi malkvietigas iliajn riverojn.",

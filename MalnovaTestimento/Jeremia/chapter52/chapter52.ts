@@ -1,6 +1,5 @@
 export const chapter52 = {
   chapterTitle: "Ĉapitro 52",
-  summary: "",
   verses: [
     "La aĝon de dudek unu jaroj havis Cidkija, kiam li fariĝis reĝo, kaj dek unu jarojn li reĝis en Jerusalem. La nomo de lia patrino estis ĥamutal, filino de Jeremia, el Libna.",
     "Li agadis malbone antaŭ la Eternulo, kiel ĉio, kion faris Jehojakim.",

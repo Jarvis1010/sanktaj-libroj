@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "La Eternulo el ventego ekparolis al Ijob, kaj diris:",
     "Kiu estas tiu, kiu mallumigas la plej altan decidon Per vortoj sensencaj?",

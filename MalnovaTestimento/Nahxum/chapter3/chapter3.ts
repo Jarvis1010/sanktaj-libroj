@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ve al la urbo sangavida, kiu estas plena de trompoj kaj raboj, kaj ne volas ĉesigi la rabadon!",
     "Oni aŭdas la sonadon de vipoj, la sonadon de bruantaj radoj; blekas ĉevalo, saltas ĉaro;",

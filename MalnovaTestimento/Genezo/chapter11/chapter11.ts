@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Sur la tuta tero estis unu lingvo kaj unu parolmaniero.",
     "Kaj kiam ili ekiris de la oriento, ili trovis valon en la lando Ŝinar kaj tie ekloĝis.",

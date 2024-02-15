@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj respondante, Jesuo denove parolis al ili parabole, dirante:",
     "La regno de la ĉielo similas al unu reĝo, kiu faris edziĝan feston por sia filo,",

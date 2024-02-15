@@ -1,6 +1,5 @@
 export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
-  summary: "",
   verses: [
     "Al la ĥorestro Jedutun. Psalmo de David. Mi diris:Mi gardos min sur miaj vojoj, ke mi ne peku per mia lango; Mi bridos mian buŝon, kiam malpiulo staras kontraŭ mi.",
     "Mi estis muta kaj silenta, mi silentis eĉ pri bono; Kaj mia sufero estis mordanta.",

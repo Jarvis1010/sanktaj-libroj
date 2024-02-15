@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj estis donita al mi kano, simila al bastono; kaj iu diris:Leviĝu, kaj mezuru la templon de Dio, kaj la altaron, kaj la adorantojn en ĝi.",
     "Kaj la korton ekster la templo preterlasu, kaj ne mezuru ĝin, ĉar ĝi estas donita al la nacioj; kaj la sanktan urbon ili piedpremos kvardek du monatojn.",

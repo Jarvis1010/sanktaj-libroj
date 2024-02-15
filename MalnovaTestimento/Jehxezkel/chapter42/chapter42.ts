@@ -1,6 +1,5 @@
 export const chapter42 = {
   chapterTitle: "Ĉapitro 42",
-  summary: "",
   verses: [
     "Kaj li elkondukis min sur la korton eksteran, kiu estis en norda direkto; kaj li venigis min al la ofica ĉambro, kiu estis kontraŭ la placo kaj kontraŭ la konstruaĵo norde.",
     "Ĝia longo ĝis la norda pordo estis cent ulnoj, kaj la larĝo kvindek ulnoj.",

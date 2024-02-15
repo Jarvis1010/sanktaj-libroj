@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Dina, la filino de Lea, kiun ŝi naskis al Jakob, eliris, por vidi la filinojn de la lando.",
     "Kaj vidis ŝin Ŝeĥem, filo de ĥamor la ĥivido, princo de la lando, kaj li prenis ŝin kaj kuŝis kun ŝi kaj faris al ŝi perfortaĵon.",

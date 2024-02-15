@@ -1,6 +1,5 @@
 export const chapter43 = {
   chapterTitle: "Ĉapitro 43",
-  summary: "",
   verses: [
     "Kiam Jeremia finis antaŭ la tuta popolo la raportadon pri ĉiuj vortoj de la Eternulo, ilia Dio, pri ĉiuj vortoj, kun kiuj la Eternulo, ilia Dio, sendis lin al ili,",
     "tiam Azarja, filo de Hoŝaja, kaj Joĥanan, filo de Kareaĥ, kaj ĉiuj malhumilaj homoj diris al Jeremia:Malveron vi parolas; la Eternulo, nia Dio, ne sendis vin, por diri:Ne iru en Egiptujon, por tie ekloĝi;",

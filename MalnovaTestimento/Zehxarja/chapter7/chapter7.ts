@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "En la kvara jaro de la reĝo Dario aperis vorto de la Eternulo al Zeĥarja, en la kvara tago de la naŭa monato, tio estas de Kislev;",
     "kiam Bet-El sendis Ŝareceron kaj Regem-Meleĥon kun iliaj akompanantoj, por preĝi antaŭ la Eternulo,",

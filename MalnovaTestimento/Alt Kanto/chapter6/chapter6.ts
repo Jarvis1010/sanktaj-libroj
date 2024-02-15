@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kien foriris via amato, Ho belulino inter virinoj?   Kien forturniĝis via amato,   Por ke ni lin serĉu kun vi?",
     "Mia amato iris en sian ĝardenon, al la bedoj de aromaĵoj, Por paŝti en la ĝardenoj kaj kolekti rozojn.",

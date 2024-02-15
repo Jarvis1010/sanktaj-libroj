@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Al ĉio ĉi tio mi direktis mian koron, por esplori ĉion ĉi tion, ke la virtuloj kaj saĝuloj kaj iliaj faroj estas en la mano de Dio; kaj nek amon nek malamon scias la homo, kaj nenion, kio lin atendas.",
     "Al ĉiuj estas la sama sorto:al la virtulo kaj al la malvirtulo, al la bona kaj pura kaj al la malpura, al la oferfaranto kaj al tiu, kiu ne oferfaras, al la bonulo kaj al la pekulo, al la ĵuranto kaj al tiu, kiu timas ĵuron.",

@@ -68,8 +68,6 @@ import { chapter66 } from "./chapter66/chapter66";
 export const Jesaja = {
   bookTitle: "Jesaja",
   bookTitleShort: "Jesaja",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

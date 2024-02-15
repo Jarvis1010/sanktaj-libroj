@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "En la komenco de la reĝado de Jehojakim, filo de Joŝija, reĝo de Judujo, aperis jena vorto de la Eternulo:",
     "Tiele diras la Eternulo:Stariĝu sur la korto de la domo de la Eternulo, kaj parolu pri ĉiuj urboj de Judujo, kiuj venas en la domon de la Eternulo por adorkliniĝi, ĉiujn vortojn, kiujn Mi ordonis al vi diri al ili; ne mankigu eĉ unu vorton.",

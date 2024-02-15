@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "La unuan tagon de la semajno Maria Magdalena venis frue, dum estis ankoraŭ mallume, al la tombo, kaj vidis la ŝtonon prenita for de la tombo.",
     "Ŝi do kuris kaj venis al Simon Petro kaj al tiu alia disĉiplo, kiun Jesuo amis, kaj ŝi diris al ili:Oni forprenis el la tombo la Sinjoron, kaj ni ne scias, kien oni lin metis.",

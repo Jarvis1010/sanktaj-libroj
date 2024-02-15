@@ -152,8 +152,6 @@ import { chapter150 } from "./chapter150/chapter150";
 export const Psalmaro = {
   bookTitle: "Psalmaro",
   bookTitleShort: "Psalmaro",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

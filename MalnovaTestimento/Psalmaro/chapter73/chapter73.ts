@@ -1,6 +1,5 @@
 export const chapter73 = {
   chapterTitle: "Ĉapitro 73",
-  summary: "",
   verses: [
     "Psalmo de Asaf. Jes, bona estas Dio por Izrael, Por tiuj, kiuj havas puran koron.",
     "Sed mi-apenaŭ ne falŝanceliĝis miaj piedoj, Preskaŭ elglitis miaj paŝoj.",

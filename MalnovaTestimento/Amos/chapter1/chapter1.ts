@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vortoj de Amos, paŝtisto el Tekoa, kiujn li laŭvizie eldiris pri Izrael en la tempo de Uzija, reĝo de Judujo, kaj en la tempo de Jerobeam, filo de Joaŝ, reĝo de Izrael, du jarojn antaŭ la tertremo.",
     "Li diris:La Eternulo ektondros el Cion kaj aŭdigos Sian voĉon el Jerusalem; kaj ekfunebros la paŝtejoj de la paŝtistoj, kaj sekiĝos la supro de Karmel.",

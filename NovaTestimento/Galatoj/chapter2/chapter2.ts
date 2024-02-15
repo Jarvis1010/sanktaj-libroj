@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Tiam, post intertempo de dek kvar jaroj, mi denove supreniris al Jerusalem kun Barnabas, kunkondukante ankaŭ Titon.",
     "Kaj mi supreniris laŭ Dia malkaŝo; kaj mi prezentis al ili la evangelion, kiun mi predikas inter la nacianoj, sed aparte al la eminentuloj, por ke mi ne estu vane kuranta, aŭ kurinta.",

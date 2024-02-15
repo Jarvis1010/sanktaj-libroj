@@ -1,6 +1,5 @@
 export const chapter55 = {
   chapterTitle: "Ĉapitro 55",
-  summary: "",
   verses: [
     "Ho vi, ĉiuj soifantoj, iru al la akvo, kaj vi, kiuj ne havas monon; iru, aĉetu, kaj manĝu; iru, aĉetu sen mono kaj sen pago vinon kaj lakton.",
     "Kial vi donas monon por tio, kio ne estas pano? kaj vian laboron por tio, kio ne satigas? aŭskultu do Min, kaj manĝu bonaĵon, kaj via animo ĝuu grasaĵon.",

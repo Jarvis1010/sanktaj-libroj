@@ -14,8 +14,6 @@ import { chapter12 } from "./chapter12/chapter12";
 export const Predikanto = {
   bookTitle: "Predikanto",
   bookTitleShort: "Predikanto",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

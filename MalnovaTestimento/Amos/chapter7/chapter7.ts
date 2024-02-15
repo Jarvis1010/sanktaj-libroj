@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Tian vizion donis al mi la Sinjoro, la Eternulo:jen Li kreis akridojn en la komenco de kreskado de la postfalĉaĵo; la postfalĉaĵo aperis post la falĉado por la reĝo.",
     "Kiam ili finis la manĝadon de la herbo sur la tero, mi diris:Ho Sinjoro, ho Eternulo, volu pardoni! Kiu restarigos Jakobon? li estas ja malgranda.",

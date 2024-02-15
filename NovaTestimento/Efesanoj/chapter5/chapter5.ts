@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Estu do imitantoj de Dio, kiel infanoj amataj;",
     "kaj iradu en amo, kiel Kristo nin amis kaj sin donis pro ni, donaĵon kaj oferaĵon al Dio por agrabla odoraĵo.",

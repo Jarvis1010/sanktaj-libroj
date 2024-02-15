@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj nun mi volas, ke vi sciu, ke, post kiam mia patro Lihai ĉesis profetadi pri sia idaro, okazis, ke la Sinjoro parolis al li denove, dirante, ke ne estas oportune, ke li, Lihai, prenu lian familion solan en la dezerton; sed ke liaj filoj prenu filinojn kiel edzinojn, por ke ili naskigu idaron por la Sinjoro en la lando de promeso.",
     "Kaj okazis, ke la Sinjoro ordonis al li, ke mi, Nifai, kaj miaj fratoj, denove reiru al la lando Jerusalema kaj venigu Iŝmaelon kaj lian familion en la dezerton.",

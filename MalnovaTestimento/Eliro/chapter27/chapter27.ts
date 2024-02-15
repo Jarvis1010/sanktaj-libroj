@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "Kaj faru la altaron el akacia ligno, havantan la longon de kvin ulnoj kaj la larĝon de kvin ulnoj; kvarangula estu la altaro; kaj ĝia alto estu tri ulnoj.",
     "Kaj faru ĝiajn kornojn sur ĝiaj kvar anguloj; el ĝi elstaru ĝiaj kornoj; kaj tegu ĝin per kupro.",

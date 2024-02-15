@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Ĉiu, kiu kredas, ke Jesuo estas la Kristo, naskiĝis el Dio; kaj ĉiu, kiu amas la Naskinton, amas ankaŭ la naskiton el Li.",
     "Per tio ni ekscias, ke ni amas la infanojn de Dio, kiam ni amas Dion kaj plenumas Liajn ordonojn.",

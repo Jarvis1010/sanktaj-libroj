@@ -11,8 +11,6 @@ import { chapter9 } from "./chapter9/chapter9";
 export const Amos = {
   bookTitle: "Amos",
   bookTitleShort: "Amos",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

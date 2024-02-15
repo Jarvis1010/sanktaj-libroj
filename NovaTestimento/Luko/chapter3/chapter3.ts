@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "En la dek-kvina jaro de la regado de Tiberio Cezaro, kiam Pontio Pilato estis provincestro de Judujo, kaj Herodo estis tetrarĥo de Galileo, kaj lia frato Filipo tetrarĥo de la regiono Iturea kaj Traĥonitis, kaj Lisanio tetrarĥo de Abilene,",
     "dum la ĉefpastreco de Anas kaj Kajafas, venis la vorto de Dio al Johano, filo de Zeĥarja, en la dezerto.",

@@ -1,6 +1,5 @@
 export const chapter143 = {
   chapterTitle: "Ĉapitro 143",
-  summary: "",
   verses: [
     "Psalmo de David. Ho Eternulo, aŭskultu mian preĝon, Atentu mian petegon laŭ Via vereco,   Respondu al mi laŭ Via justeco.",
     "Kaj ne eniru en juĝon kun Via sklavo, Ĉar neniu vivanta povos praviĝi antaŭ Vi.",

@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mi volas do, ke vi sciu, kiel grandan klopodon mi havas pro vi, kaj pro tiuj en Laodikea, kaj pro ĉiuj, kiuj ne vidis mian vizaĝon en la karno;",
     "por ke iliaj koroj konsoliĝu, dum ili kunkroĉiĝas en amo, kaj al ĉia riĉeco de la plena certiĝo de kompreno, por ke ili sciu la misteron de Dio, Kriston,",

@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Reĥabeam iris en Ŝeĥemon, ĉar en Ŝeĥemon venis ĉiuj Izraelidoj, por fari lin reĝo.",
     "Kiam tion aŭdis Jerobeam, filo de Nebat (ĉar li estis ankoraŭ en Egiptujo, kien li forkuris de la reĝo Salomono, kaj Jerobeam loĝis en Egiptujo,",

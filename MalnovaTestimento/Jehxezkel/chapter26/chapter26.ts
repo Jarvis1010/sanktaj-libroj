@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "En la dek-unua jaro, en la unua tago de la monato, aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo! pro tio, ke Tiro diras pri Jerusalem:Ha, ha! ĝi estas frakasita, la pordo de la popoloj, ĝi turnas sin al mi, mi pleniĝos de ĝia dezertiĝo-",

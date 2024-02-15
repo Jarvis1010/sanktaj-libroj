@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "En tiuj tagoj venis Johano, la Baptisto, predikante en la dezerto de Judujo,",
     "kaj dirante:Pentu, ĉar alproksimiĝis la regno de la ĉielo.",

@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mi diris en mia koro:Lasu, mi elprovos vin per ĝojo, kaj vi ĝuu bonon; sed jen ankaŭ ĉi tio estas vantaĵo.",
     "Pri la rido mi diris:Ĝi estas sensencaĵo! kaj pri la ĝojo:Kion ĝi havigas?",

@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Kaj la tuta ĉeestantaro leviĝis, kaj kondukis lin antaŭ Pilaton.",
     "Kaj ili komencis akuzi lin, dirante:Ni trovis ĉi tiun viron erariganta nian nacion, kaj malpermesanta pagi tributon al Cezaro, kaj diranta, ke li mem estas Kristo, reĝo.",

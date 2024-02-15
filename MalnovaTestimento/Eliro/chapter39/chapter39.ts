@@ -1,6 +1,5 @@
 export const chapter39 = {
   chapterTitle: "Ĉapitro 39",
-  summary: "",
   verses: [
     "Kaj el la blua, purpura, kaj ruĝa teksaĵo ili faris la oficajn vestojn por la servado en la sanktejo; kaj ili faris la sanktajn vestojn por Aaron, kiel la Eternulo ordonis al Moseo.",
     "Kaj ili faris la efodon el oro, el blua, purpura, kaj ruĝa teksaĵo, kaj el tordita bisino.",

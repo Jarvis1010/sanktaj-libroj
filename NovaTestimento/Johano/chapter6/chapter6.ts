@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Poste Jesuo foriris trans la maron de Galileo, tio estas de Tiberias.",
     "Kaj granda homamaso lin sekvis, ĉar ili vidis la signojn, kiujn li faris por la malsanuloj.",

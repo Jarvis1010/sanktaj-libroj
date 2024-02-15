@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "En la jaro de la morto de la reĝo Uzija mi vidis la Sinjoron, sidantan sur alta kaj levita trono, kaj Liaj baskoj plenigis la templon.",
     "Serafoj staris supre de Li; ĉiu havis po ses flugiloj; per du li kovris sian vizaĝon, per du li kovris siajn piedojn, kaj per du li flugis.",

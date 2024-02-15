@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "Kaj li faris la altaron por la bruloferoj el akacia ligno; kvin ulnoj estis ĝia longo, kaj kvin ulnoj ĝia larĝo; kvarangula ĝi estis; kaj tri ulnoj estis ĝia alto.",
     "Kaj li faris ĝiajn kornojn sur ĝiaj kvar anguloj; el ĝi elstaris ĝiaj kornoj; kaj li tegis ĝin per kupro.",

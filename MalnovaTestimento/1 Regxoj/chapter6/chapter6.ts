@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "En la jaro kvarcent-okdeka post la eliro de la Izraelidoj el la lando Egipta, en la kvara jaro de la reĝado de Salomono, en la monato Ziv, tio estas la dua monato, oni komencis konstrui la domon por la Eternulo.",
     "Kaj la domo, kiun la reĝo Salomono konstruis por la Eternulo, havis la longon de sesdek ulnoj, la larĝon de dudek, kaj la alton de tridek ulnoj.",

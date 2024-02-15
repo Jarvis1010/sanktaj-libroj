@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "De David. Al Vi, ho Eternulo, mi levas mian animon.",
     "Ho mia Dio, Vin mi fidas; Ne lasu min hontiĝi;   Ne lasu, ke miaj malamikoj moku pri mi.",

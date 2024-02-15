@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Sed akceptu malfortulon en fido, tamen ne por dubaj disputadoj.",
     "Unu homo kredas, ke li povas ĉion manĝi; sed alia, estante malforta, manĝas legomojn.",

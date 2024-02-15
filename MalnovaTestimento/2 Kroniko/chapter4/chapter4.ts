@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj li faris kupran altaron, havantan la longon de dudek ulnoj, la larĝon de dudek ulnoj, kaj la alton de dek ulnoj.",
     "Kaj li faris maron fanditan, havantan dek ulnojn de rando ĝis rando, tute rondan, havantan la alton de kvin ulnoj; kaj ŝnuro de tridek ulnoj prezentis ĝian mezuron ĉirkaŭe.",

@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kaj okazis, ke Alma, fuĝinte de la servistoj de la reĝo Noa, pentis pri siaj pekoj kaj malvirteco, kaj sekrete rondiris inter la popolo, kaj komencis instrui la vortojn de Abinadai",
     "Jes, pri tio, kio venos, kaj ankaŭ pri la releviĝo de la mortintoj, kaj la elaĉeto de la popolo, kio okazos per la potenco, kaj suferoj, kaj morto de Kristo, kaj lia releviĝo kaj supreniro en la ĉielon.",

@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "En la dek-dua jaro de Aĥaz, reĝo de Judujo, Hoŝea, filo de Ela, fariĝis reĝo en Samario super Izrael, kaj li reĝis naŭ jarojn.",
     "Li faradis malbonon antaŭ la Eternulo, sed ne tiel, kiel la reĝoj de Izrael, kiuj estis antaŭ li.",

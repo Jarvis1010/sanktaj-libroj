@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj denove li komencis instrui apud la maro. Kaj kolektiĝis al li tre granda homamaso tiel, ke li eniris en ŝipeton, kaj sidis sur la maro; kaj la tuta homamaso estis sur la tero apud la maro.",
     "Kaj li multe instruis ilin per paraboloj, kaj diris al ili en sia instruado:",

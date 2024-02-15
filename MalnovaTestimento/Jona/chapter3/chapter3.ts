@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj duafoje aperis al Jona vorto de la Eternulo, dirante:",
     "Leviĝu, iru en la grandan urbon Nineve, kaj prediku al ĝi la predikon, kiun Mi diros al vi.",

@@ -1,6 +1,5 @@
 export const chapter62 = {
   chapterTitle: "Ĉapitro 62",
-  summary: "",
   verses: [
     "Pro Cion mi ne silentos, kaj pro Jerusalem mi ne haltos, ĝis ĝia praveco eliĝos kiel brilo kaj ĝia savo kiel brulanta torĉo.",
     "Kaj la popoloj vidos vian feliĉon, kaj ĉiuj reĝoj vian honoron; kaj oni nomos vin per nomo nova, kiun eldiros la buŝo de la Eternulo.",

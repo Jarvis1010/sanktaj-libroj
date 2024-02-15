@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Tiel same, edzinoj, submetu vin al viaj propraj edzoj; por ke, eĉ se iuj ne obeas al la vorto, ili sen la vorto estu gajnitaj per la konduto de siaj edzinoj,",
     "rigardante vian konduton kun timo ĉastan.",

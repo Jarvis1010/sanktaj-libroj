@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj aperis al mi la vorto de la Eternulo, dirante:",
     "Ne prenu al vi edzinon, kaj ne havu filojn nek filinojn, sur ĉi tiu loko.",

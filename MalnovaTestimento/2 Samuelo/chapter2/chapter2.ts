@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Post tio David demandis la Eternulon, dirante:Ĉu mi eniru en unu el la urboj de Jehuda? Kaj la Eternulo diris al li:Eniru. Kaj David diris:Kien mi eniru? Kaj Li respondis:En ĥebronon.",
     "Kaj David tien eniris, kune kun siaj edzinoj, Aĥinoam, la Jizreelanino, kaj Abigail, edzino de Nabal, la Karmelanino.",

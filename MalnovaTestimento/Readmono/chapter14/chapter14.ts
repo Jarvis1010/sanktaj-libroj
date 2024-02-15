@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Vi estas filoj de la Eternulo, via Dio:ne faru sur vi entranĉojn kaj ne faru senharaĵon super viaj okuloj pro mortinto;",
     "ĉar vi estas popolo sankta al la Eternulo, via Dio, kaj vin la Eternulo elektis, ke vi estu Lia popolo propra, el ĉiuj popoloj, kiuj estas sur la tero.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiam la malamikoj de Jehuda kaj Benjamen aŭdis, ke la revenintoj el la kaptiteco konstruas templon al la Eternulo, Dio de Izrael,",
     "tiam ili venis al Zerubabel kaj al la ĉefoj de la patrodomoj, kaj diris al ili:Ni ankaŭ deziras konstrui kun vi, ĉar simile al vi ni ankaŭ serĉas vian Dion, kaj al Li ni alportas oferojn de post la tempo de Esar-ĥadon, reĝo de Asirio, kiu venigis nin ĉi tien.",

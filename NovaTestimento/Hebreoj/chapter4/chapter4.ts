@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Ni do timu, ke, kiam al ni restas promeso veni en Lian ripozejon, iu el vi eble ŝajne malatingos ĝin.",
     "Ĉar al ni ankaŭ estas evangelio anoncita tiel same, kiel al ili; sed al ili la aŭdita parolo ne utilis, ne miksite kun fido ĉe la aŭdantoj.",

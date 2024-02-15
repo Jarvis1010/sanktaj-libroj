@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kolektiĝu kaj konsciiĝu, ho nacio ne aminda,",
     "antaŭ ol eliris la dekreto (la tago forflugas kiel grenventumaĵo), antaŭ ol trafis vin la flama kolero de la Eternulo, antaŭ ol venis por vi la tago de indigno de la Eternulo.",

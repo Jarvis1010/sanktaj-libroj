@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj al la anĝelo de la eklezio en Sardes skribu: Tiele diras tiu, kiu havas la sep Spiritojn de Dio, kaj la sep stelojn:Mi scias viajn farojn, ke vi estas nomata viva, kaj estas malviva.",
     "Fariĝu vigla, kaj firmigu la restaĵojn, kiuj estis preskaŭ mortantaj; ĉar mi ne trovis viajn farojn plenumitaj antaŭ mia Dio.",

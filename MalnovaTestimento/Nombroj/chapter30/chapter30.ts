@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Kaj Moseo ekparolis al la tribestroj de la Izraelidoj, dirante:Jen kion ordonis la Eternulo:",
     "Se iu faros sanktan promeson al la Eternulo aŭ ĵuros ĵuron, ligante sian animon, li ne rompu sian vorton, sed konforme al ĉio, kio eliris el lia buŝo, li faru.",

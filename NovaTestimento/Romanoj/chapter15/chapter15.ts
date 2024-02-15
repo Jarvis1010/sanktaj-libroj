@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Ni, kiuj estas fortaj, devas porti la malfortaĵojn de la nefortaj, kaj ne plaĉi al ni mem.",
     "Ĉiu el ni plaĉu al sia proksimulo per tia bono, kia taŭgas, por edifi.",

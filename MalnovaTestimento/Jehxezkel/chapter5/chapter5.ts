@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Kaj vi, ho filo de homo, prenu al vi glavon akran, kiel razilo de barbiroj, prenu ĝin al vi, kaj pasigu ĝin sur via kapo kaj sur via barbo, kaj prenu al vi pesilon, kaj disdividu la harojn:",
     "trionon forbruligu meze de la urbo, kiam finiĝos la tagoj de la sieĝado; trionon prenu, kaj dishaku ĝin per la glavo en la ĉirkaŭaĵo de la urbo; kaj trionon disblovu en la venton, kaj Mi elingigos post ili la glavon.",

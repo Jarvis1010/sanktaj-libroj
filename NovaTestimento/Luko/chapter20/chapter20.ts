@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj en unu el la tagoj, dum li instruis la popolon en la templo kaj predikis la evangelion, la ĉefpastroj kaj la skribistoj venis kun la pliaĝuloj;",
     "kaj ili ekparolis, dirante al li:Diru al ni:Laŭ kia aŭtoritato vi ĉi tion faras? aŭ kiu estas tiu, kiu donis al vi tian aŭtoritaton?",

@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Tiam diris Eliŝa:Aŭskultu la vorton de la Eternulo:tiele diras la Eternulo:Morgaŭ en ĉi tiu tempo mezuro da delikata faruno havos la prezon de unu siklo, kaj du mezuroj da hordeo la prezon de unu siklo, ĉe la pordego de Samario.",
     "Kaj respondis la altrangulo, sur kies brako la reĝo sin apogadis, al la homo de Dio, kaj diris:Eĉ se la Eternulo faros fenestrojn en la ĉielo, ĉu tio povas fariĝi? Kaj tiu diris:Vi vidos tion per viaj okuloj, sed vi ne manĝos de tio.",

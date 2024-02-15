@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj post kvin tagoj la ĉefpastro Ananias malsupreniris tien kun kelkaj pliaĝuloj, kaj unu advokato, nomata Tertulo; kaj ili faris denuncon antaŭ la provincestro kontraŭ Paŭlo.",
     "Kaj kiam ĉi tiu estas vokita, Tertulo komencis akuzi lin, dirante: Ĉar ni ĝuadas grandan trankvilecon per vi, kaj malbonaĵoj estas ĝustigitaj por ĉi tiu nacio per via antaŭzorgeco,",

@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "La arĝento havas lokon, kie oni ĝin elakiras; Kaj la oro havas lokon, kie oni ĝin fandas.",
     "La fero estas ricevata el polvo, Kaj el ŝtono oni fandas la kupron.",

@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj la loto por la Jozefidoj donis:de Jordan kontraŭ Jeriĥo, ĉe la akvo de Jeriĥo, orienten, la dezerton, kiu etendiĝas de Jeriĥo ĝis la monto Bet-El.",
     "Kaj la limo iras de Bet-El ĝis Luz, kaj transiras ĝis la limo de la Arkanoj al Atarot;",

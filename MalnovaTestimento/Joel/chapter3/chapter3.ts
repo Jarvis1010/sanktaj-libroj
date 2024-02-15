@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Ĉar jen en tiuj tagoj kaj en tiu tempo, kiam Mi revenigos la forkaptitojn de Judujo kaj de Jerusalem,",
     "Mi kolektos ĉiujn naciojn kaj venigos ilin en la valon de Jehoŝafat; kaj tie Mi faros super ili juĝon pro Mia popolo kaj Mia heredaĵo Izrael,  kiun ili disĵetis inter la naciojn, dividinte Mian landon;",

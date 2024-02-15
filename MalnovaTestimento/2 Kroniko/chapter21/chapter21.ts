@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Jehoŝafat ekdormis kun siaj patroj, kaj oni enterigis lin kun liaj patroj en la urbo de David. Kaj anstataŭ li ekreĝis lia filo Jehoram.",
     "Li havis fratojn, filojn de Jehoŝafat:Azarja, Jeĥiel, Zeĥarja, Azarjahu, Miĥael, kaj Ŝefatja. Ĉiuj ili estis filoj de Jehoŝafat, reĝo de Judujo.",

@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Profetaĵo pri Moab: En nokto ruiniga pereis Ar-Moab, en nokto ruiniga pereis Kir-Moab.",
     "Ili iris en la domon kaj sur la altaĵojn de Dibon, por plori; pri Nebo kaj Medba ĝemploras Moab; ĉiuj kapoj estas kalvaj, ĉiuj barboj estas razitaj.",

@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "La lotaĵo de la tribo de la Jehudaidoj laŭ iliaj familioj estis:ĉe la limo de Edom la dezerto Cin, sude, en la suda fino de la lando.",
     "Ilia suda limo estis de la fino de la Sala Maro, de la golfo, kiu direktiĝas suden.",

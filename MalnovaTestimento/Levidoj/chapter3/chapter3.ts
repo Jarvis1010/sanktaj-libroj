@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Se lia ofero estas pacofero, se li alportas el la grandaj brutoj, ĉu ĝi estas virseksa, ĉu virinseksa, sendifektan li alportu ĝin antaŭ la Eternulon.",
     "Kaj li metu sian manon sur la kapon de sia ofero kaj buĉu ĝin ĉe la pordo de la tabernaklo de kunveno; kaj la filoj de Aaron, la pastroj, aspergu per la sango la altaron ĉirkaŭe.",

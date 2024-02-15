@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "En lia tempo venis Nebukadnecar, reĝo de Babel; kaj Jehojakim estis lia subulo dum tri jaroj, sed poste li defalis de li.",
     "La Eternulo sendis sur lin hordojn da ĥaldeoj, hordojn da Sirianoj, hordojn da Moabidoj, kaj hordojn da Amonidoj, sendis ilin sur Judujon, por pereigi ĝin, konforme al la vorto de la Eternulo, kiun Li diris per Siaj servantoj, la profetoj.",

@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Kial vi uzas ĉe vi en la lando de Izrael ĉi tiun proverbon kaj diras:La patroj manĝis nematurajn vinberojn, kaj la dentoj de la filoj agaciĝis?",

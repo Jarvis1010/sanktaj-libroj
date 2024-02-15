@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj ĉeestis en tiu sama tempo iuj, kiuj rakontis al li pri tiuj Galileanoj, kies sangon Pilato miksis kun iliaj oferaĵoj.",
     "Kaj responde li diris al ili:Ĉu vi pensas, ke tiuj Galileanoj estis pekuloj pli ol ĉiuj Galileanoj, pro tio, ke ili tion suferis?",

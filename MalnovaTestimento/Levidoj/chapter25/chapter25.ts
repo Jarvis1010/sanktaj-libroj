@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo sur la monto Sinaj, dirante:",
     "Parolu al la Izraelidoj, kaj diru al ili:Kiam vi venos en la landon, kiun Mi donas al vi, tiam la tero ripozu sabaton al la Eternulo.",

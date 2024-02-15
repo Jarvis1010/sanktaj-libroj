@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Tedis al mia animo mia vivo; Mi fordonos min al mia plendado;   Mi parolos en la malĝojeco de mia animo.",
     "Mi diros al Dio:Ne kondamnu min, Sciigu al mi, pro kio Vi malpacas kontraŭ mi.",

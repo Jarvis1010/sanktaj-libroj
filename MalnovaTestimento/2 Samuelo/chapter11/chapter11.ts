@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Post unu jaro, en la tempo, kiam la reĝoj eliras milite, David sendis Joabon kune kun siaj servantoj kaj kun ĉiuj Izraelidoj; kaj ili faris ruinigadon inter la Amonidoj, kaj sieĝis Raban. Sed David restis en Jerusalem.",
     "Okazis, ke vespere David leviĝis de sia kuŝejo kaj ekpromenis sur la tegmento de la reĝa domo; kaj li ekvidis de la tegmento virinon, kiu sin lavis; kaj la virino estis tre belaspekta.",

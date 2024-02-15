@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Jen do la resumo rilate la diritaĵojn:Ni havas tian ĉefpastron, kiu sidiĝis dekstre de la trono de la Majesto en la ĉielo,",
     "servanto de la sanktejo, kaj de la vera tabernaklo, kiun starigis ne homo, sed la Sinjoro.",

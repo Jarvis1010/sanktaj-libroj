@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj kolektiĝis al li la Fariseoj kaj iuj el la skribistoj, kiuj venis el Jerusalem,",
     "kaj jam vidis, ke kelkaj el liaj disĉiploj manĝas panon kun manoj profanaj, tio estas nelavitaj.",

@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron, dirante:",
     "Jen estas la instrukcio de la leĝo, kiun la Eternulo starigis, dirante:Diru al la Izraelidoj, ke ili venigu al vi bovinon ruĝan, sanan, kiu ne havas difekton kaj sur kiun ne estis metita jugo.",

@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Tian vizion donis al mi la Sinjoro, la Eternulo:mi vidis korbon kun maturaj fruktoj.",
     "Kaj Li diris:Kion vi vidas, Amos? Mi respondis:Korbon kun maturaj fruktoj. Tiam la Eternulo diris al mi:Venis la fino por Mia popolo Izrael; Mi ne plu indulgos ĝin.",

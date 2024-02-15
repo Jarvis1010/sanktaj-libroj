@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "ĥiram, reĝo de Tiro, sendis al David senditojn, kaj cedran lignon, kaj masonistojn kaj ĉarpentistojn, por ke ili konstruu por li domon.",
     "Kaj David konsciis, ke la Eternulo fortikigis lin kiel reĝon super Izrael, ke lia regno leviĝis alte pro Lia popolo Izrael.",

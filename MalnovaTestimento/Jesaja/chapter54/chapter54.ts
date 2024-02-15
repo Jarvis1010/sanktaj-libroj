@@ -1,6 +1,5 @@
 export const chapter54 = {
   chapterTitle: "Ĉapitro 54",
-  summary: "",
   verses: [
     "Ĝoju, ho senfruktulino, kiu ne naskis; sonigu kanton kaj ĝojkriu, ho vi, kiu ne suferis doloron; ĉar la forlasitino havos pli da infanoj, ol la havanta edzon, diras la Eternulo.",
     "Vastigu la spacon de via tendo, disetendu la tapiŝojn de viaj loĝejoj, ne retenu; etendu pli longe viajn ŝnurojn, kaj viajn palisojn fortikigu.",

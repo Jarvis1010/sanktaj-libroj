@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, profetu pri la paŝtistoj de Izrael, profetu, kaj diru al ili, al la paŝtistoj:Tiele diras la Sinjoro, la Eternulo:Ve al la paŝtistoj de Izrael, kiuj paŝtas sin mem! ĉu ne la ŝafojn devas paŝti la paŝtistoj?",

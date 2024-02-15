@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "En tiu tempo leviĝos Miĥael, la granda protektanto, kiu defendas la filojn de via popolo; kaj venos tempo malfacila, kia ne ekzistis de tiu tempo, kiam aperis homoj, ĝis la nuna tempo; sed saviĝos en tiu tempo el via popolo ĉiuj, kiuj troviĝos enskribitaj en la libro.",
     "Kaj multaj el tiuj, kiuj dormas en la tero, vekiĝos, unuj por vivo eterna, aliaj por eterna malhonoro kaj honto.",

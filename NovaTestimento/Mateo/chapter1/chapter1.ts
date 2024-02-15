@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "La genealogia registro de Jesuo Kristo, filo de David, filo de Abraham.",
     "Al Abraham naskiĝis Isaak, kaj al Isaak naskiĝis Jakob, kaj al Jakob naskiĝis Jehuda kaj liaj fratoj,",

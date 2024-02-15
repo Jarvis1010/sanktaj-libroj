@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Atentu, ĉielo, kaj mi parolos; Kaj aŭdu la tero la vortojn de mia buŝo.",
     "Verŝiĝos kiel pluvo mia instruo, Fluos kiel roso mia parolo,   Kiel pluvego sur verdaĵon  Kaj kiel grandaj gutoj sur herbon.",

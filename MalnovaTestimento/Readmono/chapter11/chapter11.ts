@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Amu do la Eternulon, vian Dion, kaj observu Liajn aranĝojn kaj leĝojn kaj instrukciojn kaj ordonojn en ĉiu tempo.",
     "Kaj sciu hodiaŭ, ĉar mi parolas ne al viaj filoj, kiuj ne scias kaj ne vidis la punon de la Eternulo, via Dio, Lian grandecon, Lian fortan manon, kaj Lian etenditan brakon,",

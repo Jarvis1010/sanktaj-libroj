@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo, apostolo (ne de homoj, nek per homo, sed per Jesuo Kristo, kaj Dio, la Patro, kiu levis lin el la mortintoj),",
     "kaj ĉiuj fratoj, kiuj estas kun mi, al la eklezioj de Galatujo:",

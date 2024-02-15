@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Psalmo de David, kiam li forkuris de sia filo Abŝalom. Ho Eternulo, kiel multaj estas miaj premantoj,   Multaj leviĝis kontraŭ mi!",
     "Multaj diradas pri mia animo: Ne ekzistas por li savo de Dio.  Sela.",

@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Ve al tiuj, kiuj iras Egiptujon, por serĉi helpon, kaj esperas je ĉevaloj, kaj fidas ĉarojn, ĉar estas multe da ili, kaj rajdantojn, ĉar ili estas fortaj; sed ili ne rigardas al la Sanktulo de Izrael kaj ne demandas la Eternulon.",
     "Sed Li estas saĝa, kaj Li venigas malfeliĉon, kaj Siajn vortojn Li ne reprenas; kaj Li leviĝos kontraŭ la domo de la malpiuloj kaj kontraŭ la helpanto de malbonagantoj.",

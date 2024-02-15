@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Prenu Aaronon kaj liajn filojn kune kun li kaj la vestojn kaj la sanktan oleon kaj bovidon por pekofero kaj du virŝafojn kaj korbon da macoj.",

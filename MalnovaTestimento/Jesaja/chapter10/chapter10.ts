@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Ve al la leĝdonantoj, kiuj starigas maljustajn leĝojn, kaj al tiuj, kiuj skribas maljustajn verdiktojn,",
     "por forpuŝi malriĉulojn de la leĝo kaj forrabi la justecon de senhavuloj de Mia popolo, por ke la vidvinoj fariĝu ilia rabakiro, kaj por prirabi la orfojn!",

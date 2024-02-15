@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kiam venis la sepa monato kaj la Izraelidoj estis jam en la urboj, kolektiĝis la tuta popolo, kiel unu homo, en Jerusalem.",
     "Kaj leviĝis Jeŝua, filo de Jocadak, kaj liaj fratoj, la pastroj, kaj Zerubabel, filo de Ŝealtiel, kaj liaj fratoj, kaj ili konstruis la altaron de Dio de Izrael, por alportadi sur ĝi bruloferojn, kiel estas skribite en la instruo de Moseo, la homo de Dio.",

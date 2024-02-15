@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Ijob respondis kaj diris:",
     "Ĝis kiam vi afliktados mian animon Kaj turmentados min per paroloj?",

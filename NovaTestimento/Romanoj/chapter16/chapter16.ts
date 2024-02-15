@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Mi rekomendas al vi nian fratinon Febe, kiu estas diakonino de la eklezio en Kenkrea;",
     "por ke vi akceptu ŝin en la Sinjoro, kiel konvenas al sanktuloj, kaj ke vi helpu ŝin, en ĉiuj aferoj, pri kiuj ŝi bezonos vin; ĉar ŝi ankaŭ estis helpantino de multaj, kaj de mi mem.",

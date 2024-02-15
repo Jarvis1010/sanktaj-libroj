@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Ve al la senzorguloj en Cion, kaj al tiuj, kiuj fidas la monton de Samario, al la eminentuloj de la unuauloj inter la nacioj, al kiuj sin turnas la domo de Izrael!",
     "Iru al Kalne, kaj rigardu; de tie iru en la grandan ĥamat, poste iru al Gat de la Filiŝtoj:ĉu ili estas pli bonaj ol tiuj regnoj, ĉu iliaj limoj estas pli vastaj ol viaj limoj?",

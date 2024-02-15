@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kiam David iom malsupreniris de la supro, jen venis al li renkonte Ciba, la servanto de Mefiboŝet, kun paro da selitaj azenoj, sur kiuj estis ducent panoj kaj cent sekvinberaj kukoj kaj cent sekigitaj fruktoj kaj felsako kun vino.",
     "Kaj la reĝo diris al Ciba:Por kio tio estas kun vi? Kaj Ciba respondis:La azenoj estas por la domo de la reĝo, por rajdi sur ili, kaj la pano kaj la fruktoj por la servantoj por manĝi, kaj la vino por trinki por la laciĝintoj en la dezerto.",

@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Jehoŝafat, reĝo de Judujo, revenis bonstate en sian hejmon, en Jerusalemon.",
     "Kaj eliris renkonte al li Jehu, filo de ĥanani, la viziisto, kaj diris al la reĝo Jehoŝafat:Ĉu oni devas helpi al malvirtulo? vi amas la malamikojn de la Eternulo, kaj pro tio estas sur vi la kolero de la Eternulo.",

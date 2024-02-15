@@ -1,6 +1,5 @@
 export const chapter46 = {
   chapterTitle: "Ĉapitro 46",
-  summary: "",
   verses: [
     "Izrael ekiris kun ĉio, kion li havis, kaj li venis en Beer-Ŝeban, kaj li alportis oferojn al la Dio de sia patro Isaak.",
     "Kaj Dio diris al Izrael en nokta vizio: Jakob! Jakob! Kaj tiu diris: Jen mi estas.",

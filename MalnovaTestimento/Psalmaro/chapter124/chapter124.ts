@@ -1,6 +1,5 @@
 export const chapter124 = {
   chapterTitle: "Ĉapitro 124",
-  summary: "",
   verses: [
     "Kanto de suprenirado. De David. Se la Eternulo ne estus kun ni, Diru nun Izrael,",
     "Se la Eternulo ne estus kun ni, Kiam homoj leviĝis kontraŭ ni:",

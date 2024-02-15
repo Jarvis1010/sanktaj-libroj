@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj vojaĝinte tra Amfipolis kaj Apolonia, ili alvenis en Tesalonikon, kie estis sinagogo de la Judoj;",
     "kaj laŭ sia kutimo Paŭlo eniris al ili, kaj dum tri sabatoj li rezonadis kun ili el la Skriboj,",

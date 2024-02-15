@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al Aaron kaj al liaj filoj kaj al ĉiuj Izraelidoj, kaj diru al ili:Jen estas tio, kion la Eternulo ordonis:",

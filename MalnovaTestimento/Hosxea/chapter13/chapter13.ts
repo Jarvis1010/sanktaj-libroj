@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kiam Efraim parolis, oni timis; li altiĝis en Izrael. Sed li fariĝis kulpa per Baal, kaj mortis.",
     "Nun ili ankoraŭ pli pekas; ili faris al si el sia arĝento statuojn, idolojn laŭ sia kompreno, kiuj estas ja ĉiuj faritaĵo de forĝistoj; ili parolas pri ili:Tiuj, kiuj oferbuĉas homojn, povas kisi la bovidojn.",

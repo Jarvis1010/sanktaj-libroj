@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Mia spirito senfortiĝis, miaj tagoj mallongiĝis, Tomboj estas antaŭ mi.",
     "Mokado min ĉirkaŭas; En aflikto pro tio restas mia okulo.",

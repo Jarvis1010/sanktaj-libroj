@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "En tiu tempo malfermiĝos por la domo de David kaj por la loĝantoj de Jerusalem fonto, por purigi sin de pekoj kaj de malpureco.",
     "En tiu tempo, diras la Eternulo Cebaot, Mi ekstermos de la lando la nomojn de la idoloj, kaj ili ne plu estos rememorataj; ankaŭ la profetojn kaj la malpuran spiriton Mi forigos de la lando.",

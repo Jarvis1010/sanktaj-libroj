@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Jitro, la Midjana pastro, la bopatro de Moseo, aŭdis ĉion, kion la Eternulo faris al Moseo kaj al Sia popolo Izrael, ke la Eternulo elkondukis Izraelon el Egiptujo.",
     "Kaj Jitro, la bopatro de Moseo, prenis Ciporan, la edzinon de Moseo, kiun tiu forlasis;",

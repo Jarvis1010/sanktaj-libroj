@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj Samuel diris al Saul:Min sendis la Eternulo, por sanktolei vin kiel reĝon super Lia popolo, super Izrael; aŭskultu do la voĉon de la vortoj de la Eternulo.",
     "Tiel diris la Eternulo Cebaot:Mi rememoris, kion faris Amalek al Izrael, kiel li baris la vojon al li, kiam ĉi tiu iris el Egiptujo.",

@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj Ijob respondis kaj diris:",
     "Certe, vi solaj estas homoj, Kaj kun vi mortos la saĝo.",

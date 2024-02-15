@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj vin li vivigis, kiam vi estis malvivaj per eraroj kaj pekoj,",
     "en kiuj vi iam iradis laŭ la vojo de ĉi tiu mondo, laŭ la estro de la potenco de la aero, de la spirito, kiu nun energias en la filoj de malobeo;",

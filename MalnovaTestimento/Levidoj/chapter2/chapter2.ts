@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Se iu alportos farunoferon al la Eternulo, lia ofero estu el delikata faruno, kaj li verŝu sur ĝin oleon kaj metu sur ĝin olibanon.",
     "Kaj li alportu ĝin al la filoj de Aaron, la pastroj; kaj la pastro prenu el ĝi plenmanon el la faruno kun la oleo kaj kun la olibano, kaj li ekbruligu tiun parton promemoran sur la altaro; ĝi estas fajrofero, agrabla odoraĵo al la Eternulo.",

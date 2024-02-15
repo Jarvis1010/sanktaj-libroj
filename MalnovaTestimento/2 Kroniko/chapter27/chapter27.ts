@@ -1,6 +1,5 @@
 export const chapter27 = {
   chapterTitle: "Ĉapitro 27",
-  summary: "",
   verses: [
     "La aĝon de dudek kvin jaroj havis Jotam, kiam li fariĝis reĝo, kaj dek ses jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Jeruŝa, filino de Cadok.",
     "Li agadis bone antaŭ la Eternulo, tiel same, kiel agadis lia patro Uzija; sed li ne eniris en la templon de la Eternulo; kaj la popolo ĉiam ankoraŭ pekadis.",

@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj li montris al mi riveron de akvo de vivo, helan kiel kristalo, elirantan el la trono de Dio kaj de la Ŝafido,",
     "meze de ĝia strato. Kaj ĉe ĉiu flanko de la rivero estis arbo de vivo, portanta dek du fruktojn, liveranta sian frukton ĉiumonate; kaj la folioj de la arbo estis por la resanigo de la nacioj.",

@@ -1,6 +1,5 @@
 export const chapter125 = {
   chapterTitle: "Ĉapitro 125",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Kiuj fidas la Eternulon, Tiuj estas kiel la monto Cion,   Kiu ne ŝanceliĝas, sed restas eterne.",
     "Montoj estas ĉirkaŭ Jerusalem, Kaj la Eternulo ĉirkaŭas Sian popolon,   De nun kaj eterne.",

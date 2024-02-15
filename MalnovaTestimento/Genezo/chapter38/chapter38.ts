@@ -1,6 +1,5 @@
 export const chapter38 = {
   chapterTitle: "Ĉapitro 38",
-  summary: "",
   verses: [
     "En tiu tempo Jehuda apartiĝis for de siaj fratoj, kaj ekloĝis apud iu Adulamano, kiu estis nomata ĥira.",
     "Kaj Jehuda vidis tie filinon de iu Kanaanido, nomata Ŝua, kaj li prenis ŝin kaj envenis al ŝi.",

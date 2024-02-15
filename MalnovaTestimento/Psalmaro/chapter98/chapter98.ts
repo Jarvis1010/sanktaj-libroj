@@ -1,6 +1,5 @@
 export const chapter98 = {
   chapterTitle: "Ĉapitro 98",
-  summary: "",
   verses: [
     "Psalmo. Kantu al la Eternulo novan kanton, Ĉar miraklojn Li faris;   Helpis Lin Lia dekstra mano kaj Lia sankta brako.",
     "La Eternulo aperigis Sian savon; Antaŭ la okuloj de la popoloj Li malkaŝis Sian justecon.",

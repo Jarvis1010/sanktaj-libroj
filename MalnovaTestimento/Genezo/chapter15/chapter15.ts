@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Post tiuj fariĝoj la Eternulo diris al Abram en vizio jene: Ne timu, Abram, Mi estas via ŝildo; via rekompenco estas tre granda.",
     "Kaj Abram diris: Ho Eternulo, mia Sinjoro, kion Vi donos al mi? mi vagas ja seninfane, kaj la administranto de mia domo estas Eliezer el Damasko.",

@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Preĝo de la profeto Ĥabakuk laŭ maniero de psalmoj.",
     "Ho Eternulo, mi aŭdis la sciigon pri Vi, kaj mi ektimis. Ho Eternulo, vivigu Vian faritaĵon en la mezo de la jaroj,   Montru en la mezo de la jaroj,   Ke eĉ en kolero Vi memoras pri kompato.",

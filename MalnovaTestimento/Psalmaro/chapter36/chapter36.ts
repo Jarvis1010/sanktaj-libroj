@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Al la ĥorestro. De David, sklavo de la Eternulo. La pekado de malpiulo parolas al lia koro; Antaŭ liaj okuloj ne ekzistas timo antaŭ Dio.",
     "Ĉar ĝi flatas al li en liaj okuloj, Ĝis lia pekado eltroviĝos kaj li malamiĝos.",

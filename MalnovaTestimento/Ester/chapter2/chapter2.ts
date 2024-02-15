@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Post tiu afero, kiam kvietiĝis la kolero de la reĝo Aĥaŝveroŝ, li rememoris pri Vaŝti, kaj pri tio, kion ŝi faris kaj kio estis dekretita pri ŝi.",
     "Kaj diris la junuloj de la reĝo, kiuj servadis al li:Oni serĉu por la reĝo belajn junajn virgulinojn;",

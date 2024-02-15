@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Sed parolu vi tion, kio konvenas al la sana doktrino:",
     "ke la maljunuloj estu sobraj, seriozmienaj, prudentaj, sanaj en la fido, en amo en pacienco;",

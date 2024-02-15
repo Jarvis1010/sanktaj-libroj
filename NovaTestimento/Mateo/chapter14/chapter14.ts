@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "En tiu tempo la tetrarĥo Herodo aŭdis la famon pri Jesuo,",
     "kaj diris al siaj servantoj:Tiu estas Johano, la Baptisto; li leviĝis el la mortintoj, kaj tial tiuj potencaĵoj energias en li.",

@@ -1,6 +1,5 @@
 export const chapter107 = {
   chapterTitle: "Ĉapitro 107",
-  summary: "",
   verses: [
     "Gloru la Eternulon, ĉar Li estas bona; Ĉar eterna estas Lia boneco:",
     "Diru la liberigitoj de la Eternulo, Kiujn Li liberigis el la mano de malamiko,",

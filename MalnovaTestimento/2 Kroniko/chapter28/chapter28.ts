@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "La aĝon de dudek jaroj havis Aĥaz, kiam li fariĝis reĝo, kaj dek ses jarojn li reĝis en Jerusalem; kaj li ne agadis bone antaŭ la Eternulo, kiel lia patro David.",
     "Li iradis laŭ la vojoj de la reĝoj de Izrael, kaj li eĉ faris fanditajn statuojn de Baaloj;",

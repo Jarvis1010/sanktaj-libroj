@@ -1,6 +1,5 @@
 export const chapter36 = {
   chapterTitle: "Ĉapitro 36",
-  summary: "",
   verses: [
     "Kaj laboros Becalel kaj Oholiab kaj ĉiuj kompetentuloj, en kiujn la Eternulo enmetis saĝon kaj prudenton, por ke ili sciu fari ĉiun laboron por la servado en la sanktejo, laŭ ĉio, kion ordonis la Eternulo.",
     "Kaj Moseo alvokis Becalelon kaj Oholiabon, kaj ĉiun kompetentulon, al kiu la Eternulo enmetis saĝon en la koron, ĉiun, kiun tiris lia koro entrepreni la laboron kaj fari ĝin.",

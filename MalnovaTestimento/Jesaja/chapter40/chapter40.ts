@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "Konsolu, konsolu Mian popolon, diras via Dio.",
     "Parolu al la koro de Jerusalem, kaj voku al ĝi, ke finiĝis la tempo de ĝia batalado, ke pardonita estas ĝia kulpo, ke ĝi ricevis el la mano de la Eternulo duoble pro ĉiuj siaj pekoj.",

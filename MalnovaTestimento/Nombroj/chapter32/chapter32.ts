@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "La filoj de Ruben kaj la filoj de Gad havis tre multe da brutaroj; kaj ili vidis, ke la lando Jazer kaj la lando Gilead estas lokoj bonaj por brutaroj.",
     "Kaj venis la filoj de Gad kaj la filoj de Ruben, kaj diris al Moseo kaj al la pastro Eleazar kaj al la estroj de la komunumo jene:",

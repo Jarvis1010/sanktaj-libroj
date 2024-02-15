@@ -1,6 +1,5 @@
 export const chapter49 = {
   chapterTitle: "Ĉapitro 49",
-  summary: "",
   verses: [
     "Al la ĥorestro. De la Koraĥidoj. Psalmo. Aŭskultu ĉi tion, ĉiuj popoloj; Atentu, ĉiuj loĝantoj de la mondo,",
     "Kaj altrangulo kaj malaltrangulo, Riĉulo kaj malriĉulo kune.",

@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Joab, filo de Ceruja, rimarkis, ke la koro de la reĝo plifavoriĝis por Abŝalom.",
     "Kaj Joab sendis en Tekoan kaj venigis de tie saĝan virinon, kaj diris al ŝi:Ŝajnigu vin funebranta kaj metu sur vin funebrajn vestojn, kaj ne ŝmiru vin per oleo, kaj estu kiel virino, kiu jam de longe funebras pro mortinto;",

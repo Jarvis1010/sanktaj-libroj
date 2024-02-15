@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Mi levis denove miajn okulojn, kaj mi ekvidis disvolvitan skribrulaĵon.",
     "Kaj li diris al mi:Kion vi vidas? Mi respondis:Mi vidas disvolvitan skribrulaĵon, kiu havas la longon de dudek ulnoj kaj la larĝon de dek ulnoj.",

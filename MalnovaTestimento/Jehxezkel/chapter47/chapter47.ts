@@ -1,6 +1,5 @@
 export const chapter47 = {
   chapterTitle: "Ĉapitro 47",
-  summary: "",
   verses: [
     "Kaj li revenigis min al la pordo de la domo; kaj mi ekvidis, ke jen el sub la sojlo de la domo fluas akvo orienten, ĉar la vizaĝa flanko de la domo estis turnita orienten; kaj la akvo fluis el sub la dekstra flanko de la domo al la suda flanko de la altaro.",
     "Kaj li elkondukis min tra la norda pordego, kaj kondukis min laŭ ekstera vojo al la ekstera pordego, turnita orienten; kaj jen la akvo fluas el la dekstra flanko.",

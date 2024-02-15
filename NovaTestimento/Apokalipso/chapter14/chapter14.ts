@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj mi rigardis, kaj jen la Ŝafido staranta sur la monto Cion, kaj kun li cent kvardek kvar miloj, havantaj lian nomon, kaj la nomon de lia Patro, skribitajn sur ilia frunto.",
     "Kaj mi aŭdis voĉon el la ĉielo, kiel voĉon de multaj akvoj, kaj kiel voĉon de granda tondro; kaj la voĉo, kiun mi aŭdis, estis kiel de harpistoj, harpantaj per siaj harpoj;",

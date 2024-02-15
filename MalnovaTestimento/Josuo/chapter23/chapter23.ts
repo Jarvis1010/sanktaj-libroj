@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Longan tempon post kiam la Eternulo donis al Izrael ripozon kontraŭ ĉiuj iliaj malamikoj ĉirkaŭe, Josuo maljuniĝis, atingis profundan aĝon.",
     "Tiam Josuo alvokis la tutan Izrael, iliajn plejaĝulojn kaj ĉefojn kaj juĝistojn kaj observistojn, kaj diris al ili:Mi maljuniĝis, mi atingis profundan aĝon.",

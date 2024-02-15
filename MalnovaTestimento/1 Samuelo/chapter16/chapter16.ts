@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Samuel:Kiel longe vi funebros pri Saul, kiun Mi trovis nedigna reĝi super Izrael? plenigu vian kornon per oleo, kaj iru; Mi sendos vin al Jiŝaj la Bet-Leĥemano, ĉar inter liaj filoj Mi elvidis al Mi reĝon.",
     "Kaj Samuel diris:Kiel mi iros? Saul aŭdos, kaj mortigos min. Sed la Eternulo diris:Prenu kun vi bovidinon, kaj diru:Mi venis, por fari buĉoferon al la Eternulo.",

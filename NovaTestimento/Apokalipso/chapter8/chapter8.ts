@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj kiam li malfermis la sepan sigelon, fariĝis silento en la ĉielo por ĉirkaŭ duono de horo.",
     "Kaj mi vidis la sep anĝelojn, kiuj staras antaŭ Dio; kaj estis donitaj al ili sep trumpetoj.",

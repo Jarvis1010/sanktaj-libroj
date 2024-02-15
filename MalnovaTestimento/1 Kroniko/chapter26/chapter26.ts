@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "La klasoj de la pordegistoj:el la Koraĥidoj:Meŝelemja, filo de Kore, el la filoj de Asaf.",
     "Meŝelemja havis filojn:la unuenaskito estis Zeĥarja, la dua estis Jediael, la tria estis Zebadja, la kvara estis Jatniel;",

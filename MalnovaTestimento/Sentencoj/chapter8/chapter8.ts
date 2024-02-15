@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Ĉu ne vokas la saĝo? Kaj ĉu la prudento ne aŭdigas sian voĉon?",
     "Ĝi staras sur la pinto de altaĵoj, Apud la vojo, ĉe la vojkruĉiĝoj.",

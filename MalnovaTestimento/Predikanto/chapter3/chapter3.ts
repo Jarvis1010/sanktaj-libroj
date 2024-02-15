@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Por ĉio estas sezono, kaj tempo difinita estas por ĉiu afero sub la suno;",
     "estas tempo por naskiĝi, kaj tempo por morti; estas tempo por planti, kaj tempo por elŝiri la plantitaĵon;",

@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Josuo, dirante:",
     "Diru al la Izraelidoj jene:Aranĝu al vi la urbojn de rifuĝo, pri kiuj Mi parolis al vi per Moseo,",

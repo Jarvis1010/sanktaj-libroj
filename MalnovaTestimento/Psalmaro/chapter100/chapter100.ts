@@ -1,6 +1,5 @@
 export const chapter100 = {
   chapterTitle: "Ĉapitro 100",
-  summary: "",
   verses: [
     "Psalmo de dankado. Ĝoje kriu al la Eternulo la tuta tero!",
     "Servu al la Eternulo kun ĝojo, Venu antaŭ Lian vizaĝon kun kanto.",

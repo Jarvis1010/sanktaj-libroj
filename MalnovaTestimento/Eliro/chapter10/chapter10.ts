@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Moseo:Iru al Faraono, ĉar Mi obstinigis lian koron kaj la korojn de liaj servantoj, por ke Mi faru ĉi tiujn Miajn signojn inter ili;",
     "kaj por ke vi rakontu al via filo kaj al via nepo, kion Mi plenumis sur la Egiptoj, kaj pri Miaj signoj, kiujn Mi faris inter ili; kaj por ke vi sciu, ke Mi estas la Eternulo.",

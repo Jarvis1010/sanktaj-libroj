@@ -1,6 +1,5 @@
 export const chapter53 = {
   chapterTitle: "Ĉapitro 53",
-  summary: "",
   verses: [
     "Kiu kredus al tio, kion ni aŭdis? kaj super kiu malkaŝiĝis la brako de la Eternulo?",
     "Ĉar li elkreskis antaŭ Li kiel juna branĉo kaj kiel radiko el tero senakva; li ne havis staturon nek belecon; ni rigardis lin, sed li ne havis aspekton, per kiu li plaĉus al ni.",

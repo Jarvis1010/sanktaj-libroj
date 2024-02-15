@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Ekparolis Elifaz, la Temanano, kaj diris:",
     "Ĉu Dion povas instrui homo? Ĉu povas Lin instrui eĉ saĝulo?",

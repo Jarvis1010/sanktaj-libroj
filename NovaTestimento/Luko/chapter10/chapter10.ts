@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj post tio la Sinjoro elektis sepdek aliajn, kaj ilin forsendis duope antaŭ sia vizaĝo en ĉiun urbon kaj ĉiun lokon, kien li mem estis venonta.",
     "Kaj li diris al ili:La rikolto estas granda, sed la laborantoj estas malmultaj; petu do la Estron de la rikolto, ke Li sendu laborantojn en Sian rikolton.",

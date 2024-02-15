@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Difinita estas ja por la homo la limtempo sur la tero, Kaj liaj tagoj estas kiel la tagoj de dungito.",
     "Kiel sklavo, kiu sopiras al ombro, Kaj kiel dungito, kiu atendas sian pagon,",

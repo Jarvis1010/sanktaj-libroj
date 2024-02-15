@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Apokalipso de Jesuo Kristo, kiun Dio donis al li, por montri al siaj servistoj tion, kio devas baldaŭ okazi; kaj Li sendis kaj montris ĝin per Sia anĝelo al Sia servisto Johano,",
     "kiu atestis la vorton de Dio kaj la ateston de Jesuo Kristo, pri ĉio, kion li vidis.",

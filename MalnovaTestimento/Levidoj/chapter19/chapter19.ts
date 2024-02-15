@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Parolu al la tuta komunumo de la Izraelidoj, kaj diru al ili:Sanktaj estu, ĉar sankta estas Mi, la Eternulo, via Dio.",

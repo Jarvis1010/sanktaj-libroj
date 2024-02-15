@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Jen de la Eternulo venos tago, kiam oni dividos vian havaĵon meze de vi.",
     "Mi kolektos ĉiujn naciojn milite kontraŭ Jerusalemon, kaj la urbo estos venkoprenita, la domoj estos detruitaj, la virinoj estos senhonorigitaj, duono de la urbo iros en kaptitecon, sed la cetera popolo ne estos ekstermita el la urbo.",

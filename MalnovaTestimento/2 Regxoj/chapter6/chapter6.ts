@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "La profetidoj diris al Eliŝa:Jen la loko, kie ni loĝas ĉe vi, estas tro malvasta por ni;",
     "ni iru do al Jordan, kaj ni prenu de tie ĉiu po unu trabo, kaj ni aranĝu al ni tie lokon, por tie loĝi. Li diris:Iru.",

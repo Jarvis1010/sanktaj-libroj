@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj la reĝo Salomono estis reĝo super la tuta Izrael.",
     "Kaj jen estas la estroj, kiuj estis ĉe li:Azarja, filo de Cadok, pastro;",

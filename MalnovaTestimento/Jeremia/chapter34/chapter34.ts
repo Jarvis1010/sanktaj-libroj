@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Jen estas la vorto, kiu aperis al Jeremia de la Eternulo, kiam Nebukadnecar, reĝo de Babel, kaj lia tuta militistaro, kaj ĉiuj regnoj de la tero, kiuj estis sub la regado de lia mano, kaj ĉiuj popoloj militis kontraŭ Jerusalem kaj kontraŭ ĉiuj ĝiaj urboj:",
     "Tiele diras la Eternulo, Dio de Izrael:Iru kaj parolu al Cidkija, reĝo de Judujo, kaj diru al li:Tiele diras la Eternulo:Jen Mi transdonos ĉi tiun urbon en la manon de la reĝo de Babel, kaj li forbruligos ĝin per fajro;",

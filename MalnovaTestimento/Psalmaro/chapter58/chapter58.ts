@@ -1,6 +1,5 @@
 export const chapter58 = {
   chapterTitle: "Ĉapitro 58",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por Al-taŝĥet. Verko de David. Ĉu efektive vi parolas veron, vi potenculoj? Ĉu vi juste juĝas, homidoj?",
     "Kontraŭe, en la koro vi faras krimaĵojn, Sur la tero vi pesas per manoj rabemaj.",

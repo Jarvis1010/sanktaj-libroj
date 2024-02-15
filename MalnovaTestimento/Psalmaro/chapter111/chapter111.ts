@@ -1,6 +1,5 @@
 export const chapter111 = {
   chapterTitle: "Ĉapitro 111",
-  summary: "",
   verses: [
     "Haleluja! Mi gloras la Eternulon per mia tuta koro,   En rondo de piuloj kaj en kunveno.",
     "Grandaj estas la faroj de la Eternulo, Serĉataj de ĉiuj, kiuj ilin amas.",

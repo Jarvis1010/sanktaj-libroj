@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "La kolero de la Eternulo denove ekflamis kontraŭ la Izraelidoj, kaj Li incitis Davidon kontraŭ ili, dirante:Iru, kalkulu Izraelon kaj Jehudan.",
     "Kaj la reĝo diris al Joab, la militestro, kiu estis ĉe li:Iru, mi petas, tra ĉiuj triboj de Izrael, de Dan ĝis Beer-Ŝeba, kaj kalkulu la popolon, por ke mi sciu la nombron de la popolo.",

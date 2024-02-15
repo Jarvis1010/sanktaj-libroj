@@ -1,6 +1,5 @@
 export const chapter135 = {
   chapterTitle: "Ĉapitro 135",
-  summary: "",
   verses: [
     "Haleluja! Gloru la nomon de la Eternulo,   Gloru, sklavoj de la Eternulo,",
     "Kiuj staras en la domo de la Eternulo, En la kortoj de la domo de nia Dio.",

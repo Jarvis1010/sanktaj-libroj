@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mi konsilas do, antaŭ ĉio, fari petegojn, preĝojn, propetadojn, dankojn por ĉiuj;",
     "por reĝoj kaj ĉiuj eminentuloj, por ke ni vivadu trankvile kaj kviete en plena pieco kaj seriozeco.",

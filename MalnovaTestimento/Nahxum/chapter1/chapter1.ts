@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Profetaĵo pri Nineve, libro de vizio de Naĥum, la Elkoŝano.",
     "La Eternulo estas Dio severa kaj venĝanta; la Eternulo estas venĝanto kaj koleranto; la Eternulo venĝas al Siaj malamikoj kaj ne forgesas pri Siaj kontraŭuloj.",

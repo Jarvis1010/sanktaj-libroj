@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj la Izraelidoj denove faris malbonon antaŭ la okuloj de la Eternulo; kaj la Eternulo transdonis ilin en la manojn de la Filiŝtoj por kvardek jaroj.",
     "Kaj estis iu homo el Corea, el la tribo de Dan, kies nomo estis Manoaĥ; lia edzino estis senfrukta kaj ne naskis.",

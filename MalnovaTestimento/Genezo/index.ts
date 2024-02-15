@@ -52,8 +52,6 @@ import { chapter50 } from "./chapter50/chapter50";
 export const Genezo = {
   bookTitle: "Genezo",
   bookTitleShort: "Genezo",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

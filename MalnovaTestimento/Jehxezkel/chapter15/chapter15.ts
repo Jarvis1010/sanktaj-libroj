@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo! por kio taŭgas la ligno de vinberbranĉo inter ĉiuj branĉoriĉaj arboj, kiuj estas inter la arboj de arbaro?",

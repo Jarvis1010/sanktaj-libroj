@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por la gitito. Psalmo de David. Ho Eternulo, nia Sinjoro, Kiel majesta estas Via nomo sur la tuta tero!   Vi levis Vian gloron super la ĉielon.",
     "Per la buŝo de junaj infanoj kaj suĉinfanoj Vi fondis al Vi potencon kontraŭ Viaj malamikoj,   Por kvietigi la malamikon kaj la venĝemulon.",

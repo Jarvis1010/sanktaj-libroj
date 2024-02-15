@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "En la dudek-tria jaro de Joaŝ, filo de Aĥazja, reĝo de Judujo, Jehoaĥaz, filo de Jehu, fariĝis reĝo super Izrael en Samario por la daŭro de dek sep jaroj.",
     "Li agadis malbone antaŭ la Eternulo, kaj sekvadis la pekojn de Jerobeam, filo de Nebat, per kiuj li pekigis Izraelon; li ne deturnis sin de ili.",

@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Dio, kiu multafoje kaj multamaniere parolis en la tempo antikva al niaj patroj en la profetoj,",
     "en tiuj lastaj tagoj parolis al ni en Filo, kiun Li nomis heredanto de ĉio, per kiu ankaŭ Li faris la mondaĝojn,",

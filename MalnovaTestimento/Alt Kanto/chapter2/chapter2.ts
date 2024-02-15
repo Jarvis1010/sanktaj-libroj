@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Mi estas la lilio de Ŝaron, La rozo de la valoj.",
     "Kiel rozo inter la dornoj, Tiel estas mia amatino inter la knabinoj.",

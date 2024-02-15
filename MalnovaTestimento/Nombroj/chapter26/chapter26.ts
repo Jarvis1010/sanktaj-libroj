@@ -1,6 +1,5 @@
 export const chapter26 = {
   chapterTitle: "Ĉapitro 26",
-  summary: "",
   verses: [
     "Kaj post la punfrapado la Eternulo ekparolis al Moseo, kaj al Eleazar, filo de la pastro Aaron, dirante:",
     "Kalkulu la tutan komunumon de la Izraelidoj en la aĝo de dudek jaroj kaj pli, laŭ iliaj patrodomoj, ĉiujn militkapablajn en Izrael.",

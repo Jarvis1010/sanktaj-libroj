@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kiam Sanbalat aŭdis, ke ni konstruas la muregon, li koleris kaj havis grandan ĉagrenon, kaj li mokis la Judojn.",
     "Kaj li parolis antaŭ siaj fratoj kaj antaŭ la militistoj de Samario, kaj diris:Kion faras tiuj senfortaj Judoj? ĉu oni tion permesos al ili? ĉu efektive ili alportados oferojn? ĉu ili iam finos? ĉu ili revivigos la ŝtonojn, kiuj fariĝis amaso da rubo kaj estas difektitaj de brulo?",

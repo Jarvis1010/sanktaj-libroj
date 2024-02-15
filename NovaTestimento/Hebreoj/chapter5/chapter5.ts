@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Ĉar ĉiu ĉefpastro, prenata el inter homoj, pro homoj estas difinita por aferoj rilatantaj al Dio, por ke li oferu kaj donacojn kaj oferojn pro pekoj;",
     "povante indulgi tiujn, kiuj estas malkleraj kaj erarantaj, tial, ke li mem estas ĉirkaŭata de malforteco;",

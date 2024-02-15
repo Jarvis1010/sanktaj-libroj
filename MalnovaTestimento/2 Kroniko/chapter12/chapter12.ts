@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kiam fortikiĝis la regno de Reĥabeam kaj li fariĝis forta, li forlasis la instruon de la Eternulo, kaj kun li la tuta Izrael.",
     "En la kvina jaro de la reĝo Reĥabeam iris Ŝiŝak, reĝo de Egiptujo, kontraŭ Jerusalemon (ĉar ili pekis kontraŭ la Eternulo)",

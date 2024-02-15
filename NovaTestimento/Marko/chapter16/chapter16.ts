@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj kiam la sabato jam pasis, Maria Magdalena, kaj Maria, la patrino de Jakobo, kaj Salome aĉetis aromaĵojn, por ke ili iru kaj ŝmiru lin.",
     "Kaj tre frue en la unua tago de la semajno ili venis al la tombo, kiam la suno ĵus leviĝis.",

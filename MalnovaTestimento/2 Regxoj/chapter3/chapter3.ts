@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Jehoram, filo de Aĥab, fariĝis reĝo super Izrael en Samario en la dek- oka jaro de Jehoŝafat, reĝo de Judujo, kaj li reĝis dek du jarojn.",
     "Li faradis malbonon antaŭ la okuloj de la Eternulo, tamen ne tiel, kiel lia patro kaj lia patrino; li forigis la statuon de Baal, kiun faris lia patro.",

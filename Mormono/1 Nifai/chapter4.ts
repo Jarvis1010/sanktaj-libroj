@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj okazis, ke mi parolis al miaj fratoj, dirante: Ni reiru al Jerusalemo kaj ni fidele obeu la ordonojn de la Sinjoro; ĉar, li ja estas pli potenca ol la tuta tero, do kial ne pli potenca ol Laban kaj lia kvindeko, jes, aŭ eĉ liaj dekmiloj?",
     "Ni do iru tien; ni estu fortaj, kiel Moseo; ĉar, efektive, li parolis al la akvoj de la Ruĝa Maro, kaj ili disfendiĝis dekstren kaj maldekstren, kaj niaj prapatroj trairis sur seka tero el kaptiteco, kaj la armeoj de Faraono sekvis kaj dronis en la akvoj de la Ruĝa Maro.",

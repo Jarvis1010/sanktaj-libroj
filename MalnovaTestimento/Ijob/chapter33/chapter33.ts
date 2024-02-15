@@ -1,6 +1,5 @@
 export const chapter33 = {
   chapterTitle: "Ĉapitro 33",
-  summary: "",
   verses: [
     "Aŭskultu do, Ijob, miajn parolojn, Kaj atentu ĉiujn miajn vortojn.",
     "Jen mi malfermis mian buŝon, Parolas mia lango en mia gorĝo.",

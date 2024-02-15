@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj jen estas la ordonoj, la leĝoj, kaj la reguloj, kiujn la Eternulo, via Dio, ordonis instrui al vi, por ke vi plenumadu ilin en la lando, en kiun vi transiras, por ekposedi ĝin;",
     "por ke vi timu la Eternulon, vian Dion, observante ĉiujn Liajn leĝojn kaj Liajn ordonojn, kiujn mi ordonas al vi, vi kaj via filo kaj la filo de via filo, dum via tuta vivo, por ke vi longe vivu.",

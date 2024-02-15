@@ -1,6 +1,5 @@
 export const chapter58 = {
   chapterTitle: "Ĉapitro 58",
-  summary: "",
   verses: [
     "Kriu per la tuta gorĝo, ne detenu vin, laŭtigu vian voĉon simile al fanfaro, kaj eldiru al Mia popolo ĝian krimon kaj al la domo de Jakob ĝiajn pekojn.",
     "Min ili ĉiutage serĉas, kaj ili deziras ekkoni Miajn vojojn; kiel popolo, kiu faras bonon kaj ne forlasis la leĝon de sia Dio, ili postulas de Mi justan juĝon, deziras proksimecon de Dio:",

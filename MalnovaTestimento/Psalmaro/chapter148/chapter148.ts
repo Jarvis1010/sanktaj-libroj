@@ -1,6 +1,5 @@
 export const chapter148 = {
   chapterTitle: "Ĉapitro 148",
-  summary: "",
   verses: [
     "Haleluja! Gloru la Eternulon el la ĉielo,   Gloru Lin en la alto.",
     "Gloru Lin, ĉiuj Liaj anĝeloj; Gloru Lin, ĉiuj Liaj militistaroj.",

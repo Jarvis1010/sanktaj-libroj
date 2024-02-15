@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "David kunvenigis en Jerusalemon ĉiujn estrojn de Izrael, la estrojn de la triboj, la estrojn de la apartaĵoj, kiuj servis al la reĝo, la milestrojn kaj centestrojn, la estrojn super ĉiuj havaĵoj kaj super la brutoj de la reĝo kaj de liaj filoj, ankaŭ la korteganojn, heroojn, kaj ĉiujn distingitojn.",
     "Kaj la reĝo David stariĝis sur siaj piedoj, kaj diris:Aŭskultu min, ho miaj fratoj kaj mia popolo! Mi intencis konstrui domon de ripozo por la kesto de interligo de la Eternulo kaj por piedbenketo por nia Dio, kaj mi preparis min, por konstrui.",

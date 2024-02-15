@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Eliros markoto el la trunko de Jiŝaj, kaj branĉo elkreskos el ĝiaj radikoj.",
     "Kaj estos sur li la spirito de la Eternulo, spirito de saĝo kaj prudento, sprito de konsilo kaj forto, spirito de sciado kaj de timo antaŭ la Eternulo.",

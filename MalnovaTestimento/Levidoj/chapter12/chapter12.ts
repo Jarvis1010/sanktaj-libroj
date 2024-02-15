@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Diru al la Izraelidoj jene:Se virino fruktigos semon kaj naskos knabeton, tiam ŝi estos malpura dum sep tagoj; kiel en la tagoj de sia monataĵa suferado ŝi estos malpura.",

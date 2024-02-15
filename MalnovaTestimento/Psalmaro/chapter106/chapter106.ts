@@ -1,6 +1,5 @@
 export const chapter106 = {
   chapterTitle: "Ĉapitro 106",
-  summary: "",
   verses: [
     "Haleluja! Gloru la Eternulon, ĉar Li estas bona;   Ĉar eterna estas Lia boneco.",
     "Kiu eldiros la potencon de la Eternulo, Aŭdigos Lian tutan gloron?",

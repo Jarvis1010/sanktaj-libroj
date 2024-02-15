@@ -1,6 +1,5 @@
 export const chapter45 = {
   chapterTitle: "Ĉapitro 45",
-  summary: "",
   verses: [
     "Kiam vi lote dividos la teron en heredaĵojn, tiam apartigu oferdonon al la Eternulo, sanktan terpecon, havantan la longon de dudek kvin mil mezurstangoj kaj la larĝon de dek mil; tiu loko estu sankta en ĉiuj siaj limoj ĉirkaŭe.",
     "El ĝi devas esti por la sanktejo kvadrato de kvincent mezuroj ĉiuflanke, kaj kvindek ulnoj ĉirkaŭe kiel libera placo por ĝi.",

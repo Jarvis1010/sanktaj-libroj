@@ -1,6 +1,5 @@
 export const chapter49 = {
   chapterTitle: "Ĉapitro 49",
-  summary: "",
   verses: [
     "Pri la Amonidoj:Tiele diras la Eternulo:Ĉu Izrael ne havas filojn? ĉu li ne havas heredanton? kial do Malkam heredis Gadon kaj lia popolo loĝas en la urboj de ĉi tiu?",
     "Tial jen venos tempo, diras la Eternulo, kaj Mi eksonigos militan trumpetadon super Raba de la Amonidoj; kaj ĝi fariĝos amaso da ruinoj, kaj ĝiaj filinoj forbrulos en fajro, kaj Izrael ekposedos siajn posedintojn, diras la Eternulo.",

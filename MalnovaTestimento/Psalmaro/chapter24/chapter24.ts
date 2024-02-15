@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Psalmo de David. Al la Eternulo apartenas la tero, kaj ĉio, kio ĝin plenigas, La mondo kaj ĉiuj ĝiaj loĝantoj.",
     "Ĉar Li sur la maroj ĝin fondis Kaj sur la akvoj ĝin fortikigis.",

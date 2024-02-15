@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj Salomono komencis konstrui la domon de la Eternulo en Jerusalem, sur la monto Morija, kiu estis montrita al lia patro David, sur la loko, kiun David pretigis, sur la loko de la draŝejo de Ornan, la Jebusido.",
     "Li komencis konstrui en la dua tago de la dua monato, en la kvara jaro de sia reĝado.",

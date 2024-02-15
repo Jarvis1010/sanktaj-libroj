@@ -1,6 +1,5 @@
 export const chapter56 = {
   chapterTitle: "Ĉapitro 56",
-  summary: "",
   verses: [
     "Tiele diras la Eternulo:Gardu justecon kaj faru bonon; ĉar baldaŭ venos Mia savo kaj malkaŝiĝos Mia vero.",
     "Feliĉa estas la homo, kiu tion faras, kaj la homido, kiu sin tenas je tio, kaj observas sabaton, por ne malsanktigi ĝin, kaj gardas sian manon, por fari nenian malbonon.",

@@ -12,8 +12,6 @@ import { chapter10 } from "./chapter10/chapter10";
 export const Ester = {
   bookTitle: "Ester",
   bookTitleShort: "Ester",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

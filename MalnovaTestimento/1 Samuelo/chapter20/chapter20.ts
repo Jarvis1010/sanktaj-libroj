@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Sed David forkuris el Najot en la Rama regiono, kaj venis, kaj diris al Jonatan:Kion mi faris? kio estas mia krimo? kaj kio estas mia peko antaŭ via patro, ke li volas forpreni mian animon?",
     "Sed tiu diris al li:Tio certe ne fariĝos, vi ne mortos; mia patro faras nenian aferon grandan aŭ malgrandan, ne sciigante tion al mi; kial do mia patro kaŝus antaŭ mi ĉi tiun aferon? tio ne fariĝos.",

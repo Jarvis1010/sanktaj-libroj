@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Kaj dum li eliris el la templo, unu el liaj disĉiploj diris al li:Majstro, jen kiaj ŝtonoj kaj kiaj konstruaĵoj!",
     "Kaj Jesuo diris al li:Ĉu vi vidas ĉi tiujn grandajn konstruaĵojn? ne estos lasita ĉi tie ŝtono sur ŝtono, kiu ne estos deĵetita.",

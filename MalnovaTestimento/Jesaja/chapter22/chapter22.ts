@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Profetaĵo pri la valo de vizio: Kio nun estas al vi, ke vi ĉiuj iris sur la tegmentojn?",
     "Vi, plena de bruo, urbo tumulta, urbo gaja, viaj mortigitoj ne estas mortigitaj per glavo kaj ne mortis en batalo;",

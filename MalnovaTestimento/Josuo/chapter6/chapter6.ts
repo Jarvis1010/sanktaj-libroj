@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "(Kaj Jeriĥo estis fermita kaj ŝlosita kontraŭ la Izraelidoj; neniu eliris, kaj neniu eniris.)",
     "Kaj la Eternulo diris al Josuo:Vidu, Mi transdonis en vian manon Jeriĥon kaj ĝian reĝon kaj ĝiajn fortajn militistojn.",

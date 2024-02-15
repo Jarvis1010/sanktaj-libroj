@@ -1,6 +1,5 @@
 export const chapter46 = {
   chapterTitle: "Ĉapitro 46",
-  summary: "",
   verses: [
     "Jen estas la vorto de la Eternulo, kiu aperis al la profeto Jeremia pri la nacioj:",
     "Pri Egiptujo, pri la militistaro de Faraono Neĥo, reĝo de Egiptujo, kiu estis ĉe la rivero Eŭfrato en Karkemiŝ, kaj kiun venkobatis Nebukadnecar, reĝo de Babel, en la kvara jaro de Jehojakim, filo de Joŝija,  reĝo de Judujo:",

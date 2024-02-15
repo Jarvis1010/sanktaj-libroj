@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Post kelka tempo, en la tempo de rikoltado de tritiko, Ŝimŝon vizitis sian edzinon, alportante kapridon, kaj diris:Mi envenos al mia edzino en la internan ĉambron. Sed ŝia patro ne permesis al li eniri.",
     "Kaj ŝia patro diris:Mi pensis, ke vi ekmalamis ŝin, kaj mi donis ŝin al via amiko. Jen ŝia pli juna fratino estas ja pli bela ol ŝi; ŝi fariĝu via, anstataŭ tiu.",

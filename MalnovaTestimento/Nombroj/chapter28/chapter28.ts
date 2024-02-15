@@ -1,6 +1,5 @@
 export const chapter28 = {
   chapterTitle: "Ĉapitro 28",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Ordonu al la Izraelidoj kaj diru al ili:Mian oferon, Mian panon, Miajn fajroferojn, Mian agrablan odoraĵon observu, por alportadi al Mi en ilia tempo.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Rememoru, ho Eternulo, kio fariĝis al ni; Rigardu kaj vidu nian malhonoron!",
     "Nia heredaĵo transiris al fremduloj, Niaj domoj al aligentuloj.",

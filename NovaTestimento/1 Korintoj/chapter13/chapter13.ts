@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Se mi parolus la lingvojn de homoj kaj anĝeloj, sed ne havus amon, mi fariĝus sonanta kupro aŭ tintanta cimbalo.",
     "Kaj se mi posedus la profetpovon, kaj komprenus ĉiujn misterojn kaj ĉian scion; kaj se mi havus ĉian fidon, tiel ke mi povus formovi montojn, sed ne havus amon, mi estus nenio.",

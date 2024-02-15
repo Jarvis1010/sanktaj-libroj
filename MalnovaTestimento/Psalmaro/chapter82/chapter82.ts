@@ -1,6 +1,5 @@
 export const chapter82 = {
   chapterTitle: "Ĉapitro 82",
-  summary: "",
   verses: [
     "Psalmo de Asaf. Dio stariĝis en Dia anaro; Inter la dioj Li juĝas.",
     "Ĝis kiam vi juĝos maljuste, Kaj privilegios la personojn de malvirtuloj?  Sela.",

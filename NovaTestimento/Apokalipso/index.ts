@@ -24,8 +24,6 @@ import { chapter22 } from "./chapter22/chapter22";
 export const Apokalipso = {
   bookTitle: "Apokalipso",
   bookTitleShort: "Apokalipso",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

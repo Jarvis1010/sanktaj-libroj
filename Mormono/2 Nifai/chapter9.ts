@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj nun, miaj amataj fratoj, mi legis ĉi tion, por ke vi sciu pri la interligoj de la Sinjoro, kiujn li ligis kiun la tuta domo de Izrael",
     "Kiujn li parolis al la judoj, per la buŝo de siaj sanktaj profetoj, eĉ de la komenco, de generacio al generacio, ĝis la tempo venos, kiam ili estos redonitaj al la vera eklezio kaj anaro de Dio; kiam ili estos revenigitaj en la landojn de lia heredo kaj estos firmigitaj en ĉiuj siaj landoj de promeso.",

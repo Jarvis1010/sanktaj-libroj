@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Vortoj de la Predikanto, filo de David, reĝo en Jerusalem.",
     "Vantaĵo de vantaĵoj, diris la Predikanto; vantaĵo de vantaĵoj, ĉio estas vantaĵo.",

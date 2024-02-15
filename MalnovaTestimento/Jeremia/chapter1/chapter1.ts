@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paroloj de Jeremia, filo de ĥilkija, el la pastroj, kiuj estis en Anatot, en la lando de Benjamen;",
     "al kiu aperis la vorto de la Eternulo en la tempo de Joŝija, filo de Amon, reĝo de Judujo, en la dek-tria jaro de lia reĝado,",

@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Unu tagon Jonatan, filo de Saul, diris al sia junulo armilportisto:Venu, ni transiru al la garnizono de la Filiŝtoj, kiu estas tie transe; sed al sia patro li tion ne diris.",
     "Kaj Saul estis en la randa parto de Gibea, sub granatarbo, kiu estis en Migron; kaj da popolo estis kun li ĉirkaŭ sescent homoj.",

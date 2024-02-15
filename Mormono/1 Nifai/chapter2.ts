@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Ĉar, aŭskultu, okazis, ke la Sinjoro efektive parolis al mia patro, nome en sonĝo, kaj diris al li: Feliĉa estas vi, Lihai, pro tio, kion vi faris; kaj pro tio, ke vi estis fidela kaj deklaris al la popolo tion, kion mi ordonis al vi, atentu, oni celas forpreni vian vivon.",
     "Kaj okazis, ke la Sinjoro ordonis al mia patro, nome en sonĝo, ke li prenu sian familion kaj foriru en la dezerton.",

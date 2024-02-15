@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj Aĥitofel diris al Abŝalom:Permesu al mi elekti dek du mil virojn, kaj mi leviĝos kaj postkuros Davidon en la nokto.",
     "Mi atakos lin, kiam li estos laca kaj liaj manoj estos malfortaj; mi teruros lin tiel, ke forkuros la tuta popolo, kiu estas kun li; tiam mi mortigos la reĝon solan.",

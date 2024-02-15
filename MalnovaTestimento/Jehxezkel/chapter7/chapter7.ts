@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kaj aperis al mi vorto de la Eternulo, dirante:",
     "Ho filo de homo, tiele diras la Sinjoro, la Eternulo, pri la tero de Izrael:Fino venis, la fino por ĉiuj kvar randoj de la lando.",

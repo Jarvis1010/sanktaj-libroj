@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Poste okazis jeno:Abŝalom, filo de David, havis belan fratinon, kies nomo estis Tamar; ŝin ekamis Amnon, filo de David.",
     "Kaj Amnon suferis multe kaj preskaŭ malsaniĝis pro sia fratino Tamar; ĉar ŝi estis virgulino, kaj al Amnon ŝajnis malfacile fari ion al ŝi.",

@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Reĥabeam iris en Ŝeĥemon, ĉar en Ŝeĥemon venis ĉiuj Izraelidoj, por fari lin reĝo.",
     "Kiam tion aŭdis Jerobeam, filo de Nebat (ĉar li estis en Egiptujo, kien li forkuris de la reĝo Salomono), Jerobeam revenis el Egiptujo.",

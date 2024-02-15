@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Ĉar Kristo do suferis en la karno, vi ankaŭ armu vin per la sama intenco; ĉar la suferinto en la karno apartiĝis de pekoj;",
     "por ke vi travivu la reston de la enkarna tempo jam ne laŭ la voluptoj de homoj, sed laŭ la volo de Dio.",

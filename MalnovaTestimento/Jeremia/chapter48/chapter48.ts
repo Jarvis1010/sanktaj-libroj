@@ -1,6 +1,5 @@
 export const chapter48 = {
   chapterTitle: "Ĉapitro 48",
-  summary: "",
   verses: [
     "Pri Moab:Tiele diras la Eternulo Cebaot, Dio de Izrael:Ve al Nebo! ĉar ĝi estas ruinigita; hontigita kaj venkoprenita estas Kirjataim; hontigita kaj tremigita estas la fortikaĵo.",
     "Jam ne ekzistas la gloro de Moab; en ĥeŝbon oni intencas kontraŭ ĝi malbonon, dirante:Ni iru, kaj ni ekstermu ĝin, ke ĝi ne plu estu popolo. Ankaŭ vi, ho Madmen, eksilentu; vin persekutos glavo.",

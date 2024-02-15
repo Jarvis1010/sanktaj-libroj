@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Sed unu viro, nomata Ananias, kun sia edzino Sapfira vendis posedaĵon,",
     "kaj retenis iom el la prezo, kun la konsento de sia edzino, kaj iun parton alportis kaj metis antaŭ la piedoj de la apostoloj.",

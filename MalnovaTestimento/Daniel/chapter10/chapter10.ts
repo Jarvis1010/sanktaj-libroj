@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "En la tria jaro de Ciro, reĝo de Persujo, vorto estis malkaŝita al Daniel, kiu havis la nomon Beltŝacar; kaj vera estis tiu vorto kaj tre grava. Li komprenis la vorton kaj komprenis bone la vizion.",
     "En tiu tempo mi, Daniel, funebris dum tri semajnoj.",

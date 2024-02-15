@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Tiam diris la ĉefpastro:Ĉu ĉi tiuj aferoj estas tiel?",
     "Kaj tiu diris: Fratoj kaj patroj, aŭskultu. La Dio de gloro aperis al nia patro Abraham,  kiam li estis en Mezopotamio, antaŭ ol li loĝis en ĥaran,",

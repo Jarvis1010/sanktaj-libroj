@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "En la oka tago Moseo vokis Aaronon kaj liajn filojn kaj la plejaĝulojn de Izrael.",
     "Kaj li diris al Aaron:Prenu al vi junan bovidon por pekofero kaj virŝafon por brulofero, sendifektajn, kaj alkonduku ilin antaŭ la Eternulon.",

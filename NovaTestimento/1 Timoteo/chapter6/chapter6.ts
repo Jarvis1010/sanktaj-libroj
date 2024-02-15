@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Ĉiuj subjugaj sklavoj rigardu siajn estrojn kiel indajn je ĉia honoro, por ke la nomo de Dio kaj la doktrino ne estu blasfemataj.",
     "Kaj tiuj, kiuj havas kredantajn estrojn, ne malestimu ilin tial, ke ili estas fratoj, sed servu al ili tiom pli, ĉar tiuj, kiuj partoprenas en la Didonaco, estas fidelaj kaj amataj. Tion instruu kaj konsilu.",

@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "De David. Ne incitiĝu pro la malvirtuloj; Ne enviu tiujn, kiuj agas maljuste.",
     "Ĉar simile al herbo ili rapide dehakiĝas, Kaj kiel verda vegetaĵo ili forvelkas.",

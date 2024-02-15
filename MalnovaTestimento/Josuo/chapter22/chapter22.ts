@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Tiam Josuo alvokis la Rubenidojn kaj la Gadidojn kaj la duontribon de Manase;",
     "kaj li diris al ili:Vi plenumis ĉion, kion ordonis al vi Moseo, servanto de la Eternulo, kaj vi obeis mian voĉon en ĉio, kion mi ordonis al vi.",

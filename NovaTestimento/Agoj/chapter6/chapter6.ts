@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kaj en tiuj tagoj, kiam la nombro de la disĉiploj multiĝis, fariĝis murmurado de la Grekaj Judoj kontraŭ la Hebreaj pro tio, ke iliaj vidvinoj estas preterlasataj en la ĉiutaga servado.",
     "Kaj la dek du, alvokinte la amason de la disĉiploj, diris:Ne estas dezirinde, ke ni forlasu la vorton de Dio, por servi ĉe tabloj.",

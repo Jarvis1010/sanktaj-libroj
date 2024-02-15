@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Kaj la Eternulo diris al Josuo:Ne timu, kaj ne estu malkuraĝa; prenu kun vi ĉiujn militistojn, kaj leviĝu kaj iru al Aj; vidu, Mi transdonis en vian manon la reĝon de Aj kaj lian popolon kaj lian urbon kaj lian landon.",
     "Kaj agu kun Aj kaj kun ĝia reĝo, kiel vi agis kun Jeriĥo kaj kun ĝia reĝo; nur ilian militakiraĵon kaj iliajn brutojn vi povas rabi por vi. Faru insidon malantaŭ la urbo.",

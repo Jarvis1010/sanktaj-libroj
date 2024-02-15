@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Ĉiu animo submetiĝu al la superaj aŭtoritatoj, ĉar ne ekzistas aŭtoritato, krom de Dio; kaj tiuj, kiuj ekzistas, estas starigitaj de Dio.",
     "Tiu do, kiu kontraŭstaras al aŭtoritato, rezistas al la ordono de Dio; kaj tiuj, kiuj rezistas, ricevos juĝon.",

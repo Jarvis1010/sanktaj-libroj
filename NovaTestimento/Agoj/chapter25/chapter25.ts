@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Festo do, veninte en la provincon, post tri tagoj supreniris de Cezarea al Jerusalem.",
     "Kaj la ĉefpastro kaj la ĉefoj de la Judoj faris denuncon al li kontraŭ Paŭlo, kaj lin instigis,",

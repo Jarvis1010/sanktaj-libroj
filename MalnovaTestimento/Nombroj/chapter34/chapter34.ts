@@ -1,6 +1,5 @@
 export const chapter34 = {
   chapterTitle: "Ĉapitro 34",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Ordonu al la Izraelidoj, kaj diru al ili:Kiam vi venos en la landon Kanaanan, tiu lando fariĝu via posedaĵo, la lando Kanaana laŭ siaj limoj.",

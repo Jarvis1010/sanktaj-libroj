@@ -1,6 +1,5 @@
 export const chapter37 = {
   chapterTitle: "Ĉapitro 37",
-  summary: "",
   verses: [
     "Pri tio tremas mia koro Kaj saltas de sia loko.",
     "Aŭskultu atente en la bruo Lian voĉon, Kaj la sonojn, kiuj eliras el Lia buŝo.",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj preterirante, li vidis viron blindan de post la naskiĝo.",
     "Kaj liaj disĉiploj demandis lin, dirante:Rabeno, kiu do pekis, ĉi tiu viro, aŭ liaj gepatroj, ke li naskiĝis blinda?",

@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Kaj la loto donis al la tribo de Manase, ĉar li estas la unuenaskito de Jozef; al Maĥir, unuenaskito de Manase kaj patro de Gilead, ĉar li estis homo militema, estis donitaj Gilead kaj Baŝan.",
     "Estis donite ankaŭ al la ceteraj filoj de Manase laŭ iliaj familioj:al la filoj de Abiezer kaj al la filoj de ĥelek kaj al la filoj de Asriel kaj al la filoj de Ŝeĥem kaj al la filoj de ĥefer kaj al la filoj de Ŝemida. Tio estas la naskitoj de Manase, filo de Jozef, la virseksuloj, laŭ iliaj familioj.",

@@ -1,6 +1,5 @@
 export const chapter29 = {
   chapterTitle: "Ĉapitro 29",
-  summary: "",
   verses: [
     "Kaj jen estas tio, kion vi devas fari al ili, por sanktigi ilin, ke ili estu pastroj al Mi:prenu unu virbovidon kaj du virŝafojn sendifektajn;",
     "kaj macan panon, kaj macajn kukojn, miksitajn kun oleo, kaj macajn flanojn, ŝmiritajn per oleo; el delikata tritika faruno faru ilin.",

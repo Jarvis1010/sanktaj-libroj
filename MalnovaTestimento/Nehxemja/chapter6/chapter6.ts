@@ -1,6 +1,5 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  summary: "",
   verses: [
     "Kiam Sanbalat, Tobija, la Arabo Geŝem, kaj niaj ceteraj malamikoj aŭdis, ke mi rekonstruis la muregon kaj ke ne restis en ĝi difektoj (kvankam ĝis tiu tempo mi ankoraŭ ne starigis pordojn en la pordegoj),",
     "tiam Sanbalat kaj Geŝem sendis, por diri al mi:Venu, ni kune kunvenu en la vilaĝoj de la valo Ono. Ili intencis fari al mi malbonon.",

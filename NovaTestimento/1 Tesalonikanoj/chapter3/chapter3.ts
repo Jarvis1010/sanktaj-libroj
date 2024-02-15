@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kiam do ni jam ne povis resti trankvilaj, ni decidis esti lasitaj solaj en Ateno;",
     "kaj ni sendis Timoteon, nian fraton kaj servanton de Dio en la evangelio de Kristo, por firmigi vin kaj konsoli vin pri via fido,",

@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Post tio mi vidis alian anĝelon, malsuprenirantan el la ĉielo, havantan grandan aŭtoritaton; kaj la tero lumiĝis per lia gloro.",
     "Kaj li forte kriis per granda voĉo, dirante:Falis, falis Babel la granda, kaj fariĝis loĝejo de demonoj, kaj malliberejo de ĉia malpura spirito, kaj malliberejo de ĉia malpura kaj malaminda birdo.",

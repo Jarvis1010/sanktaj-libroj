@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Senkulpiĝo de David, kiun li kantis al la Eternulo pri Kuŝ, la Benjamenido. Ho Eternulo, mia Dio, ĉe Vi mi rifuĝas; helpu min kontraŭ ĉiuj miaj persekutantoj, kaj savu min,",
     "Por ke oni ne elŝiru, kiel leono, mian animon, Ĝin disŝirante, dum neniu savas.",

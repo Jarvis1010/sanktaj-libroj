@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Kiam li finis la paroladon kun Saul, la animo de Jonatan alligiĝis al la animo de David, kaj Jonatan ekamis lin kiel sian animon.",
     "Kaj Saul prenis lin en tiu tago, kaj ne lasis lin reiri al la domo de sia patro.",

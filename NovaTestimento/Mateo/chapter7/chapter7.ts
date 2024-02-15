@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Ne juĝu, por ke vi ne estu juĝataj.",
     "Ĉar per kia juĝo vi juĝos, per tia vi estos juĝitaj; kaj per kia mezuro vi mezuros, per tia oni mezuros al vi.",

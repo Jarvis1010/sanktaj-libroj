@@ -1,6 +1,5 @@
 export const chapter149 = {
   chapterTitle: "Ĉapitro 149",
-  summary: "",
   verses: [
     "Haleluja! Kantu al la Eternulo novan kanton,   Lian gloron en la anaro de fideluloj.",
     "Izrael ĝoju pri sia Kreinto, La filoj de Cion ĝoju pri sia Reĝo.",

@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "La filoj de Jehuda estis:Perec, ĥecron, Karmi, ĥur, kaj Ŝobal.",
     "Reaja, filo de Ŝobal, naskigis Jaĥaton; Jaĥat naskigis Aĥumajon kaj Lahadon; tio estas la familioj de la Coreaidoj.",

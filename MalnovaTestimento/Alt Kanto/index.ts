@@ -10,8 +10,6 @@ import { chapter8 } from "./chapter8/chapter8";
 export const AltKanto = {
   bookTitle: "Alt Kanto",
   bookTitleShort: "Alt Kanto",
-  subtitle: "",
-  summary: "",
   chapters: [
     chapter1,
     chapter2,

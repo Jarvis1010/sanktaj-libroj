@@ -1,6 +1,5 @@
 export const chapter35 = {
   chapterTitle: "Ĉapitro 35",
-  summary: "",
   verses: [
     "Kaj Dio diris al Jakob: Leviĝu, iru al Bet-El kaj loĝu tie; kaj faru tie altaron al Dio, kiu aperis al vi, kiam vi kuris de via frato Esav.",
     "Tiam Jakob diris al sia domanaro, kaj al ĉiuj, kiuj estis kun li: Forigu la fremdajn diojn, kiuj estas inter vi, kaj puriĝu kaj ŝanĝu viajn vestojn.",

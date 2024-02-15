@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Sur Azarjan, filon de Oded, venis la spirito de Dio.",
     "Kaj li eliris antaŭ Asan, kaj diris al li:Aŭskultu min, ho Asa kaj ĉiuj Jehudaidoj kaj Benjamenidoj:la Eternulo estas kun vi, kiam vi estas kun Li; kaj se vi Lin serĉos, vi Lin trovos, sed se vi Lin forlasos, Li forlasos vin.",

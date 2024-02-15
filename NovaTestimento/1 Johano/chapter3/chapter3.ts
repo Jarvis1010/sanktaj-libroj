@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Rigardu, kian amon la Patro donis al ni, ke ni estas nomataj infanoj de Dio; kaj tiaj ni estas. Pro tio la mondo nin ne konas, ĉar ĝi Lin ne konis.",
     "Amataj, nun ni estas infanoj de Dio, kaj ankoraŭ ne elmontriĝis, kio ni estos. Ni scias, ke se li elmontriĝos, ni estos similaj al li; ĉar ni vidos lin, kiel li estas.",

@@ -1,6 +1,5 @@
 export const chapter32 = {
   chapterTitle: "Ĉapitro 32",
-  summary: "",
   verses: [
     "Jen kun justeco regos reĝo, kaj princoj administros laŭleĝe.",
     "Kaj ĉiu estos kiel ŝirmilo kontraŭ vento, kiel rifuĝejo kontraŭ pluvego, kiel torentoj da akvo en la stepo, kiel ombro de peza roko en lando dezerta.",

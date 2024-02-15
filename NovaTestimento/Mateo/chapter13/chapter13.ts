@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "En tiu tago Jesuo eliris el la domo kaj sidiĝis apud la maro.",
     "Kaj kolektiĝis al li grandaj homamasoj, tiel ke li eniris en ŝipeton, kaj sidis; kaj la tuta homamaso staris sur la marbordo.",

@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kaj Abraham estis maljuna kaj en profunda aĝo. Kaj la Eternulo benis Abrahamon en ĉio.",
     "Kaj Abraham diris al sia sklavo, la administranto de lia domo, kiu regis ĉion, kio apartenis al li: Metu vian manon sub mian femuron;",

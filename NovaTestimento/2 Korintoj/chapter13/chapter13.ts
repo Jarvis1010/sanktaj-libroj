@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Jen la trian fojon mi venas al vi. Laŭ la diro de du atestantoj aŭ tri ĉiu vorto estu konfirmita.",
     "Mi antaŭdiris, kaj mi nun antaŭdiras, kiel ĉeestante la duan fojon, tiel nun forestante, al la jam pekintaj kaj al ĉiuj ceteraj, ke se mi revenos, mi ne indulgos;",

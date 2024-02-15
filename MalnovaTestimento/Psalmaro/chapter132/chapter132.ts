@@ -1,6 +1,5 @@
 export const chapter132 = {
   chapterTitle: "Ĉapitro 132",
-  summary: "",
   verses: [
     "Kanto de suprenirado. Rememoru, ho Eternulo, Davidon kaj ĉiujn liajn suferojn;",
     "Ke li ĵuris al la Eternulo, Kaj donis sanktan promeson al la Potenculo de Jakob:",

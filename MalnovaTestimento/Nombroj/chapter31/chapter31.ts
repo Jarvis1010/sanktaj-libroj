@@ -1,6 +1,5 @@
 export const chapter31 = {
   chapterTitle: "Ĉapitro 31",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo, dirante:",
     "Faru venĝon pro la Izraelidoj sur la Midjanidoj; kaj poste alkolektiĝu al via popolo.",

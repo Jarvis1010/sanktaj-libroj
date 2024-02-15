@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Kaj Bileam diris al Balak:Konstruu al mi ĉi tie sep altarojn, kaj pretigu al mi ĉi tie sep bovidojn kaj sep virŝafojn.",
     "Kaj Balak faris, kiel diris Bileam; kaj Balak kaj Bileam oferis po unu bovido kaj po unu virŝafo sur ĉiu altaro.",

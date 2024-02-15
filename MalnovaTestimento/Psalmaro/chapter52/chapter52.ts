@@ -1,6 +1,5 @@
 export const chapter52 = {
   chapterTitle: "Ĉapitro 52",
-  summary: "",
   verses: [
     "Al la ĥorestro. Instruo de David, kiam venis Doeg, la Edomido, kaj raportis al Saul, kaj diris al li:David venis en la domon de Aĥimeleĥ. Kial vi fanfaronas pro malbono, ho tirano?   La boneco de Dio estas ĉiama.",
     "Pereon intencas via lango, Kiel akrigita razilo ĝi tranĉas malicon.",

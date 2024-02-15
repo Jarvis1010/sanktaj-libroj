@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "Kaj enirinte en ŝipeton, li transiris, kaj venis en sian propran urbon.",
     "Kaj jen oni alportis al li paralizulon, kuŝantan sur lito; kaj Jesuo, vidinte ilian fidon, diris al la paralizulo:Kuraĝu, filo, viaj pekoj estas pardonitaj.",

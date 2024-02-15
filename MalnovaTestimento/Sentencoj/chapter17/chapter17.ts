@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "Pli bona estas seka peco da pano, sed kun trankvileco, Ol domo plena de viando, kun malpaco.",
     "Saĝa sklavo regos super filo hontinda, Kaj dividos heredon kune kun fratoj.",

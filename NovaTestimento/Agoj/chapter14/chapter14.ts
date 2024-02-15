@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Kaj en Ikonio ili ambaŭ eniris en la sinagogon de la Judoj, kaj tiel parolis, ke granda amaso da Judoj kaj Grekoj kredis.",
     "Sed la nekredantaj Judoj ekscitis kaj malbonigis la animojn de la nacianoj kontraŭ la fratoj.",

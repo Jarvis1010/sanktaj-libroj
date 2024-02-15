@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Profetaĵo pri Egiptujo: Jen la Eternulo veturos sur malpeza nubo kaj venos Egiptujon. Kaj ektremos antaŭ Li la idoloj de Egiptujo, kaj la koro de la Egiptoj senkuraĝiĝos interne de ili.",
     "Kaj Mi tumultigos Egiptojn kontraŭ Egiptojn; kaj militos ĉiu kontraŭ sia frato kaj ĉiu kontraŭ sia amiko, urbo kontraŭ urbo, regno kontraŭ regno.",

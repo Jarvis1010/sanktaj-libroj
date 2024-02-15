@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "En la unua jaro de Dario, la Medo, mi staris, por subteni kaj fortigi min.",
     "Kaj nun mi sciigos al vi la veron:jen ankoraŭ tri reĝoj estos en Persujo; la kvara superos ĉiujn per sia riĉeco; kaj kiam li fariĝos forta per sia riĉeco, li ekscitos ĉiujn kontraŭ la regnon Grekan.",

@@ -1,6 +1,5 @@
 export const chapter71 = {
   chapterTitle: "Ĉapitro 71",
-  summary: "",
   verses: [
     "Vin, ho Eternulo, mi fidas: Mi neniam estu hontigita.",
     "Per Via justeco savu min kaj liberigu min; Klinu al mi Vian orelon, kaj helpu min.",

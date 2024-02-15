@@ -1,6 +1,5 @@
 export const chapter18 = {
   chapterTitle: "Ĉapitro 18",
-  summary: "",
   verses: [
     "Jehoŝafat havis multe da riĉeco kaj honoro; kaj li boparenciĝis kun Aĥab.",
     "Post kelke da jaroj li veturis al Aĥab en Samarion. Kaj Aĥab buĉis multe da ŝafoj kaj bovoj por li, kaj por la popolo, kiu estis kun li, kaj konvinkis lin iri kontraŭ Ramoton en Gilead.",

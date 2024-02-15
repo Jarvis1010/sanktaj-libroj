@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Profetaĵo pri Tiro: Plorkriu, ho ŝipoj de Tarŝiŝ; ĉar ĝi estas detruita tiel, ke restis neniu domo, neniu pordo. El la lando de la Kitidoj tio estas sciigita al ili.",
     "Silentu, ho loĝantoj de la apudmara lando. Komercistoj de Cidon, transveturantaj la maron, vin plenigadis;",

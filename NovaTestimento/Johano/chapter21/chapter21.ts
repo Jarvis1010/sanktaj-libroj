@@ -1,6 +1,5 @@
 export const chapter21 = {
   chapterTitle: "Ĉapitro 21",
-  summary: "",
   verses: [
     "Post tio Jesuo denove sin montris al la disĉiploj apud la maro de Tiberias; kaj li montris sin jene.",
     "Estis kune Simon Petro, kaj Tomaso, nomata Didimo, kaj Natanael el Kana Galilea, kaj la filoj de Zebedeo, kaj aliaj du el liaj disĉiploj.",

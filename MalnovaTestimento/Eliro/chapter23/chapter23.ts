@@ -1,6 +1,5 @@
 export const chapter23 = {
   chapterTitle: "Ĉapitro 23",
-  summary: "",
   verses: [
     "Ne disvastigu malveran famon; ne kunigu vian manon kun malvirtulo, por esti atestanto de malbonago.",
     "Ne sekvu la amason por malbonaĵoj; kaj en juĝo ne kliniĝu al la opinio de la plimulto, por dekliniĝi de la vero.",

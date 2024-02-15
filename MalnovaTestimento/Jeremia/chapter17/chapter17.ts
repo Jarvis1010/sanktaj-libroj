@@ -1,6 +1,5 @@
 export const chapter17 = {
   chapterTitle: "Ĉapitro 17",
-  summary: "",
   verses: [
     "La peko de Jehuda estas skribita per fera skribilo, per diamanta pinto, sur la tabelo de ilia koro kaj sur la kornoj de iliaj altaroj.",
     "Iliaj filoj bone memoras iliajn altarojn kaj iliajn sanktajn stangojn ĉe la verdaj arboj sur la altaj montetoj.",

@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kiam la Eternulo volis levi Elijan en ventego en la ĉielon, Elija estis iranta kun Eliŝa el Gilgal.",
     "Kaj Elija diris al Eliŝa:Restu do ĉi tie, ĉar la Eternulo sendas min al Bet-El. Sed Eliŝa diris:Mi ĵuras per la Eternulo kaj per via animo, ke mi vin ne forlasos. Kaj ili ekiris al Bet-El.",

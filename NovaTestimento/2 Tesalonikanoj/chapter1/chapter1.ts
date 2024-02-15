@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Paŭlo kaj Silvano kaj Timoteo al la eklezio de la Tesalonikanoj en Dio, nia Patro, kaj la Sinjoro Jesuo Kristo:",
     "Graco al vi kaj paco de Dio, la Patro, kaj de la Sinjoro Jesuo Kristo.",

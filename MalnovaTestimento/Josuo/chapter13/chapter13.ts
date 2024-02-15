@@ -1,6 +1,5 @@
 export const chapter13 = {
   chapterTitle: "Ĉapitro 13",
-  summary: "",
   verses: [
     "Josuo maljuniĝis, atingis profundan aĝon, kaj la Eternulo diris al li:Vi maljuniĝis, atingis profundan aĝon, kaj da tero restas ankoraŭ tre multe por ekposedi.",
     "Jen estas la tero, kiu restas:ĉiuj regionoj de la Filiŝtoj, kaj la tuta lando de la Geŝuridoj;",

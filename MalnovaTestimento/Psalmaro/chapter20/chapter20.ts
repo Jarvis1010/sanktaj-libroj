@@ -1,6 +1,5 @@
 export const chapter20 = {
   chapterTitle: "Ĉapitro 20",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. La Eternulo aŭskultu vin en tago de mizero; Defendu vin la nomo de Dio de Jakob.",
     "Li sendu al vi helpon el la sanktejo, Kaj el Cion Li vin fortigu.",

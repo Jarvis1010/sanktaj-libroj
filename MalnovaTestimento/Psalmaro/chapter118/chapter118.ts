@@ -1,6 +1,5 @@
 export const chapter118 = {
   chapterTitle: "Ĉapitro 118",
-  summary: "",
   verses: [
     "Haleluja! Gloru la Eternulon, ĉar Li estas bona;   Ĉar eterna estas Lia boneco.",
     "Izrael diru, Ke eterna estas Lia boneco.",

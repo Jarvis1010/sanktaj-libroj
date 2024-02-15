@@ -1,6 +1,5 @@
 export const chapter50 = {
   chapterTitle: "Ĉapitro 50",
-  summary: "",
   verses: [
     "Tiele diras la Eternulo:Kie estas la eksedziga letero de via patrino, per kiu Mi ŝin forpuŝis? aŭ al kiu el Miaj kreditoroj Mi vendis vin? Jen pro viaj pekoj vi estas venditaj, kaj pro viaj krimoj estas forpuŝita via patrino.",
     "Kial neniu estis, kiam Mi venis? kial neniu respondis, kiam Mi vokis? Ĉu Mia mano fariĝis tro mallonga, por liberigi? kaj ĉu ne ekzistas en Mi forto, por savi? Jen per Mia severa vorto Mi sekigas maron, Mi faras el riveroj dezerton; iliaj fiŝoj putras pro senakveco kaj mortas de soifo.",

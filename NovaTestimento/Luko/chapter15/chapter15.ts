@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Kaj ĉiuj impostistoj kaj pekuloj alproksimiĝis al li, por aŭskulti lin.",
     "Kaj murmuris la Fariseoj kaj la skribistoj, dirante:Ĉi tiu akceptas pekulojn kaj manĝas kun ili.",

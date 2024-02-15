@@ -1,6 +1,5 @@
 export const chapter147 = {
   chapterTitle: "Ĉapitro 147",
-  summary: "",
   verses: [
     "Haleluja! Ĉar estas bone kanti al nia Dio,   Ĉar agrabla estas la glorkantado.",
     "La Eternulo konstruas Jerusalemon, La elpelitojn de Izrael Li kolektas.",

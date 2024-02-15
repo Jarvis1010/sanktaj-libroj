@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "La aĝon de sep jaroj havis Joaŝ, kiam li fariĝis reĝo, kaj kvardek jarojn li reĝis en Jerusalem. La nomo de lia patrino estis Cibja, el Beer- Ŝeba.",
     "Joaŝ agadis bone antaŭ la Eternulo dum la tuta vivo de la pastro Jehojada.",

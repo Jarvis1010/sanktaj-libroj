@@ -1,6 +1,5 @@
 export const chapter19 = {
   chapterTitle: "Ĉapitro 19",
-  summary: "",
   verses: [
     "Pli bona estas malriĉulo, kiu iras en sia senkulpeco, Ol homo, kiu estas malicbuŝulo kaj malsaĝulo.",
     "Vivo sen prudento ne estas bona; Kaj kiu tro rapidas, tiu maltrafas la vojon.",

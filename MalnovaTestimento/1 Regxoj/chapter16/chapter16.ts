@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "Kaj aperis la vorto de la Eternulo al Jehu, filo de ĥanani, pri Baaŝa, dirante:",
     "Ĉar mi levis vin el la polvo kaj faris vin reganto super Mia popolo Izrael kaj vi iras laŭ la vojo de Jerobeam kaj pekigas Mian popolon Izrael, incitante Min per iliaj pekoj,",

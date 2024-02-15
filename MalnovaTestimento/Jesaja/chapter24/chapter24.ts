@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Jen la Eternulo dezertigas la landon kaj ruinigas ĝin kaj ŝanĝas ĝian aspekton kaj disĵetas ĝiajn loĝantojn.",
     "Kaj estos al la popolo kiel al la pastro, al la servisto kiel al lia mastro, al la servistino kiel al ŝia mastrino, al la aĉetanto kiel al la vendanto, al la pruntedonanto kiel al la prunteprenanto, al la ŝuldanto kiel al la kreditoro.",

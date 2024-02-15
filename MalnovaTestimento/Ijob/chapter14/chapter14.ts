@@ -1,6 +1,5 @@
 export const chapter14 = {
   chapterTitle: "Ĉapitro 14",
-  summary: "",
   verses: [
     "Homo, naskita de virino, Havas mallongan vivon kaj abundon da afliktoj.",
     "Kiel floro li elkreskas kaj velkas; Li forkuras kiel ombro kaj ne restas.",

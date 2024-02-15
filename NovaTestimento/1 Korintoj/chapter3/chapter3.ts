@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kaj mi, fratoj, ne povis paroli al vi kiel al spirituloj, sed kiel al karnuloj, kiel al infanetoj en Kristo.",
     "Mi nutris vin per lakto, ne per manĝaĵoj; ĉar vi ankoraŭ tion ne kapablis; kaj eĉ nun vi ne kapablas;",

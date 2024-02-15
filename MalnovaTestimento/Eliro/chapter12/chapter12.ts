@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Kaj la Eternulo ekparolis al Moseo kaj al Aaron en la lando Egipta, dirante:",
     "Ĉi tiu monato estu por vi komenco de la monatoj; la unua ĝi estu por vi inter la monatoj de la jaro.",

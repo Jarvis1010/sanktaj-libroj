@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Kaj Jesuo, plena de la Sankta Spirito, revenis de Jordan, kaj estis kondukata de la Spirito en la dezerton",
     "dum kvardek tagoj, tentate de la diablo. Kaj li manĝis nenion en tiuj tagoj; kaj kiam ili finiĝis, li malsatis.",

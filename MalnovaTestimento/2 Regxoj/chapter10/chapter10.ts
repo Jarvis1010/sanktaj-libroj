@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Aĥab havis sepdek filojn en Samario. Kaj Jehu skribis leterojn kaj sendis en Samarion al la estroj de Jizreel, la plejaĝuloj, kaj la filedukistoj de Aĥab, kun la sekvanta enhavo:",
     "Kiam ĉi tiu letero venos al vi, ĉe kiuj troviĝas la filoj de via sinjoro kaj sub kies administrado troviĝas la ĉaroj kaj la ĉevaloj kaj la fortikigita urbo kaj la bataliloj:",

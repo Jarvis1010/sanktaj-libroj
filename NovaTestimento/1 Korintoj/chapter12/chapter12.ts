@@ -1,6 +1,5 @@
 export const chapter12 = {
   chapterTitle: "Ĉapitro 12",
-  summary: "",
   verses: [
     "Rilate spiritajn donacojn, fratoj, mi ne volas, ke vi estu nesciantaj.",
     "Vi scias, ke kiam vi estis nacianoj, vi estis forkondukataj al tiuj mutaj idoloj, kiel ajn oni vin kondukis.",

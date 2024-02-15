@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj nun, ho pastroj, al vi estas donata jena ordono:",
     "Se vi ne obeos, kaj se vi ne atentos, ke vi donadu honoron al Mia nomo, diras la Eternulo Cebaot, tiam Mi sendos sur vin malbenon, Mi malbenos viajn benojn; jes, Mi tion malbenos pro tio, ke vi ne donas vian atenton.",

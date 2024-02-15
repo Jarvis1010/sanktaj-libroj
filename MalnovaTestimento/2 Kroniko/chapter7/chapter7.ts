@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Kiam Salomono finis la preĝadon, malleviĝis fajro el la ĉielo kaj forbruligis la bruloferon kaj la aliajn oferojn; kaj la majesto de la Eternulo plenigis la domon.",
     "Kaj la pastroj ne povis eniri en la domon de la Eternulo, ĉar la majesto de la Eternulo plenigis la domon de la Eternulo.",

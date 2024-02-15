@@ -1,6 +1,5 @@
 export const chapter22 = {
   chapterTitle: "Ĉapitro 22",
-  summary: "",
   verses: [
     "Kaj David eldiris antaŭ la Eternulo la vortojn de la sekvanta kanto, kiam la Eternulo lin savis el la manoj de ĉiuj liaj malamikoj kaj el la mano de Saul.",
     "Li diris: La Eternulo estas mia Roko, kaj mia fortikaĵo, kaj mia Savanto.",

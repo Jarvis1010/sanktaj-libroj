@@ -1,6 +1,5 @@
 export const chapter59 = {
   chapterTitle: "Ĉapitro 59",
-  summary: "",
   verses: [
     "Vidu, ne mallongiĝis la mano de la Eternulo, por ke ĝi ne povu helpi; kaj ne malakriĝis Lia orelo, por ke Li ne aŭdu.",
     "Nur viaj krimoj estis disigilo inter vi kaj via Dio, kaj viaj pekoj kovris antaŭ vi Lian vizaĝon, por ke Li ne aŭdu.",

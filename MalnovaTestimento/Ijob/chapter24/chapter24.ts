@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Kial la Plejpotenculo ne destinis tempojn, Kaj Liaj konantoj ne vidas Liajn tagojn?",
     "Oni forŝovas la limojn; Oni rabas la ŝafaron kaj paŝtas ĝin.",

@@ -1,6 +1,5 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  summary: "",
   verses: [
     "Sed pri la tempoj kaj okazoj, fratoj, vi ne bezonas, ke oni skribu al vi.",
     "Ĉar vi mem tute bone scias, ke la tago de la Sinjoro venas, kiel ŝtelisto en la nokto.",

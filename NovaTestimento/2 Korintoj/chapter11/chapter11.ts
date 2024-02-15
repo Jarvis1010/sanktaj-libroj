@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Mi volas, ke vi pacience toleru min pro iom da malsaĝeco; sed efektive vi ja pacience min toleras.",
     "Ĉar mi ĵaluzas pri vi per Dia ĵaluzo, ĉar mi fianĉigis vin al unu edzo, por ke mi prezentu vin kiel ĉastan virgulinon al Kristo.",

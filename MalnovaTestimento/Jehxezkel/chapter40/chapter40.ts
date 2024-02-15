@@ -1,6 +1,5 @@
 export const chapter40 = {
   chapterTitle: "Ĉapitro 40",
-  summary: "",
   verses: [
     "En la dudek-kvina jaro de nia forkaptiteco, en la komenco de la jaro, en la deka tago de la monato, en la dek-kvara jaro post la disbato de la urbo, ĝuste en tiu tago aperis super mi la mano de la Eternulo kaj venigis min tien.",
     "En Dia vizio Li venigis min en la landon de Izrael, kaj starigis min sur tre alta monto, sur kiu sude estis kvazaŭ konstruaĵoj de urbo.",

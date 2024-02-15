@@ -1,6 +1,5 @@
 export const chapter15 = {
   chapterTitle: "Ĉapitro 15",
-  summary: "",
   verses: [
     "Tiam Moseo kaj la Izraelidoj kantis ĉi tiun kanton al la Eternulo, kaj parolis jene: Mi kantos al la Eternulo, ĉar Li alte leviĝis;  Ĉevalon kaj ĝian rajdanton Li ĵetis en la maron.",
     "Mia forto kaj glorkanto estas la Eternulo, Kaj Li estis por mi savo.  Li estas mia Dio, kaj mi Lin gloros,  La Dio de mia patro, kaj mi Lin altigos.",

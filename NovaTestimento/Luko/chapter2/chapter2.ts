@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj en tiuj tagoj eliris dekreto de Cezaro Aŭgusto, ke la tuta mondo estu registrita.",
     "Ĉi tiu estis la unua registrado, farita, kiam Kirenio estis reganto de Sirio.",

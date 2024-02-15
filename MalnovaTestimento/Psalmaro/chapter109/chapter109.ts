@@ -1,6 +1,5 @@
 export const chapter109 = {
   chapterTitle: "Ĉapitro 109",
-  summary: "",
   verses: [
     "Al la ĥorestro. Psalmo de David. Ho Dio, mia gloro, ne silentu.",
     "Ĉar buŝon malvirtan kaj buŝon malican ili malfermis kontraŭ mi, Ili parolas kun mi per mensogema lango.",

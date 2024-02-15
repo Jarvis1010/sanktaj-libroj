@@ -1,6 +1,5 @@
 export const chapter8 = {
   chapterTitle: "Ĉapitro 8",
-  summary: "",
   verses: [
     "Jen estas la ĉefoj de patrodomoj kun ilia genealogio, kiuj iris kun mi el Babel en la tempo de reĝado de la reĝo Artaĥŝast:",
     "el la idoj de Pineĥas:Gerŝom; el la idoj de Itamar:Daniel; el la idoj de David:ĥatuŝ;",

@@ -1,6 +1,5 @@
 export const chapter9 = {
   chapterTitle: "Ĉapitro 9",
-  summary: "",
   verses: [
     "La profeto Eliŝa alvokis unu el la profetidoj, kaj diris al li:Zonu viajn lumbojn, kaj prenu en vian manon ĉi tiun vazon kun oleo, kaj iru en Ramoton en Gilead.",
     "Kiam vi venos tien, elserĉu tie Jehun, filon de Jehoŝafat, filo de Nimŝi, kaj aliru kaj starigu lin el meze de liaj fratoj kaj enkonduku lin en la plej internan ĉambron.",

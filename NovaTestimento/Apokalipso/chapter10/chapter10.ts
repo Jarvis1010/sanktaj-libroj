@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kaj mi vidis alian fortan anĝelon, malsuprenirantan el la ĉielo, vestitan per nubo; kaj la ĉielarko estis super lia kapo, kaj lia vizaĝo estis kiel la suno, kaj liaj piedoj kiel kolonoj el fajro;",
     "kaj li havis en la mano libreton malfermitan; kaj li metis la dekstran piedon sur la maron, kaj la maldekstran sur la teron;",

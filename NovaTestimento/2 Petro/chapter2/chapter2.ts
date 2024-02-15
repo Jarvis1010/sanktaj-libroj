@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Sed ankaŭ falsaj profetoj troviĝis inter la popolo tiel same, kiel inter vi estos falsaj instruistoj, kiuj sekrete enkondukos herezojn pereigajn, eĉ malkonfesante la Sinjoron, kiu ilin elaĉetis, kaj venigante sur sin rapidan pereon.",
     "Kaj ilian senbridecon sekvos multaj, per kiuj la vojo de la vero estos kalumniata.",

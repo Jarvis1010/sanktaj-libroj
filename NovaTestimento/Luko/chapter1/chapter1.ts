@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Ĉar multaj jam entreprenis aranĝi historion pri la faktoj, kiuj estas konstatitaj inter ni,",
     "kiel ilin transdonis al ni tiuj, kiuj de la komenco vidis mem kaj estis administrantoj de la vorto,",

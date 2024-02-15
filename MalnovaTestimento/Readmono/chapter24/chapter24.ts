@@ -1,6 +1,5 @@
 export const chapter24 = {
   chapterTitle: "Ĉapitro 24",
-  summary: "",
   verses: [
     "Se iu prenos virinon kaj fariĝos ŝia edzo, kaj okazos, ke ŝi ne plaĉas al li, ĉar li trovis ĉe ŝi ion hontindan:tiam li skribu al ŝi eksedzigan leteron kaj donu ĝin en ŝian manon kaj forsendu ŝin el sia domo.",
     "Kaj se ŝi eliros el lia domo kaj iros kaj edziniĝos kun alia viro;",

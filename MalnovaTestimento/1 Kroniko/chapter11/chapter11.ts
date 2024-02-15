@@ -1,6 +1,5 @@
 export const chapter11 = {
   chapterTitle: "Ĉapitro 11",
-  summary: "",
   verses: [
     "Kaj kunvenis ĉiuj Izraelidoj al David en ĥebronon, kaj diris:Jen ni estas via osto kaj via karno.",
     "Ankaŭ hieraŭ kaj antaŭhieraŭ, kiam Saul estis ankoraŭ reĝo, vi elkondukadis kaj enkondukadis Izraelon; kaj la Eternulo, via Dio, diris al vi:Vi paŝtos Mian popolon Izrael, kaj vi estos estro de Mia popolo Izrael.",

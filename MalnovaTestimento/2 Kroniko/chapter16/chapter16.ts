@@ -1,6 +1,5 @@
 export const chapter16 = {
   chapterTitle: "Ĉapitro 16",
-  summary: "",
   verses: [
     "En la tridek-sesa jaro de la reĝado de Asa iris Baaŝa, reĝo de Izrael, kontraŭ Judujon, kaj li konstruis Raman, por bari la eliradon kaj eniradon al Asa, reĝo de Judujo.",
     "Tiam Asa elprenis arĝenton kaj oron el la trezorejoj de la domo de la Eternulo kaj de la reĝa domo, kaj sendis al Ben-Hadad, reĝo de Sirio, kiu loĝis en Damasko, kaj dirigis al li:",

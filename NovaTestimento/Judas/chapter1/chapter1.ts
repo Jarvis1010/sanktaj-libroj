@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Judas, servisto de Jesuo Kristo kaj frato de Jakobo, al la alvokitoj, amataj en Dio, la Patro, kaj konservitaj por Jesuo Kristo:",
     "Kompato al vi kaj paco kaj amo pligrandiĝu.",

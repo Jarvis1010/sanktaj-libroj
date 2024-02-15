@@ -1,6 +1,5 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  summary: "",
   verses: [
     "Kaj kiam li revenis en Kapernaumon post kelke da tagoj, oni sciiĝis, ke li estas en domo.",
     "Kaj multaj kunvenis, tiel ke jam ne estis loko eĉ apud la pordo; kaj li parolis al ili la vorton.",

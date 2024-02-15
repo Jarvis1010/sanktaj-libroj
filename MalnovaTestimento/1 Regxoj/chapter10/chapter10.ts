@@ -1,6 +1,5 @@
 export const chapter10 = {
   chapterTitle: "Ĉapitro 10",
-  summary: "",
   verses: [
     "Kiam la reĝino de Ŝeba aŭdis la famon pri Salomono kaj pri la domo de la Eternulo, ŝi venis, por elprovi lin per enigmoj.",
     "Kaj ŝi venis Jerusalemon kun tre granda akompanantaro, kun kameloj, portantaj aromaĵojn, tre multe da oro, kaj multekostajn ŝtonojn. Kaj ŝi venis al Salomono, kaj parolis kun li pri ĉio, kion ŝi havis en sia koro.",

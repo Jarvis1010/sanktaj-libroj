@@ -1,6 +1,5 @@
 export const chapter56 = {
   chapterTitle: "Ĉapitro 56",
-  summary: "",
   verses: [
     "Al la ĥorestro. Por Jonatelem-reĥokim. Verko de David, kiam kaptis lin la Filiŝtoj en Gat. Korfavoru min, ho Dio, ĉar homo volas min engluti, Dum la tuta tago malamiko min premas.",
     "Miaj malamikoj volas min engluti ĉiutage, Ĉar multaj militas kontraŭ mi fiere.",

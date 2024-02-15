@@ -1,6 +1,5 @@
 export const chapter113 = {
   chapterTitle: "Ĉapitro 113",
-  summary: "",
   verses: [
     "Haleluja! Gloru, sklavoj de la Eternulo,   Gloru la nomon de la Eternulo.",
     "La nomo de la Eternulo estu benata De nun kaj eterne.",

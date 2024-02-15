@@ -1,6 +1,5 @@
 export const chapter25 = {
   chapterTitle: "Ĉapitro 25",
-  summary: "",
   verses: [
     "Kaj Izrael loĝis en Ŝitim, kaj la popolo komencis malĉastadi kun la filinoj de Moab.",
     "Kaj ili invitadis la popolon al la oferoj de siaj dioj, kaj la popolo manĝadis kaj kliniĝadis antaŭ iliaj dioj.",

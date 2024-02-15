@@ -1,6 +1,5 @@
 export const chapter30 = {
   chapterTitle: "Ĉapitro 30",
-  summary: "",
   verses: [
     "Vortoj de Agur, filo de Jake. Profeta parolo de tiu viro al Itiel, al Itiel kaj Ukal.",
     "Mi estas la plej malklera homo, Kaj homan prudenton mi ne posedas.",

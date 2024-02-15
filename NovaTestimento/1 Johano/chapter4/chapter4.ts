@@ -1,6 +1,5 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  summary: "",
   verses: [
     "Amataj, kredu ne al ĉiu spirito, sed provu la spiritojn, ĉu ili estas el Dio; ĉar multaj falsaj profetoj eliris en la mondon.",
     "Jen kiel vi ekkonas la Spiriton de Dio:ĉiu spirito, kiu konfesas, ke Jesuo Kristo venis en la karno, estas el Dio;",

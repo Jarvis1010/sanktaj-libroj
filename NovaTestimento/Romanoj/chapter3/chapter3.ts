@@ -1,6 +1,5 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  summary: "",
   verses: [
     "Kia do estas la supereco de la Judoj? aŭ kia estas la utilo de cirkumcido?",
     "Multa en ĉiu rilato:unue, ke al ili estis konfiditaj la orakoloj de Dio.",

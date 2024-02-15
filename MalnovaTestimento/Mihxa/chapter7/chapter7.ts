@@ -1,6 +1,5 @@
 export const chapter7 = {
   chapterTitle: "Ĉapitro 7",
-  summary: "",
   verses: [
     "Ho ve al mi! ĉar mi fariĝis kiel kolektanto de someraj fruktoj kaj de restaĵo de vinberoj, kiu ne trovas beron manĝeblan; bonan maturan frukton deziras mia animo.",
     "Malaperis piuloj en la lando, kaj ne troviĝas justulo inter la homoj; ĉiuj insidas, por verŝi sangon, unu la alian ĉasas, por pereigi lin.",

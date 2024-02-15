@@ -1,6 +1,5 @@
 export const chapter1 = {
   chapterTitle: "Ĉapitro 1",
-  summary: "",
   verses: [
     "Petro, apostolo de Jesuo Kristo, al la elektitoj, kiuj estas el la dispelitaro, pasloĝantaj en Ponto, Galatujo, Kapadokio, Azio, kaj Bitinio,",
     "laŭ la antaŭscio de Dio, la Patro, en sanktigo de la Spirito, por obeo kaj aspergo de la sango de Jesuo Kristo:Graco al vi kaj paco pligrandiĝu.",
