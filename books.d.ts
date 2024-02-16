@@ -4,6 +4,7 @@ type Chapter = {
   chapterTitleShort?: string;
   summary?: string;
   verses: string[];
+  footNotes?: string[];
 };
 
 type Book = {

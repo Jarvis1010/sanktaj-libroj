@@ -72,6 +72,14 @@ export default function Chapter({
             </p>
           );
         })}
+
+        {chapter.footNotes ? (
+          <footer>
+            {chapter.footNotes.map((footNote) => (
+              <em key={footNote}>{footNote}</em>
+            ))}
+          </footer>
+        ) : null}
       </section>
     </main>
   );

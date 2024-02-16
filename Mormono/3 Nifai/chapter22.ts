@@ -1,0 +1,23 @@
+export const chapter22 = {
+  chapterTitle: "Ĉapitro 22",
+  verses: [
+    "Kaj tiam okazos tio, kio estas skribita: ĝoju, ho senfruktulino, kiu ne naskis; sonigu kanton kaj ĝojkriu, ho vi, kiu ne suferis doloron; ĉar la forlasitino havas pli da infanoj, ol tiu havanta edzon, diras la Sinjoro.",
+    "Vastigu la spacon de via tendo, disetendu la tapiŝojn de viaj loĝejoj; ne retenu, etendu pli longe viajn ŝnurojn, kaj viajn palisojn fortikigu.",
+    "Ĉar dekstren kaj maldekstren vi disvastiĝos, kaj via idaro ekposedos naciojn kaj ekloĝos en urboj dezertigitaj.",
+    "Ne timu, ĉar vi ne estos malhonorata; ne kaŝu vin honte, ĉar vi ne estos hontigata; ĉar la honton de via juneco vi forgesos, kaj la malhonoron de via vidvineco vi ne plu rememoros.",
+    "Ĉar via kreinto estas via edzo Sinjoro de la armeoj estas lia nomo; kaj via Liberiginto estas la Sanktulo de Izrael, kiun oni nomas Dio de la tuta tero.",
+    "Ĉar kiel virinon forlasitan kaj afliktitan en la spirito la Sinjoro vin alvokis, kaj kiel edzinon de la juneco, kvankam forpuŝitan, diras via Dio.",
+    "Por malgranda momento mi vin forlasis, sed kun granda kompato mi vin reprenos al mi.",
+    "En eksplodo de kolero mi forturnis de vi mian vizaghon por momento, sed per eterna favorkoreco mi vin kompatos, diras via Liberiginto, la Sinjoro.",
+    "Ĉar tio estas por mi kiel la akvo de Noa, ĉar, kiel mi ĵuris, ke mi ne plu venigos la akvon de Noa sur la teron, tiel mi ĵuris, ke mi ne koleros vin.",
+    "Ĉar montoj forŝoviĝos kaj altaĵoj ŝanceliĝos, sed mia favorkoreco ne foriĝos de vi, kaj la interligo de mia popolo ne ŝanceliĝos, diras la Sinjoro, via Kompatanto.",
+    "Ho mizera, suferanta de ventego, senkonsola! Jen mi donos brilon al viaj ŝtonoj, kaj vian fundamenton mi faros el safiroj.",
+    "Kaj mi faros viajn fenestrojn el agatoj kaj viajn pordegojn el karbunkoloj kaj ĉiujn viajn limojn el multekostaj ŝtonoj.",
+    "Kaj ĉiuj viaj infanoj estos instruitaj de la Sinjoro; kaj granda estos la paco de viaj filoj.",
+    "Per vero vi fortikiĝos; estu malproksima de premiteco, ĉar vi ne bezonos timi, kaj de teruro, ĉar ĝi ne alproksimiĝos al vi.",
+    "Certe, oni sin armos kontraŭ vi, sed tio ne estos de mi; kiu ajn armos kontraŭ vi, tiu falos antaŭ vi.",
+    "Jen mi kreis la forĝiston, kiu blovas fajron sur karboj kaj ellaboras ilojn por siaj faroj; kaj mi ankaŭ kreis ekstermanton por detruado.",
+    "Nenia ilo kreita kontraŭ vi havos sukceson; kaj ĉiun langon, kiu batalos kontraŭ vi en la juĝo, vi malpravigos. Tio estas la heredaĵo de la servantoj de la Sinjoro, kaj ilia graveco antaŭ mi, diras la Sinjoro.",
+  ],
+  footNotes: ["34 p.K."],
+} as const satisfies Chapter;
