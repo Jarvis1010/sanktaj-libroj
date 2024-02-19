@@ -7,6 +7,7 @@ import { helaman } from "./Helaman";
 import { triNifai } from "./3 Nifai";
 import { kvarNifai } from "./4 Nifai";
 import { mormon } from "./Mormon";
+import { moroni } from "./Moroni";
 
 export const LaLibroDeMormon = {
   testamentTitle: "La Libro De Mormon",
@@ -20,5 +21,6 @@ export const LaLibroDeMormon = {
     triNifai,
     kvarNifai,
     mormon,
+    moroni,
   ],
 } as const satisfies Testament;
