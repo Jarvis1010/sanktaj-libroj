@@ -14,9 +14,9 @@ export default function About() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          the official Church website
-        </a>{" "}
-        and is translated by volunteers. The{" "}
+          the official Church publications
+        </a>
+        . The{" "}
         <a
           href="http://poresperantamormonaro.weebly.com/la-libro-de-mormon.html"
           target="_blank"
@@ -24,14 +24,7 @@ export default function About() {
         >
           selected chapters translation
         </a>{" "}
-        is the primary source of the text, and then supplemented from{" "}
-        <a
-          href="https://drive.google.com/file/d/1LxogqR4tChiwA1TcKEgEqRmZGmTGzX9a/view?pli=1"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          the translation created by Jeremiah Stoddard.
-        </a>
+        is the primary source of the text.
       </p>
       <p>
         The Bible text is taken from the github repository of{" "}
@@ -46,6 +39,18 @@ export default function About() {
         x-system to the proper Esperanto alphabet. I cannot guarantee the
         accuracy of the text, but I have done my best to make it as accurate as
         possible.
+      </p>
+      <p>
+        The hymn texts are taken from the archived website of christian hymns
+        found at{" "}
+        <a
+          href="https://www.oocities.org/cigneto/thcind/hymn-en.html"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          esperantio.net
+        </a>
+        .
       </p>
       <p>
         The project is built using Next.js and is hosted on Vercel. The
