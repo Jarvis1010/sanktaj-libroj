@@ -48,7 +48,7 @@ export default function About() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          esperantio.net
+          https://www.oocities.org/cigneto/
         </a>
         .
       </p>

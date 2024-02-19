@@ -3,6 +3,7 @@ import { forTheBeauty } from "./forTheBeauty";
 import { howGreatThouArt } from "./howGreatThouArt";
 import { thereIsAGreen } from "./thereIsAGreen";
 import { nearerMyGod } from "./nearerMyGod";
+import { aMightyFortress } from "./aMightyFortress";
 
 export const himnoj = {
   bookTitle: "Himnoj",
@@ -13,5 +14,6 @@ export const himnoj = {
     howGreatThouArt,
     thereIsAGreen,
     nearerMyGod,
+    aMightyFortress,
   ],
 } as const satisfies Book;
