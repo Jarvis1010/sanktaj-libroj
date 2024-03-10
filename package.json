@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@bedrock-layout/css": "^2.3.2",
-    "@vercel/analytics": "^1.1.2",
+    "@vercel/analytics": "^1.2.2",
     "next": "14.1.0",
     "open-props": "^1.6.18",
     "react": "^18",
