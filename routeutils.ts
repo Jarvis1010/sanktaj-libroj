@@ -1,4 +1,4 @@
-function convertToEsperantoXSystem(string: string) {
+export function convertToEsperantoXSystem(string: string) {
   return string
     .replace(/ĉ/g, "cx")
     .replace(/Ĉ/g, "CX")
@@ -14,7 +14,7 @@ function convertToEsperantoXSystem(string: string) {
     .replace(/Ŭ/g, "UX");
 }
 
-function convertFromEsperantoXSystem(string: string) {
+export function convertFromEsperantoXSystem(string: string) {
   return string
     .replace(/cx/g, "ĉ")
     .replace(/cX/g, "ĉ")

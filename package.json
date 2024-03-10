@@ -7,6 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "convertFile": "ts-node convertFile.ts",
     "prettier": "prettier --ignore-path .gitignore \"**/*.+(js|jsx|ts|tsx|json)\"",
     "fix-format": "yarn prettier --write",
     "check-format": "yarn prettier --list-different",
@@ -28,6 +29,7 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.0",
     "prettier": "3.2.5",
+    "ts-node": "^10.9.2",
     "typescript": "^5"
   }
 }
