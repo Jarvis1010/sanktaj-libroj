@@ -1,4 +1,5 @@
 import { LaLibroDeMormon } from "./Mormono";
+import { LaMultevaloraPerlo } from "./MultevaloraPerlo";
 import { MalnovaTestimento } from "./MalnovaTestimento";
 import { Muziko } from "./Muziko";
 import { NovaTestimento } from "./NovaTestimento";
@@ -8,6 +9,7 @@ export const testaments = [
   MalnovaTestimento,
   NovaTestimento,
   LaLibroDeMormon,
+  LaMultevaloraPerlo,
   Muziko,
 ] as const;
 
