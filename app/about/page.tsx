@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function About() {
   return (
     <main data-bedrock-stack="gutter:size7">
@@ -57,7 +59,8 @@ export default function About() {
         scriptures are stored in JSON files and are converted to HTML using
         Next.js. I am also working on an API to allow other developers to access
         the data. The API is currently in development and is not considered
-        stable, but you play around with it at the <a href="/api">API page</a>.
+        stable, but you play around with it at the{" "}
+        <Link href="/api">API page</Link>.
       </p>
 
       <section data-bedrock-stack="gutter:size5">

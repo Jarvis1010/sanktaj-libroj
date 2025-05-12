@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function API() {
   return (
     <main data-bedrock-stack="gutter:size7">
@@ -9,9 +11,10 @@ export default function API() {
         you play around with it.
       </p>
       <p>
-        The starting point is at <a href="/api/testaments">/api/testaments</a>.
-        This will give you the list of testaments. From there you can get the
-        books, chapters, and verses.
+        The starting point is at{" "}
+        <Link href="/api/testaments">/api/testaments</Link>. This will give you
+        the list of testaments. From there you can get the books, chapters, and
+        verses.
       </p>
     </main>
   );
