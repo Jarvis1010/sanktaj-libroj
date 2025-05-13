@@ -15,7 +15,7 @@
     "verify": "yarn check-format && yarn check-types && yarn lint"
   },
   "dependencies": {
-    "@bedrock-layout/css": "^2.3.2",
+    "@bedrock-layout/css": "^2.14.0",
     "@vercel/analytics": "^1.1.2",
     "next": "14.2.3",
     "open-props": "^1.6.18",
