@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@bedrock-layout/css@^2.3.2":
-  version "2.13.0"
-  resolved "https://registry.npmjs.org/@bedrock-layout/css/-/css-2.13.0.tgz#bc4b81f8cf5236b7578ac79cacfe99f875eab872"
-  integrity sha512-xRGDOhvFHAhXir5AMLvojiVqaWc1Jb0zG0adu8Gdl8euAolB7k9/uYRmr7BFR9keSoQfjI2J7WSX7kJ57BRNlQ==
+"@bedrock-layout/css@^2.14.0":
+  version "2.14.0"
+  resolved "https://registry.yarnpkg.com/@bedrock-layout/css/-/css-2.14.0.tgz#4a5aef59c63f837c3137d74c19d742581be9e568"
+  integrity sha512-WAzt0z2bCNqLzgPcncxwH0qdwqHs0tzJg7R7PPR/8PnjZ7D/e76hRf89FD1Pz9zGEhNO4xEd6799dYAMgIDhyw==
 
 "@cspotcode/source-map-support@^0.8.0":
   version "0.8.1"
