@@ -1865,10 +1865,10 @@ object.values@^1.1.6, object.values@^1.2.0, object.values@^1.2.1:
     define-properties "^1.2.1"
     es-object-atoms "^1.0.0"
 
-open-props@^1.6.18:
-  version "1.7.10"
-  resolved "https://registry.npmjs.org/open-props/-/open-props-1.7.10.tgz#32eca44c5ad61a41fa238043294818e2a41be66c"
-  integrity sha512-zZPJlr39YbHPou7mQ9GUKz1jiYjWzyZf/0pkPZq4MrtwgZ6FSCnf7hLkvFRGq+RZZ327vGSW3HPc7QMH4FUAZg==
+open-props@^1.7.16:
+  version "1.7.16"
+  resolved "https://registry.yarnpkg.com/open-props/-/open-props-1.7.16.tgz#b4297407ae3d5aa372b23269b8b60956db2292cc"
+  integrity sha512-9dGv6wtah34stwweJytNEcCB0NG9HeV9wVsyr7Bs8RkKgrx2v0qIRi+9LQa5569nPbOpCOFF5nOxCPdKw30RAA==
 
 optionator@^0.9.3:
   version "0.9.4"
