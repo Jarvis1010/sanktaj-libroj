@@ -107,14 +107,14 @@ This document defines an incremental improvement plan for **Sanktaj Libroj**, de
 
 ### Tasks
 
-- [ ] Header search entry point
-- [ ] Search results page or overlay
-- [ ] Search scopes:
-  - [ ] Current book
-  - [ ] Current collection
-  - [ ] Global
-- [ ] Case-insensitive matching
-- [ ] Esperanto diacritic normalization (ĉ → c, etc.)
+- [x] Header search entry point
+- [x] Search results page or overlay
+- [x] Search scopes:
+  - [x] Current book
+  - [x] Current collection
+  - [x] Global
+- [x] Case-insensitive matching
+- [x] Esperanto diacritic normalization (ĉ → c, etc.)
 
 ### Acceptance Criteria
 

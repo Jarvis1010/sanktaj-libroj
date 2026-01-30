@@ -1,0 +1,64 @@
+.search-page {
+  padding: var(--size-6) 0;
+}
+
+.search-page h1,
+.search-page h2 {
+  font-size: var(--font-size-2);
+  color: var(--text-1);
+}
+
+.search-controls,
+.search-results {
+  padding: var(--size-4) 0;
+  border-top: 1px solid var(--color-border);
+}
+
+.search-field label {
+  font-size: var(--font-size-0);
+  color: var(--text-2);
+}
+
+.search-field input,
+.search-field select {
+  padding: var(--size-2) var(--size-3);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-2);
+  background-color: var(--surface-1);
+  color: var(--text-1);
+}
+
+.search-field input:focus,
+.search-field select:focus {
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
+}
+
+.search-actions button {
+  padding: var(--size-2) var(--size-4);
+  border-radius: var(--radius-2);
+  border: 1px solid var(--color-border);
+  background-color: var(--surface-2);
+  color: var(--text-1);
+  cursor: pointer;
+}
+
+.search-actions button.secondary {
+  background-color: transparent;
+}
+
+.search-actions button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.results-list .result-item {
+  padding: var(--size-3);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-2);
+}
+
+.result-meta {
+  font-size: var(--font-size--1);
+  color: var(--text-2);
+}

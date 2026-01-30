@@ -83,8 +83,13 @@
   border-radius: var(--radius-2);
   font-size: var(--font-size-1);
   transition: all var(--transition-base);
+  text-decoration: none;
+  color: var(--text-1);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 
-  &:hover:not(:disabled) {
+  &:hover {
     background-color: var(--surface-2);
     border-color: var(--brand);
   }
@@ -92,11 +97,6 @@
   &:focus {
     outline: 2px solid var(--color-focus-ring);
     outline-offset: 2px;
-  }
-
-  &:disabled {
-    opacity: 0.6;
-    cursor: not-allowed;
   }
 }
 

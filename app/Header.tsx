@@ -17,15 +17,9 @@ export default function Header() {
         </nav>
 
         <div className="app-header-right">
-          {/* Search entry point can be added here */}
-          <button
-            className="search-button"
-            aria-label="Search verses"
-            title="Search (coming soon)"
-            disabled
-          >
+          <Link href="/search" className="search-button" aria-label="Search verses">
             🔍
-          </button>
+          </Link>
         </div>
       </div>
     </header>
