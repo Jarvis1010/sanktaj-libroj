@@ -3,6 +3,7 @@ import { slugToString, stringToSlug } from "@/routeutils";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { testamentMap } from "@/testaments";
+import ReadingLayout from "@/app/components/ReadingLayout";
 
 export default function Chapter({
   params,
@@ -49,26 +50,25 @@ export default function Chapter({
   const isChapter1 = chapterName === "Ĉapitro 1";
 
   return (
-    <main>
-      <section data-bedrock-stack="gutter:size5">
-        <header data-bedrock-stack="gutter:size3">
-          <h1>{bookName}</h1>
-          {subtitle && isChapter1 ? <p>{subtitle}</p> : null}
-          {summary && isChapter1 ? <em>{summary}</em> : null}
-        </header>
-
+    <ReadingLayout
+      title={bookName}
+      subtitle={subtitle && isChapter1 ? subtitle : undefined}
+      summary={summary && isChapter1 ? summary : undefined}
+    >
+      <section>
         <h2>{chapterName}</h2>
 
         {chapter.chapterSubtitle ? (
-          <strong>{chapter.chapterSubtitle}</strong>
+          <p className="pericope-title">{chapter.chapterSubtitle}</p>
         ) : null}
 
-        {chapter.summary ? <em>{chapter.summary}</em> : null}
+        {chapter.summary ? <p className="reading-summary">{chapter.summary}</p> : null}
 
         {chapter.verses.map((verse, i) => {
           return (
             <p key={verse}>
-              {i + 1}. {verse}
+              <span className="verse-number">{i + 1}</span>
+              {verse}
             </p>
           );
         })}
@@ -76,11 +76,13 @@ export default function Chapter({
         {chapter.footNotes ? (
           <footer>
             {chapter.footNotes.map((footNote) => (
-              <em key={footNote}>{footNote}</em>
+              <p key={footNote}>
+                <em>{footNote}</em>
+              </p>
             ))}
           </footer>
         ) : null}
       </section>
-    </main>
+    </ReadingLayout>
   );
 }

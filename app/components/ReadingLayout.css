@@ -1,0 +1,186 @@
+/**
+ * ReadingLayout Styles
+ * Typography and spacing optimized for long-form reading using Open Props
+ */
+
+.reading-layout {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-7);
+  width: 100%;
+}
+
+/* Header section with title and metadata */
+.reading-header {
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-4);
+  padding-bottom: var(--size-5);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.reading-title {
+  margin: 0;
+  font-size: var(--font-size-3);
+  font-weight: 700;
+  line-height: var(--line-height-tight);
+  color: var(--text-1);
+}
+
+.reading-subtitle {
+  margin: 0;
+  font-size: var(--font-size-1);
+  font-weight: 600;
+  color: var(--text-2);
+  line-height: var(--line-height-relaxed);
+}
+
+.reading-summary {
+  margin: 0;
+  font-size: var(--font-size-0);
+  font-style: italic;
+  color: var(--text-3);
+  line-height: var(--line-height-relaxed);
+}
+
+/* Main content area with constrained measure */
+.reading-content {
+  /* Constrain text width to 65–80 characters for optimal reading */
+  max-width: 80ch;
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: var(--size-4);
+}
+
+/* Typography baseline for reading text */
+.reading-content > h2,
+.reading-content > h3 {
+  margin-top: var(--size-6);
+  margin-bottom: var(--size-3);
+  line-height: var(--line-height-tight);
+  color: var(--text-1);
+}
+
+.reading-content > h2 {
+  font-size: var(--font-size-2);
+  font-weight: 700;
+}
+
+.reading-content > h3 {
+  font-size: var(--font-size-1);
+  font-weight: 600;
+}
+
+/* Paragraph and verse spacing */
+.reading-content > p {
+  margin: 0;
+  font-size: var(--font-size-0);
+  line-height: var(--line-height-relaxed);
+  color: var(--text-1);
+  /* Add spacing between verse paragraphs */
+  margin-bottom: var(--size-3);
+}
+
+.reading-content > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Verse number styling */
+.verse-number {
+  display: inline;
+  font-weight: 600;
+  color: var(--text-2);
+  margin-right: var(--size-1);
+  /* Slightly smaller than body text */
+  font-size: 0.9em;
+}
+
+/* Section/pericope styling */
+.pericope-title {
+  margin-top: var(--size-5);
+  margin-bottom: var(--size-2);
+  font-size: var(--font-size--1);
+  font-weight: 700;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: var(--line-height-tight);
+}
+
+/* Footnotes section */
+.reading-content > footer {
+  margin-top: var(--size-7);
+  padding-top: var(--size-5);
+  border-top: 1px solid var(--color-border);
+  font-size: var(--font-size---1);
+  color: var(--text-3);
+  line-height: var(--line-height-relaxed);
+}
+
+.reading-content > footer > p {
+  margin-bottom: var(--size-2);
+}
+
+.reading-content > footer > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Strong and emphasis styling */
+.reading-content strong {
+  font-weight: 700;
+  color: var(--text-1);
+}
+
+.reading-content em {
+  font-style: italic;
+  color: var(--text-2);
+}
+
+/* Responsive adjustments */
+@media (max-width: 48em) {
+  .reading-layout {
+    gap: var(--size-5);
+  }
+
+  .reading-header {
+    gap: var(--size-3);
+    padding-bottom: var(--size-4);
+  }
+
+  .reading-title {
+    font-size: var(--font-size-2);
+  }
+
+  .reading-content {
+    gap: var(--size-3);
+    max-width: none;
+  }
+
+  .reading-content > h2 {
+    font-size: var(--font-size-1);
+    margin-top: var(--size-5);
+  }
+
+  .reading-content > p {
+    font-size: var(--font-size---1);
+    margin-bottom: var(--size-2);
+  }
+}
+
+/* Dark mode support (if needed) */
+@media (prefers-color-scheme: dark) {
+  .reading-title {
+    color: var(--text-1);
+  }
+
+  .reading-subtitle,
+  .verse-number {
+    color: var(--text-2);
+  }
+
+  .reading-content > p {
+    color: var(--text-1);
+  }
+}
