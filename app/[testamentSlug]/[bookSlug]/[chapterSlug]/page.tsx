@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { testamentMap } from "@/testaments";
 import ReadingLayout from "@/app/components/ReadingLayout";
+import ReadingTools from "@/app/components/ReadingTools";
 import BreadCrumbs, { BreadCrumbItem } from "@/app/BreadCrumbs";
 
 export default function Chapter({
@@ -63,7 +64,13 @@ export default function Chapter({
       summary={summary && isChapter1 ? summary : undefined}
     >
       <section data-br-stack="gutter:size4">
-        <BreadCrumbs items={breadcrumbItems} />
+        <div data-br-split="gutter:size3">
+          <BreadCrumbs items={breadcrumbItems} />
+          <div data-br-inline="gutter:size3">
+            <Link href={`/${testamentSlug}`}>Back to collection</Link>
+            <Link href={`/${testamentSlug}/${bookSlug}`}>Back to book</Link>
+          </div>
+        </div>
 
         <h2>{chapterName}</h2>
 
@@ -73,11 +80,27 @@ export default function Chapter({
 
         {chapter.summary ? <p className="reading-summary">{chapter.summary}</p> : null}
 
+        <ReadingTools
+          verseCount={chapter.verses.length}
+          testamentSlug={testamentSlug}
+          bookSlug={bookSlug}
+          chapterSlug={chapterSlug}
+          testamentTitle={testamentName}
+          bookTitle={bookName}
+          chapterTitle={chapterName}
+        />
+
         <div data-br-stack="gutter:size3">
           {chapter.verses.map((verse, i) => {
             return (
-              <p key={verse}>
-                <span className="verse-number">{i + 1}</span>
+              <p key={verse} id={`verse-${i + 1}`}>
+                <a
+                  href={`#verse-${i + 1}`}
+                  className="verse-number"
+                  aria-label={`Verse ${i + 1}`}
+                >
+                  {i + 1}
+                </a>
                 {verse}
               </p>
             );
@@ -85,11 +108,6 @@ export default function Chapter({
         </div>
 
         <nav aria-label="Chapter navigation" data-br-stack="gutter:size2">
-          <div data-br-inline="gutter:size3">
-            <Link href={`/${testamentSlug}`}>Back to collection</Link>
-            <Link href={`/${testamentSlug}/${bookSlug}`}>Back to book</Link>
-          </div>
-
           <div data-br-inline="gutter:size3">
             {previousChapter ? (
               <Link

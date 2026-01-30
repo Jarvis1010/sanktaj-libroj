@@ -63,18 +63,25 @@
 /* Paragraph and verse spacing */
 .reading-content > p {
   font-size: var(--font-size-0);
-  line-height: var(--line-height-relaxed);
+  line-height: var(--reading-line-height, var(--line-height-relaxed));
+  font-size: var(--reading-font-size, var(--font-size-0));
   color: var(--text-1);
 }
 
 /* Verse number styling */
 .verse-number {
-  display: inline;
+  display: inline-flex;
   font-weight: 600;
   color: var(--text-2);
   padding-right: var(--size-1);
   /* Slightly smaller than body text */
   font-size: 0.9em;
+  text-decoration: none;
+}
+
+.verse-number:focus {
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
 }
 
 /* Section/pericope styling */

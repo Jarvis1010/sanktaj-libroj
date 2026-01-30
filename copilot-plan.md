@@ -129,15 +129,15 @@ This document defines an incremental improvement plan for **Sanktaj Libroj**, de
 
 ### Tasks
 
-- [ ] “Continue reading”:
-  - [ ] Persist last chapter in localStorage
-  - [ ] Surface on homepage and/or header
-- [ ] Verse anchors for deep linking
-- [ ] Jump-to-verse control
-- [ ] Optional reading settings:
-  - [ ] Font size
-  - [ ] Line height
-  - [ ] Theme (light/dark)
+- [x] “Continue reading”:
+  - [x] Persist last chapter in localStorage
+  - [x] Surface on homepage and/or header
+- [x] Verse anchors for deep linking
+- [x] Jump-to-verse control
+- [x] Optional reading settings:
+  - [x] Font size
+  - [x] Line height
+  - [x] Theme (light/dark)
 
 ### Acceptance Criteria
 

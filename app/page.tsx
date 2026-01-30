@@ -1,4 +1,5 @@
 import { testamentSlugMap, testamentTitles } from "@/testaments";
+import ContinueReading from "@/app/components/ContinueReading";
 
 import { CSSProperties } from "react";
 import Image from "next/image";
@@ -19,6 +20,7 @@ const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
 export default function Home() {
   return (
     <main data-br-stack="gutter:size7">
+      <ContinueReading />
       <Link href="/about">About this Project</Link>
       <nav>
         <ul
