@@ -4,14 +4,14 @@ import "./Header.css";
 export default function Header() {
   return (
     <header className="app-header">
-      <div className="app-header-content" data-bedrock-center>
+      <div className="app-header-content" data-br-center>
         <div className="app-header-left">
           <Link href="/" className="app-logo">
             Sanktaj Libroj
           </Link>
         </div>
 
-        <nav className="app-header-nav" data-bedrock-inline="gutter:size4">
+        <nav className="app-header-nav" data-br-inline="gutter:size4">
           <Link href="/">Home</Link>
           <Link href="/about">About</Link>
         </nav>

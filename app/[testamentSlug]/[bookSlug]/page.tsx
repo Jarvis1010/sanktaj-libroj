@@ -41,12 +41,12 @@ export default function Book({
   };
 
   return (
-    <main data-bedrock-stack="gutter:size5">
+    <main data-br-stack="gutter:size5">
       <h1>{book.bookTitle}</h1>
-      <ul className="chapter-list" data-bedrock-stack="gutter:size3">
+      <ul className="chapter-list" data-br-stack="gutter:size3">
         {book.chapters.map((chapter) => {
           return (
-            <li data-bedrock-stack="gutter:size1" key={chapter.chapterTitle}>
+            <li data-br-stack="gutter:size1" key={chapter.chapterTitle}>
               <Link
                 href={`/${testamentSlug}/${bookSlug}/${stringToSlug(
                   chapter.chapterTitle,

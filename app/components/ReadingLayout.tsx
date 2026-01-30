@@ -20,10 +20,10 @@ interface ReadingLayoutProps {
  */
 export default function ReadingLayout({ children, title, subtitle, summary }: ReadingLayoutProps) {
   return (
-    <article className="reading-layout" data-bedrock-stack="gutter:size7">
+    <article className="reading-layout" data-br-stack="gutter:size7">
       {/* Header with title and metadata */}
       {(title || subtitle || summary) && (
-        <header className="reading-header" data-bedrock-stack="gutter:size3">
+        <header className="reading-header" data-br-stack="gutter:size3">
           {title && <h1 className="reading-title">{title}</h1>}
           {subtitle && <p className="reading-subtitle">{subtitle}</p>}
           {summary && <p className="reading-summary">{summary}</p>}
@@ -31,7 +31,7 @@ export default function ReadingLayout({ children, title, subtitle, summary }: Re
       )}
 
       {/* Main reading content */}
-      <div className="reading-content" data-bedrock-stack="gutter:size4">{children}</div>
+      <div className="reading-content" data-br-stack="gutter:size4">{children}</div>
     </article>
   );
 }

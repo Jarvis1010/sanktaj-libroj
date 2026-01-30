@@ -18,19 +18,19 @@ const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
 
 export default function Home() {
   return (
-    <main data-bedrock-stack="gutter:size7">
+    <main data-br-stack="gutter:size7">
       <Link href="/about">About this Project</Link>
       <nav>
         <ul
           className="testament-grid"
-          data-bedrock-grid="gutter:size3"
+          data-br-grid="gutter:size3"
           style={{ "--minItemWidth": "var(--size-11)" } as CSSProperties}
         >
           {testamentTitles.map((title) => {
             return (
               <li key={title}>
                 <Link
-                  data-bedrock-frame
+                  data-br-frame
                   style={
                     { "--ratio": "var(--ratio-portrait)" } as CSSProperties
                   }
@@ -43,7 +43,7 @@ export default function Home() {
                     height={200}
                   />
                 </Link>
-                <span data-bedrock-center="center-text center-children">
+                <span data-br-center="center-text center-children">
                   {title}
                 </span>
               </li>

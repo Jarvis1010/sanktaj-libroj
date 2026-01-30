@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function About() {
   return (
-    <main data-bedrock-stack="gutter:size7">
+    <main data-br-stack="gutter:size7">
       <header>
         <h1>About this Project</h1>
       </header>

@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function API() {
   return (
-    <main data-bedrock-stack="gutter:size7">
+    <main data-br-stack="gutter:size7">
       <header>
         <h1>Scripture API</h1>
       </header>
