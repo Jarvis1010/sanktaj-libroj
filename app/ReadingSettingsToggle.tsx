@@ -85,7 +85,9 @@ export default function ReadingSettingsToggle() {
       </button>
 
       {isOpen && (
-        <div className="settings-menu">
+        <>
+          <div className="settings-backdrop" onClick={() => setIsOpen(false)} />
+          <div className="settings-menu">
           <div className="settings-group">
             <label>Font size</label>
             <div className="settings-options">
@@ -178,7 +180,8 @@ export default function ReadingSettingsToggle() {
               </button>
             </div>
           </div>
-        </div>
+          </div>
+        </>
       )}
     </div>
   );
