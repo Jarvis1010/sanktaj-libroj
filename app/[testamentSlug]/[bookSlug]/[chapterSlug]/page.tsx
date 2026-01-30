@@ -4,6 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { testamentMap } from "@/testaments";
 import ReadingLayout from "@/app/components/ReadingLayout";
+import BreadCrumbs, { BreadCrumbItem } from "@/app/BreadCrumbs";
 
 export default function Chapter({
   params,
@@ -33,7 +34,8 @@ export default function Chapter({
 
   const { chapters, subtitle, summary } = maybeBook;
 
-  const maybeChapter = chapters.find((chapter) => chapter.chapterTitle === chapterName);
+  const chapterIndex = chapters.findIndex((chapter) => chapter.chapterTitle === chapterName);
+  const maybeChapter = chapterIndex >= 0 ? chapters[chapterIndex] : undefined;
 
   if (maybeChapter === undefined) {
     return notFound();
@@ -44,6 +46,15 @@ export default function Chapter({
   };
 
   const isChapter1 = chapterName === "Ĉapitro 1";
+  const previousChapter = chapterIndex > 0 ? chapters[chapterIndex - 1] : null;
+  const nextChapter = chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : null;
+
+  const breadcrumbItems: BreadCrumbItem[] = [
+    { label: "Home", href: "/" },
+    { label: testamentName, href: `/${testamentSlug}` },
+    { label: bookName, href: `/${testamentSlug}/${bookSlug}` },
+    { label: chapterName, href: `/${testamentSlug}/${bookSlug}/${chapterSlug}` },
+  ];
 
   return (
     <ReadingLayout
@@ -52,6 +63,8 @@ export default function Chapter({
       summary={summary && isChapter1 ? summary : undefined}
     >
       <section data-br-stack="gutter:size4">
+        <BreadCrumbs items={breadcrumbItems} />
+
         <h2>{chapterName}</h2>
 
         {chapter.chapterSubtitle ? (
@@ -70,6 +83,30 @@ export default function Chapter({
             );
           })}
         </div>
+
+        <nav aria-label="Chapter navigation" data-br-stack="gutter:size2">
+          <div data-br-inline="gutter:size3">
+            <Link href={`/${testamentSlug}`}>Back to collection</Link>
+            <Link href={`/${testamentSlug}/${bookSlug}`}>Back to book</Link>
+          </div>
+
+          <div data-br-inline="gutter:size3">
+            {previousChapter ? (
+              <Link
+                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(previousChapter.chapterTitle)}`}
+              >
+                Previous: {previousChapter.chapterTitle}
+              </Link>
+            ) : null}
+            {nextChapter ? (
+              <Link
+                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(nextChapter.chapterTitle)}`}
+              >
+                Next: {nextChapter.chapterTitle}
+              </Link>
+            ) : null}
+          </div>
+        </nav>
 
         {chapter.footNotes ? (
           <footer data-br-stack="gutter:size2">

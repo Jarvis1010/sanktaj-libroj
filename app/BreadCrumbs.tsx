@@ -1,33 +1,32 @@
-"use client";
-
 import Link from "next/link";
-import { usePathname } from "next/navigation";
+import "./BreadCrumbs.css";
 
-export default function BreadCrumbs() {
-  const paths = usePathname();
-  const pathNames = paths
-    .split("/")
-    .filter((path) => path)
-    .slice(0, -1);
+export interface BreadCrumbItem {
+  label: string;
+  href: string;
+}
 
+interface BreadCrumbsProps {
+  items: BreadCrumbItem[];
+}
+
+export default function BreadCrumbs({ items }: BreadCrumbsProps) {
   return (
-    <nav
-      data-br-inline="gutter:size3"
-      style={{ padding: "var(--size-4) var(--size-6)" }}
-    >
-      <Link href="/">Home</Link>
-
-      {pathNames.map((path, index) => {
-        const href = "/" + pathNames.slice(0, index + 1).join("/");
-        return (
-          <>
-            <span> | </span>
-            <Link key={path} href={href}>
-              {path}
-            </Link>
-          </>
-        );
-      })}
+    <nav aria-label="Breadcrumb" className="breadcrumbs">
+      <ol data-br-inline="gutter:size2">
+        {items.map((item, index) => {
+          const isLast = index === items.length - 1;
+          return (
+            <li key={item.href}>
+              {isLast ? (
+                <span aria-current="page">{item.label}</span>
+              ) : (
+                <Link href={item.href}>{item.label}</Link>
+              )}
+            </li>
+          );
+        })}
+      </ol>
     </nav>
   );
 }

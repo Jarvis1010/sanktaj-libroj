@@ -31,7 +31,7 @@ export default function AppShell({ children }: AppShellProps) {
       <Header />
 
       {/* Main container with sidebar and content */}
-      <div className="app-shell-container">
+      <div className="app-shell-container" data-br-stack="gutter:size5">
         <Sidebar />
 
         {/* Main content area */}

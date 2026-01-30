@@ -1,0 +1,12 @@
+.breadcrumbs {
+  padding: var(--size-4) 0;
+}
+
+.breadcrumbs ol {
+  list-style: none;
+  padding: 0;
+}
+
+.breadcrumbs li {
+  display: inline;
+}
