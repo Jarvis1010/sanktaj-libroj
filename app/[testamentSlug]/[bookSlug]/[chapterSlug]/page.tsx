@@ -94,11 +94,7 @@ export default function Chapter({
           {chapter.verses.map((verse, i) => {
             return (
               <p key={verse} id={`verse-${i + 1}`}>
-                <a
-                  href={`#verse-${i + 1}`}
-                  className="verse-number"
-                  aria-label={`Verse ${i + 1}`}
-                >
+                <a href={`#verse-${i + 1}`} className="verse-number" aria-label={`Verse ${i + 1}`}>
                   {i + 1}
                 </a>
                 {verse}

@@ -69,13 +69,25 @@ export default function ReadingTools({
   }, []);
 
   useEffect(() => {
+    const fontSizeMap: Record<string, string> = {
+      "size-0": "var(--font-size-0)",
+      "size-1": "var(--font-size-1)",
+      "size-2": "var(--font-size-2)",
+    };
+
+    const lineHeightMap: Record<string, string> = {
+      "line-height-default": "var(--line-height-default)",
+      "line-height-relaxed": "var(--line-height-relaxed)",
+      "line-height-loose": "var(--line-height-loose)",
+    };
+
     document.documentElement.style.setProperty(
       "--reading-font-size",
-      `var(--${settings.fontSize})`
+      fontSizeMap[settings.fontSize] || "var(--font-size-0)"
     );
     document.documentElement.style.setProperty(
       "--reading-line-height",
-      `var(--${settings.lineHeight})`
+      lineHeightMap[settings.lineHeight] || "var(--line-height-relaxed)"
     );
 
     if (settings.theme === "system") {

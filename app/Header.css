@@ -4,13 +4,14 @@
  */
 
 .app-header {
-  background-color: var(--color-bg-2);
+  background-color: var(--color-bg-2, var(--surface-2));
   border-bottom: 1px solid var(--color-border);
   padding: var(--size-3) 0;
   position: sticky;
   top: 0;
   z-index: 100;
   box-shadow: var(--shadow-1);
+  backdrop-filter: blur(8px);
 }
 
 .app-header-content {

@@ -35,7 +35,13 @@ export default function AppShell({ children }: AppShellProps) {
         <Sidebar />
 
         {/* Main content area */}
-        <main id="main-content" className="app-shell-main" data-br-stack="gutter:size5">
+        <main
+          id="main-content"
+          className="app-shell-main"
+          data-br-stack="gutter:size5"
+          data-br-center
+          style={{ "--maxWidth": "var(--size-content-3)" } as CSSProperties}
+        >
           {children}
         </main>
       </div>

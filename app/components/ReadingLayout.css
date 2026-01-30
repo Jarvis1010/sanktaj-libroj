@@ -62,9 +62,8 @@
 
 /* Paragraph and verse spacing */
 .reading-content > p {
-  font-size: var(--font-size-0);
-  line-height: var(--reading-line-height, var(--line-height-relaxed));
   font-size: var(--reading-font-size, var(--font-size-0));
+  line-height: var(--reading-line-height, var(--line-height-relaxed));
   color: var(--text-1);
 }
 
