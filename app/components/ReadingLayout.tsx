@@ -18,12 +18,7 @@ interface ReadingLayoutProps {
  * - Open Props typography baseline
  * - Accessible heading hierarchy
  */
-export default function ReadingLayout({
-  children,
-  title,
-  subtitle,
-  summary,
-}: ReadingLayoutProps) {
+export default function ReadingLayout({ children, title, subtitle, summary }: ReadingLayoutProps) {
   return (
     <article className="reading-layout">
       {/* Header with title and metadata */}

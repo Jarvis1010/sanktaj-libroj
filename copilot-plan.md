@@ -63,17 +63,17 @@ This document defines an incremental improvement plan for **Sanktaj Libroj**, de
 
 ### Tasks
 
-- [ ] Define typography baseline using Open Props:
-  - [ ] Font sizes
-  - [ ] Line heights
-  - [ ] Spacing rhythm
-- [ ] Create `ReadingLayout` wrapper:
-  - [ ] Constrained measure (65–80ch)
-  - [ ] Improved paragraph spacing
-- [ ] Improve chapter structure:
-  - [ ] Chapter heading hierarchy
-  - [ ] Verse numbering styling
-  - [ ] Section/pericope support if present
+- [x] Define typography baseline using Open Props:
+  - [x] Font sizes
+  - [x] Line heights
+  - [x] Spacing rhythm
+- [x] Create `ReadingLayout` wrapper:
+  - [x] Constrained measure (65–80ch)
+  - [x] Improved paragraph spacing
+- [x] Improve chapter structure:
+  - [x] Chapter heading hierarchy
+  - [x] Verse numbering styling
+  - [x] Section/pericope support if present
 
 ### Acceptance Criteria
 

@@ -43,7 +43,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; 2024 Sanktaj Libroj. Open source under the MIT License.</p>
+        <p>&copy; {new Date().getFullYear()} Sanktaj Libroj. Open source under the MIT License.</p>
       </div>
     </footer>
   );

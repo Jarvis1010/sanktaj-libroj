@@ -25,9 +25,7 @@ export default function Chapter({
     return notFound();
   }
 
-  const maybeBook = maybeTestament.books.find(
-    (book) => book.bookTitle === bookName,
-  );
+  const maybeBook = maybeTestament.books.find((book) => book.bookTitle === bookName);
 
   if (maybeBook === undefined) {
     return notFound();
@@ -35,9 +33,7 @@ export default function Chapter({
 
   const { chapters, subtitle, summary } = maybeBook;
 
-  const maybeChapter = chapters.find(
-    (chapter) => chapter.chapterTitle === chapterName,
-  );
+  const maybeChapter = chapters.find((chapter) => chapter.chapterTitle === chapterName);
 
   if (maybeChapter === undefined) {
     return notFound();
