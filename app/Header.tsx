@@ -1,4 +1,5 @@
 import Link from "next/link";
+import ReadingSettingsToggle from "./ReadingSettingsToggle";
 import "./Header.css";
 
 export default function Header() {
@@ -17,6 +18,7 @@ export default function Header() {
         </nav>
 
         <div className="app-header-right">
+          <ReadingSettingsToggle />
           <Link href="/search" className="search-button" aria-label="Search verses">
             🔍
           </Link>
