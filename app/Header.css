@@ -1,0 +1,120 @@
+/**
+ * Header Component
+ * Top navigation bar with logo, nav links, and search entry
+ */
+
+.app-header {
+  background-color: var(--color-bg-2);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--size-3) 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-1);
+}
+
+.app-header-content {
+  max-width: var(--size-content-3);
+  margin: 0 auto;
+  padding: 0 var(--size-4);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--size-4);
+}
+
+.app-header-left {
+  flex-shrink: 0;
+}
+
+.app-logo {
+  font-size: var(--font-size-2);
+  font-weight: 700;
+  color: var(--text-1);
+  text-decoration: none;
+  transition: color var(--transition-base);
+
+  &:hover {
+    color: var(--brand);
+  }
+
+  &:focus {
+    outline: 2px solid var(--color-focus-ring);
+    outline-offset: 2px;
+    border-radius: var(--radius-1);
+  }
+}
+
+.app-header-nav {
+  flex: 1;
+  display: flex;
+  gap: var(--size-4);
+
+  & a {
+    text-decoration: none;
+    color: var(--text-1);
+    font-weight: 500;
+    transition: color var(--transition-base);
+    padding: var(--size-1) var(--size-2);
+    border-radius: var(--radius-1);
+
+    &:hover {
+      color: var(--brand);
+      background-color: var(--surface-2);
+    }
+
+    &:focus {
+      outline: 2px solid var(--color-focus-ring);
+      outline-offset: 2px;
+    }
+  }
+}
+
+.app-header-right {
+  flex-shrink: 0;
+  display: flex;
+  gap: var(--size-2);
+}
+
+.search-button {
+  background: none;
+  border: 1px solid var(--color-border);
+  padding: var(--size-2) var(--size-3);
+  cursor: pointer;
+  border-radius: var(--radius-2);
+  font-size: var(--font-size-1);
+  transition: all var(--transition-base);
+
+  &:hover:not(:disabled) {
+    background-color: var(--surface-2);
+    border-color: var(--brand);
+  }
+
+  &:focus {
+    outline: 2px solid var(--color-focus-ring);
+    outline-offset: 2px;
+  }
+
+  &:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+}
+
+@media (max-width: 48em) {
+  .app-header-content {
+    flex-wrap: wrap;
+    padding: 0 var(--size-3);
+  }
+
+  .app-header-nav {
+    flex-basis: 100%;
+    order: 3;
+    gap: var(--size-2);
+
+    & a {
+      font-size: var(--font-size-0);
+      padding: var(--size-1);
+    }
+  }
+}

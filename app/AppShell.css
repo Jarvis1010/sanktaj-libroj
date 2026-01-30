@@ -1,0 +1,49 @@
+/**
+ * AppShell Layout
+ * Main layout structure for the entire application
+ * Uses Bedrock Layout primitives and Open Props for styling
+ */
+
+.app-shell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+  background-color: var(--color-surface-1);
+  color: var(--color-text-1);
+}
+
+.app-shell-container {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+.app-shell-main {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: var(--size-5);
+
+  @media (max-width: 48em) {
+    padding: var(--size-4);
+  }
+}
+
+/* Skip to content link - hidden by default, visible on focus */
+.skip-to-content {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  background-color: var(--color-highlight);
+  color: var(--color-text-on-highlight);
+  padding: var(--size-2) var(--size-3);
+  text-decoration: none;
+  z-index: 1000;
+  border-radius: var(--radius-2);
+}
+
+.skip-to-content:focus {
+  top: 0;
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
+}
