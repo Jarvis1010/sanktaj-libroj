@@ -60,14 +60,16 @@ export default function Chapter({
 
         {chapter.summary ? <p className="reading-summary">{chapter.summary}</p> : null}
 
-        {chapter.verses.map((verse, i) => {
-          return (
-            <p key={verse}>
-              <span className="verse-number">{i + 1}</span>
-              {verse}
-            </p>
-          );
-        })}
+        <div data-br-stack="gutter:size3">
+          {chapter.verses.map((verse, i) => {
+            return (
+              <p key={verse}>
+                <span className="verse-number">{i + 1}</span>
+                {verse}
+              </p>
+            );
+          })}
+        </div>
 
         {chapter.footNotes ? (
           <footer>
