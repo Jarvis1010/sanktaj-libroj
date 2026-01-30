@@ -4,16 +4,16 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <footer className="app-footer">
-      <div className="app-footer-content" data-bedrock-center>
-        <div className="footer-section">
+      <div className="app-footer-content" data-bedrock-center data-bedrock-grid="gutter:size5 minItemWidth:200px">
+        <section className="footer-section" data-bedrock-stack="gutter:size2">
           <h3>About</h3>
           <p>Sanktaj Libroj is a free, open-source digital library of sacred texts in Esperanto.</p>
-          <Link href="/about">Learn more</Link>
-        </div>
+          <div><Link href="/about">Learn more</Link></div>
+        </section>
 
-        <div className="footer-section">
+        <section className="footer-section">
           <h3>Collections</h3>
-          <ul>
+          <ul data-bedrock-stack="gutter:size1">
             <li>
               <Link href="/malnovatestimento">Malnova Testamento</Link>
             </li>
@@ -27,11 +27,11 @@ export default function Footer() {
               <Link href="/la-multevalora-perlo">La Multevalora Perlo</Link>
             </li>
           </ul>
-        </div>
+        </section>
 
-        <div className="footer-section">
+        <section className="footer-section">
           <h3>Resources</h3>
-          <ul>
+          <ul data-bedrock-stack="gutter:size1">
             <li>
               <a href="https://github.com/Jarvis1010/sanktaj-libroj">GitHub</a>
             </li>
@@ -39,7 +39,7 @@ export default function Footer() {
               <Link href="/about">Credits</Link>
             </li>
           </ul>
-        </div>
+        </section>
       </div>
 
       <div className="footer-bottom">

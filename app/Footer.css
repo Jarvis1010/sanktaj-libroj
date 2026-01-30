@@ -1,6 +1,7 @@
 /**
  * Footer Component
  * Site footer with links, credits, and information
+ * Layout structure handled by Bedrock Grid and Stack
  */
 
 .app-footer {
@@ -15,22 +16,19 @@
   max-width: var(--size-content-3);
   margin: 0 auto;
   padding: 0 var(--size-4);
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: var(--size-5);
   margin-bottom: var(--size-5);
 }
 
 .footer-section {
   & h3 {
-    margin: 0 0 var(--size-2) 0;
+    margin: 0;
     font-size: var(--font-size-1);
     font-weight: 700;
     color: var(--text-1);
   }
 
   & p {
-    margin: 0 0 var(--size-2) 0;
+    margin: 0;
     font-size: var(--font-size--1);
     line-height: 1.5;
   }
@@ -39,9 +37,6 @@
     list-style: none;
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
-    gap: var(--size-1);
   }
 
   & a {
@@ -82,8 +77,6 @@
   }
 
   .app-footer-content {
-    grid-template-columns: 1fr;
-    gap: var(--size-4);
     padding: 0 var(--size-3);
   }
 
