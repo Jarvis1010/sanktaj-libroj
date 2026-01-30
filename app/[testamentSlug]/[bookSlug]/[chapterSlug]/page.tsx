@@ -51,7 +51,7 @@ export default function Chapter({
       subtitle={subtitle && isChapter1 ? subtitle : undefined}
       summary={summary && isChapter1 ? summary : undefined}
     >
-      <section>
+      <section data-br-stack="gutter:size4">
         <h2>{chapterName}</h2>
 
         {chapter.chapterSubtitle ? (
@@ -72,7 +72,7 @@ export default function Chapter({
         </div>
 
         {chapter.footNotes ? (
-          <footer>
+          <footer data-br-stack="gutter:size2">
             {chapter.footNotes.map((footNote) => (
               <p key={footNote}>
                 <em>{footNote}</em>

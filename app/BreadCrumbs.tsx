@@ -12,7 +12,7 @@ export default function BreadCrumbs() {
 
   return (
     <nav
-      data-bedrock-inline="gutter:size3"
+      data-br-inline="gutter:size3"
       style={{ padding: "var(--size-4) var(--size-6)" }}
     >
       <Link href="/">Home</Link>

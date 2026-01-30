@@ -31,21 +31,12 @@ export default function Home() {
               <li key={title}>
                 <Link
                   data-br-frame
-                  style={
-                    { "--ratio": "var(--ratio-portrait)" } as CSSProperties
-                  }
+                  style={{ "--ratio": "var(--ratio-portrait)" } as CSSProperties}
                   href={`/${testamentSlugMap[title]}`}
                 >
-                  <Image
-                    src={testamentImageMap[title]}
-                    alt={title}
-                    width={200}
-                    height={200}
-                  />
+                  <Image src={testamentImageMap[title]} alt={title} width={200} height={200} />
                 </Link>
-                <span data-br-center="center-text center-children">
-                  {title}
-                </span>
+                <span data-br-center="center-text center-children">{title}</span>
               </li>
             );
           })}

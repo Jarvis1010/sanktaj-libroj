@@ -4,11 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { testamentMap } from "@/testaments";
 
-export default function Testament({
-  params,
-}: {
-  params: { testamentSlug: string };
-}) {
+export default function Testament({ params }: { params: { testamentSlug: string } }) {
   const { testamentSlug } = params;
 
   const testamentName = slugToString(testamentSlug);

@@ -1,4 +1,4 @@
-import { ReactNode } from "react";
+import { CSSProperties, ReactNode } from "react";
 import "./ReadingLayout.css";
 
 interface ReadingLayoutProps {
@@ -20,7 +20,12 @@ interface ReadingLayoutProps {
  */
 export default function ReadingLayout({ children, title, subtitle, summary }: ReadingLayoutProps) {
   return (
-    <article className="reading-layout" data-br-stack="gutter:size7">
+    <article
+      className="reading-layout"
+      data-br-stack="gutter:size7"
+      data-br-center
+      style={{ "--maxWidth": "var(--size-content-3)" } as CSSProperties}
+    >
       {/* Header with title and metadata */}
       {(title || subtitle || summary) && (
         <header className="reading-header" data-br-stack="gutter:size3">
@@ -31,7 +36,9 @@ export default function ReadingLayout({ children, title, subtitle, summary }: Re
       )}
 
       {/* Main reading content */}
-      <div className="reading-content" data-br-stack="gutter:size4">{children}</div>
+      <div className="reading-content" data-br-stack="gutter:size4">
+        {children}
+      </div>
     </article>
   );
 }

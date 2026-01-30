@@ -7,10 +7,9 @@ export default function About() {
         <h1>About this Project</h1>
       </header>
       <p>
-        This is a project to create a digital version of the scriptures of the
-        Church of Jesus Christ of Latter-day Saints in Esperanto. The project is
-        a work in progress and is not officially affiliated with the Church. The
-        Book of Mormon text is taken from{" "}
+        This is a project to create a digital version of the scriptures of the Church of Jesus
+        Christ of Latter-day Saints in Esperanto. The project is a work in progress and is not
+        officially affiliated with the Church. The Book of Mormon text is taken from{" "}
         <a
           href="https://www.churchofjesuschrist.org/study/scriptures/bofm"
           target="_blank"
@@ -37,14 +36,12 @@ export default function About() {
         >
           thiagobodruk
         </a>
-        . I have made some modifications to the text to convert it from the
-        x-system to the proper Esperanto alphabet. I cannot guarantee the
-        accuracy of the text, but I have done my best to make it as accurate as
-        possible.
+        . I have made some modifications to the text to convert it from the x-system to the proper
+        Esperanto alphabet. I cannot guarantee the accuracy of the text, but I have done my best to
+        make it as accurate as possible.
       </p>
       <p>
-        The hymn texts are taken from the archived website of christian hymns
-        found at{" "}
+        The hymn texts are taken from the archived website of christian hymns found at{" "}
         <a
           href="https://www.oocities.org/cigneto/thcind/hymn-en.html"
           target="_blank"
@@ -55,24 +52,18 @@ export default function About() {
         .
       </p>
       <p>
-        The project is built using Next.js and is hosted on Vercel. The
-        scriptures are stored in JSON files and are converted to HTML using
-        Next.js. I am also working on an API to allow other developers to access
-        the data. The API is currently in development and is not considered
-        stable, but you play around with it at the{" "}
-        <Link href="/api">API page</Link>.
+        The project is built using Next.js and is hosted on Vercel. The scriptures are stored in
+        JSON files and are converted to HTML using Next.js. I am also working on an API to allow
+        other developers to access the data. The API is currently in development and is not
+        considered stable, but you play around with it at the <Link href="/api">API page</Link>.
       </p>
 
-      <section data-bedrock-stack="gutter:size5">
+      <section data-br-stack="gutter:size5">
         <h2>Future Goals</h2>
-        <p>
-          Here are some of the future goals for the project in no particular
-          order:
-        </p>
+        <p>Here are some of the future goals for the project in no particular order:</p>
         <ul>
           <li>
-            Add internationalization to the Non-scripture pages (namely this
-            page and the api page)
+            Add internationalization to the Non-scripture pages (namely this page and the api page)
           </li>
           <li>Improve the API to make it more stable and user-friendly</li>
           <li>Improve the design and layout of the site</li>
@@ -89,8 +80,8 @@ export default function About() {
           >
             GitHub
           </a>
-          . If you would like to contribute to the project, please feel free to
-          do so. I am also open to any suggestions or feedback you may have.
+          . If you would like to contribute to the project, please feel free to do so. I am also
+          open to any suggestions or feedback you may have.
         </p>
       </section>
     </main>

@@ -4,16 +4,22 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <footer className="app-footer">
-      <div className="app-footer-content" data-br-center data-br-grid="gutter:size5 minItemWidth:200px">
+      <div
+        className="app-footer-content"
+        data-br-center
+        data-br-grid="gutter:size5 minItemWidth:200px"
+      >
         <section className="footer-section" data-br-stack="gutter:size2">
           <h3>About</h3>
           <p>Sanktaj Libroj is a free, open-source digital library of sacred texts in Esperanto.</p>
-          <div><Link href="/about">Learn more</Link></div>
+          <div>
+            <Link href="/about">Learn more</Link>
+          </div>
         </section>
 
-        <section className="footer-section">
+        <section className="footer-section" data-br-stack="gutter:size2">
           <h3>Collections</h3>
-          <ul data-bedrock-stack="gutter:size1">
+          <ul data-br-stack="gutter:size1">
             <li>
               <Link href="/malnovatestimento">Malnova Testamento</Link>
             </li>
@@ -29,7 +35,7 @@ export default function Footer() {
           </ul>
         </section>
 
-        <section className="footer-section">
+        <section className="footer-section" data-br-stack="gutter:size2">
           <h3>Resources</h3>
           <ul data-br-stack="gutter:size1">
             <li>

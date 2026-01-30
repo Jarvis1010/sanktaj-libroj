@@ -15,7 +15,6 @@
 }
 
 .reading-title {
-  margin: 0;
   font-size: var(--font-size-3);
   font-weight: 700;
   line-height: var(--line-height-tight);
@@ -23,7 +22,6 @@
 }
 
 .reading-subtitle {
-  margin: 0;
   font-size: var(--font-size-1);
   font-weight: 600;
   color: var(--text-2);
@@ -31,7 +29,6 @@
 }
 
 .reading-summary {
-  margin: 0;
   font-size: var(--font-size-0);
   font-style: italic;
   color: var(--text-3);
@@ -41,8 +38,6 @@
 /* Main content area with constrained measure */
 .reading-content {
   /* Constrain text width to 65–80 characters for optimal reading */
-  max-width: 80ch;
-  margin: 0 auto;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -51,8 +46,6 @@
 /* Typography baseline for reading text */
 .reading-content > h2,
 .reading-content > h3 {
-  margin-top: var(--size-6);
-  margin-bottom: var(--size-3);
   line-height: var(--line-height-tight);
   color: var(--text-1);
 }
@@ -69,16 +62,9 @@
 
 /* Paragraph and verse spacing */
 .reading-content > p {
-  margin: 0;
   font-size: var(--font-size-0);
   line-height: var(--line-height-relaxed);
   color: var(--text-1);
-  /* Add spacing between verse paragraphs */
-  margin-bottom: var(--size-3);
-}
-
-.reading-content > p:last-child {
-  margin-bottom: 0;
 }
 
 /* Verse number styling */
@@ -86,15 +72,13 @@
   display: inline;
   font-weight: 600;
   color: var(--text-2);
-  margin-right: var(--size-1);
+  padding-right: var(--size-1);
   /* Slightly smaller than body text */
   font-size: 0.9em;
 }
 
 /* Section/pericope styling */
 .pericope-title {
-  margin-top: var(--size-5);
-  margin-bottom: var(--size-2);
   font-size: var(--font-size--1);
   font-weight: 700;
   color: var(--text-2);
@@ -105,20 +89,11 @@
 
 /* Footnotes section */
 .reading-content > footer {
-  margin-top: var(--size-7);
   padding-top: var(--size-5);
   border-top: 1px solid var(--color-border);
   font-size: var(--font-size---1);
   color: var(--text-3);
   line-height: var(--line-height-relaxed);
-}
-
-.reading-content > footer > p {
-  margin-bottom: var(--size-2);
-}
-
-.reading-content > footer > p:last-child {
-  margin-bottom: 0;
 }
 
 /* Strong and emphasis styling */
@@ -148,18 +123,15 @@
   }
 
   .reading-content {
-    gap: var(--size-3);
     max-width: none;
   }
 
   .reading-content > h2 {
     font-size: var(--font-size-1);
-    margin-top: var(--size-5);
   }
 
   .reading-content > p {
     font-size: var(--font-size---1);
-    margin-bottom: var(--size-2);
   }
 }
 

@@ -4,11 +4,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { testamentMap } from "@/testaments";
 
-export default function Book({
-  params,
-}: {
-  params: { testamentSlug: string; bookSlug: string };
-}) {
+export default function Book({ params }: { params: { testamentSlug: string; bookSlug: string } }) {
   const { testamentSlug, bookSlug } = params;
 
   const testamentName = slugToString(testamentSlug);
@@ -23,9 +19,7 @@ export default function Book({
     return notFound();
   }
 
-  const maybeBook = maybeTestament.books.find(
-    (book) => book.bookTitle === bookName,
-  );
+  const maybeBook = maybeTestament.books.find((book) => book.bookTitle === bookName);
 
   if (maybeBook === undefined) {
     return notFound();
@@ -47,11 +41,7 @@ export default function Book({
         {book.chapters.map((chapter) => {
           return (
             <li data-br-stack="gutter:size1" key={chapter.chapterTitle}>
-              <Link
-                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(
-                  chapter.chapterTitle,
-                )}`}
-              >
+              <Link href={`/${testamentSlug}/${bookSlug}/${stringToSlug(chapter.chapterTitle)}`}>
                 {chapter.chapterTitle}
               </Link>
               {chapter.summary ? <em>{chapter.summary}</em> : null}
