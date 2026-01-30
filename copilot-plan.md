@@ -227,4 +227,4 @@ This document defines an incremental improvement plan for **Sanktaj Libroj**, de
 
 ---
 
-_Last updated: YYYY-MM-DD_
+_Last updated: 2026-01-30_

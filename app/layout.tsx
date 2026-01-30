@@ -9,8 +9,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Sanktaj Libroj",
-  description:
-    "Sanktaj Libroj de La Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj",
+  description: "Sanktaj Libroj de La Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj",
 };
 
 export default function RootLayout({

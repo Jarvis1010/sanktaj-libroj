@@ -35,11 +35,7 @@ export default function AppShell({ children }: AppShellProps) {
         <Sidebar />
 
         {/* Main content area */}
-        <main
-          id="main-content"
-          className="app-shell-main"
-          data-bedrock-stack="gutter:size5"
-        >
+        <main id="main-content" className="app-shell-main" data-bedrock-stack="gutter:size5">
           {children}
         </main>
       </div>

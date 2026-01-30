@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import { testamentTitles, testamentSlugMap } from "@/testaments";
 import "./Sidebar.css";
@@ -16,6 +16,23 @@ export default function Sidebar() {
     setIsOpen(false);
   };
 
+  // Handle Escape key to close sidebar for keyboard users
+  useEffect(() => {
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key === "Escape" && isOpen) {
+        closeSidebar();
+      }
+    };
+
+    if (isOpen) {
+      document.addEventListener("keydown", handleEscape);
+    }
+
+    return () => {
+      document.removeEventListener("keydown", handleEscape);
+    };
+  }, [isOpen]);
+
   return (
     <>
       {/* Mobile menu toggle button */}
@@ -29,22 +46,13 @@ export default function Sidebar() {
       </button>
 
       {/* Sidebar overlay (mobile) */}
-      {isOpen && (
-        <div className="sidebar-overlay" onClick={closeSidebar} />
-      )}
+      {isOpen && <div className="sidebar-overlay" onClick={closeSidebar} />}
 
       {/* Sidebar */}
-      <nav
-        className={`app-sidebar ${isOpen ? "is-open" : ""}`}
-        aria-label="Testament collections"
-      >
+      <nav className={`app-sidebar ${isOpen ? "is-open" : ""}`} aria-label="Testament collections">
         <div className="sidebar-header">
           <h2>Collections</h2>
-          <button
-            className="sidebar-close"
-            onClick={closeSidebar}
-            aria-label="Close menu"
-          >
+          <button className="sidebar-close" onClick={closeSidebar} aria-label="Close menu">
             ✕
           </button>
         </div>
@@ -54,11 +62,7 @@ export default function Sidebar() {
             const slug = testamentSlugMap[title];
             return (
               <li key={title}>
-                <Link
-                  href={`/${slug}`}
-                  className="sidebar-link"
-                  onClick={closeSidebar}
-                >
+                <Link href={`/${slug}`} className="sidebar-link" onClick={closeSidebar}>
                   {title}
                 </Link>
               </li>

@@ -7,10 +7,7 @@ export default function Footer() {
       <div className="app-footer-content" data-bedrock-center>
         <div className="footer-section">
           <h3>About</h3>
-          <p>
-            Sanktaj Libroj is a free, open-source digital library of sacred
-            texts in Esperanto.
-          </p>
+          <p>Sanktaj Libroj is a free, open-source digital library of sacred texts in Esperanto.</p>
           <Link href="/about">Learn more</Link>
         </div>
 
@@ -36,9 +33,7 @@ export default function Footer() {
           <h3>Resources</h3>
           <ul>
             <li>
-              <a href="https://github.com/Jarvis1010/sanktaj-libroj">
-                GitHub
-              </a>
+              <a href="https://github.com/Jarvis1010/sanktaj-libroj">GitHub</a>
             </li>
             <li>
               <Link href="/about">Credits</Link>
@@ -48,9 +43,7 @@ export default function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <p>
-          &copy; 2024 Sanktaj Libroj. Open source under the MIT License.
-        </p>
+        <p>&copy; 2024 Sanktaj Libroj. Open source under the MIT License.</p>
       </div>
     </footer>
   );
