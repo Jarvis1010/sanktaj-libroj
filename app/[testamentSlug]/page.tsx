@@ -2,13 +2,15 @@ import { slugToString, stringToSlug } from "@/routeutils";
 
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { testamentMap } from "@/testaments";
+import { testamentMap, testamentSlugMap, testamentTitles } from "@/testaments";
 
-export default function Testament({
-  params,
-}: {
-  params: { testamentSlug: string };
-}) {
+export function generateStaticParams() {
+  return testamentTitles.map((title) => ({
+    testamentSlug: testamentSlugMap[title],
+  }));
+}
+
+export default function Testament({ params }: { params: { testamentSlug: string } }) {
   const { testamentSlug } = params;
 
   const testamentName = slugToString(testamentSlug);
@@ -25,7 +27,7 @@ export default function Testament({
   return (
     <main>
       <h1>{testamentName}</h1>
-      <ul data-bedrock-stack="gutter:size3">
+      <ul data-br-stack="gutter:size3">
         {maybeTestament.books.map((book) => {
           return (
             <li key={book.bookTitleShort}>

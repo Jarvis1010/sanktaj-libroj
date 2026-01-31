@@ -8,7 +8,7 @@ export async function GET(
     params,
   }: {
     params: { testamentSlug: string; bookSlug: string; chapterSlug: string };
-  },
+  }
 ) {
   const { testamentSlug, bookSlug, chapterSlug } = params;
 
@@ -27,9 +27,7 @@ export async function GET(
     });
   }
 
-  const maybeBook = maybeTestament.books.find(
-    (book) => book.bookTitle === bookName,
-  );
+  const maybeBook = maybeTestament.books.find((book) => book.bookTitle === bookName);
 
   if (maybeBook === undefined) {
     return new Response(`Book not found: ${bookSlug}`, {
@@ -37,9 +35,7 @@ export async function GET(
     });
   }
 
-  const maybeChapter = maybeBook?.chapters.find(
-    (chapter) => chapter.chapterTitle === chapterName,
-  );
+  const maybeChapter = maybeBook?.chapters.find((chapter) => chapter.chapterTitle === chapterName);
 
   if (maybeChapter === undefined) {
     return new Response(`Chapter not found: ${chapterSlug}`, {

@@ -13,15 +13,13 @@ export const testaments = [
   Muziko,
 ] as const;
 
-export const testamentTitles = testaments.map(
-  (testament) => testament.testamentTitle,
-);
+export const testamentTitles = testaments.map((testament) => testament.testamentTitle);
 
 export const testamentSlugMap = testamentTitles.reduce(
   (map, testamentTitle) => {
     return { ...map, [testamentTitle]: stringToSlug(testamentTitle) };
   },
-  {} as Record<string, string>,
+  {} as Record<string, string>
 );
 
 export const testamentMap = testaments.reduce(
@@ -29,5 +27,5 @@ export const testamentMap = testaments.reduce(
     map[testament.testamentTitle] = testament;
     return map;
   },
-  {} as Record<(typeof testamentTitles)[number], Testament>,
+  {} as Record<(typeof testamentTitles)[number], Testament>
 );

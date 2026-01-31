@@ -1,7 +1,6 @@
 export const chapter6 = {
   chapterTitle: "Ĉapitro 6",
-  chapterSubtitle:
-    "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
+  chapterSubtitle: "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
   verses: [
     "KAJ Adam aŭskultis al la vo o de Dio, kaj vokis al siaj filoj, ke ili pentu.",
     "Kaj denove Adam ekkonis sian edzinon, kaj ŝi naskis filon, kaj li donis al li la nomon Set. Kaj Adam gloris la nomon deDio; ar li diris: Dio metis al mi alian semonanstataŭ Habel, kiun mortigis Kain.",

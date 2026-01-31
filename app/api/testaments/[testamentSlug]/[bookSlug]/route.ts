@@ -4,7 +4,7 @@ import { testamentMap } from "@/testaments";
 
 export async function GET(
   request: Request,
-  { params }: { params: { testamentSlug: string; bookSlug: string } },
+  { params }: { params: { testamentSlug: string; bookSlug: string } }
 ) {
   const { testamentSlug, bookSlug } = params;
 
@@ -22,9 +22,7 @@ export async function GET(
     });
   }
 
-  const maybeBook = maybeTestament.books.find(
-    (book) => book.bookTitle === bookName,
-  );
+  const maybeBook = maybeTestament.books.find((book) => book.bookTitle === bookName);
 
   if (maybeBook === undefined) {
     return new Response(`Book not found: ${bookSlug}`, {

@@ -1,0 +1,158 @@
+/**
+ * ReadingLayout Styles
+ * Typography and spacing optimized for long-form reading using Open Props
+ * Layout structure handled by Bedrock data attributes
+ */
+
+.reading-layout {
+  width: 100%;
+}
+
+/* Header section with title and metadata */
+.reading-header {
+  padding-bottom: var(--size-5);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.reading-title {
+  font-size: var(--font-size-3);
+  font-weight: 700;
+  line-height: var(--line-height-tight);
+  color: var(--text-1);
+}
+
+.reading-subtitle {
+  font-size: var(--font-size-1);
+  font-weight: 600;
+  color: var(--text-2);
+  line-height: var(--line-height-relaxed);
+}
+
+.reading-summary {
+  font-size: var(--font-size-0);
+  font-style: italic;
+  color: var(--text-3);
+  line-height: var(--line-height-relaxed);
+}
+
+/* Main content area with constrained measure */
+.reading-content {
+  /* Constrain text width to 65–80 characters for optimal reading */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Typography baseline for reading text */
+.reading-content > h2,
+.reading-content > h3 {
+  line-height: var(--line-height-tight);
+  color: var(--text-1);
+}
+
+.reading-content > h2 {
+  font-size: var(--font-size-2);
+  font-weight: 700;
+}
+
+.reading-content > h3 {
+  font-size: var(--font-size-1);
+  font-weight: 600;
+}
+
+/* Paragraph and verse spacing */
+.reading-content > p {
+  font-size: var(--reading-font-size, var(--font-size-0));
+  line-height: var(--reading-line-height, var(--line-height-relaxed));
+  color: var(--text-1);
+}
+
+/* Verse number styling */
+.verse-number {
+  display: inline-flex;
+  font-weight: 600;
+  color: var(--text-2);
+  padding-right: var(--size-1);
+  /* Slightly smaller than body text */
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.verse-number:focus {
+  outline: 2px solid var(--color-focus-ring);
+  outline-offset: 2px;
+}
+
+/* Section/pericope styling */
+.pericope-title {
+  font-size: var(--font-size--1);
+  font-weight: 700;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  line-height: var(--line-height-tight);
+}
+
+/* Footnotes section */
+.reading-content > footer {
+  padding-top: var(--size-5);
+  border-top: 1px solid var(--color-border);
+  font-size: var(--font-size---1);
+  color: var(--text-3);
+  line-height: var(--line-height-relaxed);
+}
+
+/* Strong and emphasis styling */
+.reading-content strong {
+  font-weight: 700;
+  color: var(--text-1);
+}
+
+.reading-content em {
+  font-style: italic;
+  color: var(--text-2);
+}
+
+/* Responsive adjustments */
+@media (max-width: 48em) {
+  .reading-layout {
+    gap: var(--size-5);
+  }
+
+  .reading-header {
+    gap: var(--size-3);
+    padding-bottom: var(--size-4);
+  }
+
+  .reading-title {
+    font-size: var(--font-size-2);
+  }
+
+  .reading-content {
+    max-width: none;
+  }
+
+  .reading-content > h2 {
+    font-size: var(--font-size-1);
+  }
+
+  .reading-content > p {
+    font-size: var(--font-size---1);
+  }
+}
+
+/* Dark mode support (if needed) */
+@media (prefers-color-scheme: dark) {
+  .reading-title {
+    color: var(--text-1);
+  }
+
+  .reading-subtitle,
+  .verse-number {
+    color: var(--text-2);
+  }
+
+  .reading-content > p {
+    color: var(--text-1);
+  }
+}

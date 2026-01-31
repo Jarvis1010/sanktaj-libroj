@@ -1,7 +1,6 @@
 export const chapter5 = {
   chapterTitle: "Ĉapitro 5",
-  chapterSubtitle:
-    "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
+  chapterSubtitle: "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
   verses: [
     "Kaj okazis, post kiam mi, la Eternulo, elpelis ilin, ke Adam komencis prilaboradi la teron, kaj regi super iuj bestoj de la kampo, kaj man adi sian panon sub la ŝvito de sia frunto, kiel mi, la Eternulo, ordonis al li. Kaj ankaŭ Eva, lia edzino, laboradis kun li",
     "Kaj Adam ekkonis sian edzinon, kaj ŝi naskis al li filojn kaj filinojn, kaj ili komencis multi i kaj plenigi la teron.",

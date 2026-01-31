@@ -2,13 +2,21 @@ import { slugToString, stringToSlug } from "@/routeutils";
 
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { testamentMap } from "@/testaments";
+import { testamentMap, testamentSlugMap, testamentTitles } from "@/testaments";
 
-export default function Book({
-  params,
-}: {
-  params: { testamentSlug: string; bookSlug: string };
-}) {
+export function generateStaticParams() {
+  return testamentTitles.flatMap((title) => {
+    const testament = testamentMap[title];
+    const testamentSlug = testamentSlugMap[title];
+
+    return testament.books.map((book) => ({
+      testamentSlug,
+      bookSlug: stringToSlug(book.bookTitle),
+    }));
+  });
+}
+
+export default function Book({ params }: { params: { testamentSlug: string; bookSlug: string } }) {
   const { testamentSlug, bookSlug } = params;
 
   const testamentName = slugToString(testamentSlug);
@@ -23,9 +31,7 @@ export default function Book({
     return notFound();
   }
 
-  const maybeBook = maybeTestament.books.find(
-    (book) => book.bookTitle === bookName,
-  );
+  const maybeBook = maybeTestament.books.find((book) => book.bookTitle === bookName);
 
   if (maybeBook === undefined) {
     return notFound();
@@ -41,17 +47,13 @@ export default function Book({
   };
 
   return (
-    <main data-bedrock-stack="gutter:size5">
+    <main data-br-stack="gutter:size5">
       <h1>{book.bookTitle}</h1>
-      <ul className="chapter-list" data-bedrock-stack="gutter:size3">
+      <ul className="chapter-list" data-br-stack="gutter:size3">
         {book.chapters.map((chapter) => {
           return (
-            <li data-bedrock-stack="gutter:size1" key={chapter.chapterTitle}>
-              <Link
-                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(
-                  chapter.chapterTitle,
-                )}`}
-              >
+            <li data-br-stack="gutter:size1" key={chapter.chapterTitle}>
+              <Link href={`/${testamentSlug}/${bookSlug}/${stringToSlug(chapter.chapterTitle)}`}>
                 {chapter.chapterTitle}
               </Link>
               {chapter.summary ? <em>{chapter.summary}</em> : null}

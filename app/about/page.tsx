@@ -1,98 +1,101 @@
 import Link from "next/link";
+import styles from "./page.module.css";
 
 export default function About() {
   return (
-    <main data-bedrock-stack="gutter:size7">
-      <header>
+    <main data-br-stack="gutter:size7">
+      <header className={styles.header}>
         <h1>About this Project</h1>
-      </header>
-      <p>
-        This is a project to create a digital version of the scriptures of the
-        Church of Jesus Christ of Latter-day Saints in Esperanto. The project is
-        a work in progress and is not officially affiliated with the Church. The
-        Book of Mormon text is taken from{" "}
-        <a
-          href="https://www.churchofjesuschrist.org/study/scriptures/bofm"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          the official Church publications
-        </a>
-        . The{" "}
-        <a
-          href="http://poresperantamormonaro.weebly.com/la-libro-de-mormon.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          selected chapters translation
-        </a>{" "}
-        is the primary source of the text.
-      </p>
-      <p>
-        The Bible text is taken from the github repository of{" "}
-        <a
-          href="https://github.com/thiagobodruk/bible/blob/master/json/eo_esperanto.json"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          thiagobodruk
-        </a>
-        . I have made some modifications to the text to convert it from the
-        x-system to the proper Esperanto alphabet. I cannot guarantee the
-        accuracy of the text, but I have done my best to make it as accurate as
-        possible.
-      </p>
-      <p>
-        The hymn texts are taken from the archived website of christian hymns
-        found at{" "}
-        <a
-          href="https://www.oocities.org/cigneto/thcind/hymn-en.html"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          https://www.oocities.org/cigneto/
-        </a>
-        .
-      </p>
-      <p>
-        The project is built using Next.js and is hosted on Vercel. The
-        scriptures are stored in JSON files and are converted to HTML using
-        Next.js. I am also working on an API to allow other developers to access
-        the data. The API is currently in development and is not considered
-        stable, but you play around with it at the{" "}
-        <Link href="/api">API page</Link>.
-      </p>
-
-      <section data-bedrock-stack="gutter:size5">
-        <h2>Future Goals</h2>
-        <p>
-          Here are some of the future goals for the project in no particular
-          order:
+        <p className={styles.lead}>
+          A digital collection of Latter-day Saint scriptures in Esperanto
         </p>
-        <ul>
-          <li>
-            Add internationalization to the Non-scripture pages (namely this
-            page and the api page)
-          </li>
-          <li>Improve the API to make it more stable and user-friendly</li>
-          <li>Improve the design and layout of the site</li>
-          <li>Add the remaining translations</li>
-          <li>Improve the translations</li>
-          <li>Add more known hymn translations</li>
-        </ul>
+      </header>
+
+      <div className={styles.content}>
         <p>
-          The project is open source and the code can be found on{" "}
+          This project provides a digital version of the scriptures of the Church of Jesus Christ of
+          Latter-day Saints in Esperanto. It is a work in progress and is not officially affiliated
+          with the Church.
+        </p>
+
+        <p>
+          The Book of Mormon text is taken from{" "}
           <a
-            href="https://github.com/Jarvis1010/sanktaj-libroj"
+            href="https://www.churchofjesuschrist.org/study/scriptures/bofm"
             target="_blank"
             rel="noopener noreferrer"
           >
-            GitHub
+            the official Church publications
           </a>
-          . If you would like to contribute to the project, please feel free to
-          do so. I am also open to any suggestions or feedback you may have.
+          . The{" "}
+          <a
+            href="http://poresperantamormonaro.weebly.com/la-libro-de-mormon.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            selected chapters translation
+          </a>{" "}
+          serves as the primary source.
         </p>
-      </section>
+
+        <p>
+          The Bible text comes from the GitHub repository of{" "}
+          <a
+            href="https://github.com/thiagobodruk/bible/blob/master/json/eo_esperanto.json"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            thiagobodruk
+          </a>
+          . Modifications were made to convert from the x-system to proper Esperanto alphabet. While
+          accuracy has been prioritized, the text should be verified for critical use.
+        </p>
+
+        <p>
+          Hymn texts are sourced from the archived Christian hymns website at{" "}
+          <a
+            href="https://www.oocities.org/cigneto/thcind/hymn-en.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            https://www.oocities.org/cigneto/
+          </a>
+          .
+        </p>
+
+        <p>
+          Built with Next.js and hosted on Vercel, the scriptures are stored as JSON files and
+          rendered as HTML. An API is in development to enable programmatic access—explore the
+          experimental version on the <Link href="/api">API page</Link>.
+        </p>
+
+        <section className={styles.section}>
+          <h2>Future Goals</h2>
+          <p>Planned improvements for this project:</p>
+          <ul className={styles.goalsList}>
+            <li>Internationalize non-scripture pages</li>
+            <li>Stabilize and enhance the API</li>
+            <li>Continue refining design and user experience</li>
+            <li>Complete remaining scripture translations</li>
+            <li>Improve existing translation quality</li>
+            <li>Expand hymn translation collection</li>
+          </ul>
+
+          <div className={styles.contribute}>
+            <p>
+              This project is open source on{" "}
+              <a
+                href="https://github.com/Jarvis1010/sanktaj-libroj"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                GitHub
+              </a>
+              . Contributions, suggestions, and feedback are welcome and appreciated.
+            </p>
+          </div>
+        </section>
+      </div>
     </main>
   );
 }

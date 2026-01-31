@@ -1,0 +1,79 @@
+.header {
+  text-align: center;
+  margin-block-end: var(--size-8);
+}
+
+.header h1 {
+  font-size: var(--font-size-6);
+  font-weight: var(--font-weight-7);
+  margin-block-end: var(--size-3);
+  color: var(--text-1);
+}
+
+.lead {
+  font-size: var(--font-size-3);
+  color: var(--text-2);
+  max-inline-size: 60ch;
+  margin-inline: auto;
+}
+
+.content {
+  max-inline-size: 70ch;
+  margin-inline: auto;
+}
+
+.content p {
+  margin-block-end: var(--size-5);
+  line-height: var(--font-lineheight-3);
+}
+
+.content a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.content a:hover {
+  color: var(--link-visited);
+}
+
+.section {
+  margin-block-start: var(--size-8);
+  padding-block-start: var(--size-8);
+  border-block-start: 1px solid var(--surface-3);
+}
+
+.section h2 {
+  font-size: var(--font-size-5);
+  font-weight: var(--font-weight-6);
+  margin-block-end: var(--size-4);
+  color: var(--text-1);
+}
+
+.goalsList {
+  list-style: none;
+  padding: 0;
+}
+
+.goalsList li {
+  padding-inline-start: var(--size-5);
+  margin-block-end: var(--size-3);
+  position: relative;
+}
+
+.goalsList li::before {
+  content: "→";
+  position: absolute;
+  inset-inline-start: 0;
+  color: var(--accent);
+  font-weight: var(--font-weight-6);
+}
+
+.contribute {
+  margin-block-start: var(--size-6);
+  padding: var(--size-5);
+  background: var(--surface-2);
+  border-radius: var(--radius-2);
+  border-inline-start: 3px solid var(--accent);
+}
