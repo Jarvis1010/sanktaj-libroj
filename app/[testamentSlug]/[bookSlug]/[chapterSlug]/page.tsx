@@ -2,10 +2,26 @@ import { slugToString, stringToSlug } from "@/routeutils";
 
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { testamentMap } from "@/testaments";
+import { testamentMap, testamentSlugMap, testamentTitles } from "@/testaments";
 import ReadingLayout from "@/app/components/ReadingLayout";
 import ReadingTools from "@/app/components/ReadingTools";
 import BreadCrumbs, { BreadCrumbItem } from "@/app/BreadCrumbs";
+
+export function generateStaticParams() {
+  return testamentTitles.flatMap((title) => {
+    const testament = testamentMap[title];
+    const testamentSlug = testamentSlugMap[title];
+
+    return testament.books.flatMap((book) => {
+      const bookSlug = stringToSlug(book.bookTitle);
+      return book.chapters.map((chapter) => ({
+        testamentSlug,
+        bookSlug,
+        chapterSlug: stringToSlug(chapter.chapterTitle),
+      }));
+    });
+  });
+}
 
 export default function Chapter({
   params,

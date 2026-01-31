@@ -48,9 +48,7 @@ export default function Sidebar() {
       </button>
 
       {/* Sidebar overlay (mobile) */}
-      {isOpen && (
-        <div className="sidebar-overlay" onClick={closeSidebar} aria-hidden="true" />
-      )}
+      {isOpen && <div className="sidebar-overlay" onClick={closeSidebar} aria-hidden="true" />}
 
       {/* Sidebar */}
       <nav

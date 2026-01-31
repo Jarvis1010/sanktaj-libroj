@@ -2,7 +2,13 @@ import { slugToString, stringToSlug } from "@/routeutils";
 
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { testamentMap } from "@/testaments";
+import { testamentMap, testamentSlugMap, testamentTitles } from "@/testaments";
+
+export function generateStaticParams() {
+  return testamentTitles.map((title) => ({
+    testamentSlug: testamentSlugMap[title],
+  }));
+}
 
 export default function Testament({ params }: { params: { testamentSlug: string } }) {
   const { testamentSlug } = params;
