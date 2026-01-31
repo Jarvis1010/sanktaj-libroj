@@ -11,6 +11,8 @@ body {
   font-family: var(--font-sans);
   background-color: var(--color-surface-1);
   color: var(--color-text-1);
+  font-size: var(--reading-font-size, var(--font-size-0));
+  line-height: var(--reading-line-height, var(--line-height-relaxed));
 }
 
 html[data-theme="light"] {

@@ -32,29 +32,23 @@
   }
 }
 
-.settings-backdrop {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: rgba(0, 0, 0, 0.3);
-  z-index: 999;
-  cursor: pointer;
-}
-
 .settings-menu {
   position: fixed;
-  background-color: var(--color-bg-1, var(--surface-1));
+  background-color: var(--color-bg-1, #ffffff);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-2);
   padding: var(--size-2) var(--size-2);
   box-shadow: var(--shadow-3);
-  z-index: 1001;
+  z-index: 2147483647;
   max-width: 280px;
   display: flex;
   flex-direction: column;
   gap: var(--size-2);
+  pointer-events: auto;
+  opacity: 1;
+  mix-blend-mode: normal;
+  isolation: isolate;
+  backdrop-filter: none;
 }
 
 .settings-group {

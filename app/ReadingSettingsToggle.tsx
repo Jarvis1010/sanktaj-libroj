@@ -97,6 +97,7 @@ export default function ReadingSettingsToggle() {
       <button
         ref={buttonRef}
         className="settings-button"
+        type="button"
         onClick={handleButtonClick}
         aria-label="Reading settings"
         aria-expanded={isOpen}
@@ -107,7 +108,6 @@ export default function ReadingSettingsToggle() {
       {isOpen
         ? createPortal(
             <>
-              <div className="settings-backdrop" onClick={() => setIsOpen(false)} />
               <div
                 className="settings-menu"
                 style={{
@@ -120,18 +120,21 @@ export default function ReadingSettingsToggle() {
                   <div className="settings-options">
                     <button
                       className={`option-button ${settings.fontSize === "size-0" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, fontSize: "size-0" }))}
                     >
                       A
                     </button>
                     <button
                       className={`option-button ${settings.fontSize === "size-1" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, fontSize: "size-1" }))}
                     >
                       <strong>A</strong>
                     </button>
                     <button
                       className={`option-button ${settings.fontSize === "size-2" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, fontSize: "size-2" }))}
                     >
                       <strong style={{ fontSize: "1.2em" }}>A</strong>
@@ -146,6 +149,7 @@ export default function ReadingSettingsToggle() {
                       className={`option-button ${
                         settings.lineHeight === "line-height-default" ? "active" : ""
                       }`}
+                      type="button"
                       onClick={() =>
                         setSettings((prev) => ({
                           ...prev,
@@ -159,6 +163,7 @@ export default function ReadingSettingsToggle() {
                       className={`option-button ${
                         settings.lineHeight === "line-height-relaxed" ? "active" : ""
                       }`}
+                      type="button"
                       onClick={() =>
                         setSettings((prev) => ({
                           ...prev,
@@ -172,6 +177,7 @@ export default function ReadingSettingsToggle() {
                       className={`option-button ${
                         settings.lineHeight === "line-height-loose" ? "active" : ""
                       }`}
+                      type="button"
                       onClick={() =>
                         setSettings((prev) => ({
                           ...prev,
@@ -189,18 +195,21 @@ export default function ReadingSettingsToggle() {
                   <div className="settings-options">
                     <button
                       className={`option-button ${settings.theme === "system" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, theme: "system" }))}
                     >
                       System
                     </button>
                     <button
                       className={`option-button ${settings.theme === "light" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, theme: "light" }))}
                     >
                       ☀️ Light
                     </button>
                     <button
                       className={`option-button ${settings.theme === "dark" ? "active" : ""}`}
+                      type="button"
                       onClick={() => setSettings((prev) => ({ ...prev, theme: "dark" }))}
                     >
                       🌙 Dark
