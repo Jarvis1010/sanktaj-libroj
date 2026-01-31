@@ -34,8 +34,8 @@
 
 .settings-menu {
   position: fixed;
-  background-color: var(--color-bg-1, #ffffff);
-  border: 1px solid var(--color-border);
+  background-color: var(--surface-1);
+  border: 1px solid var(--surface-3);
   border-radius: var(--radius-2);
   padding: var(--size-2) var(--size-2);
   box-shadow: var(--shadow-3);
