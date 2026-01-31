@@ -6,6 +6,8 @@ import { testamentMap, testamentSlugMap, testamentTitles } from "@/testaments";
 import ReadingLayout from "@/app/components/ReadingLayout";
 import ReadingTools from "@/app/components/ReadingTools";
 import BreadCrumbs, { BreadCrumbItem } from "@/app/BreadCrumbs";
+import ChapterNavigation from "@/app/components/ChapterNavigation";
+import styles from "./page.module.css";
 
 export function generateStaticParams() {
   return testamentTitles.flatMap((title) => {
@@ -80,11 +82,17 @@ export default function Chapter({
       summary={summary && isChapter1 ? summary : undefined}
     >
       <section data-br-stack="gutter:size4">
-        <div data-br-split="gutter:size3">
-          <BreadCrumbs items={breadcrumbItems} />
-          <div data-br-inline="gutter:size3">
-            <Link href={`/${testamentSlug}`}>Back to collection</Link>
-            <Link href={`/${testamentSlug}/${bookSlug}`}>Back to book</Link>
+        <div className={styles.navigationHeader}>
+          <div className={styles.topRow}>
+            <BreadCrumbs items={breadcrumbItems} />
+            <div className={styles.backLinks}>
+              <Link href={`/${testamentSlug}`} className={styles.backLink}>
+                Collection
+              </Link>
+              <Link href={`/${testamentSlug}/${bookSlug}`} className={styles.backLink}>
+                Book
+              </Link>
+            </div>
           </div>
         </div>
 
@@ -119,25 +127,6 @@ export default function Chapter({
           })}
         </div>
 
-        <nav aria-label="Chapter navigation" data-br-stack="gutter:size2">
-          <div data-br-inline="gutter:size3">
-            {previousChapter ? (
-              <Link
-                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(previousChapter.chapterTitle)}`}
-              >
-                Previous: {previousChapter.chapterTitle}
-              </Link>
-            ) : null}
-            {nextChapter ? (
-              <Link
-                href={`/${testamentSlug}/${bookSlug}/${stringToSlug(nextChapter.chapterTitle)}`}
-              >
-                Next: {nextChapter.chapterTitle}
-              </Link>
-            ) : null}
-          </div>
-        </nav>
-
         {chapter.footNotes ? (
           <footer data-br-stack="gutter:size2">
             {chapter.footNotes.map((footNote) => (
@@ -147,6 +136,25 @@ export default function Chapter({
             ))}
           </footer>
         ) : null}
+
+        <ChapterNavigation
+          previousChapter={
+            previousChapter
+              ? {
+                  title: previousChapter.chapterTitle,
+                  href: `/${testamentSlug}/${bookSlug}/${stringToSlug(previousChapter.chapterTitle)}`,
+                }
+              : null
+          }
+          nextChapter={
+            nextChapter
+              ? {
+                  title: nextChapter.chapterTitle,
+                  href: `/${testamentSlug}/${bookSlug}/${stringToSlug(nextChapter.chapterTitle)}`,
+                }
+              : null
+          }
+        />
       </section>
     </ReadingLayout>
   );
