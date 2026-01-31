@@ -34,7 +34,7 @@
 
 .settings-menu {
   position: fixed;
-  background-color: var(--surface-1);
+  background-color: white;
   background-image: none;
   border: 1px solid var(--surface-3);
   border-radius: var(--radius-2);
@@ -52,6 +52,10 @@
   backdrop-filter: none;
   will-change: transform;
   transform: translateZ(0);
+}
+
+html[data-theme="dark"] .settings-menu {
+  background-color: var(--gray-9);
 }
 
 .settings-group {
