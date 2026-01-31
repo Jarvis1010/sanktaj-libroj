@@ -1,7 +1,6 @@
 export const chapter2 = {
   chapterTitle: "Ĉapitro 2",
-  chapterSubtitle:
-    "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830.",
+  chapterSubtitle: "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830.",
   verses: [
     "Kaj Okazis, ke la Eternulo parolis al Moseo, dirante: Jen, mi rivelas al vi pri ĉi tiu ĉielo, kaj ĉi tiu tero; skribu la vortojn, kiujn mi parolas. Mi estas la Komenco kaj la Fino, la Eternulo Plejpotenca; per mia Solenaskito mi kreis ĉi tiujn aĵojn; jes, en la komenco mi kreis la ĉielon, kaj la teron sur kiu vi staras.",
     "Kaj la tero estis senforma kaj dezerta; kaj mi venigis mallumon super la abismon; kaj mia Spirito ŝvebis super la akvo; ĉar mi estas Dio.",

@@ -6,6 +6,6 @@ export async function GET() {
       testaments: testamentTitles,
       testamentSlugMap,
     },
-    {},
+    {}
   );
 }

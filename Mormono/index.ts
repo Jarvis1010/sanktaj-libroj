@@ -11,16 +11,5 @@ import { moroni } from "./Moroni";
 
 export const LaLibroDeMormon = {
   testamentTitle: "La Libro De Mormon",
-  books: [
-    unuNifai,
-    duNifai,
-    enos,
-    mozaja,
-    alma,
-    helaman,
-    triNifai,
-    kvarNifai,
-    mormon,
-    moroni,
-  ],
+  books: [unuNifai, duNifai, enos, mozaja, alma, helaman, triNifai, kvarNifai, mormon, moroni],
 } as const satisfies Testament;

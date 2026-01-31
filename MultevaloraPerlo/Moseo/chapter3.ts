@@ -1,7 +1,6 @@
 export const chapter3 = {
   chapterTitle: "Ĉapitro 3",
-  chapterSubtitle:
-    "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
+  chapterSubtitle: "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
   verses: [
     "Kaj estis finitaj la ĉielo kaj la tero kaj ĉiuj iliaj apartenaĵoj.",
     "Kaj en la sepa tago mi, Dio, finis mian laboron, kaj ĉion, kion mi faris; kaj mi ripozis en la sepa tago de la tuta laboro, kaj ĉio, kion mi faris, estis finita, kaj mi, Dio, vidis, ke ĝi estas bona;",

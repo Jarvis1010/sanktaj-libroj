@@ -1,7 +1,6 @@
 export const chapter4 = {
   chapterTitle: "Ĉapitro 4",
-  chapterSubtitle:
-    "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
+  chapterSubtitle: "Kiel rivelitaj al Jozefo Smith la Profeto en decembro 1830--Daŭrigo.",
   verses: [
     "Kaj mi, la Eternulo, parolis al Moseo, dirante: Tiu Satano, al kiu vi ordonis en la nomo de mia Solenaskito, estas tiu, kiu estis de la komenco, kaj li venis antaŭ min, dirante: Jen ĉi tie mi; sendu min; mi estos via folo, kaj mi savos la tutan homaron, tiel ke ne unu animo estos perdita, kaj mi certe faros tion; pro tio donu al mi vian gloron.",
     "Sed, jen, mia Filo, la Amata, kiu estis mia Amato kaj Elektito de la komenco, diris al mi: Patro, plenumiĝu via volo, kaj la gloro estu via por eterne.",

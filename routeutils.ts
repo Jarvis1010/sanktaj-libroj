@@ -55,8 +55,7 @@ export function stringToSlug(string: string) {
 }
 
 export function slugToString(slug: string) {
-  return convertFromEsperantoXSystem(slug.replace(/-/g, " ")).replace(
-    /(?:^|\s)\S/g,
-    (a) => a.toUpperCase(),
+  return convertFromEsperantoXSystem(slug.replace(/-/g, " ")).replace(/(?:^|\s)\S/g, (a) =>
+    a.toUpperCase()
   );
 }

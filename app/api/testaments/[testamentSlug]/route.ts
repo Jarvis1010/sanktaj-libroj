@@ -2,10 +2,7 @@ import { slugToString, stringToSlug } from "@/routeutils";
 
 import { testamentMap } from "@/testaments";
 
-export async function GET(
-  request: Request,
-  { params }: { params: { testamentSlug: string } },
-) {
+export async function GET(request: Request, { params }: { params: { testamentSlug: string } }) {
   const { testamentSlug } = params;
 
   const testamentName = slugToString(testamentSlug);
