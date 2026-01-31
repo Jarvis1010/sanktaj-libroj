@@ -13,9 +13,9 @@ export default function About() {
 
       <div className={styles.content}>
         <p>
-          This project provides a digital version of the scriptures of the Church of Jesus Christ
-          of Latter-day Saints in Esperanto. It is a work in progress and is not officially
-          affiliated with the Church.
+          This project provides a digital version of the scriptures of the Church of Jesus Christ of
+          Latter-day Saints in Esperanto. It is a work in progress and is not officially affiliated
+          with the Church.
         </p>
 
         <p>
@@ -47,8 +47,8 @@ export default function About() {
           >
             thiagobodruk
           </a>
-          . Modifications were made to convert from the x-system to proper Esperanto alphabet.
-          While accuracy has been prioritized, the text should be verified for critical use.
+          . Modifications were made to convert from the x-system to proper Esperanto alphabet. While
+          accuracy has been prioritized, the text should be verified for critical use.
         </p>
 
         <p>

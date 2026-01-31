@@ -30,8 +30,7 @@ export default function ContinueReading() {
   if (!lastReading) return null;
 
   return (
-    <section data-br-stack="gutter:size2">
-      <h2>Continue reading</h2>
+    <div data-br-stack="gutter:size2">
       <p>
         {lastReading.testamentTitle} → {lastReading.bookTitle} → {lastReading.chapterTitle}
       </p>
@@ -40,6 +39,6 @@ export default function ContinueReading() {
       >
         Resume chapter
       </Link>
-    </section>
+    </div>
   );
 }

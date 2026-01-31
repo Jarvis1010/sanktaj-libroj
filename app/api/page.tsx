@@ -6,9 +6,7 @@ export default function API() {
     <main data-br-stack="gutter:size7">
       <header className={styles.header}>
         <h1>Scripture API</h1>
-        <p className={styles.lead}>
-          Programmatic access to scripture data in Esperanto
-        </p>
+        <p className={styles.lead}>Programmatic access to scripture data in Esperanto</p>
       </header>
 
       <div className={styles.content}>
@@ -20,13 +18,11 @@ export default function API() {
         </div>
 
         <p>
-          The API provides RESTful access to scripture collections, books, chapters, and verses.
-          All data is returned in JSON format.
+          The API provides RESTful access to scripture collections, books, chapters, and verses. All
+          data is returned in JSON format.
         </p>
 
-        <p>
-          Start exploring at the testaments endpoint:
-        </p>
+        <p>Start exploring at the testaments endpoint:</p>
 
         <Link href="/api/testaments" className={styles.apiEndpoint}>
           /api/testaments
@@ -34,8 +30,7 @@ export default function API() {
 
         <p>
           From there, navigate through the response structure to access books, chapters, and
-          individual verses. Each response includes links to related resources for easy
-          traversal.
+          individual verses. Each response includes links to related resources for easy traversal.
         </p>
       </div>
     </main>
