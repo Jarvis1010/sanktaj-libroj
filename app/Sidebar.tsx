@@ -38,21 +38,34 @@ export default function Sidebar() {
       {/* Mobile menu toggle button */}
       <button
         className="sidebar-toggle"
+        type="button"
         onClick={toggleSidebar}
         aria-label="Toggle navigation menu"
         aria-expanded={isOpen}
+        aria-controls="sidebar-navigation"
       >
         ☰
       </button>
 
       {/* Sidebar overlay (mobile) */}
-      {isOpen && <div className="sidebar-overlay" onClick={closeSidebar} />}
+      {isOpen && (
+        <div className="sidebar-overlay" onClick={closeSidebar} aria-hidden="true" />
+      )}
 
       {/* Sidebar */}
-      <nav className={`app-sidebar ${isOpen ? "is-open" : ""}`} aria-label="Testament collections">
+      <nav
+        id="sidebar-navigation"
+        className={`app-sidebar ${isOpen ? "is-open" : ""}`}
+        aria-label="Testament collections"
+      >
         <div className="sidebar-header">
           <h2>Collections</h2>
-          <button className="sidebar-close" onClick={closeSidebar} aria-label="Close menu">
+          <button
+            className="sidebar-close"
+            type="button"
+            onClick={closeSidebar}
+            aria-label="Close menu"
+          >
             ✕
           </button>
         </div>

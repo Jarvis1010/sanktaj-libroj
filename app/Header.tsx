@@ -12,7 +12,7 @@ export default function Header() {
           </Link>
         </div>
 
-        <nav className="app-header-nav" data-br-inline="gutter:size4">
+        <nav className="app-header-nav" data-br-inline="gutter:size4" aria-label="Primary">
           <Link href="/">Home</Link>
           <Link href="/about">About</Link>
         </nav>

@@ -20,9 +20,10 @@ const testamentImageMap: Record<(typeof testamentTitles)[number], string> = {
 export default function Home() {
   return (
     <main data-br-stack="gutter:size7">
+      <h1>Collections</h1>
       <ContinueReading />
       <Link href="/about">About this Project</Link>
-      <nav>
+      <nav aria-label="Collections">
         <ul
           className="testament-grid"
           data-br-grid="gutter:size3"
