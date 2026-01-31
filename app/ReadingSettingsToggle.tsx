@@ -80,9 +80,10 @@ export default function ReadingSettingsToggle() {
     } else {
       if (buttonRef.current) {
         const rect = buttonRef.current.getBoundingClientRect();
+        // Position menu below button, right-aligned to button
         setMenuPosition({
           top: rect.bottom + window.scrollY + 8,
-          right: 16, // Fixed offset from viewport right edge
+          right: window.innerWidth - rect.right,
         });
       }
       setIsOpen(true);
