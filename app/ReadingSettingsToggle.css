@@ -51,10 +51,10 @@
   padding: var(--size-3);
   box-shadow: var(--shadow-3);
   z-index: 1001;
-  min-width: 300px;
+  width: 260px;
   display: flex;
   flex-direction: column;
-  gap: var(--size-4);
+  gap: var(--size-3);
 }
 
 .settings-group {
@@ -79,8 +79,8 @@
 
 .option-button {
   flex: 1;
-  min-width: 60px;
-  padding: var(--size-2) var(--size-1);
+  min-width: auto;
+  padding: var(--size-1) var(--size-2);
   background-color: var(--surface-3);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-1);
