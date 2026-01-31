@@ -54,6 +54,12 @@
   transform: translateZ(0);
 }
 
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) .settings-menu {
+    background-color: var(--gray-9);
+  }
+}
+
 html[data-theme="dark"] .settings-menu {
   background-color: var(--gray-9);
 }
